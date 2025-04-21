@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="article" xml:id="MG-1691-02_177" resp="wordpro">
-  <head>[Description d’une nouvelle médaille]*</head>
+  <head resp="editor">Description d’une nouvelle médaille</head>
   <bibl><title>Mercure galant</title>, février 1691 [tome 2], p. 177-179.</bibl>
   <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La Medaille doit regarder la page 177.</note>
   <p/>

@@ -1,73 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1678-02" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, février 1678</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Alexandre De Craim</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name ref="mailto:frederic.glorieux@fictif.org">Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2014"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1678-02/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <publisher>Claude Blageart</publisher>, <date>février,
-            1678</date></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1678"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head>
         <hi rend="i">Mercure galant</hi>, février 1678 [tome 2].</head>
@@ -255,12 +186,9 @@
           representez ce Carnaval, &amp; c’est pour vous que j’ay prié qu’on me l’envoyast. Je sçay
           bien que pour vous satisfaire entierement, il faudroit vous faire voir quelque échantillon
           de leur Musique ; mais à ce defaut, vous vous contenterez, s’il vous plaist, des Airs
-          nouveaux dont je continuëray à vous faire part.<note resp="editor"><ref
-              target="MG-1678-02_18"><hi rend="i">Air nouveau du mois de février 1678</hi></ref> et
+          nouveaux dont je continuëray à vous faire part.<note resp="editor"><ref target="MG-1678-02_18"><hi rend="i">Air nouveau du mois de février 1678</hi></ref> et
               <ref target="MG-1678-01_224"><hi rend="i">Air prétendument nouveau du mois de janvier
-                1678 </hi></ref> dans <hi rend="i">Mercure airs</hi>. Voir également <ref
-              target="MG-1678-02_007"><hi rend="i">Lettre de Madame Royale</hi></ref> et <ref
-              target="MG-1677-08_013"><hi rend="i">Sur les opéras de Venise dans
+                1678 </hi></ref> dans <hi rend="i">Mercure airs</hi>. Voir également <ref target="MG-1678-02_007"><hi rend="i">Lettre de Madame Royale</hi></ref> et <ref target="MG-1677-08_013"><hi rend="i">Sur les opéras de Venise dans
             Mercure</hi></ref>.</note></p>
       </div>
       <div type="article" xml:id="MG-1678-02_016" resp="mercure">
@@ -269,8 +197,7 @@
         <p>Vous avez raison de me dire que le premier des deux [Airs nouveaux] que je vous ay déja envoyez [le mois précédent] ne l’estoit pas.
           J’en avois crû ceux qui me l’avoient donné pour nouveau. Je n’y seray plus surpris, &amp;
           je puis répondre avec certitude que celuy que vous allez trouver icy noté n’a encor esté
-          veu de personne. Je vous laisse juger des Paroles. L’Air est de M<hi rend="sup"
-          >r</hi> Charpentier, dont vous me dites que les Ouvrages sont si estimez dans vostre
+          veu de personne. Je vous laisse juger des Paroles. L’Air est de M<hi rend="sup">r</hi> Charpentier, dont vous me dites que les Ouvrages sont si estimez dans vostre
           Province.</p>
         <quote>
           <label>AIR.</label>
@@ -281,8 +208,7 @@
           <l rend="i">Ce n’est pas que cette Belle</l>
           <l rend="i">Veüille recevoir ma foy ;</l>
           <l rend="i">C’est plutost que la Cruelle</l>
-          <l rend="i">N’aimera ny vous ny moy.</l><note resp="author" place="margin"><hi rend="i"
-              >Avis pour placer les Figures</hi> : la premiere Chanson qui commence par En vain
+          <l rend="i">N’aimera ny vous ny moy.</l><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la premiere Chanson qui commence par En vain
             Rivaux assidus, doit regarder la Page 19.</note>
         </quote>
         <ref target="images/1678-02_016.JPG">
@@ -490,16 +416,14 @@
             Isle se sont soûlevez dans la Ville d’<hi rend="i">Amour</hi> qui en est la Capitale,
             &amp; qu’apres s’estre rendus maistres de la Citadelle <hi rend="i">Raison</hi>, dont
             ils ont ruiné les Defenses &amp; brûlé les Magasins, ils avoient obligé le Gouverneur
-              <hi rend="i">Bon sens</hi> de se retirer dans la Tour nommée <hi rend="i"
-              >Jalousie</hi>. Il adjoûte que les Femmes, à l’exemple de leurs Marys, ayant pris les
+              <hi rend="i">Bon sens</hi> de se retirer dans la Tour nommée <hi rend="i">Jalousie</hi>. Il adjoûte que les Femmes, à l’exemple de leurs Marys, ayant pris les
             armes, avoient assiegé le Gouverneur dans ce réduit, &amp; l’avoient forcé de se rendre
             à composition, &amp; de consentir non seulement qu’on démoliroit la Tour, mais aussi que
             la Forteresse <hi rend="i">Vertu</hi> d’ancienne architecture, bâtie sur un Rocher,
             seroit ruinée, apres quoy elles en pourroient rebâtir une autre à leur mode en rase
             campagne à tous allans &amp; venans.</p>
           <p rend="i">De la Ville de Beauté, ce 18. du mois d’Attachement. </p>
-          <p>Les Estats commencerent le 3. du courant leurs Seances, dont monsieur l’Intendant <hi
-              rend="i">Coquet</hi> fit l’ouverture avec un Discours remply de jolis Vers &amp; de
+          <p>Les Estats commencerent le 3. du courant leurs Seances, dont monsieur l’Intendant <hi rend="i">Coquet</hi> fit l’ouverture avec un Discours remply de jolis Vers &amp; de
             beaux Sentimens. Les <hi rend="i">Apas</hi> luy repondirent avec une douceur dont il fut
             tres-satisfait, &amp; luy promirent que la Ville fourniroit un million &amp; demy
             d’œillades pour la Guerre contre les Cœurs rebelles, &amp; qu’elle hâteroit la levée
@@ -508,43 +432,33 @@
             Billets doux, &amp; une Taxe de mille Baisers par jour, pour mille bouches qu’il mettra
             en Garnison.</p>
           <p rend="i">Du Pays de Grand Dot, ce 14. du mois d’Aisance. </p>
-          <p>On assure que ce Païs est fort allarmé de la marche du General <hi rend="i"
-              >Interest</hi> qui s’avance avec une Armée de quarante mille <hi rend="i"
-              >Transports</hi> déguisez, &amp; grand nombre de Machines &amp; de Feux d’artifice.
+          <p>On assure que ce Païs est fort allarmé de la marche du General <hi rend="i">Interest</hi> qui s’avance avec une Armée de quarante mille <hi rend="i">Transports</hi> déguisez, &amp; grand nombre de Machines &amp; de Feux d’artifice.
             L’Amour qui le suit avec un grand Corps d’<hi rend="i">Empressemens</hi> forcez, a
-            retiré ses Garnisons d’<hi rend="i">Attachemens</hi> &amp; d’<hi rend="i"
-              >Assiduitez</hi> qui estoient répanduës dans les Villes des Provinces de <hi rend="i"
-              >Beau-visage</hi> &amp; de <hi rend="i">Merite</hi>. Il les a abandonnées aux <hi
-              rend="i">Infidelles</hi> qui s’en sont emparez, &amp; qui apres les avoir ravagées ont
+            retiré ses Garnisons d’<hi rend="i">Attachemens</hi> &amp; d’<hi rend="i">Assiduitez</hi> qui estoient répanduës dans les Villes des Provinces de <hi rend="i">Beau-visage</hi> &amp; de <hi rend="i">Merite</hi>. Il les a abandonnées aux <hi rend="i">Infidelles</hi> qui s’en sont emparez, &amp; qui apres les avoir ravagées ont
             pris leur route du costé de <hi rend="i">Grand-Dot</hi>, pour l’attaquer conjointement
             avec <hi rend="i">Interest</hi>.</p>
           <p rend="i">Du Camp devant Cruauté, ce 8. jour du mois de Desespoir. </p>
           <p>Les Assiegez firent une Sortie de cinq cens <hi rend="i">Regards</hi> irritez la nuit
             du quatrième ; abbatirent tous les Travaux des Ennemis, tuerent trois cens Soldats du
-            Regiment de <hi rend="i">Zele</hi>, &amp; encloüerent deux petits Canons appellez <hi
-              rend="i">Sanglots</hi> ; mais la nuit suivante les Colonels <hi rend="i"
-              >Bonne-mine</hi> &amp; <hi rend="i">Beau-jeu</hi> ayant monté la Tranchée, insulterent
+            Regiment de <hi rend="i">Zele</hi>, &amp; encloüerent deux petits Canons appellez <hi rend="i">Sanglots</hi> ; mais la nuit suivante les Colonels <hi rend="i">Bonne-mine</hi> &amp; <hi rend="i">Beau-jeu</hi> ayant monté la Tranchée, insulterent
             vigoureusement la Demy-lune nommée <hi rend="i">Rigueur</hi> qui defendoit la Porte,
             ayant défait &amp; poursuivy jusques dans la Ville les <hi rend="i">Dédains</hi> qui la
             defendoient, tandis qu’elle estoit batuë par huit Canons de trente livres de bale
             d’argent. Ils firent une grande brêche, &amp; obligerent la Ville de capituler. Le
-            Marquis de <hi rend="i">Beaux-dons</hi> Mestre de Camp, &amp; le Sieur <hi rend="i"
-              >Present</hi> Intendant, furent nommez pour dresser les Articles.</p>
+            Marquis de <hi rend="i">Beaux-dons</hi> Mestre de Camp, &amp; le Sieur <hi rend="i">Present</hi> Intendant, furent nommez pour dresser les Articles.</p>
           <p rend="i">De la Republique de Joüissance, ce 18. du mois des Delices. </p>
           <p>Le Senat s’estant assemblé ces jours passez, on ordonna qu’on démoliroit une grande
             Tour nommée <hi rend="i">Honte</hi>, qui servoit de defense à la Ville, &amp; que la
             Princesse <hi rend="i">Pudeur</hi> y avoit fait bâtir. Il fit aussi un Decret par lequel
             il estoit enjoint à cette Princesse de se retirer dans vingt-quatre heures, &amp; de
-            sortir des Estats de la Republique, à peine de luy estre couru sus, par <hi rend="i"
-              >Embrassemens</hi> &amp; <hi rend="i">Jeux-folâtres</hi> qui en sont la Populace. Le
+            sortir des Estats de la Republique, à peine de luy estre couru sus, par <hi rend="i">Embrassemens</hi> &amp; <hi rend="i">Jeux-folâtres</hi> qui en sont la Populace. Le
             Senat fit aussi publier que les Habitans qui sont les <hi rend="i">Enjouëmens</hi> &amp;
             les <hi rend="i">Caresses</hi>, eussent à se préparer pour la reception qu’on destinoit
             de faire au General <hi rend="i">Bon-compagnon</hi> qui avoit reglé son Entrée au
             Vendredy prochain, &amp; à l’Heure du Berger.</p>
           <p rend="i">Du Chasteau de Chatemite, le 6. du mois d’Hypocrisie </p>
           <p>Le Marquis Tapinois a bloqué le Chasteau depuis quelques jours, n’osant approcher à
-            cause des Mines dont les avenuës sont toutes pleines. Il envoya le Colonel <hi rend="i"
-              >Fin-matois</hi> pour observer les Dehors &amp; la contenance des Ennemis. Il revint
+            cause des Mines dont les avenuës sont toutes pleines. Il envoya le Colonel <hi rend="i">Fin-matois</hi> pour observer les Dehors &amp; la contenance des Ennemis. Il revint
             avec deux <hi rend="i">Tartuffes</hi> Capitaines de la Place qu’il avoit fait
             prisonniers, lesquels rapporterent que le Chasteau manquoit de Munitions &amp; sur tout
             de Boulets de Canon, &amp; de Bales de Mousquet ; que les Canonniers &amp; Soldats
@@ -553,57 +467,42 @@
             dans la Place qu’une fausse Porte appellée <hi rend="i">Sainte-nitouche</hi>, par
             laquelle les Assiegez prétendoient faire leurs plus grandes Sorties, &amp; que pour
             l’emporter il ne faloit qu’y faire entrer de nuit des Troupes à petit bruit. Sur cet
-            Avis le Marquis <hi rend="i">Tapinois</hi> détacha du Regiment du <hi rend="i"
-              >Secret</hi> &amp; du <hi rend="i">Silence</hi> un petit Corps, avec ordre d’attaquer
+            Avis le Marquis <hi rend="i">Tapinois</hi> détacha du Regiment du <hi rend="i">Secret</hi> &amp; du <hi rend="i">Silence</hi> un petit Corps, avec ordre d’attaquer
             par un Chemin couvert la Redoute nommée <hi rend="i">la Sucrée</hi> &amp; d’emporter la
             Ville par <hi rend="i">Sainte-nitouche</hi>, ce qui fut heureusement executé. Le Marquis
             estant entré dans la Ville, trouva sur les Murailles &amp; dans les Magasins quantité de
             Canons de bois peint, &amp; une infinité de Machines de carton, pour épouvanter les
             Timides.</p>
           <p rend="i">De la Forteresse Fierté, ce 12. du mois d’Indifference. </p>
-          <p>Quatre mille <hi rend="i">Respects</hi>, avec quelques Pionniers nommez <hi rend="i"
-              >Articles</hi>, sous le commandement du Comte <hi rend="i">Mariage</hi>, s’étant
+          <p>Quatre mille <hi rend="i">Respects</hi>, avec quelques Pionniers nommez <hi rend="i">Articles</hi>, sous le commandement du Comte <hi rend="i">Mariage</hi>, s’étant
             postez sur une éminence vis-à-vis la Forteresse de <hi rend="i">Fierté</hi>, en
             intention de l’attaquer, le Gouverneur de cette Place fit faire une grande décharge de
             Canon, &amp; entr’autres de plusieurs Coulevrines nommées <hi rend="i">Rebufades</hi>,
             qui obligerent le Comte de se retirer apres avoir esté mis en déroute, &amp; avoir perdu
             les Capitaines <hi rend="i">Bon-dessein</hi> &amp; <hi rend="i">Bonne-foy</hi> qui
-            furent tuez dans cette attaque. Mais quelques jours apres le Duc de <hi rend="i"
-              >Grand-Maison</hi> s’estant avancé &amp; ayant pratiqué une intelligence dans la
+            furent tuez dans cette attaque. Mais quelques jours apres le Duc de <hi rend="i">Grand-Maison</hi> s’estant avancé &amp; ayant pratiqué une intelligence dans la
             Forteresse avec la Dame d’honneur de la Gouvernante, nommée <hi rend="i">Ambition</hi>,
             commanda au Capitaine <hi rend="i">Qualité</hi> de se tenir prest pour donner au premier
-            signal, qui estoit un grand feu qui paroissoit dans le cœur de la Place. Ce que <hi
-              rend="i">Qualité</hi> ayant remarqué, il donna vertement dans la Porte de <hi rend="i"
-              >Bonne Opinion</hi>, qu’il gagna d’abord, &amp; ayant facilité l’entrée au reste des
-            Assiegeans, la Forteresse fut prise d’assaut &amp; pillée. Cette disgrace obligea <hi
-              rend="i">Fierté</hi> qui vouloit reparer ses ruines, d’envoyer des Députez au Comte
+            signal, qui estoit un grand feu qui paroissoit dans le cœur de la Place. Ce que <hi rend="i">Qualité</hi> ayant remarqué, il donna vertement dans la Porte de <hi rend="i">Bonne Opinion</hi>, qu’il gagna d’abord, &amp; ayant facilité l’entrée au reste des
+            Assiegeans, la Forteresse fut prise d’assaut &amp; pillée. Cette disgrace obligea <hi rend="i">Fierté</hi> qui vouloit reparer ses ruines, d’envoyer des Députez au Comte
               <hi rend="i">Mariage</hi>, pour le prier de venir prendre possession de la Place dont
             elle offroit de le rendre maistre, mais le Comte les renvoya sans les vouloir
             écouter.</p>
           <p rend="i">Du Royaume de Galanterie, ce 30. du mois de Petits-Soins. </p>
           <p>Les Estats ont ordonné de grandes Levées pour grossir les Garnisons des Villes
-            Frontieres, &amp; entr’autres de celles de <hi rend="i">Balet</hi> &amp; de <hi rend="i"
-              >Comédie</hi> qui en sont les principales, pour reprimer les incursions de quelques
+            Frontieres, &amp; entr’autres de celles de <hi rend="i">Balet</hi> &amp; de <hi rend="i">Comédie</hi> qui en sont les principales, pour reprimer les incursions de quelques
             Peuples sauvages nommez <hi rend="i">Cagots</hi> &amp; <hi rend="i">Bigots</hi>, qui ont
             accoustumé à certain temps de venir ravager ce Royaume, &amp; y porter la desolation. Le
             Comte <hi rend="i">Carnaval</hi> a esté fait Capitaine General, &amp; a d’abord expedié
-            des Commissions aux Barons de <hi rend="i">Hautbois</hi> &amp; de <hi rend="i"
-              >Violons</hi> pour lever des Troupes qui iront au plutost à la Ville de <hi rend="i"
-              >Grand-Bal</hi> leur lieu d’assemblée. Cependant le Comte <hi rend="i">Carnaval</hi> a
+            des Commissions aux Barons de <hi rend="i">Hautbois</hi> &amp; de <hi rend="i">Violons</hi> pour lever des Troupes qui iront au plutost à la Ville de <hi rend="i">Grand-Bal</hi> leur lieu d’assemblée. Cependant le Comte <hi rend="i">Carnaval</hi> a
             envoyé des <hi rend="i">Moumons</hi>, qui sont des grands Coureurs, pour battre
             l’estrade &amp; apprendre des nouvelles de la marche des Barbares, lesquels s’estant
             avancez sur une Riviere nommée <hi rend="i">Courante</hi>, qui passe dans la Ville de
-              <hi rend="i">Grand-Bal</hi>, y ont esté repoussez par le Baron de <hi rend="i"
-              >Violons</hi>, &amp; l’on a sçeu de quelques Prisonniers que ces Peuples doivent
-            revenir dans peu commandez par un redoutable Capitaine nommé <hi rend="i"
-              >Dom-Caresme</hi>, qui menace de ruiner de fond en comble la Ville de <hi rend="i"
-              >Comédie</hi>, &amp; de desoler les Terres de <hi rend="i">Cadeaux</hi> &amp; de <hi
-              rend="i">Bonne-Chere</hi>, qui sont les Campagnes les plus fertiles du Royaume.</p>
+              <hi rend="i">Grand-Bal</hi>, y ont esté repoussez par le Baron de <hi rend="i">Violons</hi>, &amp; l’on a sçeu de quelques Prisonniers que ces Peuples doivent
+            revenir dans peu commandez par un redoutable Capitaine nommé <hi rend="i">Dom-Caresme</hi>, qui menace de ruiner de fond en comble la Ville de <hi rend="i">Comédie</hi>, &amp; de desoler les Terres de <hi rend="i">Cadeaux</hi> &amp; de <hi rend="i">Bonne-Chere</hi>, qui sont les Campagnes les plus fertiles du Royaume.</p>
           <p rend="i">De la Montagne d’Orguëil, ce 7. du mois de Présomption. </p>
-          <p>Un Party d’Amours Complaisans passans aupres de cette Montagne pour aller à <hi
-              rend="i">Déference</hi>, qui est un Bourg situé dans un Vallon &amp; dont les Maisons
-            sont toutes à un étage, fut rencontré par une Troupe de Bandits nommez <hi rend="i"
-              >Caprices</hi>, qui en firent prisonniers les principaux dans le dessein de leur faire
+          <p>Un Party d’Amours Complaisans passans aupres de cette Montagne pour aller à <hi rend="i">Déference</hi>, qui est un Bourg situé dans un Vallon &amp; dont les Maisons
+            sont toutes à un étage, fut rencontré par une Troupe de Bandits nommez <hi rend="i">Caprices</hi>, qui en firent prisonniers les principaux dans le dessein de leur faire
             payer une rançon de dix mille <hi rend="i">Oüys</hi> qu’ils demandent ; mais deux
             Regimens d’Amours indiferens &amp; d’Amours étourdis s’estant joints aux Amours
             dévalisez, attaquerent ces bandits qui s’estoient fortifiez dans un Moulin à vent nommé
@@ -617,21 +516,17 @@
           <p>Hier le Sieur <hi rend="i">Doux-Regard</hi> Introducteur des Ambassadeurs, mena à
             l’Audiance de la Reyne <hi rend="i">Amitié</hi> le Dom <hi rend="i">Espoir</hi>, suivy
             d’un Cortége des plus superbes. Il entra par la porte des Conferences, embellie
-            d’Enigmes &amp; de Figures de bas relief. Il passa par la grand’Ruë nommée <hi rend="i"
-              >Doux-Penchant</hi>. Il estoit précedé de toute sa Maison, dont les officiers estoient
+            d’Enigmes &amp; de Figures de bas relief. Il passa par la grand’Ruë nommée <hi rend="i">Doux-Penchant</hi>. Il estoit précedé de toute sa Maison, dont les officiers estoient
             vêtus de Drap vers chamarré de Vapeurs &amp; de Fumées en broderie de soye noire, qui
             sont ses couleurs. Ils estoient montez sur de belles <hi rend="i">Idées</hi>, &amp;
             suivis du Carrosse du Corps, drappé de velours vert en broderie de Grotesques, &amp;
             environné de cinquante Estafiers couverts de Satin couleur d’herbe, parsemé de Fleurs,
-            rehaussées de vaines Pensées. Le Carrosse estoit attelé de six grandes <hi rend="i"
-              >Chimeres</hi> houssées &amp; caparaçonnées de Brocard, chamarré de Visions.
+            rehaussées de vaines Pensées. Le Carrosse estoit attelé de six grandes <hi rend="i">Chimeres</hi> houssées &amp; caparaçonnées de Brocard, chamarré de Visions.
             L’Ambassadeur arriva au Palais avec une escorte de cinquante Carrosses à quatre
-            Griffons, &amp; remply de quantité de Gentils-hommes appellez <hi rend="i"
-              >Vains-Desirs</hi>. Il fut introduit à la Salle des Audiances, où il fit les Demandes
+            Griffons, &amp; remply de quantité de Gentils-hommes appellez <hi rend="i">Vains-Desirs</hi>. Il fut introduit à la Salle des Audiances, où il fit les Demandes
             de la part de l’<hi rend="i">Amour</hi> son Maistre, &amp; y presenta ses Cahiers, par
             lesquels il sollicite la liberté du commerce avec <hi rend="i">Cœur-Tendre</hi>, qui est
-            une Ville fort marchande. On croit que cet Article luy sera accordé, pourveu que l’<hi
-              rend="i">Amour</hi> luy paye un million de services par an. Cependant il est entretenu
+            une Ville fort marchande. On croit que cet Article luy sera accordé, pourveu que l’<hi rend="i">Amour</hi> luy paye un million de services par an. Cependant il est entretenu
             durant son séjour par ordre de la Reyne, &amp; sa Table est couverte à trois Services de
             Viandes creuses.</p>
           <p rend="i">Des Valées de Pruderie, ce 12. du mois de Modestie. </p>
@@ -639,8 +534,7 @@
             nommez Petits-Colets, qui faisoient en secret de fausses Pieces. On les a condamnez pour
             avoir ainsi falsifié la Monnoye du Païs, à un Bannissement perpetuel dans les Isles de
               <hi rend="i">Raillerie</hi> qui ne portent que du Ris. On a aussi raté la teste &amp;
-            fait faire Amende-honorable à quatre Blondins Habitans du Royaume de <hi rend="i"
-              >Coqueterie</hi>, pour avoir mis en usage des Charmes &amp; des Enchantemens, mesme
+            fait faire Amende-honorable à quatre Blondins Habitans du Royaume de <hi rend="i">Coqueterie</hi>, pour avoir mis en usage des Charmes &amp; des Enchantemens, mesme
             sous pretexte de parler à l’oreille, y avoir souflé des Paroles envenimées. On les
             accusoit aussi d’avoir voulu piller le Chasteau de la <hi rend="i">Vertu</hi>, qui est
             une Maison Royale, d’y avoir jetté de la Poudre aux yeux de quelques Dames de qualité,
@@ -649,18 +543,13 @@
           <p rend="i">De l’Empire du Destin, ce 29. du mois d’Horoscope. </p>
           <p>On prépare icy à l’Hostel de l’<hi rend="i">Etoille</hi> de grands Appartemens pour la
             Solemnité de plusieurs Mariages arrestez depuis longtemps. Le Comte de <hi rend="i">Bel
-              Esprit</hi> épouse la Damoiselle <hi rend="i">Fleurette</hi>, Marquise de <hi rend="i"
-              >Temps perdu</hi>, qui est une Terre abondante en Sonnets &amp; Madrigaux, qui sont
-            des fruits d’assez bon debit, mais où il n’y a rien à gagner. Le Prince <hi rend="i"
-              >Merite</hi> se marie aussi avec la Dame <hi rend="i">Mauvaise-fortune</hi> qui est
+              Esprit</hi> épouse la Damoiselle <hi rend="i">Fleurette</hi>, Marquise de <hi rend="i">Temps perdu</hi>, qui est une Terre abondante en Sonnets &amp; Madrigaux, qui sont
+            des fruits d’assez bon debit, mais où il n’y a rien à gagner. Le Prince <hi rend="i">Merite</hi> se marie aussi avec la Dame <hi rend="i">Mauvaise-fortune</hi> qui est
             une vieille Courtisane, laquelle ruine tous ses Maris par la dépense qu’ils font à la
-            poursuite d’une infinité d’Affaires qu’elle leur suscite par le conseil d’<hi rend="i"
-              >Envie</hi> &amp; de <hi rend="i">Calomnie</hi>, qui sont d’insignes Chicaneuses dont
-            les Procés ne finissent jamais, &amp; dont les Avocats qu’on nomme <hi rend="i"
-              >Satyres</hi> n’écrivent que des Libelles diffamatoires. On dit du mesme jour que le
+            poursuite d’une infinité d’Affaires qu’elle leur suscite par le conseil d’<hi rend="i">Envie</hi> &amp; de <hi rend="i">Calomnie</hi>, qui sont d’insignes Chicaneuses dont
+            les Procés ne finissent jamais, &amp; dont les Avocats qu’on nomme <hi rend="i">Satyres</hi> n’écrivent que des Libelles diffamatoires. On dit du mesme jour que le
             Roy des Faquins qui est un Peuple de l’Arabie Heureuse, envoye icy un Ambassadeur pour
-            renouveller les Alliances qu’il a depuis longtemps entretenuës avec <hi rend="i"
-              >Destin</hi>, &amp; par mesme moyen luy demander la continuation des forces &amp; des
+            renouveller les Alliances qu’il a depuis longtemps entretenuës avec <hi rend="i">Destin</hi>, &amp; par mesme moyen luy demander la continuation des forces &amp; des
             finances que cette Cour est obligée de fournir à la Nation Faquine, laquelle a besoin de
             grandes sommes pour se maintenir contre <hi rend="i">Beau-Génie</hi> son principal
             Ennemy, qui luy fait sans cesse une cruelle guerre.</p>
@@ -816,8 +705,7 @@
         <bibl><title>Mercure galant</title>, février 1678 [tome 2], p. 108-110.</bibl>
         <p>Le titre d’Empereur y est donné à ceux qui surpassent tous les autres ; &amp; c’est sur
           ce Titre que personne ne luy a pû disputer, qu’on a fait le Sonnet que je vous envoye.
-            M<hi rend="sup">r</hi> l’Abbé de la Chapelle en est l’Autheur. Il est Fils de M<hi
-            rend="sup">r</hi> de la Chapelle qui a l’Intendance des Affaires de Monsieur le Prince
+            M<hi rend="sup">r</hi> l’Abbé de la Chapelle en est l’Autheur. Il est Fils de M<hi rend="sup">r</hi> de la Chapelle qui a l’Intendance des Affaires de Monsieur le Prince
           en Berry.</p>
         <quote rend="border">
           <label rend="center">À Monsieur</label>
@@ -1109,8 +997,7 @@
           est au dessus de toute sorte de loüanges. Le nom de Madame des Houlieres vous en fera
           demeurer d’accord.</p>
         <quote rend="border">
-          <label>AIR NOUVEAU.<note resp="author"
-                place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : la seconde Chanson
+          <label>AIR NOUVEAU.<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : la seconde Chanson
                 qui commence par Ah que je sens d’inquietude, doit regarder la Page 164.</note></label>
           <lg>
             <l rend="i"><space/>Ah, que je sens d’inquietude !</l>
@@ -1291,8 +1178,7 @@
         <head>[Paroles de Monsieur Valnay]</head>
         <bibl><title>Mercure galant</title>, février 1678 [tome 2], p. 191-193.</bibl>
         <p>Voicy des Vers qui ont esté mis en Air par M<hi rend="sup">r</hi> le Peintre, &amp;
-          chantez avec beaucoup d’applaudissement à ce jeune Prince [le dauphin]. Ils sont de M<hi
-            rend="sup">r</hi> de Valnay. C’est un Nom qui ne vous est pas inconnu, &amp; vous avez
+          chantez avec beaucoup d’applaudissement à ce jeune Prince [le dauphin]. Ils sont de M<hi rend="sup">r</hi> de Valnay. C’est un Nom qui ne vous est pas inconnu, &amp; vous avez
           déja veu d’autres Vers de luy qui vous ont fait connoistre la facilité de son Génie.</p>
         <quote rend="border">
           <label rend="center">Air.</label>
@@ -1457,8 +1343,7 @@
           Tous ceux qui chanterent &amp; joüerent des Instrumens, furent extrémement applaudis. La
           Musique estoit de la composition de M<hi rend="sup">r</hi> Charpentier dont je vous ay
           déja fait voir deux Airs. Ainsi vous en connoissez l’heureux talent par vous-mesme. Madame
-          de Beauvais, Madame de Boucherat, Messieurs les Marquis de Sablé &amp; de Biran, M<hi
-            rend="sup">r</hi> Deniel, Monsieur de Sainte Colombe si celebre pour la Viole, &amp;
+          de Beauvais, Madame de Boucherat, Messieurs les Marquis de Sablé &amp; de Biran, M<hi rend="sup">r</hi> Deniel, Monsieur de Sainte Colombe si celebre pour la Viole, &amp;
           quantité d’autres qui entendent parfaitement toute la finesse du Chant, ont esté des
           admirateurs de cet Opéra.</p>
       </div>
@@ -1493,8 +1378,7 @@
       <div type="article" xml:id="MG-1678-02_236" resp="mercure">
         <head>L’Hyver, au Roy sur son Départ</head>
         <bibl><title>Mercure galant</title>, février 1678 [tome 2], p. 236-241.</bibl>
-        <p>Toutes choses se disposant insensiblement pour le Départ de Sa Majesté, M<hi rend="sup"
-            >r</hi> de Roux qui a si bien fait parler l’Année 1677. fit aussi parler l’Hyver, &amp;
+        <p>Toutes choses se disposant insensiblement pour le Départ de Sa Majesté, M<hi rend="sup">r</hi> de Roux qui a si bien fait parler l’Année 1677. fit aussi parler l’Hyver, &amp;
           voicy de quelle maniere.</p>
         <quote rend="border">
           <label rend="center">L’Hyver,</label>
@@ -1867,10 +1751,8 @@
         <p><hi rend="i">Le Comte d’Essex</hi> de M<hi rend="sup">r</hi> de Corneille le jeune est
           imprimé. Je vous l’envoye, &amp; ne doute point que vous ne receviez beaucoup de plaisir
           de la lecture d’une Piece qui a occupé le Théatre de l’Hostel de Bourgogne avec tant de
-          succés pendant les deux derniers Mois. Le <hi rend="i">Lyncée</hi> de M<hi rend="sup"
-            >r</hi> Abeille y parut il y a trois jours. Il fut extraordinairemenet applaudy. Les
-          Vers en sont beaux, les Pensées brillantes, &amp; dignes de l’Autheur du <hi rend="i"
-            >Coriolan</hi>.</p>
+          succés pendant les deux derniers Mois. Le <hi rend="i">Lyncée</hi> de M<hi rend="sup">r</hi> Abeille y parut il y a trois jours. Il fut extraordinairemenet applaudy. Les
+          Vers en sont beaux, les Pensées brillantes, &amp; dignes de l’Autheur du <hi rend="i">Coriolan</hi>.</p>
       </div>
       <div type="article" xml:id="MG-1678-02_315b" resp="mercure">
         <head>[Air de M. Sicard]</head>
@@ -1885,8 +1767,7 @@
             <l rend="i">Vous qui d’un tendre amour avez le cœur capable,</l>
             <l rend="i">Ne vous laissez jamais charmer.</l>
             <l rend="i">Vous serez toûjours miserable</l>
-            <l rend="i">Pour peu que vous vouliez aimer.<note resp="author" place="margin"><hi
-                  rend="i">Avis pour placer les Figures</hi> : la quatriéme Chanson qui commence par
+            <l rend="i">Pour peu que vous vouliez aimer.<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la quatriéme Chanson qui commence par
                 Vous qui d’un tendre amour avez le cœur capable, doit regarder la Page
               316.</note></l>
           </lg>
@@ -1928,8 +1809,7 @@
           <l><space/><space/>Quand le secret en est trouvé.</l>
         </quote>
         <p>Cette Explication est de M<hi rend="sup">r</hi> Robbe. C’est un Homme fort consideré des
-          Personnes du plus haut rang, &amp; qui a fait une Geographie nouvelle pour M<hi rend="sup"
-            >r</hi> le Duc du Maine. Ce demy Vers, <hi rend="i">J’ay seulement deux Filles</hi>, que
+          Personnes du plus haut rang, &amp; qui a fait une Geographie nouvelle pour M<hi rend="sup">r</hi> le Duc du Maine. Ce demy Vers, <hi rend="i">J’ay seulement deux Filles</hi>, que
           vous me dites qui vous a causé quelque embarras, a donné de la peine à d’autres qu’à vous.
           En songeant à l’Académie Françoise, on ne s’est pas souvenu qu’elle est comme la Mere de
           celles de Soissons &amp; d’Arles, puis qu’elle est cause de leur Etablissement.</p>
@@ -1959,14 +1839,9 @@
         <bibl><title>Mercure galant</title>, février 1678 [tome 2], p. 322-325.</bibl>
         <p>Les mesmes Explications ont esté faites par Mademoiselle Sellier, de Roüen. Elle mérite
           bien d’emporter le prix dont ses deux Amies sont convenuës avec elle. Plusieurs autres ont
-          encor deviné le Mot de l’<hi rend="i">Académie Françoise</hi>, &amp; ce sont M<hi
-            rend="sup">r</hi> le Comte de l’Aubépin ; M<hi rend="sup">r</hi> l’Abbé Sanguin ; M<hi
-            rend="sup">r</hi> du Teil ; M<hi rend="sup">r</hi> Baisé le jeune ; M<hi rend="sup"
-            >r</hi> de Vitray, Trésorier de France à Caën ; M<hi rend="sup">r</hi> Cordets,
+          encor deviné le Mot de l’<hi rend="i">Académie Françoise</hi>, &amp; ce sont M<hi rend="sup">r</hi> le Comte de l’Aubépin ; M<hi rend="sup">r</hi> l’Abbé Sanguin ; M<hi rend="sup">r</hi> du Teil ; M<hi rend="sup">r</hi> Baisé le jeune ; M<hi rend="sup">r</hi> de Vitray, Trésorier de France à Caën ; M<hi rend="sup">r</hi> Cordets,
           d’Estampes ; M<hi rend="sup">r</hi> de l’Epinasse de Rabouin, Fils d’un Président de
-          Nivernois ; M<hi rend="sup">r</hi> de Chantoiseau, de Brie-Comte-Robert ; M<hi rend="sup"
-            >r</hi> de Valnay ; M<hi rend="sup">r</hi> de Soucanye, Avocat à Roye en Picardie ; M<hi
-            rend="sup">r</hi> Lagrené de Vrilly ; M<hi rend="sup">r</hi> du Clos, de Mets, l’Hermite
+          Nivernois ; M<hi rend="sup">r</hi> de Chantoiseau, de Brie-Comte-Robert ; M<hi rend="sup">r</hi> de Valnay ; M<hi rend="sup">r</hi> de Soucanye, Avocat à Roye en Picardie ; M<hi rend="sup">r</hi> Lagrené de Vrilly ; M<hi rend="sup">r</hi> du Clos, de Mets, l’Hermite
           de Saint Giraud ; le Secretaire des Dames de Saumur ; la Société des Dames Cloistrées de
           Lyon, qui ne sont jamais entrées en Couvent ; un Illustre, qui prend le nom de Mélite ; la
           Belle qui avoit expliqué le <hi rend="i">Jour de l’An</hi> sur <hi rend="i">la Mode</hi> ;
@@ -1994,11 +1869,9 @@
         <p>Par cette Vénus que l’Amour défend contre Vulcain, M<hi rend="sup">r</hi> l’Abbé Droüin a
           entretenu <hi rend="i">le Temps</hi> ; M<hi rend="sup">r</hi> de Roux, <hi rend="i">la
             Jalousie</hi> ; une Belle du Païs du Maine, <hi rend="i">la Constance</hi> ; un bel
-          Esprit de Troye, <hi rend="i">l’Enclume</hi> ; un autre de Crespy en Valois, <hi rend="i"
-            >l’Infidelité dans le Mariage</hi> ; &amp; d’autres, <hi rend="i">Andromede, la Paix, la
+          Esprit de Troye, <hi rend="i">l’Enclume</hi> ; un autre de Crespy en Valois, <hi rend="i">l’Infidelité dans le Mariage</hi> ; &amp; d’autres, <hi rend="i">Andromede, la Paix, la
             Guerre, l’Heure de la Mort, les Affaires du Temps, la Perle, le Cerveau, l’Acier,
-            l’Aimant, &amp; la Monnoye</hi>. Cependant ce n’est rien autre chose que l’<hi rend="i"
-            >Ecran</hi>. Dans la Saison où nous sommes, les Dames ne reçoivent les visites de leurs
+            l’Aimant, &amp; la Monnoye</hi>. Cependant ce n’est rien autre chose que l’<hi rend="i">Ecran</hi>. Dans la Saison où nous sommes, les Dames ne reçoivent les visites de leurs
           Amis qu’aupres du Feu. Le Feu leur gâte le teint, &amp; elles prennent un Ecran pour s’en
           défendre. Tout cela est représenté dans la Figure. Mars y tient la place d’un Amy. Vénus
           aupres de qui est une des Graces, marque une Dame, à qui la bien-séance fait prendre un
@@ -2024,8 +1897,7 @@
         <bibl><title>Mercure galant</title>, février 1678 [tome 2], p. 329-331.</bibl>
         <p>Je vous donne aussy dequoy exercer le talent que vous avez à deviner les Enigmes par les
           deux en Vers que je vous envoye. L’une est d’une Dame pour laquelle les agreables Lettres
-          que j’en reçois me donnent une estime tres-particuliere, &amp; l’autre, de M<hi rend="sup"
-            >r</hi> du Plessis-le Chat du Mans, Controleur des Tailles au Ponteau de Mer.</p>
+          que j’en reçois me donnent une estime tres-particuliere, &amp; l’autre, de M<hi rend="sup">r</hi> du Plessis-le Chat du Mans, Controleur des Tailles au Ponteau de Mer.</p>
         <quote rend="border">
           <label rend="center">Enigme.</label>
           <lg>
@@ -2092,5 +1964,4 @@
         </quote>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

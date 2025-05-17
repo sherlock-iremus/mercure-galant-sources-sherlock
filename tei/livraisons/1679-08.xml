@@ -1,64 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, août 1679 [tome 8]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2015"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1679-08/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, août <date>1679</date> [tome 8].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1679-08"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1679-08_001" resp="mercure">
         <head>[Description d’un Navire fait en six heures &amp; demie]</head>
@@ -103,12 +43,10 @@
           devoient se reposer, afin de se relever successivement de deux en deux heures, si l’ardeur
           n’eût emporté les Ouvriers. Comme il devoit y avoir toûjours pres de cinq cens Hommes dans
           le travail, sans compter les Chefs, il eust esté difficile d’éviter la confusion dans un
-          si grand nombre de Gens, si on ne les eust habillez diféremment. Le S<hi rend="sup"
-          >r</hi> Colomb Maître Bastisseur de Navire, qui est celuy qui a conduit le Vaisseau dont
+          si grand nombre de Gens, si on ne les eust habillez diféremment. Le S<hi rend="sup">r</hi> Colomb Maître Bastisseur de Navire, qui est celuy qui a conduit le Vaisseau dont
           je vous parle, &amp; qui dans cette occasion en devoit faire le costé droit, estoit
           habillé de bleu avec toute sa Division. Celle du S<hi rend="sup">r</hi> Chapelle qui
-          devoit faire le costé gauche, estoit habillée de blanc. Celle du S<hi rend="sup"
-          >r</hi> Colomb le Fils, à qui le fond de cale estoit écheu en partage, avoit le calleçon
+          devoit faire le costé gauche, estoit habillée de blanc. Celle du S<hi rend="sup">r</hi> Colomb le Fils, à qui le fond de cale estoit écheu en partage, avoit le calleçon
           bleu, &amp; une chemise blanche ; &amp; celle du S<hi rend="sup">r</hi> Audibert, qui
           estoit chargé des Ponts, avoit le calleçon blanc, avec la chemise bleuë. Les Escoüades de
           chaque Division se distinguoient de plus entr'elles par le moyen d’un Ruban de diférente
@@ -138,8 +76,7 @@
           cela, sans qu’il se rompist aucune Piece, ny qu’il y eust un seul Ouvrier blessé. Pendant
           ce travail, M<hi rend="sup">r</hi> l’Intendant avoit sous luy quatre Commisssaires de
           Marine, sçavoir, M<hi rend="sup">rs</hi> Hayet, Jonville, du Mairs, &amp; Talon, qui
-          firent tres-bien leur devoir, avec huit Ecrivains. Ces derniers, qui estoient M<hi
-            rend="sup">rs</hi> Bailly, Sagier, Montaphilon, du Mas, Choiselas, du Plessis, Verdun,
+          firent tres-bien leur devoir, avec huit Ecrivains. Ces derniers, qui estoient M<hi rend="sup">rs</hi> Bailly, Sagier, Montaphilon, du Mas, Choiselas, du Plessis, Verdun,
           &amp; Baudran, avoient chacun raport à l’un des quatre Maistres Charpentiers qui
           conduisoient l’Ouvrage, &amp; M<hi rend="sup">r</hi> Arnoul se servoit d’eux pour sçavoir
           à tous momens l’état du travail dans les endroits où il n’estoit pas, afin d’y donner ses
@@ -175,8 +112,7 @@
           pas seulement attaché aux choses qui sont singulieres au climat &amp; à la température de
           l’air, mais elle luy a fait chercher à conférer avec ceux qu’on disoit avoir les
           connoissances les plus profondes. C'est par là qu’il s’est fait un plaisir d’entretenir
-          plusieurs fois ce fameux Juif, qui apres le Siege de Candie osa soûtenir que M<hi
-            rend="sup">r</hi> de Beaufort vivoit, &amp; offrit de le faire voir dans une des Prisons
+          plusieurs fois ce fameux Juif, qui apres le Siege de Candie osa soûtenir que M<hi rend="sup">r</hi> de Beaufort vivoit, &amp; offrit de le faire voir dans une des Prisons
           des Infidelles, si on vouloit employer son Art. Les circonstances qu’il en débitoit, ont
           esté longtemps l’entretien de toute la France.</p>
         <p>Le Cavalier dont j’ay à vous conter l’avanture, estant arrivé à Génes apres avoir veu ce
@@ -396,8 +332,7 @@
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Alors tous deux dans leur
             ramage</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>En attendant cet heureux jour,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg>Chantent cent fois, <hi rend="i"
-              >Vive l’Amour</hi>,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg>Chantent cent fois, <hi rend="i">Vive l’Amour</hi>,</l>
           <l><hi rend="i">Publions ses bontez, rendons-luy nostre hommage</hi>,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Il va contenter nos
               desirs</hi>,</l>
@@ -531,8 +466,7 @@
             admirer, &amp; qu’on ne trouvoit plus rien de grand, rien d’admirable, que</hi>
           <hi rend="sc">Loüis le Grand</hi>.</p>
         <p>Ce Discours dont je ne vous donne qu’une idée tres-imparfaite, satisfit fort toute
-          l’Assemblée. Je ne vous dis rien ny du mérite, ny des emplois de M<hi rend="sup"
-          >r</hi> Verjus, vous en ayant fait un long Article dans ma Lettre du dernier Mois. Apres
+          l’Assemblée. Je ne vous dis rien ny du mérite, ny des emplois de M<hi rend="sup">r</hi> Verjus, vous en ayant fait un long Article dans ma Lettre du dernier Mois. Apres
           qu’il eut cessé de parler, M<hi rend="sup">r</hi> Boyer luy répondit au nom de la
           Compagnie. Cette Réponse regardoit M<hi rend="sup">r</hi> de Bezons Conseiller d’Etat, qui
           en est présentement le Directeur ; mais les Affaires du Roy ne luy permettant pas de
@@ -719,8 +653,7 @@
           adresse dans les Armes, &amp; qu’ils sont tellement nez pour la guerre, que leurs plus
           agreables divertissemens sont ceux qui leur en fournissent l’image. Les dépenses faites
           pour le Mariage du Roy, où la Noblesse Françoise avoit paru avec tout l’éclat possible,
-          plus de cent cinquante Personnes d’une qualité distinguée ayant accompagné M<hi rend="sup"
-            >r</hi> le Maréchal de Gramont jusqu’à Madrid, n’empescherent point que la Cour ne se
+          plus de cent cinquante Personnes d’une qualité distinguée ayant accompagné M<hi rend="sup">r</hi> le Maréchal de Gramont jusqu’à Madrid, n’empescherent point que la Cour ne se
           trouvast presque aussi tost en état de fournir aux frais de ce fameux Carousel. Le Poème
           Latin qui en accompagne les Planches, est de M<hi rend="sup">r</hi> l’Abbé Fléchier. Son
           nom est un grand éloge.</p>
@@ -751,8 +684,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
           manquer de paroistre avec l’éclat qu’ils ont eu. Il ne faut que jetter les yeux sur les
           neuf Planches qu’on en a gravées, pour estre persuadé que ceux qui ont veu les Spectacles
           qu’elles représentent, ont dû les croire un enchantement. Je ne vous en fais point une
-          description particuliere, ces Planches estant accompagnées d’un tres beau Discours de M<hi
-            rend="sup">r</hi> Félibien, qui ne laisse rien à desirer sur ce sujet. Les jours
+          description particuliere, ces Planches estant accompagnées d’un tres beau Discours de M<hi rend="sup">r</hi> Félibien, qui ne laisse rien à desirer sur ce sujet. Les jours
           suivans, on courut encor les Testes. Le Roy remporta quatre Prix, M<hi rend="sup">r</hi>
           le Duc de S. Aignan deux, &amp; M<hi rend="sup">r</hi> le Duc de Coislin un.</p>
         <p>Si le bruit de cette Feste toute Françoise &amp; toute Royale, c’est à dire, toute
@@ -810,8 +742,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
           joye aux Curieux, &amp; aux étrangers qui les voudront avoir, mais encor aux Sculpteurs
           qui auront un seûr moyen de se rendre habiles, en profitant de ces avantages.</p>
         <p>Quelques Ouvrages modernes suivent les Bustes antiques dont je viens de vous parler. Ils
-          ne peuvent estre que tres-beaux, puis qu’ils ont esté faits sur les Desseins de M<hi
-            rend="sup">r</hi> le Brun, &amp; gravez ainsi que les autres, par les meilleurs Ouvriers
+          ne peuvent estre que tres-beaux, puis qu’ils ont esté faits sur les Desseins de M<hi rend="sup">r</hi> le Brun, &amp; gravez ainsi que les autres, par les meilleurs Ouvriers
           de France.</p>
         <p>Ces Ouvrages consistent en huit Pieces de Tapisseries, où l’on fait connoistre la
           grandeur du Roy par des images allégoriques, ce que des paroles n’exprimeroient pas assez
@@ -824,8 +755,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
           a quatre Devises aux quatre coins. Deux Actions éclatantes qui regardent ce grand Prince,
           sont dans chaque milieu des deux costez ; &amp; dans celuy de chaque Bordure d’enbas, il y
           a une Inscription Latine de M<hi rend="sup">r</hi> Cassagne qui explique ces deux Actions.
-          Les Vers François qui donnent l’intelligence des Devises, ont esté faits par M<hi
-            rend="sup">r</hi> Perraut.</p>
+          Les Vers François qui donnent l’intelligence des Devises, ont esté faits par M<hi rend="sup">r</hi> Perraut.</p>
         <p>Apres que l’on a veu dans les Pieces qui représentent les quatre Elémens, les grandes
           choses que le Roy a faites, on voit dans celles des quatre Saisons, que Sa Majesté les a
           renduës plus belles &amp; plus fécondes pour nous, &amp; qu’Elle a comblé nos jours de
@@ -845,8 +775,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
           comme il connoist parfaitement le Roy, il leur donne souvent des lumieres pour le loüer.
           Ces mesmes Devises sont expliquées en Vers François par M<hi rend="sup">r</hi> Perraut, à
           la reserve de huit, dont il y en a cinq traduites par M<hi rend="sup">r</hi> Charpentier,
-          deux par M<hi rend="sup">r</hi> l’Abbé Cassagne, &amp; une par feu M<hi rend="sup"
-          >r</hi> Chapelain.</p>
+          deux par M<hi rend="sup">r</hi> l’Abbé Cassagne, &amp; une par feu M<hi rend="sup">r</hi> Chapelain.</p>
         <p>Je ne dois pas oublier le Labyrinte. Il est dans un Bocage du petit Parc de Versailles,
           &amp; a pris son nom d’une infinité de petites Allées où l’on s’égare. On le fait
           agreablement, puis qu’on y rencontre des Fontaines à chaque détour. Une partie des Fables
@@ -864,8 +793,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
           recevant au nombre de ses Amis, &amp; en luy donnant en suite un plus grand Royaume que
           celuy qu’il a perdu. Ce Tableau, aussi-bien que les quatre autres, est dans le Cabinet de
           Sa Majesté. Il a seize pieds de haut sur trente-neuf pieds &amp; cinq poulces de long.</p>
-        <p>Le second, qui a aussi seize pieds de haut sur trente de long, fait connoistre <hi
-            rend="i">qu’il n’y a point d’obstacle que la Vertu ne surmonte.</hi> On y voit ce mesme
+        <p>Le second, qui a aussi seize pieds de haut sur trente de long, fait connoistre <hi rend="i">qu’il n’y a point d’obstacle que la Vertu ne surmonte.</hi> On y voit ce mesme
           Aléxandre, qui ayant passé le Granique, attaque les Perses à forces inégales, &amp; met en
           fuite leur inombrable multitude.</p>
         <p>On est convaincu par le troisiéme, <hi rend="i">que la Vertu est digne de l’Empire de
@@ -914,8 +842,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
           l’étonnement que nous a donné deux fois la prise de la Franche-Comté, dont nous avons veu
           le Roy se rendre maistre en si peu de jours pendant deux Hyvers, dont la rigueur ne
           sembloit estre redoublée qu’afin que ce grand Prince en eust plus de gloire.</p>
-        <p>Comme toutes ces Planches ont esté faites pour Sa Majesté, &amp; que le S<hi rend="sup"
-            >r</hi> Vandermeulen s’est exprés transporté par tout sur les lieux pour en faire les
+        <p>Comme toutes ces Planches ont esté faites pour Sa Majesté, &amp; que le S<hi rend="sup">r</hi> Vandermeulen s’est exprés transporté par tout sur les lieux pour en faire les
           Desseins, on ne doit point douter que tout ce qu’elles representent n’ait esté observé
           avec la plus grande &amp; la plus exacte régularité. Je croy que beaucoup de vos Amis ne
           manqueront point à profiter de l’avis que je vous donne, &amp; que tant de belles choses
@@ -928,8 +855,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
       <div type="article" xml:id="MG-1679-08_134" resp="mercure">
         <head>[Réjoüissances faites à Madrid]</head>
         <bibl><title>Mercure galant</title>, août 1679 [tome 8], p.134-146.</bibl>
-        <p>Si je me suis un peu étendu sur cet Article<note resp="editor">Celui des <ref target="MG-1679-08_088"><hi rend="i"
-              >Estampes gravées par l’ordre du Roy</hi></ref>.</note>, je l’ay fait non seulement en faveur de nos Curieux à qui un
+        <p>Si je me suis un peu étendu sur cet Article<note resp="editor">Celui des <ref target="MG-1679-08_088"><hi rend="i">Estampes gravées par l’ordre du Roy</hi></ref>.</note>, je l’ay fait non seulement en faveur de nos Curieux à qui un
           pareil avis estoit necessaire, mais aussi pour en faire part aux Etrangers qui lisent mes
           Lettres. Vous sçavez, Madame, qu’elles sont assez heureuses pour aller par tout, &amp;
           qu’il n’y a point de Cours dans l’Europe, où elles ne soient veuës avec plaisir. Celle
@@ -945,8 +871,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
           accordée au Roy d’Espagne. Comme on y attendoit impatiemment cette nouvelle, il ne se peut
           rien ajoûter à la joye qu’on en fit paroistre. Elle y fut reçeuë le 13. de l’autre Mois à
           dix heures du matin. Il restoit peu de temps jusqu’au soir pour ordonner une Feste.
-          Cependant Messieurs de Ville &amp; les Grands ne laisserent pas de se préparer à une <hi
-            rend="i">Mascara</hi>, dont ils donnerent le divertissement au Roy dans la Place du
+          Cependant Messieurs de Ville &amp; les Grands ne laisserent pas de se préparer à une <hi rend="i">Mascara</hi>, dont ils donnerent le divertissement au Roy dans la Place du
           Palais, apres le Soupé de Sa Majesté.</p>
         <quote>
           <p>Sur les neuf heures, les Cloches commencerent à carrillonner, &amp; la Ville à estre
@@ -1004,9 +929,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
           Mosaïque doit regarder la page 147.</note>
         <p>Comme vous estes fort curieuse, j’espere que vous me sçaurez bon gré de ce que j’ay fait
           graver pour vous, d’un Pavé de Marqueterie ou Mosaïque ancienne, trouvée il y a environ
-          quatre cens ans à la montée de Gourguillon, dans la Vigne du S<hi rend="sup"
-          >r</hi> Cassaire, Maître Apotiquaire de Lyon, &amp; dessignée par les soins de M<hi
-            rend="sup">r</hi> Spon, Medecin aggregé dans la mesme Ville. Vous en examinerez les
+          quatre cens ans à la montée de Gourguillon, dans la Vigne du S<hi rend="sup">r</hi> Cassaire, Maître Apotiquaire de Lyon, &amp; dessignée par les soins de M<hi rend="sup">r</hi> Spon, Medecin aggregé dans la mesme Ville. Vous en examinerez les
           Figures, &amp; demanderez à vos Amis quelle explication ils leur donnent, car on n’y a
           point trouvé d’Inscription. C'estoit le milieu d’un Pavé de quelque Sallon ou petit Temple
           long de 20 pieds, &amp; large de 10. ou 12. Tout ce qui est autour du quarré, sont des
@@ -1251,14 +1174,11 @@ Modifier index (écrit préalablement valiene) (corrigé)
           l’Ambigu on ne dust point desservir, on ne laissa pas de le faire en quelques endroits.
           Les huit Assietes furent relevées de huit autres ; les Salades de Melons &amp; de Figues,
           d’Assietes d’entremets, &amp; les Hors d’œuvres &amp; Salades, d’autant de Plats de Fruit.
-          Sa Majesté fut servie par M<hi rend="sup">r</hi> de Vilacerf ; Son A. Royale, par M<hi
-            rend="sup">r</hi> Thonier Controlleur General ; &amp; les Dames, par les Pages &amp; les
+          Sa Majesté fut servie par M<hi rend="sup">r</hi> de Vilacerf ; Son A. Royale, par M<hi rend="sup">r</hi> Thonier Controlleur General ; &amp; les Dames, par les Pages &amp; les
           Officiers du Gobelet. On ne peut rien voir de plus magnifique que ce Repas, qui n’avoit
-          pourtant esté ordonné que douze ou quinze heures auparavant. La Table où mangea M<hi
-            rend="sup">r</hi> l’Ambassadeur, estoit dans un Bois derriere celle de Sa Majesté. Elle
+          pourtant esté ordonné que douze ou quinze heures auparavant. La Table où mangea M<hi rend="sup">r</hi> l’Ambassadeur, estoit dans un Bois derriere celle de Sa Majesté. Elle
           fut servie avec beaucoup de magnificence, &amp; tenuë par M<hi rend="sup">r</hi> Devizé
-          Maistre d’Hôtel ordinaire de la Reyne, qui en fit les honneurs. L'Envoyé de M<hi
-            rend="sup">r</hi> le Duc de Villahermosa, &amp; les Hommes les plus qualifiez qui se
+          Maistre d’Hôtel ordinaire de la Reyne, qui en fit les honneurs. L'Envoyé de M<hi rend="sup">r</hi> le Duc de Villahermosa, &amp; les Hommes les plus qualifiez qui se
           trouverent à cette Feste, y prirent place.</p>
       </div>
       <div type="article" xml:id="MG-1679-08_179" resp="mercure">
@@ -1297,8 +1217,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
           Musique de Caën, compose, pour ne vous pas faire part d’une Chanson nouvelle de sa façon
           qu’on m’a envoyée.</p>
         <quote>
-          <label type="head">AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i"
-              >Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Si Tirsis est
+          <label type="head">AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Si Tirsis est
               un inconstant</hi>, doit regarder la page 184.</note>
           <lg>
             <l rend="i"><seg type="tab">    </seg>Si Tirsis est un inconstant,</l>
@@ -1423,8 +1342,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
           d’une voix qu’ils marchoient sur les pas de leurs Ancestres, &amp; qu’ils soûtiendroient
           avantageusement l’honneur &amp; l’éclat de leur Maison. La Salle où ils répondoient,
           estoit magnifiquement parée. Il y avoit un tres riche Dais sous lequel estoit un Portrait
-          du Roy en Pastel. Il fut admiré de tout le monde. C'est le dernier du mesme M<hi
-            rend="sup">r</hi> de Nanteüil, &amp; l’un des plus ressemblans, &amp; des plus beaux qui
+          du Roy en Pastel. Il fut admiré de tout le monde. C'est le dernier du mesme M<hi rend="sup">r</hi> de Nanteüil, &amp; l’un des plus ressemblans, &amp; des plus beaux qui
           ait encor esté fait. La Bordure de ce Pastel estoit toute de Glace, enrichie de Couronnes,
           de Plaques, &amp; de Festons de vermeil doré, le tout d’un tres-beau travail. Les
           Tapissseries estoient parsemées de Fleurs de Lys, avec les Armes de France au milieu de
@@ -1475,8 +1393,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
           ce dernier dans le mesme ordre de parure, à l’exception des couleurs, leurs Plumes estant
           rouges, blanches, gris-de-lin &amp; bleu, &amp; leurs Casaques rouges, avec un gros galon
           d’or. Leurs Chevaux magnifiquement enharnachez, avoient sur leurs Housses les Chifres
-          &amp; les Devises de S. A. R. La Compagnie des Cuirassiers de M. R. suivoit. M<hi
-            rend="sup">r</hi> le Comte de Visc en est Capitaine, M<hi rend="sup">r</hi> de Cagnol
+          &amp; les Devises de S. A. R. La Compagnie des Cuirassiers de M. R. suivoit. M<hi rend="sup">r</hi> le Comte de Visc en est Capitaine, M<hi rend="sup">r</hi> de Cagnol
           Lieutenant, &amp; M<hi rend="sup">r</hi> le Baron d’Alemagne Cornete. Ces deux derniers ne
           s’y estant point trouvez, la Compagnie eut à sa teste M<hi rend="sup">r</hi> le Baron de
           Palavesin, Lieutenant de celle des Arquebusiers de M. R. Ils estoient armez de leurs
@@ -1486,8 +1403,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
           estoient ornez de la mesme maniere que ceux des Arquebusiers de M. R. &amp; leurs Chevaux
           parez de la mesme sorte. Apres cette Compagnie, marchoit celle des Cuirassiers de S. A. R.
           dont M<hi rend="sup">r</hi> le Comte Augustin des Lances, Chevalier de l’Ordre, est
-          Capitaine ; M<hi rend="sup">r</hi> le Comte Osasque de la Roque, Lieutenant ; &amp; M<hi
-            rend="sup">r</hi> le Marquis d’Entrayves-Tana, Cornete. Ces deux derniers estoient à la
+          Capitaine ; M<hi rend="sup">r</hi> le Comte Osasque de la Roque, Lieutenant ; &amp; M<hi rend="sup">r</hi> le Marquis d’Entrayves-Tana, Cornete. Ces deux derniers estoient à la
           teste, si remarquables par leurs Personnes, que malgré la richesse extraordinaire de leurs
           Habits, &amp; des Harnois de leurs Chevaux, ils ne firent rien tant considérer que leur
           bonne mine. Cette Compagnie estoit parée des mémes couleurs de S. A. R. que portoient les
@@ -1515,8 +1431,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
           Souverain à la garde duquel cette Compagnie est attachée. Les autres Carrosses suivoient,
           &amp; fermoient la Marche. Tout estant arrivé dans la Ville aux fanfares des Trompetes,
           &amp; au bruit des Tambours du Détachement du Regiment des Gardes qui estoit de garde ce
-          jour-là au Chasteau, &amp; qui se trouva alors sous les armes, M<hi rend="sup"
-          >r</hi> l’Ambassadeur fut conduit dans le Palais de M<hi rend="sup">r</hi> le Comte
+          jour-là au Chasteau, &amp; qui se trouva alors sous les armes, M<hi rend="sup">r</hi> l’Ambassadeur fut conduit dans le Palais de M<hi rend="sup">r</hi> le Comte
           Augustin des Lances. Apres qu’on l’y eut régalé pendant trois jours selon la coûtume, aux
           despens de S. A. R. on le vint prendre pour l’Audience, où il alla accompagné du mesme
           Chevalier de l’Ordre, &amp; précedé de M<hi rend="sup">r</hi> le Comte de Scaravel
@@ -1561,8 +1476,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
       <div type="article" xml:id="MG-1679-08_270" resp="mercure">
         <head>Le Singe &amp; le Miroir. Fable</head>
         <bibl><title>Mercure galant</title>, août 1679 [tome 8], p. 270-274.</bibl>
-        <p>Avant que de passer à d’autres Articles, il faut vous faire voir une Fable de M<hi
-            rend="sup">r</hi> Gardien, dont la Morale pourra estre utile à bien des Gens.</p>
+        <p>Avant que de passer à d’autres Articles, il faut vous faire voir une Fable de M<hi rend="sup">r</hi> Gardien, dont la Morale pourra estre utile à bien des Gens.</p>
         <quote>
           <label type="head">Le Singe <lb/>et le Miroir.</label>
           <label type="head">Fable.</label>
@@ -1717,8 +1631,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
             plus grands divertissemens que dans ces sortes de Spéctacles. L'on y fait aussi, mais
             beaucoup plus rarement, de certaines Courses, qu’on appelle <hi rend="i">Fiesta de
               Cañas</hi>, &amp; qui sont des restes de la Galanterie des anciens Grénadins. Il y en
-            eut une en présence du Roy &amp; de toute la Cour, dans la Place du <hi rend="i"
-              >Retiro</hi>, sur la fin du Mois de May dernier ; &amp; le lendemain il y eut un
+            eut une en présence du Roy &amp; de toute la Cour, dans la Place du <hi rend="i">Retiro</hi>, sur la fin du Mois de May dernier ; &amp; le lendemain il y eut un
             Combat de Taureaux qui réüssit admirablement. L'on en fit un autre quelque temps apres,
             pour le divertissement du Peuple, dans <hi rend="i">la Plaça Mayor</hi> : mais comme
             toutes ces choses ont déja perdu grace de la nouveauté, je me dispense de vous en faire
@@ -1821,8 +1734,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
             Feste galante, qui pust divertir Sa Majesté, &amp; luy témoigner en mesme temps le zele
             &amp; l’attachement particulier qu’ils avoient pour sa Personne.</p>
           <p>Ce fut dans ce dessein que soixante Personnes de qualité, la plûpart Grands d’Espagne,
-            &amp; du premier Rang, firent une Partie de Course, que les Espagnols appellent <hi
-              rend="i">Parejas</hi>, &amp; qui consiste à voir courre dans une parfaite égalité,
+            &amp; du premier Rang, firent une Partie de Course, que les Espagnols appellent <hi rend="i">Parejas</hi>, &amp; qui consiste à voir courre dans une parfaite égalité,
             &amp; à toute bride, deux Hommes à cheval, à costé l’un de l’autre, sans que l’un
             commence ou acheve à fournir la Carriere un seul moment plus-tost ou plus-tard que son
             Compagnon, &amp; sans qu’ils avancent ou demeurent en arriere d’un seul point l’un plus
@@ -1866,8 +1778,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
             obligées d’avoüer qu’elles l’entendent.</p>
           <p>Pour la Devise Italienne, elle devoit estre ainsi exprimée. <hi rend="i">Piú mi costa,
               e piú vale.</hi> Cette pensée a du raport aux inquiétudes que causoit à Sa Majesté le
-            retardement du Courrier, qui devoit apporter la Réponse à la Proposition de M<hi
-              rend="sup">r</hi> le Marquis de los Balbases.</p>
+            retardement du Courrier, qui devoit apporter la Réponse à la Proposition de M<hi rend="sup">r</hi> le Marquis de los Balbases.</p>
           <p>Je ne puis vous faire part des autres Devises, ne les ayant pû apprendre moy-mesme. Il
             seroit d’ailleurs assez inutile de vous entretenir d’un projet qu’on n’a point exécuté ;
             le peu de temps qu’on eut pour se préparer à cette Course, n’ayant pas permis de faire
@@ -1883,8 +1794,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
             couverts, aussi-bien que la qualité de ceux qu’ils portent, ils marchent d’un air à se
             faire admirer, &amp; à attirer sur leurs Maistres &amp; sur eux, les yeux de tous ceux
             qui les rencontrent.</p>
-          <p>Ce fut en ce magnifique état qu’on vit paroistre les Grands qui devoient courir <hi
-              rend="i">las Parejas</hi>. Ils s’assemblerent à leur rendez-vous, &amp; allerent de là
+          <p>Ce fut en ce magnifique état qu’on vit paroistre les Grands qui devoient courir <hi rend="i">las Parejas</hi>. Ils s’assemblerent à leur rendez-vous, &amp; allerent de là
             sur les neuf heures du soir à la Place du Palais. Ils marcherent en tres-bon ordre,
             suivis d’une infinité de Peuple, &amp; accompagnez d’un tres-grand nombre de Pages &amp;
             de Gens de livrée, qui portoient tous de grands Flambeaux de cire blanche, dont l’éclat
@@ -1895,8 +1805,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
             &amp; d’Etat, sont obligez par un Reglemement de Police, de faire allumer, à certaines
             heures, des Flambeaux de cire blanche, dans tous les Balcons de leurs Maisons qui font
             face à la Ruë ; ce qui fait un tres-bel effet par toute la Ville, à cause du grand
-            nombre de Balcons dont elle est ornée, &amp; c’est ce qui s’appelle icy <hi rend="i"
-              >Luminarias.</hi> On jugera aisément que ce soir-là personne ne voulut manquer à son
+            nombre de Balcons dont elle est ornée, &amp; c’est ce qui s’appelle icy <hi rend="i">Luminarias.</hi> On jugera aisément que ce soir-là personne ne voulut manquer à son
             devoir. Les plus petits Bourgeois mesme, &amp; les Gens de la moindre étofe, quoy que
             d’ailleurs dispensez de cette cerémonie, ne laisserent pas de vouloir estre de la Feste,
             &amp; de contribuer de leur costé à la réjoüissance publique, sans en plaindre la
@@ -1913,8 +1822,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
             misteres,</l>
           <l>Par ses ordres alloient dans toutes les Maisons,</l>
           <l>Leurs Flambeaux à la main, éclairer les Balcons.</l>
-          <p>Cependant l’illustre Compagnie qui devoit donner au Roy le divertissement de <hi
-              rend="i">Las Parejas</hi>, s’avançoit vers la Court du Palais, que l’on avoit préparée
+          <p>Cependant l’illustre Compagnie qui devoit donner au Roy le divertissement de <hi rend="i">Las Parejas</hi>, s’avançoit vers la Court du Palais, que l’on avoit préparée
             pour la Course. On avoit fait dresser deux rangs de Barrieres depuis le grand Portail
             vis-à-vis de la plus belle face de ce Palais, jusques à la Porte du milieu de la mesme
             face, qui se fait distinguer par le Balcon du Roy qu’on voit au dessus. C'estoit la
@@ -1981,8 +1889,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
             aller porter les Bijoux que le Roy doit envoyer à la Reyne.</p>
           <p>Sa Majesté qui est parfaitement bien à cheval, &amp; qui souffre la fatigue autant
             &amp; plus que personne de sa Maison, courut à son ordinaire, c’est à dire de la
-            meilleure grace du monde, &amp; avec une justesse incroyable, suivant les Loix de <hi
-              rend="i">las Parejas</hi>. Elle se fit admirer de tous ceux qui eurent l’honneur de la
+            meilleure grace du monde, &amp; avec une justesse incroyable, suivant les Loix de <hi rend="i">las Parejas</hi>. Elle se fit admirer de tous ceux qui eurent l’honneur de la
             voir en cette occasion ; &amp; tout le monde tomba d’accord, que sans avoir égard à son
             rang, ny au privilege de la Couronne, l’honneur &amp; l’avantage de la Course luy
             estoient deus.</p>
@@ -2026,8 +1933,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
       <div type="article" xml:id="MG-1679-08_310" resp="mercure">
         <head>[Le Duc de Pastrane part de Madrid pour venir en France]</head>
         <bibl><title>Mercure galant</title>, août 1679 [tome 8], p. 310-315.</bibl>
-        <p>Il est marqué sur la fin de cette Lettre<note resp="editor">Cf. <ref target="MG-1679-08_274"><hi
-          rend="i">Lettre de la Lorraine Espagnolete, touchant les Festes d’Espagne.</hi> </ref>.</note>, que M<hi rend="sup">r</hi> le Duc de Pastrane, ou de
+        <p>Il est marqué sur la fin de cette Lettre<note resp="editor">Cf. <ref target="MG-1679-08_274"><hi rend="i">Lettre de la Lorraine Espagnolete, touchant les Festes d’Espagne.</hi> </ref>.</note>, que M<hi rend="sup">r</hi> le Duc de Pastrane, ou de
           l’Infantade, (car il a droit de prendre l’un &amp; l’autre nom,) a esté choisy pour
           apporter les Présens que le Roy son Maistre envoye à Mademoiselle. Il partit le 30. de
           Juillet ; &amp; pour répondre plus galamment à l’impatience d’un jeune Monarque qui brûle
@@ -2046,8 +1952,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
           mine, que par la magnificence de son Habit. M<hi rend="sup">r</hi> le Comte de Saldagne,
           &amp; D. Gaspar de Sylva, alloient deux pas derriere luy, l’un &amp; l’autre tres-bien
           monté, &amp; fort galamment vestu. Douze ou quinze tant Gentilshommes qu’autres
-          Domestiques, les suivoient tous bien mis, &amp; reglant leur Course sur celle de M<hi
-            rend="sup">r</hi> l’Ambassadeur. S'ils fussent partis en plus grand nombre, ils auroient
+          Domestiques, les suivoient tous bien mis, &amp; reglant leur Course sur celle de M<hi rend="sup">r</hi> l’Ambassadeur. S'ils fussent partis en plus grand nombre, ils auroient
           mal representé des Gens qui devoient aller en poste. La Course commença à la Porte du
           Palais, d’où passant par les plus belles Ruës de Madrid, &amp; traversant <hi rend="i">la
             Plaça mayor</hi>, ils coururent le long de la grande Ruë, &amp; sortirent de la Ville
@@ -2140,8 +2045,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
           M. accompagné de M<hi rend="sup">r</hi> de Bonneüil Introducteur des Ambassadeurs. Il
           marcha dans le mesme ordre &amp; avec le mesme train que le jour de son Entrée à Paris. Je
           vous ay déjà marqué les Cerémonies qui s’observent à la Cour quand on y reçoit les
-          Ambassadeurs. Je ne les répete point, &amp; me contenteray de vous dire que M<hi
-            rend="sup">r</hi> le Duc de Luxembourg, Capitaine des Gardes du Corps, l’ayant conduit
+          Ambassadeurs. Je ne les répete point, &amp; me contenteray de vous dire que M<hi rend="sup">r</hi> le Duc de Luxembourg, Capitaine des Gardes du Corps, l’ayant conduit
           jusque dans la Chambre du Roy, S. M. le reçeut tres-favorablement. Il luy fit un fort beau
           discours sur la gloire immortelle qu’Elle s’est acquise tant par ses Conquestes que par la
           Paix qu’Elle vient de donner à l’Europe ; &amp; apres l’avoir félicitée sur tant d’heureux
@@ -2283,8 +2187,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
           <p rend="right">Moy, <hi rend="sc">Le Roy</hi>.<seg type="tab">    </seg></p>
         </quote>
         <p>Les Galanteries que ce Prince a faites depuis, ont confirmé tout ce qui s’est dit de la
-          force de son amour. Rien ne la fait mieux connoistre que l’ordre qu’il a donné à M<hi
-            rend="sup">r</hi> le Marquis de los Balbases, d’étudier les diférens gousts de
+          force de son amour. Rien ne la fait mieux connoistre que l’ordre qu’il a donné à M<hi rend="sup">r</hi> le Marquis de los Balbases, d’étudier les diférens gousts de
           Mademoiselle, de voir tout ce qu’elle aime, &amp; tout ce qui la divertit depuis le matin
           jusques au soir, afin que trouvant les mesmes choses en Espagne, elle ne s’aperçoive pas
           qu’elle ne soit plus en France. Madame de los Balbases voulant le servir dans sa passion,
@@ -2319,9 +2222,7 @@ Modifier index (écrit préalablement valiene) (corrigé)
           au Parlement, &amp; elles ont esté notées par M<hi rend="sup">r</hi> Labbé cy-devant
           Maistre de Musique de S. Jacques de Dieppe.</p>
         <quote>
-          <label type="head">CHANSON A BOIRE.</label><note resp="author" place="margin"><hi rend="i"
-              >Avis pour placer les Figures</hi> : la Chanson qui commence par <hi rend="i"
-              >Décoiffe-moy cette Bouteille</hi>, doit regarder la page 364.</note>
+          <label type="head">CHANSON A BOIRE.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par <hi rend="i">Décoiffe-moy cette Bouteille</hi>, doit regarder la page 364.</note>
           <lg>
             <l rend="i"><seg type="tab">    </seg>Decoiffe-moy cette Bouteille,</l>
             <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Je vais entamer ce
@@ -2360,5 +2261,4 @@ Modifier index (écrit préalablement valiene) (corrigé)
         <p rend="right i">A Paris ce 31. Aoust 1679. </p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

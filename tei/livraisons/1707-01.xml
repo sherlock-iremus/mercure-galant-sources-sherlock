@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1707-01">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, janvier 1707 [tome 1]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1707-01</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>janvier 1707</date> [tome 1].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1707-01"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, janvier 1707 [tome 1].</head>
       <div type="article" xml:id="MG-1707-01_023">
@@ -78,8 +14,7 @@
           vous parler, une Preface remplie de tres-belles reflexions. On lit ce qui suit dans cette
           Preface ; il est tiré de Mr de Viquefort. <hi rend="i">Machiavel dit presque par tout ce
             que les Princes font &amp; tout ce qu’ils devroient faire.</hi> Bacan a dit la même
-          chose dans son Livre de l’augmentation des Sciences. Mr de la Houssaye dit ensuite <hi
-            rend="i">qu’il est surprenant de voir que presque tout le monde croit que Machiavel
+          chose dans son Livre de l’augmentation des Sciences. Mr de la Houssaye dit ensuite <hi rend="i">qu’il est surprenant de voir que presque tout le monde croit que Machiavel
             apprend aux Princes une dangereuse Politique, puis qu’au contraire les Princes ont
             appris à Machiavel, ce qu’il a écrit. C’est l’Ecole du Monde &amp; l’observation de ce
             qui s’y passe</hi>, continuë-t-il, <hi rend="i">&amp; non pas une creuse meditation de
@@ -295,8 +230,7 @@
           estre regardé comme une Biblioteque vivante, jamais personne n’ayant lû davantage, n’ayant
           plus retenu, &amp; n’ayant fait un meilleur usage de sa lecture. On peut dire qu’il a
           beaucoup de genie, &amp; l’invention qui se trouve dans ses ouvrages en est une preuve.
-          Aprés, dis-je, vous avoir parlé de ces deux Auteurs, je dois vous entretenir de M<hi
-            rend="sup">r</hi> Moreau de Mautour, qui est de l’Academie des Medailles &amp;
+          Aprés, dis-je, vous avoir parlé de ces deux Auteurs, je dois vous entretenir de M<hi rend="sup">r</hi> Moreau de Mautour, qui est de l’Academie des Medailles &amp;
           Inscriptions, depuis qu’elle a été augmentée &amp; mise en regle. Il vient de donner au
           public un Livre intitulé, <hi rend="i">Dissertation sur une Figure de bronze trouvée dans
             un Tombeau, &amp; qui represente une Divinité des Anciens</hi>. Ce Tombeau fut découvert
@@ -369,8 +303,7 @@
           Tournay la luy confera le jour de Noël suivant, dans l’Eglise Paroissiale de Saint Maurice
           de Lille. Ce Prince resolut en mesme temps de celebrer sa premiere Messe le premier jour
           de cette année dans l’Eglise des Peres Jesuites de la mesme Ville ; il écrivit à Mr
-          l’Electeur de Baviere, pour le prier d’y assister, &amp; ce Prince luy répondit <hi
-            rend="i">que non-seulement il vouloit avoir cette satisfaction, mais mesme la
+          l’Electeur de Baviere, pour le prier d’y assister, &amp; ce Prince luy répondit <hi rend="i">que non-seulement il vouloit avoir cette satisfaction, mais mesme la
             consolation de communier ce jour-là de sa main</hi>. Son Altesse Electorale de Cologne
           fit donner part au Roy, par son Envoyé, du jour qu’elle avoit pris pour dire sa premiere
           Messe, &amp; fit prier Sa Majesté de vouloir bien nommer quelqu’un pour assister de sa
@@ -615,8 +548,7 @@
           Garde vint, &amp; ayant remarqué que quelques signes qui devoient preceder l’accouchement
           avoient paru, elle luy donna les choses dont elle avoit besoin. Madame Quentin, premiere
           femme de Chambre, s’étant levée avec toute la diligence imaginable dés l’instant qu’elle
-          eut apris ce qui se passoit, donna ordre qu’on allast querir M<hi rend="sup"
-          >r</hi> Clement. On dit chez luy qu’il étoit à la Messe aux Recolets, où on l’envoya
+          eut apris ce qui se passoit, donna ordre qu’on allast querir M<hi rend="sup">r</hi> Clement. On dit chez luy qu’il étoit à la Messe aux Recolets, où on l’envoya
           chercher, &amp; il se rendit aussi-tost dans la Chambre de Madame la Duchesse de
           Bourgogne. Madame la Duchesse du Lude, Dame d’honneur, qui avoit donné de bons ordres pour
           estre avertie de tout ce qui se passeroit, arriva un instant aprés, &amp; Monseigneur le
@@ -654,8 +586,7 @@
           cheveux noirs, &amp; plus longs que les enfans ne les ont ordinairement en naissant. Sur
           les huit heures &amp; demie, Madame la Duchesse de Bourgogne &amp; le Prince son fils,
           étant en bon état, Madame la Maréchale de la Mothe se mit dans la Chaise du Roy, &amp;
-          ayant le Prince sur ses genoux, Sa Majesté dit à Mr le Maréchal de Bouflers, <hi rend="i"
-            >Mr le Maréchal faites vostre charge, &amp; conduisez Monsieur le Duc de Bretagne chez
+          ayant le Prince sur ses genoux, Sa Majesté dit à Mr le Maréchal de Bouflers, <hi rend="i">Mr le Maréchal faites vostre charge, &amp; conduisez Monsieur le Duc de Bretagne chez
             luy</hi>, &amp; toute la Cour retentit alors du nom de <hi rend="i">Monseigneur le Duc
             de Bretagne</hi>. Les Gardes étoient par tout sous les Armes, &amp; la Chaise étoit
           précedée d’un détachement de Gardes du Corps &amp; de Cent-Suisses ; environnée d’un grand
@@ -704,8 +635,7 @@
           grande Collation ; outre les feux de bois dont toute la Ville fut remplie, il y eut des
           Feux d’artifice dans plusieurs Quartiers ; mais comme ce détail me meneroit trop loin, je
           vous parleray seulement d’un seul, fait par un simple particulier, afin que vous jugiez
-          par là de ce que peuvent avoir fait ceux d’un rang plus élevé. Ce particulier est M<hi
-            rend="sup">r</hi> Cadot, qui loge dans la ruë de l’Arbre-sec. La machine de ce feu qui
+          par là de ce que peuvent avoir fait ceux d’un rang plus élevé. Ce particulier est M<hi rend="sup">r</hi> Cadot, qui loge dans la ruë de l’Arbre-sec. La machine de ce feu qui
           estoit suspendu, alloit jusqu’au quatriéme étage de la maison la plus haute, &amp; il s’en
           falloit douze pieds que le bas ne touchast à terre. Ce feu commença à tirer par le bas,
           &amp; l’artifice ne cessa point de sortir en abondance jusqu’au plus haut de la machine.
@@ -714,8 +644,7 @@
           Dauphin entouré de palmes &amp; de lauriers, autour desquels on lisoit les paroles
           suivantes : <hi rend="i">Portum juvat ille subire</hi> ; le Corps de la troisiéme estoit
           un Soleil levant, avec ces paroles : <hi rend="i">Lætitiam pacem que fero</hi> ; &amp; la
-          quatriéme avoit pour Corps une Toison d’or, au dessus de laquelle on lisoit : <hi rend="i"
-            >Mitis amator.</hi></p>
+          quatriéme avoit pour Corps une Toison d’or, au dessus de laquelle on lisoit : <hi rend="i">Mitis amator.</hi></p>
         <p>Je ne vous diray rien davantage de ces quatre Devises, dont l’application est aisée à
           faire.</p>
       </div>
@@ -764,8 +693,7 @@
           qu’elle devoit la naissance du Prince qu’elle avoit tant desiré. C’est pourquoy les
           Chanoines Reguliers dépositaires de ses pretieuses Reliques, ayant cru en devoir rendre à
           Dieu des actions de graces publiques, ils choisirent pour cette solemnité le 10. Janvier,
-          jour auquel on celebre l’Octave de la Feste de Ste Geneviéve ; ils chanterent le <hi
-            rend="i">Te Deum</hi> sur les cinq heures du soir ; Mr l’Abbé de Ste Geneviéve y officia
+          jour auquel on celebre l’Octave de la Feste de Ste Geneviéve ; ils chanterent le <hi rend="i">Te Deum</hi> sur les cinq heures du soir ; Mr l’Abbé de Ste Geneviéve y officia
           Pontificalement, &amp; il eut la joye de voir tout le grand peuple qui se trouva à cette
           ceremonie, se faire un devoir, comme luy, de continuer de demander à Dieu par les merites
           de Ste Geneviéve la conservation de la personne sacrée de Sa Majesté &amp; de toute la
@@ -849,5 +777,4 @@
         </quote>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

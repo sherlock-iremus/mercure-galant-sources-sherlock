@@ -1,64 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, mai 1680 [tome 7]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2015"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1680-05/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, mai <date>1680</date> [tome 7].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1680-05"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1680-05_034" resp="mercure">
         <head>Air nouveau</head>
@@ -169,8 +109,7 @@
           personne qui n’y applaudist. Ainsi le second jour de May approchant, tous ceux qui en
           devoient estre, songerent à un Equipage galant, &amp; chercherent les meilleurs &amp; les
           plus vîtes Chevaux qu’ils pûrent trouver dans la Province. Ce jour arrivé, ils se
-          rendirent le matin à l’Hôtel de Ville, fort propres, &amp; montez superbement. M<hi
-            rend="sup">r</hi> Lescot, Conseiller au Baillage, estoit à leur teste. Là, ayant reçeu
+          rendirent le matin à l’Hôtel de Ville, fort propres, &amp; montez superbement. M<hi rend="sup">r</hi> Lescot, Conseiller au Baillage, estoit à leur teste. Là, ayant reçeu
           du Maire la Couronne qui devoit estre le prix de la Course, ils la firent porter devant
           eux à la Procession genérale à laquelle ils assisterent, &amp; la remirent en suite dans
           la Maison de Ville, où elle demeura exposée jusques à trois heures apres midy. Alors les
@@ -298,8 +237,7 @@
           &amp; plusieurs Pages portant des Flambeaux de cire blanche, armoiriez aussi-bien que les
           Bâtons des Maréchaux, precédoient ce Chariot. Quantité de Gentilhommes portant aussi des
           Flambeaux, marchoient à costé avec des Trabans, dont les Pertuisanes estoient renversées.
-          On voyoit en suite M<hi rend="sup">r</hi> l’Evesque d’Osnabrug, précedé de M<hi rend="sup"
-            >r</hi> de Platen Grand Maréchal de la Cour, &amp; de deux des premiers Officiers de sa
+          On voyoit en suite M<hi rend="sup">r</hi> l’Evesque d’Osnabrug, précedé de M<hi rend="sup">r</hi> de Platen Grand Maréchal de la Cour, &amp; de deux des premiers Officiers de sa
           Maison. Il estoit environné de ses Trabans, ayant de larges Pertuisanes dorées. Deux
           Gentilshommes de la Chambre luy portoient la queuë. Tout proche, marchoient les jeunes
           Princes Maximilien &amp; Charles ses Fils, ayant leur Gouverneur à costé gauche un peu
@@ -339,8 +277,7 @@
           magnificence digne du haut rang qu’il tient. On le peut voir par les dépenses de cette
           Pompe Funebre, qui ont esté de plus de cent mille écus. La considération qu’il a euë pour
           les Officiers du feu Duc son Frere, est une marque de l’estime qu’il fait de sa mémoire.
-          Ils ont esté presque tous retenus à son service. Les deux plus considérables sont M<hi
-            rend="sup">rs</hi> de Grotte &amp; de Witzendorf. Il a donné au premier, qui est un des
+          Ils ont esté presque tous retenus à son service. Les deux plus considérables sont M<hi rend="sup">rs</hi> de Grotte &amp; de Witzendorf. Il a donné au premier, qui est un des
           plus habiles &amp; des plus intelligens Ministres de nostre temps, la qualité de son
           Ministre d’Etat, avec de grosses Pensions, &amp; le Gouvernement du Duché de Grubenhague.
           Il a aussi donné au second, de tres-fortes Pensions, &amp; l’a conservé dans son ancien
@@ -377,8 +314,7 @@
           présentement grande compagnie. M<hi rend="sup">r</hi> de Louvoys en prend, aussi-bien que
             M<hi rend="sup">r</hi> le Maréchal de la Ferté, M<hi rend="sup">r</hi> de la Vrilliere
           Secretaire d’Etat, Madame la Duchesse de Brissac, Madame la Comtesse de Tonaycharente,
-          Madame de Langlée, Mesdemoiselles de Rubel, Mademoiselle de Phelippeaux, M<hi rend="sup"
-            >r</hi> de Coulanges Maistre des Requestes, M<hi rend="sup">r</hi> de Pommereüil, &amp;
+          Madame de Langlée, Mesdemoiselles de Rubel, Mademoiselle de Phelippeaux, M<hi rend="sup">r</hi> de Coulanges Maistre des Requestes, M<hi rend="sup">r</hi> de Pommereüil, &amp;
           plusieurs autres Personnes considérables de l’un &amp; de l’autre Sexe. Tous les plaisirs
           s’y rencontrent, les Violons, les Parties de Jeu, la bonne chere, &amp; enfin tout ce qui
           peut divertir agreablement d’illustres Malades, qui ont assez de santé pour chercher la
@@ -408,8 +344,7 @@
           Vazes, la plûpart d’argent ou de vermeil doré. Les plus agreables Fleurs de la Saison
           remplissoient ces Pots. La propreté, la galanterie, &amp; la magnificence de toutes ces
           Chambres, ayant esté admirées, le Roy passa dans la Galerie. Vous sçavez, Madame, qu’on la
-          regarde comme une merveille, &amp; qu’elle a esté peinte par le fameux M<hi rend="sup"
-            >r</hi> Mignard de Rome. On l’appelle ainsi, quoy qu’il soit François, à cause du long
+          regarde comme une merveille, &amp; qu’elle a esté peinte par le fameux M<hi rend="sup">r</hi> Mignard de Rome. On l’appelle ainsi, quoy qu’il soit François, à cause du long
           sejour qu’il a fait en Italie. Ce grand Ouvrage est assurément un chef-d’œuvre de
           Peinture. Ce seroit icy le lieu de vous en faire la description, si d’autres Articles ne
           m’obligeoient à la remettre jusqu’au mois prochain. Comme les chaleurs de cette journée
@@ -419,11 +354,8 @@
           Dauphine prit Monsieur. Monsieur alla prendre Madame la Princesse de Conty. Madame la
           Princesse de Conty prit Monseigneur, &amp; Monseigneur prit Madame. Ceux qui danserent en
           suite, furent, du costé des Hommes, Messieurs les Princes de Conty &amp; de la
-          Roche-sur-Yon, M<hi rend="sup">rs</hi> les Comtes d’Armagnac &amp; de Brionne, M<hi
-            rend="sup">r</hi> le Chevalier de Lorraine, M<hi rend="sup">r</hi> les Ducs de la
-          Trémoüille &amp; de Gramont, M<hi rend="sup">r</hi> le Marquis de Biran, M<hi rend="sup"
-            >r</hi> le Comte de Tonnerre, M<hi rend="sup">r</hi> le Marquis de Gondrin, &amp; M<hi
-            rend="sup">r</hi> le Chevalier de Chastillon. Du costé des Dames, Mesdames les Duchesses
+          Roche-sur-Yon, M<hi rend="sup">rs</hi> les Comtes d’Armagnac &amp; de Brionne, M<hi rend="sup">r</hi> le Chevalier de Lorraine, M<hi rend="sup">r</hi> les Ducs de la
+          Trémoüille &amp; de Gramont, M<hi rend="sup">r</hi> le Marquis de Biran, M<hi rend="sup">r</hi> le Comte de Tonnerre, M<hi rend="sup">r</hi> le Marquis de Gondrin, &amp; M<hi rend="sup">r</hi> le Chevalier de Chastillon. Du costé des Dames, Mesdames les Duchesses
           de Foix, de la Trémoüille &amp; de Mortemar, Madame la Marquise de Segnelay, Madame de
           Grancé, &amp; Mesdemoiselles de Laval, Chasteautiers, Potier, &amp; Clisson.</p>
         <p>La Dance ayant finy sur les sept heures du soir, le Roy monta en Caleche, avec la Reyne à
@@ -494,5 +426,4 @@
         </ref>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

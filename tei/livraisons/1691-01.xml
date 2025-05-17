@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1691-01">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, janvier 1691 [tome 1]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1691-01</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>janvier 1691</date> [tome 1].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1691-01"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, janvier 1691 [tome 1].</head>
       <div type="article" xml:id="MG-1691-01_000" resp="wordpro">
@@ -175,8 +111,7 @@
         <p>Je vous envoye une Eglogue qui a charmé tous ceux qui l’ont ouy lire, &amp; dans laquelle
           vous trouverez des loüanges pour le Roy aussi delicates que spirituelles.</p>
         <quote>
-          <label>LA CONQUESTE<lb/>de la Savoye.<lb/><hi rend="i">EGLOGUE.</hi><lb/>A M<hi rend="sup"
-              >r</hi> de Belloc, Valet de Chambre ordinaire du Roy, Porte-manteau de la feuë
+          <label>LA CONQUESTE<lb/>de la Savoye.<lb/><hi rend="i">EGLOGUE.</hi><lb/>A M<hi rend="sup">r</hi> de Belloc, Valet de Chambre ordinaire du Roy, Porte-manteau de la feuë
             Reine.</label>
           <lg>
             <l rend="i">O toy, dont l’amitié me console sans peine</l>
@@ -745,8 +680,7 @@
               Dieu, que les Princes de l’Auguste Maison de France font gloire de flechir les genoux.
               Le Sang dont ils ont l’honneur de sortir tient un si haut rang parmy les Monarques de
               la Terre, qu’ils naissent pour soumettre les autres Puissances, &amp; pour n’estre
-              soumis que devant le Roy des Rois. Que cette soumission</hi>, Monseigneur, <hi
-              rend="i">vous acquiert de gloire, &amp; que le Divin Enfant qui prévoit l’ingratitude
+              soumis que devant le Roy des Rois. Que cette soumission</hi>, Monseigneur, <hi rend="i">vous acquiert de gloire, &amp; que le Divin Enfant qui prévoit l’ingratitude
               des hommes qu’il rachete par l’excés de son amour, trouve de consolation dans la
               sainte impatience que vous avez de le recevoir ! La pieuse Reine à qui V. A. R. doit
               le jour, &amp; dont les vertus ont merité de la justice de Dieu une Couronne
@@ -1040,8 +974,7 @@
               nouvelles, qui ne peuvent subsister que dans une révolution generale, comme celle que
               nous voyons presentement, &amp; qu’il auroit luy-mesme un interest pressant de
               détruire, s’il devenoit paisible possesseur de la Couronne. Voila le titre de sa
-              naissance ; celuy de sa vertu est à peu prés aussi bon. Mais quand M<hi rend="sup"
-                >r</hi> de la Tour parle de</hi> vertu, <hi rend="i">ou il n’en connoist pas le nom,
+              naissance ; celuy de sa vertu est à peu prés aussi bon. Mais quand M<hi rend="sup">r</hi> de la Tour parle de</hi> vertu, <hi rend="i">ou il n’en connoist pas le nom,
               ou il l’employe dans cette signification vaste de la Langue Italienne, qui comprend la
               vertu &amp; le vice, l’industrie bonne ou mauvaise, &amp; qui ne convient pas plus au
               Heros, qu’au Joüeur de gobelets &amp; au Coupeur de bourses. Il est vray que quand des
@@ -1138,8 +1071,7 @@
               de la verité de la Religion &amp; des Commandemens de Dieu, qu’il renverse. Jugez donc
               de ce que nous devons penser, quand on n’a point d’autres miracles à nous
               alleguer</hi>, que les merveilleux commencemens de son regne, qui sont des présages
-            assurez des benedictions que le Ciel prepare à la droiture de ses intentions. <hi
-              rend="i">Ces commencemens n’ont rien de miraculeux, puis qu’il n’y a rien de plus
+            assurez des benedictions que le Ciel prepare à la droiture de ses intentions. <hi rend="i">Ces commencemens n’ont rien de miraculeux, puis qu’il n’y a rien de plus
               éloigné du miracle, que de voir les Anglois revoltez sans sujet contre leurs Rois
               legitimes. C’en seroit un de les voir fidelles &amp; contents du meilleur état de
               leurs affaires. Les autres effets miraculeux &amp; les benedictions que ce Heros leur
@@ -1156,8 +1088,7 @@
               la droiture des intentions d’un homme, qui a une conscience pour l’Angleterre, une
               pour l’Ecosse, une pour la Hollande, &amp; une pour les Pays Etrangers. Croyez-vous
               qu’il y ait quelque Fanatique assez hors de sens, pour demander à Dieu une Fille
-              semblable à cette Princesse</hi>, qui fait monter avec elle la vertu sur le Trône, <hi
-              rend="i">comme luy a dit le President de la Tour ? Croyez-vous que les Flamans, les
+              semblable à cette Princesse</hi>, qui fait monter avec elle la vertu sur le Trône, <hi rend="i">comme luy a dit le President de la Tour ? Croyez-vous que les Flamans, les
               Hollandois, les Allemans s’accommodent long-temps des benedictions que leur a attirées
               le commencement de ce glorieux regne : &amp; que les Anglois ne soient pas fort las de
               celles dont il les a comblez ? Vous en sçavez assez de nouvelles. Vous avez veu l’état
@@ -1225,8 +1156,7 @@
               l’union de plusieurs Princes, dont les interests n’ayant jamais esté les mesmes,
               peuvent se separer avec plus de facilité qu’il n’y en a eu à les réunir. Il seroit
               difficile, comme il dit, d’expliquer les causes de cet applaudissement si on les
-              examinoit serieusement : mais il n’est pas difficile de le sentir</hi>, (<hi rend="i"
-              >la pensée est aussi nouvelle que la phrase</hi>) : <hi rend="i">car il ne faut avoir
+              examinoit serieusement : mais il n’est pas difficile de le sentir</hi>, (<hi rend="i">la pensée est aussi nouvelle que la phrase</hi>) : <hi rend="i">car il ne faut avoir
               que des oreilles. Pour la cause, comment n’auroit-on pas ry d’une telle Harangue
               prononcée par un homme d’une figure peu propre à attirer le respect, &amp; qui dit
               autant d’impertinences que de paroles ? Je laisse le reste de ces reflexions qui
@@ -1240,8 +1170,7 @@
             l’admiration. (<hi rend="i">Cela n’est pas toujours vray, &amp; s’il veut parler du
               Prince d’Orange, rien n’est plus faux, si ce n’est que par ces grands sentimens, il ne
               veüille entendre ce que Machiavel appelle</hi>, Esser honorevolmente tristo.) Et la
-            vertu n’est jamais si belle, que lors qu’elle éclate avec la dignité souveraine. <hi
-              rend="i">Voilà assurement une belle maxime, selon laquelle la vertu aura besoin
+            vertu n’est jamais si belle, que lors qu’elle éclate avec la dignité souveraine. <hi rend="i">Voilà assurement une belle maxime, selon laquelle la vertu aura besoin
               d’estre soutenuë de la fortune ; mais il n’a pas tant de tort en l’appliquant à son
               Heros à qui une pareille dignité estoit necessaire, non pas pour estre, mais pour
               paroistre vertueux à ceux qui peuvent envier sa grandeur ; mais qui ne luy envieront
@@ -1255,15 +1184,13 @@
               un Prince tributaire ; mais enfin quel rapport ont tous ses grands axiomes qui ne sont
               que des jeux de mots avec la Harangue du President de la Tour, dans laquelle il ne
               paroist ny Religion, ny vertu, ny grandeur, ny sens commun ? Il faudra le chercher en
-              d’autres choses qu’il dit que</hi> l’imagination des Lecteurs suppléra. <hi rend="i"
-              >C’est donc à l’imagination qu’il faut avoir recours, pour y trouver toutes ces
+              d’autres choses qu’il dit que</hi> l’imagination des Lecteurs suppléra. <hi rend="i">C’est donc à l’imagination qu’il faut avoir recours, pour y trouver toutes ces
               merveilles : car assurement le jugement &amp; la droite raison n’y trouvent rien que
               d’abominable &amp; de ridicule. Je suis persuadé, Monsieur, que quelque interest que
               vostre état present vous fasse prendre à la fortune du Prince d’Orange, vous avez fait
               de cette piece le mesme jugement que nous, &amp; vous conviendrez, comme je crois, que
               cette proposition est un peu plus vraye que celle de vostre Politique</hi>, que
-            quelque coruption qu’il y ait parmi les hommes, des sentimens aussi bas attirent <hi
-              rend="i">le mépris &amp; l’indignation, &amp; que la bassesse n’est jamais plus grande
+            quelque coruption qu’il y ait parmi les hommes, des sentimens aussi bas attirent <hi rend="i">le mépris &amp; l’indignation, &amp; que la bassesse n’est jamais plus grande
               que quand elle est faite par un Souverain à un Usurpateur. Je suis.</hi></p>
           <p>Le 1. Janvier 1691.</p>
         </quote>
@@ -1333,8 +1260,7 @@
           continuerent les versets alternativement, &amp; ensuite ils proposerent l’élection. On
           convint de la voye du Scrutin par Billets, sur lesquels estoient écrits de la main du
           Greffier, les noms de tous les Chanoines. Ces noms ayant esté distribuez en presence de
-          deux Officiers de l’Eglise qu’on appella pour témoins, on dit encore une fois le <hi
-            rend="i">Veni Creator</hi>, à genoux, &amp; ensuite chacun selon son rang de reception
+          deux Officiers de l’Eglise qu’on appella pour témoins, on dit encore une fois le <hi rend="i">Veni Creator</hi>, à genoux, &amp; ensuite chacun selon son rang de reception
           passa devant le Bureau, &amp; mit dans la bourse son nom plié. On compta les noms, &amp; à
           l’ouverture faite en presence des Chanoines &amp; des Témoins, tous debout autour du
           Bureau, il se trouva que M<hi rend="sup">r</hi> d’Aquin, l’un des Chanoines, &amp; Abbé
@@ -1369,14 +1295,12 @@
           pusse vous faire voir que la pieté y accompagne l’ordre. Le Chapitre de S. Thomas du
           Louvre vit avec une regularité qui peut servit d’exemple à beaucoup d’autres. L’union
           regne parmy ses Chanoines, &amp; quand il a esté question de faire un Doyen, ils se sont
-          trouvez tous dignes de remplir cette place. Ainsi il a esté beaucoup plus glorieux à M<hi
-            rend="sup">r</hi> d’Aquin de l’emporter sur tant de personnes de merite. Le sien seul a
+          trouvez tous dignes de remplir cette place. Ainsi il a esté beaucoup plus glorieux à M<hi rend="sup">r</hi> d’Aquin de l’emporter sur tant de personnes de merite. Le sien seul a
           sollicité pour luy, &amp; l’on n’en doutera pas quand on songera que l’Election s’est
           faite le lendemain de la mort du feu Doyen. M<hi rend="sup">r</hi> d’Aquin est Frere de
             M<hi rend="sup">r</hi> d’Aquin, premier Medecin du Roy, &amp; pendant tout le temps
           qu’il a esté Chanoine, il s’est acquis l’estime de ses Confreres, avec une distinction qui
-          luy a fait meriter le choix qu’ils ont fait pour le mettre à leur teste. M<hi rend="sup"
-            >r</hi> Champin dont il remplit à present la place, s’estoit aussi acquis beaucoup
+          luy a fait meriter le choix qu’ils ont fait pour le mettre à leur teste. M<hi rend="sup">r</hi> Champin dont il remplit à present la place, s’estoit aussi acquis beaucoup
           d’estime parmy eux. Il estoit Cousin de M<hi rend="sup">r</hi> Talon, cy devant Avocat
           General, &amp; presentement President à Mortier.</p>
       </div>
@@ -1402,8 +1326,7 @@
         <p/>
         <p>Le Dimanche 29, les rejoüissances furent faites à Quebec avec beaucoup d’appareil. Le
           grand Pavillon de l’Amiral, &amp; un autre que Mr de Porneuf avoit pris à l’Acadie, furent
-          portez à l’Eglise au son des Tambours. M<hi rend="sup">r</hi> l’Evesque y chanta le <hi
-            rend="i">Te Deum</hi>, &amp; l’on fit ensuite une Procession solemnelle en l’honneur de
+          portez à l’Eglise au son des Tambours. M<hi rend="sup">r</hi> l’Evesque y chanta le <hi rend="i">Te Deum</hi>, &amp; l’on fit ensuite une Procession solemnelle en l’honneur de
           la Vierge, Patronne du Pays. Toutes les troupes estoient sous les armes. On a institué à
           perpetuité une Feste sous le nom de Nostre-Dame des Victoires, &amp; l’Eglise que l’on a
           commencée à la Basse-Ville est dediée sous ce même nom, pour estre une marque éternelle de
@@ -1452,8 +1375,7 @@
         <bibl><title>Mercure galant</title>, janvier 1691 [tome 1], p. 335-337.</bibl>
         <p/>
         <p>M<hi rend="sup">r</hi> du Bois, qui s’est acquis tant de gloire par son excellente
-          traduction des Lettres de S. Augustin, nous a donné depuis peu de temps celles <hi
-            rend="i">des Offices de Ciceron</hi>. Il l’a faite sur la nouvelle Edition Latine de
+          traduction des Lettres de S. Augustin, nous a donné depuis peu de temps celles <hi rend="i">des Offices de Ciceron</hi>. Il l’a faite sur la nouvelle Edition Latine de
           Grœvius, &amp; il l’a divisée comme luy par Chapitres, afin de soulager le Lecteur, avec
           des Sommaires à la teste de chaque Chapitre. Cette Traduction est fort estimée, &amp; on
           peut tirer une fort grande utilité des Notes dont elle est accompagnée. Les plus
@@ -1468,5 +1390,4 @@
           &amp; chez le S<hi rend="sup">r</hi> Guerout, Galerie neuve du Palais.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

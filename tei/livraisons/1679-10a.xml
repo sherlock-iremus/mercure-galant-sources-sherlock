@@ -1,65 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, octobre 1679 (première partie) [tome 10]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2015"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1679-10a/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, octobre <date>1679</date> (première partie) [tome
-          10].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1679-10"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1679-10a_003" resp="mercure">
         <head>[Lettre de la Lorraine Espagnolete, sur les rêjoüissance faites à Madrid, &amp; sur la
@@ -221,8 +160,7 @@
         <p>Tout ce que cette belle &amp; spirituelle Personne m’envoye, est si finement tourné, que
           quelques-uns de nos beaux Esprits ayant peine à croire qu’on puisse écrire si purement
           François en Espagne, veulent se persuader que ses Lettres sont Lettres écrites icy à
-          plaisir. Mais outre que je vous ay déja dit qu’elles me sont renduës par M<hi rend="sup"
-            >r</hi> Vankessel, dont on sçait le grand commerce par tout, il ne faut que faire
+          plaisir. Mais outre que je vous ay déja dit qu’elles me sont renduës par M<hi rend="sup">r</hi> Vankessel, dont on sçait le grand commerce par tout, il ne faut que faire
           refléxion sur les matieres dont elles traitent. Elles sont remplies de trop de
           circonstances, qu’il est presque impossible d’imaginer, pour ne venir pas du lieu qu’elles
           marquent. Ce que vous venez de lire de la maladie &amp; de la mort de Dom Jean en est une
@@ -290,8 +228,7 @@
           <l>Nous allons enchanter par des accords plus doux,</l>
           <l><seg type="tab">    </seg>Cette illustre Carriere.</l>
           <label type="head">Troisieme embleme.</label>
-          <p>Des Abeilles qui se servent d’un Casque comme d’une Ruche, avec ces mots, <hi rend="i"
-              >Dabit haec quoque dulcia nobis</hi>.</p>
+          <p>Des Abeilles qui se servent d’un Casque comme d’une Ruche, avec ces mots, <hi rend="i">Dabit haec quoque dulcia nobis</hi>.</p>
           <l>Nous nous plaisons au bruit dans les temps les plus calmes,</l>
           <l>L’Image de la Guerre a des charmes pour nous ;</l>
           <l>Sans en souffrir les maux, nous y cueillons des Palmes,</l>
@@ -433,7 +370,7 @@
             <l rend="i"><seg type="tab">    </seg>Ont-ils bien consulté le vostre ?</l>
           </lg>
         </quote>
-        <p>Le tour aisé de ces Vers méritoit bien qu’un grand Maistre les fist chanter. Tout ce que vous avez veu de cet Autheur a toûjours esté de vostre goust, &amp; je croy que vous apprendrez avec beaucoup de plaisir qu’il promet de me donner ses Airs tous les Mois. Ce sera un embellissement pour mes Lettres où vous les aurez corrects, au lieu qu’en les surprenant comme on fait, pour les insérer dans les Livres de diférens Autheurs, on les défigure par mille fautes<note resp="editor" ><ref target="MG-1679-11_1679">Cet article</ref> et <ref target="MG-1679-09e_278">celui-ci</ref> font allusion à cette contrefaçon</note>. Cela se peut remarquer mesme dans celuy qu’on a imprimé cette année, intitulé, <hi rend="i">Premier Livre d’Airs sérieux &amp; à boire, de diférens Autheurs</hi>. Ce Livre n’est à proprement parler que son <hi rend="i">Journal des Nouveautez du Chant</hi> de 1678. qui se vendoit chaque Mois en petits Cayers, &amp; qu’on vend présentement relié en deux Volumes chez les Sieurs de Luyne &amp; Blageart, avec ses seconds Couplets en diminution ; le tout gravé au Burin.</p>
+        <p>Le tour aisé de ces Vers méritoit bien qu’un grand Maistre les fist chanter. Tout ce que vous avez veu de cet Autheur a toûjours esté de vostre goust, &amp; je croy que vous apprendrez avec beaucoup de plaisir qu’il promet de me donner ses Airs tous les Mois. Ce sera un embellissement pour mes Lettres où vous les aurez corrects, au lieu qu’en les surprenant comme on fait, pour les insérer dans les Livres de diférens Autheurs, on les défigure par mille fautes<note resp="editor"><ref target="MG-1679-11_1679">Cet article</ref> et <ref target="MG-1679-09e_278">celui-ci</ref> font allusion à cette contrefaçon</note>. Cela se peut remarquer mesme dans celuy qu’on a imprimé cette année, intitulé, <hi rend="i">Premier Livre d’Airs sérieux &amp; à boire, de diférens Autheurs</hi>. Ce Livre n’est à proprement parler que son <hi rend="i">Journal des Nouveautez du Chant</hi> de 1678. qui se vendoit chaque Mois en petits Cayers, &amp; qu’on vend présentement relié en deux Volumes chez les Sieurs de Luyne &amp; Blageart, avec ses seconds Couplets en diminution ; le tout gravé au Burin.</p>
         <ref target="images/1679-10a_098.JPG">
           <figure>
             <graphic url="images/1679-10a_098.JPG"/>
@@ -444,8 +381,7 @@
         <head>[Plusieurs Madrigaux contre une Vieille]</head>
         <bibl><title>Mercure galant</title>, octobre 1679 (première partie) [tome 10], p.
           102-105.</bibl>
-        <p>Voicy quatre Madrigaux que vous ne serez point fâchée de voir. Ils sont de M<hi
-            rend="sup">r</hi> Brossard de Montaney, &amp; sur une matiere dont la proposition ne
+        <p>Voicy quatre Madrigaux que vous ne serez point fâchée de voir. Ils sont de M<hi rend="sup">r</hi> Brossard de Montaney, &amp; sur une matiere dont la proposition ne
           vous avoit pas déplû.</p>
         <quote>
           <label type="head">Contre <lb/>une vieille.</label>
@@ -509,8 +445,7 @@
           fait ordinairement l’honneur d’y assister, &amp; ce fut le 13. du Mois d’Aoust passé que
           ce Duc, accompagné du jeune Prince Odoard son Fils aîné, &amp; de toute sa Cour, fut
           surpris de leur voir faire des choses qui paroissoient surpasser leurs forces. Il n’y a
-          point d’Exercices propres à un Cavalier, où ils ne se fissent admirer. M<hi rend="sup"
-            >r</hi> le Duc de Parme leur fait ordinairement l’honneur d’y assister, &amp; ce fut le
+          point d’Exercices propres à un Cavalier, où ils ne se fissent admirer. M<hi rend="sup">r</hi> le Duc de Parme leur fait ordinairement l’honneur d’y assister, &amp; ce fut le
           13. du Mois d’Aoust passé que ce Duc, accompagné du jeune Prince Odoard son Fils aîné,
           &amp; de toute sa Cour, fut surpris de leur voir faire des choses qui paroissoient
           surpasser leurs forces. Il n’y a point d’Exercices propres à un Cavalier, où ils ne se
@@ -534,8 +469,7 @@
           Fils du Comte de ce nom, l’un des premiers Ministres de l’Empereur ; &amp; la quatriéme,
           par M<hi rend="sup">r</hi> le Comte de Lewestein proche parent de M<hi rend="sup">rs</hi>
           de Furstemberg. Je ne vous diray rien de la magnificence de leurs Habits, ny de leur
-          adresse, puis que leur haute Naissance répond assez de l’une &amp; de l’autre. M<hi
-            rend="sup">r</hi> le Duc de Parme, outre les trente Chevaux qu’il leur envoye trois fois
+          adresse, puis que leur haute Naissance répond assez de l’une &amp; de l’autre. M<hi rend="sup">r</hi> le Duc de Parme, outre les trente Chevaux qu’il leur envoye trois fois
           la semaine, avec ses Ecuyers pour leur enseigner à monter à cheval, leur envoya ce jour-là
           la plus grande partie de ceux de son Ecurie, qui est une des plus belles qu’il y ait en
           Italie. Ce Prince témoigne tant d’inclination pour l’embellissement de ce College, que
@@ -551,8 +485,7 @@
           d’or du poids de trois Loüis, attachée au Pourpoint avec un Ruban rouge ou bleu, comme les
           Croix que portent les Chevaliers de Malte. Cette Médaille représente d’un costé les Armes
           de Farnése en relief, qui est une Fleur de Lis émaillée d’azur ; &amp; sur le Revers
-          celles du College, qui est une Ruche d’où sortent des Abeilles, avec cette Devise, <hi
-            rend="i">Nobis at que alliis</hi>. Les Académiciens de Lettres ont une longue Robe
+          celles du College, qui est une Ruche d’où sortent des Abeilles, avec cette Devise, <hi rend="i">Nobis at que alliis</hi>. Les Académiciens de Lettres ont une longue Robe
           garnie de Boutons à queüe, &amp; d’Allemares or &amp; soye à manches pendantes de mesme ;
           &amp; ceux d’Armes, au lieu de Robe, portent le Manteau doublé de Brocard à fleurs
           d’argent sur un fonds bleu, &amp; l’Epée au costé. Le nombre de ces Académiciens n’est pas
@@ -667,14 +600,12 @@
         <p>M<hi rend="sup">r</hi> de la Vrilliere nommé par le Roy à l’Archevêché de Bourges, &amp;
           attendu depuis longtemps dans son Diocese, avec toute l’impatience que peut causer un
           mérite extraordinaire, arriva à Bourges le dernier du Mois. Un grand nombre de Personnes
-          de qualité alla au devant de luy, &amp; fit un Cortege de vingt ou trente Carrosses. M<hi
-            rend="sup">r</hi> l’Abbé Chéron Doyen de la Cathédrale, &amp; Deputé de son Chapitre, se
+          de qualité alla au devant de luy, &amp; fit un Cortege de vingt ou trente Carrosses. M<hi rend="sup">r</hi> l’Abbé Chéron Doyen de la Cathédrale, &amp; Deputé de son Chapitre, se
           mit à leur teste. On sçait l’estime où il est pour sa vertu, &amp; pour les Emplois
           illustres qu’il a eus dans le Clergé. Il mit pied à terre si-tost qu’il apperçeut le
           Carrosse de ce nouvel Archevesque qui descendit aussi en le voyant. Il le harangua avec
           une éloquence digne de sa réputation, &amp; du rang qu’il tient dans le Diocese. Il avoit
-          esté précedé par M<hi rend="sup">r</hi> le Begue, Prevost Provincial de M<hi rend="sup"
-            >rs</hi> les Maréchaux de France en Berry. C’est un Gentilhomme dont le mérite n’est pas
+          esté précedé par M<hi rend="sup">r</hi> le Begue, Prevost Provincial de M<hi rend="sup">rs</hi> les Maréchaux de France en Berry. C’est un Gentilhomme dont le mérite n’est pas
           moins connu que la qualité. La Harangue spirituelle &amp; cavaliere qu’il fit à ce grand
           Prélat, le fit admirer de tous ceux qui l’entendirent. Ce qu’il y eut de plus singulier
           dans cette heureuse journée, fut l’empressement de tout le Peuple qui couroit dans les
@@ -729,18 +660,15 @@
           l’accompagnerent jusqu’au Palais Archiepiscopal, où ils furent régalez d’un magnifique
           Dîné.</p>
         <p>Ce mesme jour il fut harangué à diverses heures, par M<hi rend="sup">r</hi> Colladon pour
-          l’Université ; par M<hi rend="sup">r</hi> Cornuel pour les Trésoriers de France ; par M<hi
-            rend="sup">r</hi> Gassot pour l’Election ; par M<hi rend="sup">r</hi> Gougnon pour la
+          l’Université ; par M<hi rend="sup">r</hi> Cornuel pour les Trésoriers de France ; par M<hi rend="sup">r</hi> Gassot pour l’Election ; par M<hi rend="sup">r</hi> Gougnon pour la
           Prevosté, &amp; ensuite pour le Parquet, &amp; pour le Corps des Administrateurs de
-          l’Hostel Dieu ; par M<hi rend="sup">r</hi> du Danion pour les Juges Marchands ; par M<hi
-            rend="sup">r</hi> l’Abbé Guenois pour l’Officialité : par M<hi rend="sup">r</hi> l’Abbé
+          l’Hostel Dieu ; par M<hi rend="sup">r</hi> du Danion pour les Juges Marchands ; par M<hi rend="sup">r</hi> l’Abbé Guenois pour l’Officialité : par M<hi rend="sup">r</hi> l’Abbé
           Chéron pour le Bureau Ecclesiastique, &amp; un peu apres pour les Administrateurs de
           l’Hospital General ; &amp; enfin par M<hi rend="sup">r</hi> l’Abbé de la Chapelle pour la
           Chambre des Députez du Diocese. Vous connoissez ce dernier, &amp; les Ouvrages que je vous
           ay envoyez de luy, vous ont concaincuë il y a déjà longtemps, que peu de Personnes
           composent aussi juste, &amp; avec autant de bon sens qu’il fait. Les jours suivans on
-          présenta quantité de Vers à ce nouvel Archevesque. Ceux des Imprimeurs de M<hi rend="sup"
-            >r</hi> Toubeau sont les seuls qui soient venus jusqu’à moy. Vous les trouverez
+          présenta quantité de Vers à ce nouvel Archevesque. Ceux des Imprimeurs de M<hi rend="sup">r</hi> Toubeau sont les seuls qui soient venus jusqu’à moy. Vous les trouverez
           tres-bien tournez. Ils sont d’un Parent de M<hi rend="sup">r</hi> l’Abbé de la Chapelle
           qui porte ce mesme nom. Souvenez-vous, s’il vous plaist, Madame, que ce sont des
           Imprimeurs qu’il fait parler.</p>
@@ -839,8 +767,7 @@
         <bibl><title>Mercure galant</title>, octobre 1679 (première partie) [tome 10], p.
           171-175.</bibl>
         <p>Il s’est fait un Mariage le neuviéme de ce Mois, entre deux Personnes qui vous doivent
-          estre connuës. Plusieurs de mes Lettres vous ont instruite du mérite de M<hi rend="sup"
-            >r</hi> de Monthelon, fameux par ses Plaidoyers, &amp; par quantité de beaux Ouvrages
+          estre connuës. Plusieurs de mes Lettres vous ont instruite du mérite de M<hi rend="sup">r</hi> de Monthelon, fameux par ses Plaidoyers, &amp; par quantité de beaux Ouvrages
           qu’il nous a laissez. M<hi rend="sup">r</hi> de Monthelon son Fils Conseiller au Grand
           Conseil, qui soûtient avec tant de gloire le rang qu’il a dans cette grande &amp; illustre
           Compagnie, quoy que dans un âge peu avancé, épousa Mademoiselle de la Guillaumie le jour
@@ -1203,8 +1130,7 @@
           dans cette Isle, destiné à recevoir les Ambassadeurs de France. M<hi rend="sup">r</hi> de
           Varangeville y alla avec toute sa Maison, dans six Gondoles, voguées chacune par quatre
           Gondoliers revétus de ses Livrées. Il estoit accompagné de M<hi rend="sup">r</hi> le Duc
-          de Valentinois, Fils de M<hi rend="sup">r</hi> le Prince de Monaco, &amp; de M<hi
-            rend="sup">r</hi> le Chevalier de Chavigny, &amp; suivy de tout ce qu’il y a de François
+          de Valentinois, Fils de M<hi rend="sup">r</hi> le Prince de Monaco, &amp; de M<hi rend="sup">r</hi> le Chevalier de Chavigny, &amp; suivy de tout ce qu’il y a de François
           considérables établis en ce Païs-là. Plusieurs Gentilhommes de l’Etat Venitien, à qui le
           Roy a accordé l’Ordre de S. Michel, &amp; quantité d’autres qui sont attachez
           d’inclination à la France, estoient aussi du Cortege, &amp; tous avoient des Gondoles à
@@ -1273,8 +1199,7 @@
           recevoir hors de la Porte. M<hi rend="sup">r</hi> le Chevalier Justiniani estoit à leur
           teste en Habit de pourpre comme eux, à Manches Ducales. La République l’avoit choisy pour
           estre le Chef de tant d’illustres Personnes, en considération de son mérite particulier,
-          &amp; de l’Ambassade qu’il a faite en France. Il s’avança vers le lieu où estoit M<hi
-            rend="sup">r</hi> l’Ambassadeur, qui marcha vers luy en mesme temps ; &amp; quand ils
+          &amp; de l’Ambassade qu’il a faite en France. Il s’avança vers le lieu où estoit M<hi rend="sup">r</hi> l’Ambassadeur, qui marcha vers luy en mesme temps ; &amp; quand ils
           furent pres l’un de l’autre, ce Chevalier le complimenta au nom de la République, &amp;
           n’oublia rien de ce qui pouvoit la flater d’une Reception favorable, &amp; le persuader de
           la haute estime qu’ils avoient tous pour Sa Majesté. M<hi rend="sup">r</hi> de
@@ -1287,8 +1212,7 @@
           bordé d’une multitude de monde incroyable. Il n’y en avoit pas moins aux Fenestres,
           occupées la plus grande partie par des Nobles &amp; par des Gentildonnes en masque. On
           appelle ainsi les Femmes des Nobles. Le Peuple, qui en de semblables jours se rend presque
-          maistre des Palais des Ambassadeurs, estoit accouru en si grande foule dans celuy de M<hi
-            rend="sup">r</hi> de Varangeville, qu’on eut peine à le faire resserrer pour trouver
+          maistre des Palais des Ambassadeurs, estoit accouru en si grande foule dans celuy de M<hi rend="sup">r</hi> de Varangeville, qu’on eut peine à le faire resserrer pour trouver
           passage. On monta dans le mesme ordre qu’on estoit party du Saint Esprit ; &amp; quand on
           fut dans la Chambre d’Audience, M<hi rend="sup">r</hi> Justiniani fit un nouveau
           Compliment à M<hi rend="sup">r</hi> l’Ambassadeur, prit heure pour la fonction du
@@ -1310,8 +1234,7 @@
           Miroirs d’une grandeur excessive, avec des Bordures de Cristal garnies d’argent, estoient
           placez au dessus de deux Tables d’une Sculpture dorée. Les Chênets, &amp; tout ce qui les
           doit accompagner, estoient d’argent du mesme travail que les Bordures des deux Miroirs. Je
-          laisse ce qu’il y avoit d’autres ornemens. Le Portrait du Roy du fameux M<hi rend="sup"
-            >r</hi> Mignard, servoit là de preuve à l’Italie que la belle Peinture est passée en
+          laisse ce qu’il y avoit d’autres ornemens. Le Portrait du Roy du fameux M<hi rend="sup">r</hi> Mignard, servoit là de preuve à l’Italie que la belle Peinture est passée en
           France. Ce Monarque y estoit représenté devant Cambray, mais avec des traits si achevez
           pour bien exprimer cette majesté qui donne de la terreur &amp; de l’amour tout-ensemble,
           que les Sénateurs s’attacherent longtemps à le regarder. Ils s’étendirent en suite sur ses
@@ -1359,8 +1282,7 @@
           287-288.</bibl>
         <p>Quoy qu’il me soit rarement permis de vous entretenir de Livres nouveaux, je ferois
           scrupule de me taire sur ce sujet, quand il y va de la gloire, &amp; de l’interest de la
-          Religion. Ainsi je ne puis m’empescher de vous apprendre que le Livre de M<hi rend="sup"
-            >r</hi> Hüet, Sous-Précepteur de Monseigneur le Dauphin, touchant la Verité de la
+          Religion. Ainsi je ne puis m’empescher de vous apprendre que le Livre de M<hi rend="sup">r</hi> Hüet, Sous-Précepteur de Monseigneur le Dauphin, touchant la Verité de la
           Religion Chrestienne, a esté si bien reçeu par tout, qu’outre les nouvelles éditions qui
           s’en font icy, aussi bien qu’à Hambourg, à Utrec, &amp; à Nuremberg, on en fait une
           Traduction en Bourgogne, &amp; un Abregé à Sedan.</p>
@@ -1375,8 +1297,7 @@
           jusqu’à deux lieües de Fontainebleau, le Mercredy vingtième du dernier mois. Apres ces
           tristes Adieux, cette Reyne monta avec Monsieur, &amp; Madame, dans le Carrosse dont le
           Roy luy avoit fait présent, &amp; vint coucher à Pluviers. Des deux Ambassadeurs
-          Extraordinaires d’Espagne qui estoient alors en France, il n’y eut que M<hi rend="sup"
-            >r</hi> le Marquis de los Balbases qui l’accompagna, M<hi rend="sup">r</hi> le Duc de
+          Extraordinaires d’Espagne qui estoient alors en France, il n’y eut que M<hi rend="sup">r</hi> le Marquis de los Balbases qui l’accompagna, M<hi rend="sup">r</hi> le Duc de
           Pastrane estant party en Poste, deux jours avant le voyage, apres avoir soûtenu son
           caractere avec tout l’éclat, &amp; toute la grandeur possible, &amp; marqué sa
           magnificence par des Présens à tous les Officiers du Roy qui l’avoient traité. En arrivant
@@ -1439,8 +1360,7 @@
           dessein où ils le voyoient de luy dire encor une fois adieu ; mais l’amour de Pere
           l’emporta sur les raisons dont ils se servirent. Il alla dans la Chambre de cette Reyne,
           il se jetta sur son Lit, &amp; ils se tinrent si longtemps embrassez que comme l’un ny
-          l’autre ne parloit, on craignit quelque triste effet de leur douleur. Cela obligea M<hi
-            rend="sup">r</hi> l’Evesque du Mans d’arracher Monsieur avec violence d’entre les bras
+          l’autre ne parloit, on craignit quelque triste effet de leur douleur. Cela obligea M<hi rend="sup">r</hi> l’Evesque du Mans d’arracher Monsieur avec violence d’entre les bras
           de cette Princesse. Quand il l’eut quittée, elle se leva, jetta sa Robe de Chambre sur
           elle, &amp; courut l’embrasser encor une fois. Les cris qu’on luy entendoit pousser,
           auroient attendry l’ame la plus dure. Monsieur qui en avoit le cœur penétré, partit
@@ -1478,8 +1398,7 @@
           de Bordeaux, accompagnez de M<hi rend="sup">r</hi> du Bosq Secretaire de la mesme Ville,
           estoient venus à Blaye ce mesme jour dans un magnifique Bateau qu’on luy avoit fait
           préparer, qui estoit du genre de ceux qu’on appelle Maison Navale. Le Lendemain ils eurent
-          l’honneur de faire leurs Complimens à la Reyne. La Parole fut portée par M<hi rend="sup"
-            >r</hi> de Leyterie. C’est un des plus fameux Avocats du Parlement de Bordeaux, à
+          l’honneur de faire leurs Complimens à la Reyne. La Parole fut portée par M<hi rend="sup">r</hi> de Leyterie. C’est un des plus fameux Avocats du Parlement de Bordeaux, à
           present Jurat. Il luy fit connoistre au nom de toute la Ville, avec combien de joye ils
           faisoient parler leur zele pour le service du Roy, dans les respectueuses soûmissions
           qu’ils luy venoient rendre. Rien ne pouvoit estre plus éloquent ny plus juste. La Reyne
@@ -1521,18 +1440,15 @@
           teste ; apres quoy elle fut conduite sur une Estrade élevée de trois degrez au milieu du
           Chœur. Il y avoit un Dais de Brocard au dessus de cette Estrade. En suite Monsieur
           l’Archevesque entonna le <hi rend="i">Te Deum</hi>, pendant lequel un Aumônier de la Reyne
-          commença la Messe. L’apresdînée elle reçeut les Complimens ordinaires. M<hi rend="sup"
-            >r</hi> le Doyen de S. André porta la parole pour son Chapitre, M<hi rend="sup">r</hi>
+          commença la Messe. L’apresdînée elle reçeut les Complimens ordinaires. M<hi rend="sup">r</hi> le Doyen de S. André porta la parole pour son Chapitre, M<hi rend="sup">r</hi>
           Denys pour le Presidial, M<hi rend="sup">r</hi> Thibault pour les Trésoriers de France,
           &amp; M<hi rend="sup">r</hi> Bauduer pour l’Université dont il est Recteur. Le Vendredy
           13. elle monta à cheval, &amp; alla au Château en Cravate &amp; en Juste-à-corps, avec un
-          Chapeau garny de Plumes. Elle visita la Citadelle, &amp; fit l’honneur à M<hi rend="sup"
-            >r</hi> le Comte de Montaigu qui avoit la fievre, de le vouloir voir par la Fenestre, de
+          Chapeau garny de Plumes. Elle visita la Citadelle, &amp; fit l’honneur à M<hi rend="sup">r</hi> le Comte de Montaigu qui avoit la fievre, de le vouloir voir par la Fenestre, de
           dessus la Plate-forme. Elle croyoit prendre ce jour là le divertissement de la Chasse,
           mais on luy fit connoistre qu’il y avoit trop loin jusqu’au lieu où M<hi rend="sup">r</hi>
           le Marquis de Citran avoit fait mener ses Chiens. Le soir elle donna le Bal aux Dames,
-          &amp; dança avec M<hi rend="sup">r</hi> le Prince d’Harcour, &amp; avec M<hi rend="sup"
-            >r</hi> le Duc del Sesto. Le Samedy 14. elle alla voir les Religieuses de la Visitation,
+          &amp; dança avec M<hi rend="sup">r</hi> le Prince d’Harcour, &amp; avec M<hi rend="sup">r</hi> le Duc del Sesto. Le Samedy 14. elle alla voir les Religieuses de la Visitation,
           &amp; se disposa à partir le lendemain.</p>
         <p>Vous voulez bien, Madame, que je la laisse à Bordeaux, &amp; qu’en diférant d’un Mois à
           vous entretenir de la suite de son voyage, je cherche à m’instruire plus particulièrement
@@ -1555,15 +1471,10 @@
             </bibl>
         <p>Voicy un second Air nouveau, dont j’ay fait graver les Notes pour vous. Il est du mesme
           Autheur que le premier, &amp; fait à la priere de la mesme Dame qui en a aussi donné les
-          Paroles<note resp="editor" place="margin">Selon le <hi rend="italic">Mercure galant</hi>, les airs <ref target="MG-1679-10a_098"><hi rend="i">Vous demandez des vers</hi></ref>, <ref target="MG-1679-10a_321"><hi rend="i">Vous avez de l'esprit</hi></ref>, <ref
-target="MG-1679-11_040"><hi rend="i">Je suis prêt de revoir</hi></ref>, <ref
- target="MG-1679-11_332"><hi rend="i">Premier objet de ma tendresse</hi></ref>, <ref
- target="MG-1679-12_082"><hi rend="i">Pendant que vous donnez</hi></ref>, <ref
- target="MG-1680-01a_174"><hi rend="i">Reine aussi belle que bonne</hi></ref> sont dus
+          Paroles<note resp="editor" place="margin">Selon le <hi rend="italic">Mercure galant</hi>, les airs <ref target="MG-1679-10a_098"><hi rend="i">Vous demandez des vers</hi></ref>, <ref target="MG-1679-10a_321"><hi rend="i">Vous avez de l'esprit</hi></ref>, <ref target="MG-1679-11_040"><hi rend="i">Je suis prêt de revoir</hi></ref>, <ref target="MG-1679-11_332"><hi rend="i">Premier objet de ma tendresse</hi></ref>, <ref target="MG-1679-12_082"><hi rend="i">Pendant que vous donnez</hi></ref>, <ref target="MG-1680-01a_174"><hi rend="i">Reine aussi belle que bonne</hi></ref> sont dus
  au même auteur. Or <ref target="MG-1679-11_040">cet article </ref> permet d'attribuer l'air <ref target="MG-1679-10a_098"><hi rend="i">Vous demandez des vers</hi></ref> à Bertrand de Bacilly qui serait donc aussi l'auteur des autres airs cités. </note>.</p>
         <quote>
-          <label type="head">AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i"
-              >Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Vous avez de
+          <label type="head">AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Vous avez de
               l’esprit, vous avez des appas</hi>, doit regarder la page 322.</note>
           <lg>
             <l rend="i">Vous avez de l’esprit, vous avez des appas,</l>
@@ -1601,8 +1512,7 @@ target="MG-1679-11_040"><hi rend="i">Je suis prêt de revoir</hi></ref>, <ref
           Saint Germain avec tous les ornemens qui luy sont propres. Il y doit estre chanté par sa
           Musique, &amp; faire le divertissement de la Cour pendant tout le Carnaval,
           alternativement avec l’Opéra nouveau de M<hi rend="sup">r</hi> Quinaut, qui est en
-          possession de faire les Opéra pour Sa Majesté. Le sujet de ce dernier est <hi rend="i"
-            >l’Enlevement de Proserpine</hi>. M<hi rend="sup">r</hi> Lully qui y travaille, n’ayant
+          possession de faire les Opéra pour Sa Majesté. Le sujet de ce dernier est <hi rend="i">l’Enlevement de Proserpine</hi>. M<hi rend="sup">r</hi> Lully qui y travaille, n’ayant
           pû par cette raison en faire un pour le Public, en remet deux anciens qui paroistront cet
           Hyver. Ce sont <hi rend="i">Thésée</hi> &amp; <hi rend="i">Cadmus</hi>. La belle &amp;
           grande Troupe du Roy du Fauxbourg S. Germain, a commencé les divertissemens qu’elle
@@ -1641,5 +1551,4 @@ target="MG-1679-11_040"><hi rend="i">Je suis prêt de revoir</hi></ref>, <ref
           tenir au plutost.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

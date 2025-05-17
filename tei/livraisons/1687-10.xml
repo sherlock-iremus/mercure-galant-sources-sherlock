@@ -1,66 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1687-10">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, octobre 1687 [tome 15]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1687-10</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
-    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
-    sur les bases de données (L341-1) est mise à disposition de la communauté
-    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
-    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
-    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-<p>Attribution : afin de référencer la source, toute utilisation ou publication
-    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
-    l’adresse Internet de la ressource.</p>
-<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
-    toute utilisation commerciale est interdite.</p>
-<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-    électronique, notamment en intégrant toutes les contributions extérieures, la
-    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>octobre 1687</date> [tome 15].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1687-10"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, octobre 1687 [tome 15].</head>
       <div type="article" xml:id="MG-1687-10_049" resp="wordpro">
@@ -595,8 +533,7 @@
           est fort nombreux, &amp; alla aux Cordeliers. On l'y revestit de ses habits Pontificaux,
           &amp; aprés qu'on eut chanté en Musique les Pseaumes marquez dans le Rituel pour servir de
           preparation à cette Ceremonie, il descendit de son Trône pour aller à la porte de
-          l'Eglise, où elle devoit être commencée. Il y arriva en mesme temps que s'y rendit M<hi
-            rend="sup">r</hi> le Vice-Legat, accompagné de ses Officiers tant d'épée que de Robe,
+          l'Eglise, où elle devoit être commencée. Il y arriva en mesme temps que s'y rendit M<hi rend="sup">r</hi> le Vice-Legat, accompagné de ses Officiers tant d'épée que de Robe,
           &amp; de toute la Noblesse, precedé par sa Garde Suisse, &amp; suivy par celle de ses
           Gardes à cheval, de Chevaux Legers, outre une vingtaine de Carrosses, &amp; douze
           Estafiers. Dans le mesme temps parut Madame la Princesse d'Harcourt en Chaise, precedée de
@@ -610,8 +547,7 @@
           Princesse d'Harcout luy presenterent le Neophite. [...]</p>
         <p>Tant que dura la Ceremonie, douze Valets de Pied tinrent chacun un grand flambeau de cire
           blanche allumé, &amp; plus de cent Musiciens avec des Violons, des Hautbois, &amp;
-          plusieurs autres Instrumens, chanterent divers Motets de la Composition de M<hi rend="sup"
-            >r</hi> Petit, Maistre de Chapelle de l'Eglise Metropolitaine d'Avignon. Aprés le
+          plusieurs autres Instrumens, chanterent divers Motets de la Composition de M<hi rend="sup">r</hi> Petit, Maistre de Chapelle de l'Eglise Metropolitaine d'Avignon. Aprés le
           Boptesme [sic] on chanta un <hi rend="i">Te Deum </hi> [sic], &amp; les Violons de la
           Ville meslez avec ceux de M<hi rend="sup">r</hi> Gautier, Maistre de l'Academie Royale de
           Musique établie à Marseille, joüerent differentes Pieces qui charmerent plus de douze
@@ -640,8 +576,7 @@
           cette occasion, elle assortit si bien son dessein à la dignité du sujet, qu’on demeura
           pleinement convaincu que tout ce que des Gens d’esprit &amp; de qualité veulent
           entreprendre, porte un caractere bien different à tout ce que les autres peuvent imaginer.
-          Les Curieux pourront en juger aujourd’huy par la magnificence avec laquelle M<hi
-            rend="sup">rs</hi> de l’Academie Royale ont tâché de rendre leurs devoirs funebres à la
+          Les Curieux pourront en juger aujourd’huy par la magnificence avec laquelle M<hi rend="sup">rs</hi> de l’Academie Royale ont tâché de rendre leurs devoirs funebres à la
           memoire de M<hi rend="sup">r</hi> le Duc de S. Aignan leur Protecteur. À peine eurent-ils
           appris dans cette Compagnie la nouvelle de sa mort, par des Lettres qui furent écrites de
           Paris à M<hi rend="sup">r</hi> le Marquis de Robias-d’Estoublon, Secretaire perpetuel,
@@ -653,13 +588,11 @@
           la veneration qui sont deuës à la memoire de ce grand homme. Aprés plusieurs propositions,
           il fut arresté que l’on iroit faire part à M<hi rend="sup">r</hi> l’Archevesque de la
           triste nouvelle que l’Academie venoit de recevoir, &amp; qu’on répondroit par cette marque
-          de respect, à toutes les bontez dont ce digne Prelat, aussi-bien que M<hi rend="sup"
-            >r</hi> son Coadjuteur, l’ont toûjours honorée ; aprés quoy il fut resolu d’ordonner
+          de respect, à toutes les bontez dont ce digne Prelat, aussi-bien que M<hi rend="sup">r</hi> son Coadjuteur, l’ont toûjours honorée ; aprés quoy il fut resolu d’ordonner
           generalement des Prieres &amp; des Sacrifices pour le repos de l’ame du Défunt dans toutes
           les Paroisses &amp; Communautez Religieuses de la Ville. Cependant M<hi rend="sup">rs</hi>
           les Recteur &amp; Officiers de la Compagnie des Penitens bleus, qui sont de fondation
-          Royale, poussez d’un zele &amp; d’une honnesteté toute particuliere, vinrent offrir à M<hi
-            rend="sup">rs</hi> de l’Academie leur Chapelle, leurs soins, &amp; leurs services pour
+          Royale, poussez d’un zele &amp; d’une honnesteté toute particuliere, vinrent offrir à M<hi rend="sup">rs</hi> de l’Academie leur Chapelle, leurs soins, &amp; leurs services pour
           la Ceremonie funebre que l’on projettoit, d’une maniere si engageante, qu’il auroit esté
           bien difficile de ne pas se prevaloir d’une aussi heureuse disposition, pour assortir avec
           toute la magnificence possible, les desseins qu’on avoit formez pour honorer la memoire
@@ -688,8 +621,7 @@
           ornées d’un double rang de riches Ecussons de la Maison de l’illustre Défunt, &amp;
           d’autres remplis de toutes ses Alliances, rangez alternativement avec celuy de l’Academie
           Royale, qui est chargé de deux Lauriers verdoyans, plantez sur un tertre au naturel,
-          entrelassant leurs branches, &amp; surmontez d’un Soleil rayonnant, avec cette Devise, <hi
-            rend="i">Foventur eodem</hi>. Dans la seconde bande de velours on avoit placé d’espace à
+          entrelassant leurs branches, &amp; surmontez d’un Soleil rayonnant, avec cette Devise, <hi rend="i">Foventur eodem</hi>. Dans la seconde bande de velours on avoit placé d’espace à
           autre, avec les Armes de nostre illustre Protecteur, des testes de mort couronnées à la
           ducale, des Devises &amp; des Emblêmes avec des Ossemens passez en sautoir, entremêlez de
           tous les symboles les plus convenables à la grandeur de ce Heros. Le reste paroissoit
@@ -700,8 +632,7 @@
           naturel de M<hi rend="sup">r</hi> le Duc de S. Aignan, qui est un chef-d’œuvre de la plus
           sçavante Peinture, &amp; un glorieux present dont M<hi rend="sup">r</hi> Giffon, de
           l’Academie Royale, se vit honoré à Paris des propres mains de ce Duc, fut exposé au milieu
-          de l’Eglise, à l’opposite du Bureau que l’on avoit destiné pour la Seance de M<hi
-            rend="sup">rs</hi> de l’Academie. Sa riche bordure dorée, couverte d’un crespe noir tout
+          de l’Eglise, à l’opposite du Bureau que l’on avoit destiné pour la Seance de M<hi rend="sup">rs</hi> de l’Academie. Sa riche bordure dorée, couverte d’un crespe noir tout
           plissé, &amp; pratiqué par les bouts en festons, sembloit estre soutenuë dans ses quatre
           coins, par quatre petits Amours pleurans qui envisageoient le Mausolée, &amp; embrassoient
           une Urne fumante. Vis-à-vis de ce Portrait, on voyoit parmy les Emblêmes &amp; les Devises
@@ -787,17 +718,14 @@
           estoit enrichie de quantité de Trophées qui environnoient le grand Ecusson de ses Armes, à
           seize quartiers de ses Alliances, dont les principales sont, Husson, Clermont, Poitiers,
           Babou, Gaudin, Robertet, Gaillard, Longieumeau, la Grange, la Marche, Rochechoüard, Autri,
-          Crenant, Brigüeil, la Jaille, Halluin, Crevecœur, &amp;c. &amp; sur le tout, <hi rend="i"
-            >facé d’argent &amp; de Sinople à six Merletes de sable sur l’argent</hi>, 3. 2. &amp;
+          Crenant, Brigüeil, la Jaille, Halluin, Crevecœur, &amp;c. &amp; sur le tout, <hi rend="i">facé d’argent &amp; de Sinople à six Merletes de sable sur l’argent</hi>, 3. 2. &amp;
           1. qui est de Beauvilliers. La seconde face estoit ornée de la Médaille en Camayeu de cet
           illustre Duc, avec quelques Devises sur sa Charge de Premier Gentilhomme de la Chambre du
           Roy. Je vais vous les rapporter icy, quoy que pour éviter la longueur je laisse la
           pluspart des autres, dont beaucoup ayant esté faites par M<hi rend="sup">r</hi> le Marquis
-          de Robias, par M<hi rend="sup">r</hi> le Marquis d’Estoublon son Fils, &amp; par M<hi
-            rend="sup">r</hi> l’Abbé Fleche de l’Academie Royale, sont d’une beauté, d’une
+          de Robias, par M<hi rend="sup">r</hi> le Marquis d’Estoublon son Fils, &amp; par M<hi rend="sup">r</hi> l’Abbé Fleche de l’Academie Royale, sont d’une beauté, d’une
           recherche, &amp; d’une regularité presque inimitables. Dans l’une de ces Devises
-          paroissoit la belle Etoile aux premiers rayons du Soleil levant, avec ce mot, <hi rend="i"
-            >À son Lever.</hi></p>
+          paroissoit la belle Etoile aux premiers rayons du Soleil levant, avec ce mot, <hi rend="i">À son Lever.</hi></p>
         <p>La mesme Etoile aux rayons du Soleil couchant, faisoit le Corps de la seconde Devise,
           avec ces mots, <hi rend="i">À son Coucher.</hi></p>
         <p>La troisiéme representoit la Planete de Jupiter, avec les quatre petites Etoiles, qu’on
@@ -836,24 +764,18 @@
             <hi rend="i">Coruscant accensi.</hi></p>
         <p>Les <hi rend="i">Ardents</hi> de Naples, par un Autel antique, avec la Victime &amp; le
           feu ; le mot est, <hi rend="i">Non aliunde.</hi></p>
-        <p>Les <hi rend="i">Adormentati</hi> de Genes ont un Réveil, &amp; ce mot, <hi rend="i"
-            >Sopitos suscitat.</hi></p>
-        <p><hi rend="i">La Fuscina</hi> de Messine, une Forge &amp; son enclume, &amp; ces mots, <hi
-            rend="i">Formas vertit in omnes.</hi></p>
-        <p>Les <hi rend="i">Olympiques</hi> de Vicence, le Cirque accompagné de ce mot, <hi rend="i"
-            >Hoc opus, hic labor.</hi></p>
-        <p>Les <hi rend="i">Immobiles</hi> d’Alexandrie, le Globe de la Terre avec ce mot, <hi
-            rend="i">Immota, nec iners.</hi></p>
+        <p>Les <hi rend="i">Adormentati</hi> de Genes ont un Réveil, &amp; ce mot, <hi rend="i">Sopitos suscitat.</hi></p>
+        <p><hi rend="i">La Fuscina</hi> de Messine, une Forge &amp; son enclume, &amp; ces mots, <hi rend="i">Formas vertit in omnes.</hi></p>
+        <p>Les <hi rend="i">Olympiques</hi> de Vicence, le Cirque accompagné de ce mot, <hi rend="i">Hoc opus, hic labor.</hi></p>
+        <p>Les <hi rend="i">Immobiles</hi> d’Alexandrie, le Globe de la Terre avec ce mot, <hi rend="i">Immota, nec iners.</hi></p>
         <p>On voyoit au bas de cette face un grand Ovale ou l’Obelisque &amp; la Venus d’Arles
           estoient representées comme des pieces considerables qui ont donné lieu à cet illustre
           Protecteur de faire valoir auprés de Sa Majesté, &amp; la fidelité de nostre Ville, &amp;
           le zele de son Academie Royale. Il y avoit au bas de la Tapisserie du Mausolée, une
           ceinture de velours noir, chargée des Armes de M<hi rend="sup">r</hi> de S. Aignan, du
           symbole de l’Academie Royale, &amp; de quantité de Devises historiques de sa vie
-          alternativement rangées. On y voyoit representé un grand Miroir avec ce mot d’Horace, <hi
-            rend="i">Quid deceat, quid non.</hi></p>
-        <p>Un Aigle ayant les yeux attachez sur le Soleil, avec ces mots Espagnols, A <hi rend="i"
-            >tan puros esplendores,</hi></p>
+          alternativement rangées. On y voyoit representé un grand Miroir avec ce mot d’Horace, <hi rend="i">Quid deceat, quid non.</hi></p>
+        <p>Un Aigle ayant les yeux attachez sur le Soleil, avec ces mots Espagnols, A <hi rend="i">tan puros esplendores,</hi></p>
         <quote>
           <lg>
             <l rend="i">Par de si purs rayons qui ne seroit touché ?</l>
@@ -895,13 +817,11 @@
           admirer son adresse, de mesme qu’aux Festes de Versailles en l’année 1664., où il prit
           pour Devise un Timbre d’Horloge, avec ces mots Espagnols, <hi rend="i">De mis golpes mi
             ruido.</hi></p>
-        <p>Il fut fait Maréchal de Camp de ces Courses, &amp; il y remporta le prix contre feu M<hi
-            rend="sup">r</hi> le Marquis de Soyecour. Il en disputa un autre avec Sa Majesté, &amp;
+        <p>Il fut fait Maréchal de Camp de ces Courses, &amp; il y remporta le prix contre feu M<hi rend="sup">r</hi> le Marquis de Soyecour. Il en disputa un autre avec Sa Majesté, &amp;
           s’estima le plus heureux des hommes, de n’avoir pû estre vaincu que par le plus grand Roy
           de la Terre. Il fut l’ame des deux derniers Carrousels, par l’ordonnance &amp; le dessein
           qu’il en fit ; il en fut aussi le Maréchal &amp; le Juge, &amp; dans cette premiere
-          qualité il porta pour Devise un gros Diamant taillé à facetes, avec ces mots, <hi rend="i"
-            >Da ogni parte fiammeggia</hi>, &amp; pour assortir l’autre, on fit de tres-beaux Vers
+          qualité il porta pour Devise un gros Diamant taillé à facetes, avec ces mots, <hi rend="i">Da ogni parte fiammeggia</hi>, &amp; pour assortir l’autre, on fit de tres-beaux Vers
           en sa faveur, qui peignoient parfaitement bien le caractere de sa vie &amp; de ses
           qualitez éminentes.</p>
         <p>L’Academie Royale pour marquer la peine qu’elle aura à se consoler de la perte d’un si
@@ -929,8 +849,7 @@
             <l rend="i">Car comment survivre à sa mort ?</l>
           </lg>
         </quote>
-        <p>Il y avoit autour de ce Mausolée quarante gros flambeaux, pour assortir le nombre de M<hi
-            rend="sup">rs</hi> de l’Academie Françoise, dont M<hi rend="sup">r</hi> le Duc de S.
+        <p>Il y avoit autour de ce Mausolée quarante gros flambeaux, pour assortir le nombre de M<hi rend="sup">rs</hi> de l’Academie Françoise, dont M<hi rend="sup">r</hi> le Duc de S.
           Aignan estoit un illustre membre, &amp; trente autres sur le tour de la premiere marche,
           qui portoient les Ecussons des trente Academiciens de l’Academie Royale. Les autres
           marches de l’Estrade estoient chargées d’une infinité de chandeliers d’argent, garnis de
@@ -972,27 +891,22 @@
           elle estoit entenduë sans trouble &amp; sans embarras, en une occasion où l’affluence du
           monde sembloit devoir faire craindre un fort grand desordre. Ce fut M<hi rend="sup">r</hi>
           l’Abbé de Quiqueran qui fit le Service. Il eut pour ses Assistans plusieurs autres Abbez
-          de qualité, qui firent paroistre de l’empressement à rechercher cet employ. M<hi
-            rend="sup">rs</hi> les Consuls se presenterent à l’Offrande, &amp; aprés eux M<hi
-            rend="sup">r</hi> le Chevalier de Romieu, Directeur, &amp; M<hi rend="sup">r</hi> le
+          de qualité, qui firent paroistre de l’empressement à rechercher cet employ. M<hi rend="sup">rs</hi> les Consuls se presenterent à l’Offrande, &amp; aprés eux M<hi rend="sup">r</hi> le Chevalier de Romieu, Directeur, &amp; M<hi rend="sup">r</hi> le
           Marquis de Robias-d’Estoublon, Secretaire de la Compagnie, qui a signalé également en
           cette occasion son grand cœur, son esprit &amp; son zele, pour honorer la memoire de ce
           Protecteur. La Messe estant achevée, M<hi rend="sup">r</hi> l’Abbé Officiant, &amp; ses
           Assistans en chape, vinrent faire les Prieres, Encensemens, &amp; Absolutions accoûtumées
           autour de la Representation, avec des ceremonies proportionnées au rang du Défunt, &amp;
           pendant ce temps, la Musique &amp; les Instrumens ne cesserent de faire retentir les Airs
-          les plus lugubres. Aprés les dernieres Aspersions qui furent faites ensuite par M<hi
-            rend="sup">rs</hi> les Consuls &amp; par tous les Academiciens, la Compagnie se retira ;
+          les plus lugubres. Aprés les dernieres Aspersions qui furent faites ensuite par M<hi rend="sup">rs</hi> les Consuls &amp; par tous les Academiciens, la Compagnie se retira ;
           pour revenir au mesme endroit sur les quatre heures, pour entendre l’Eloge funebre qui
-          devoit achever la Ceremonie. L’employ de ce Discours avoit esté donné à M<hi rend="sup"
-            >r</hi> de Manville, Avocat General au Presidial de cette Ville, parfait Academicien,
+          devoit achever la Ceremonie. L’employ de ce Discours avoit esté donné à M<hi rend="sup">r</hi> de Manville, Avocat General au Presidial de cette Ville, parfait Academicien,
           &amp; doüé d’une éloquence, d’une grace &amp; d’une force d’esprit presque inimitable.
           Aussi sa reputation attira une si grande foule de Sçavans &amp; de Curieux, aussi-bien que
           de Dames les plus qualifiées de la Ville, que quelque soin qu’on eust pris pour éviter
           l’affluence, elle y fut aussi extraordinaire, que le plaisir qu’on se proposoit à entendre
           un si agreable Orateur, parut un moyen assuré pour faire supporter sans peine les
-          incommoditez de la chaleur, &amp; de la foule. Cette prevention en faveur de M<hi
-            rend="sup">r</hi> de Manville ne fut pas la seule cause de ce grand concours. On sçavoit
+          incommoditez de la chaleur, &amp; de la foule. Cette prevention en faveur de M<hi rend="sup">r</hi> de Manville ne fut pas la seule cause de ce grand concours. On sçavoit
           que l’ouverture de cette Séance devoit estre faite par M<hi rend="sup">r</hi> le Chevalier
           de Romieu, Directeur de l’Academie. C’est un Gentilhomme d’un goust aussi delicat que l’on
           en puisse trouver pour les Ouvrages d’esprit, &amp; qui avec la justesse de son
@@ -1009,8 +923,7 @@
           qu’avoit l’Academie d’honorer en ce jour la memoire de M<hi rend="sup">r</hi> le Duc de
           Saint Aignan son Protecteur, &amp; il désigna avec tant d’adresse les plus beaux endroits
           de sa vie, que son Eloge auroit paru parfaitement assorty, s’il n’eust voulu procurer à la
-          Compagnie le plaisir de le faire entendre avec plus d’étenduë de la bouche de M<hi
-            rend="sup">r</hi> de Manville, à qui il s’adressa pour le supplier de le prononcer.
+          Compagnie le plaisir de le faire entendre avec plus d’étenduë de la bouche de M<hi rend="sup">r</hi> de Manville, à qui il s’adressa pour le supplier de le prononcer.
           L’attention de tout l’Auditoire fut si grande dés la premiere ouverture qu’il en fit,
           qu’on demeura également suspendu par le recit des merveilles de nostre Heros, &amp; par la
           force des expressions avec lesquelles M<hi rend="sup">r</hi> de Manville les dépeignit.
@@ -1083,8 +996,7 @@
           &amp; à d'autres ornemens de leur Eglise. Elle avoit fait plusieurs fois retraite avec
           Madame sa Mere dans leur Monastere d'où elle tira sept Religieuses pour la fondation
           qu'elle a faite dans sa Ville de Modene, qui est un établissement digne de sa pieté &amp;
-          de sa magnificence. Le Parlement se trouva en Corps à ce Service, aussi-bien que M<hi
-            rend="sup">rs</hi> du Chapitre de la Cathedrale, &amp; la Messe à laquelle une
+          de sa magnificence. Le Parlement se trouva en Corps à ce Service, aussi-bien que M<hi rend="sup">rs</hi> du Chapitre de la Cathedrale, &amp; la Messe à laquelle une
           excellente Musique répondit, fut celebrée par Mr l'Abbé de Barreme, Conseiller au
           Parlement, &amp; Grand Vicaire de M<hi rend="sup">r</hi> l'Archevesque d'Aix en son
           absence.</p>
@@ -1182,8 +1094,7 @@
           tous les jours dans le monde, &amp; qui pourroient faire devenir beaucoup de gens sages,
           si l’homme pouvoit prendre assez d’empire sur luy pour se corriger. Cette Comedie a esté
           accommodée au Theatre par M. Dancourt, l’un des Comediens du Roy. Il a déja donné
-          plusieurs petits Ouvrages au Public, qui les a toûjours receus favorablement. <hi rend="i"
-            >La Désolation des Joueuses</hi> est de luy. C’est un <hi rend="i">Impromptu</hi> qu’il
+          plusieurs petits Ouvrages au Public, qui les a toûjours receus favorablement. <hi rend="i">La Désolation des Joueuses</hi> est de luy. C’est un <hi rend="i">Impromptu</hi> qu’il
           fit dans le temps que l’on défendit le Jeu, &amp; qui a extremement diverty tous ceux qui
           l’ont veu. Le Voyage de Fontainebleau en a interrompu les Representations, mais on les
           reprendra incessamment aprés le retour. Ainsi le Theatre François, dans le commencement de
@@ -1191,5 +1102,4 @@
           aussi cette petite Piece, &amp; je vous l’envoyeray avec le Chevalier à la Mode.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

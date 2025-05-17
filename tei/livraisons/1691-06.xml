@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1691-06">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, juin 1691 [tome 6]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1691-06</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>juin 1691</date> [tome 6].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1691-06"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, juin 1691 [tome 6].</head>
       <div type="article" xml:id="MG-1691-06_000" resp="wordpro">
@@ -135,8 +71,7 @@
           <p><hi rend="i">Dedisti, Domine, Gallorum Populo Regem pium, justum &amp; secundum cor
               tuum ; Regem fortem, invictum, &amp; te adjuvante, invincibilem.</hi></p>
           <quote>
-            <label><hi rend="i">CANTIQUE</hi><lb/><hi rend="i">DES TRIOMPHES</hi><lb/><hi rend="i"
-                >de la France.</hi></label>
+            <label><hi rend="i">CANTIQUE</hi><lb/><hi rend="i">DES TRIOMPHES</hi><lb/><hi rend="i">de la France.</hi></label>
             <lg>
               <l>O Peuple comblé de gloire,</l>
               <l>O François à qui tout rit,</l>
@@ -703,8 +638,7 @@
         <head>Jupiter à sa fenestre. Dialogue</head>
         <bibl><title>Mercure galant</title>, juin 1691 [tome 6], p. 82-127.</bibl>
         <p/>
-        <p>Vous m’avez mandé que vous avez leu avec beaucoup de plaisir le Dialogue intitulé, <hi
-            rend="i">Le Hollandois dans la Barque de Caron</hi>, qui est dans ma Lettre du mois
+        <p>Vous m’avez mandé que vous avez leu avec beaucoup de plaisir le Dialogue intitulé, <hi rend="i">Le Hollandois dans la Barque de Caron</hi>, qui est dans ma Lettre du mois
           d’Avril. En voicy un autre qui ne vous plaira pas moins. Il est encore sur les matieres du
           temps, &amp; du mesme Auteur.</p>
         <quote>
@@ -1056,8 +990,7 @@
         <p/>
         <p>Comme il n’y a rien de plus agreable que l’accent Provençal, &amp; que je sçay que vous
           le prenez si bien quand il vous plaist, qu’il semble que vous soyez une veritable
-          Provençale, je vous envoye une Chanson qui vient de ce Pays-là. L’Air est de M<hi
-            rend="sup">r</hi> Garnier. Le titre qu’elle a vous en apprend le sujet.</p>
+          Provençale, je vous envoye une Chanson qui vient de ce Pays-là. L’Air est de M<hi rend="sup">r</hi> Garnier. Le titre qu’elle a vous en apprend le sujet.</p>
         <quote>
           <label><hi rend="i">COMPLEINTO</hi><lb/><hi rend="i">Sur l’état present deis
               affairès</hi><lb/><hi rend="i">dau Duc de Savoyo.</hi><lb/>CANSOUN
@@ -1425,8 +1358,7 @@
           l'Eglise. Ces arbres estoient d'une verdure naissante, &amp; tout couverts de fleurs &amp;
           de fruits, qui furent distribuez au Peuple. Les deux bouts de cette allée estoient
           terminez par deux grands Tableaux remplis d'éloges du Roy en Proses &amp; en Vers. Il y
-          eut des Concerts, &amp; des Jeux faits à la gloire de Monarque, dont M<hi rend="sup"
-            >r</hi> le Chapt son Fils prononça le Panegyrique dans la Tribune, qui se trouva
+          eut des Concerts, &amp; des Jeux faits à la gloire de Monarque, dont M<hi rend="sup">r</hi> le Chapt son Fils prononça le Panegyrique dans la Tribune, qui se trouva
           tapissée de verdure. Ce Panegyrique estoit de la composition du Pere, &amp; representoit
           si bien la grandeur de Sa Majesté, que lors qu’il finit, les Auditeurs qui en furent
           penetrez, remplirent l'air de cris de <hi rend="i">Vive le Roy</hi>. La Mousqueterie fit
@@ -1458,21 +1390,17 @@
           commença par une Loterie d’une invention nouvelle qui fut tirée ce jour là dans la Maison
           d’un Particulier. L’argent des billets avoit esté destiné pour soulager les besoins des
           Pauvres, &amp; les Lots ne consistoient qu’à rencontrer des ordres de faire quelque jolie
-          chose en l’honneur du Roy. Toute la Ville étant sous les armes, on chanta le <hi rend="i"
-            >Te Deum</hi> dans l'Eglise de S. Pierre, au bruit du Canon du Château, en présence de
+          chose en l’honneur du Roy. Toute la Ville étant sous les armes, on chanta le <hi rend="i">Te Deum</hi> dans l'Eglise de S. Pierre, au bruit du Canon du Château, en présence de
             M<hi rend="sup">rs</hi> de Beuvron &amp; de Matignon, Lieutenans de Roy de Normandie,
           accompagnez de toute la Noblesse &amp; de M<hi rend="sup">r</hi> Foucault, Intendant, à la
           teste de toute la Justice. M<hi rend="sup">r</hi> l’Evesque de Bayeux y assista avec tout
           le Clergé. Le soir il y eut une illumination generale dans toute la Ville, &amp; dans tous
           les Clochers. On ne voyoit que des tables dans les ruës ; &amp; pour le beau monde, il fut
           invité à souper au Pavillon de la Foire Franche qui donne sur les prez. Il ne manqua rien
-          à la magnificence du repas, &amp; comme la Ville en faisoit les frais, M<hi rend="sup"
-            >r</hi> le Marquis de Bressole, en qualité de premier Echevin, assisté de M<hi
-            rend="sup">r</hi> de la Motte, Lieutenant General, en fit les honneurs. La Fête finit
+          à la magnificence du repas, &amp; comme la Ville en faisoit les frais, M<hi rend="sup">r</hi> le Marquis de Bressole, en qualité de premier Echevin, assisté de M<hi rend="sup">r</hi> de la Motte, Lieutenant General, en fit les honneurs. La Fête finit
           par plusieurs feux d'artifice, dont les effets furent surprenans.</p>
         <p>Les Particuliers n'ont pas oublié de marquer leur zele, &amp; ce qui se fit dés le 16.
-          d'Avril dans la Paroisse d'Herenguerville, Diocese de Coutance, en est une preuve. M<hi
-            rend="sup">r</hi> de Berenger qui en est Seigneur &amp; Patron, avoit invité tous les
+          d'Avril dans la Paroisse d'Herenguerville, Diocese de Coutance, en est une preuve. M<hi rend="sup">r</hi> de Berenger qui en est Seigneur &amp; Patron, avoit invité tous les
           Ecclesiastiques &amp; toutes les personnes qualifiées de son voisinage de l'un &amp; de
           l'autre sexe, d'assister à cette Feste, qui commença par une grande distribution de pains
           qui fut faite aux Pauvres, &amp; par plusieurs Messes, à la fin desquelles on chanta
@@ -1688,8 +1616,7 @@
         <bibl><title>Mercure galant</title>, juin 1691 [tome 6], p. 186-189.</bibl>
         <p/>
         <quote>
-          <label><hi rend="i">LA PREFERENCE</hi><lb/><hi rend="i"
-            >HONTEUSE.</hi><lb/>MADRIGAL.</label>
+          <label><hi rend="i">LA PREFERENCE</hi><lb/><hi rend="i">HONTEUSE.</hi><lb/>MADRIGAL.</label>
           <lg>
             <l rend="i">On trouve, dites-vous, étrange,</l>
             <l rend="i">Que le petit Prince d’Orange</l>
@@ -2128,11 +2055,9 @@
           dire des choses agreables &amp; divertissantes, ne le fera jamais parler contre la verité,
           à moins qu’elle ne soit tellement envelopée, qu’il soit impossible de la découvrir.
           J’ajoûteray à cela qu’on ne paye que sept sols de cet Ouvrage, dont la suite paroistra le
-          15. de Juillet avec des Figures tres-curieuses ; Que le titre Général sera toûjours, <hi
-            rend="i">Affaires du Temps</hi> ; mais qu’on changera souvent les titres &amp; les
+          15. de Juillet avec des Figures tres-curieuses ; Que le titre Général sera toûjours, <hi rend="i">Affaires du Temps</hi> ; mais qu’on changera souvent les titres &amp; les
           sujets des Entretiens, &amp; qu’il n’y en aura jamais plus de deux sous le mesme
           titre.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

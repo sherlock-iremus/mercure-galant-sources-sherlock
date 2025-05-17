@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1682-06">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, juin 1682 [tome 6]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1682-06</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>juin 1682</date> [tome 6].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1682-06"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, juin 1682 [tome 6].</head>
       <div type="article" xml:id="MG-1682-06_010" resp="mercure">
@@ -664,10 +600,8 @@
         <bibl><title>Mercure galant</title>, juin 1682 [tome 6], p. 86-89.</bibl>
         <p/>
         <p>On ne s’est pas seulement servy du Provençal pour publier les grandeurs du Roy ; on a
-          fait aussi un Sonnet Gascon sur cette mesme matiere. Je vous l’envoye. Les rimes de <hi
-            rend="i">Par</hi> &amp; <hi rend="i">Car</hi> y sont employées d’autant plus
-          heureusement, que ces deux mots signifient <hi rend="i">Pair</hi> &amp; <hi rend="i"
-            >Cher</hi> en cette Langue.</p>
+          fait aussi un Sonnet Gascon sur cette mesme matiere. Je vous l’envoye. Les rimes de <hi rend="i">Par</hi> &amp; <hi rend="i">Car</hi> y sont employées d’autant plus
+          heureusement, que ces deux mots signifient <hi rend="i">Pair</hi> &amp; <hi rend="i">Cher</hi> en cette Langue.</p>
         <quote>
           <label>SONNET BOUT-RIMAT,<lb/>en Linguo Moundino,<lb/><hi rend="sc">a la glorio del
               Rey.</hi></label>
@@ -850,8 +784,7 @@
         </quote>
         <p/>
         <p>L’Autheur de ces agreables Traductions, est le mesme dont je vous ay envoyé plusieurs
-          Ouvrages, sous le nom du Fils d’un Auditeur des Comptes de Dijon. Il s’appelle M<hi
-            rend="sup">r</hi> Moreau, &amp; fut reçeu il y a deux mois Conseiller-Auditeur en la
+          Ouvrages, sous le nom du Fils d’un Auditeur des Comptes de Dijon. Il s’appelle M<hi rend="sup">r</hi> Moreau, &amp; fut reçeu il y a deux mois Conseiller-Auditeur en la
           Chambre des Comptes de Paris. Feu M<hi rend="sup">r</hi> Moreau son Pere, d’un mérite
           &amp; d’une probité connuë, avoit exercé la mesme Charge pendant beaucoup d’années en la
           Chambre des Comptes de Bourgogne ; &amp; M<hi rend="sup">r</hi> Moreau son Frere y remplit
@@ -1018,10 +951,8 @@
             <p>Le 2. Elle dîna à Sainte Seine; à cinq lieuës de Dijon, &amp; y fut complimentée par
             le Maire de ce lieu, &amp; pr un Echevin de Dijon qui avoit esté député pour aller
             jusque-là au devant d'Elle. L'apres-dînée estant au Val de Suson, elle aperçût la
-            Maréchaussée de Dijon qui venoit à sa rencontre. A une lieuë de là, M<hi rend="sup"
-              >r</hi> joly, Maire de Dijon, accompagné de tout le Corps de la Magistrature, la
-            complimenta; ensuite dequoy ils se mirent à le suite de son Carrosse. M<hi rend="sup"
-              >r</hi> l'Intendant suivy de plusieurs autres Carrosses, vint aussi à sa recontre,
+            Maréchaussée de Dijon qui venoit à sa rencontre. A une lieuë de là, M<hi rend="sup">r</hi> joly, Maire de Dijon, accompagné de tout le Corps de la Magistrature, la
+            complimenta; ensuite dequoy ils se mirent à le suite de son Carrosse. M<hi rend="sup">r</hi> l'Intendant suivy de plusieurs autres Carrosses, vint aussi à sa recontre,
             &amp; tous l'accompagnerent jusques dans la Ville. S.A.S. y arriva un peu tard, &amp;
             parce qu'Elle estoit fatiguée, Elle remit au lendemain les complimens qu'on estoit sur
             le point de luy faire.</p>
@@ -1049,17 +980,14 @@
             deux ou trois pas. M<hi rend="sup">r</hi> l'Intendant fut assis aupres de luy, &amp; en
             suite, M<hi rend="sup">r</hi> l'Evesque de Châlons, M<hi rend="sup">r</hi> l'Evesque de
             Mâcon, &amp; tout le Clergé, tant Abbez, Doyens, qu'autres benéficiez.</p>
-          <p>A sa main gauche estoient, à une égale distance de ceux de la droite, M<hi rend="sup"
-              >rs</hi> les Comtes Amansé, de Roussillon, éamp; d'Autremonts, Lieutenans de Roy, de
+          <p>A sa main gauche estoient, à une égale distance de ceux de la droite, M<hi rend="sup">rs</hi> les Comtes Amansé, de Roussillon, éamp; d'Autremonts, Lieutenans de Roy, de
             Trésoriers chargez des Lettres de Sa Majesté pour en faire la présentation, &amp; tout
             le reste de la Noblesse qui estoit en tres-grand nombre.</p>
-          <p>A l'oposite de S.A.S. estoient M<hi rend="sup">r</hi> le Maire de Dijon, &amp; M<hi
-              rend="sup">r</hi> Artault du Tiers Etat, &amp; tous les Députez &amp; Maires de la
+          <p>A l'oposite de S.A.S. estoient M<hi rend="sup">r</hi> le Maire de Dijon, &amp; M<hi rend="sup">r</hi> Artault du Tiers Etat, &amp; tous les Députez &amp; Maires de la
             Province.</p>
           <p>L'ouverture des Estats se fit par la Harangue de M<hi rend="sup">r</hi> le Trésorier
             Languet, qui représenta les Lettres du Roy. Apres qu'on en eut fait la lecture, S.A.S.
-            parla quelque temps, &amp; son discours fut suivy de la Harangue de M<hi rend="sup"
-              >r</hi> le Premier Président. M<hi rend="sup">r</hi> l'Intendant en fit une autre;
+            parla quelque temps, &amp; son discours fut suivy de la Harangue de M<hi rend="sup">r</hi> le Premier Président. M<hi rend="sup">r</hi> l'Intendant en fit une autre;
             &amp; M<hi rend="sup">r</hi> l'Evesque de Châlons ayant aussi harangué, la Séance fut
             levée. S.A.S. s'estant renduë au Logis du Roy, Elle y fut suivie paour la grande partie
             de ceux qui avoient assisté à cette Cérémonie, &amp; qui s'empresserent pour entendre le
@@ -1426,8 +1354,7 @@
         <head>A Mr le Baron de Furstemberg. Madrigal</head>
         <bibl><title>Mercure galant</title>, juin 1682 [tome 6], p. 202-203.</bibl>
         <quote>
-          <label>A M<hi rend="sup">r</hi> LE BARON<lb/>DE FURSTEMBERG.<lb/><hi rend="sc"
-              >Madrigal.</hi></label>
+          <label>A M<hi rend="sup">r</hi> LE BARON<lb/>DE FURSTEMBERG.<lb/><hi rend="sc">Madrigal.</hi></label>
           <lg>
             <l rend="i">Le doux Chardonneret, quoy qu’il soit Roturier,</l>
             <l rend="i">Soigneux de conserver &amp; son nom, &amp; sa race,</l>
@@ -1451,8 +1378,7 @@
         <p>M<hi rend="sup">r</hi> Charpentier ayant fait sçavoir à M<hi rend="sup">rs</hi> de
           l’Académie Françoise que M<hi rend="sup">r</hi> de Faure-Fondamente, de l’Académie Royale
           d’Arles, desiroit de venir salüer l’Académie, il fut chargé de luy donner avis qu’il
-          seroit le bien venu. L’Académie estant assemblée au Louvre le Samedy 20. de ce mois, M<hi
-            rend="sup">r</hi> de Faure y fut amené par M<hi rend="sup">r</hi> le Duc de S. Aignan,
+          seroit le bien venu. L’Académie estant assemblée au Louvre le Samedy 20. de ce mois, M<hi rend="sup">r</hi> de Faure y fut amené par M<hi rend="sup">r</hi> le Duc de S. Aignan,
           qui le présenta à la Compagnie, &amp; dit, apres que chacun eut pris sa place à l’heure
           ordinaire des Assemblées.</p>
         <quote>
@@ -1488,8 +1414,7 @@
               toutes les Langues.</hi></p>
         </quote>
         <p/>
-        <p>M<hi rend="sup">r</hi> Doujat, Directeur de l’Académie, répondit à ce Compliment de M<hi
-            rend="sup">r</hi> de Faure, que l’Académie se faisoit un tres-grand plaisir de le voir
+        <p>M<hi rend="sup">r</hi> Doujat, Directeur de l’Académie, répondit à ce Compliment de M<hi rend="sup">r</hi> de Faure, que l’Académie se faisoit un tres-grand plaisir de le voir
           dans son Assemblée, &amp; qu’apres l’avoir oüy si bien parler, elle ne pouvoit pas
           demeurer d’accord avec luy, que le silence dust estre son partage ; à quoy toute la
           Compagnie applaudit. M<hi rend="sup">r</hi> le Clerc, faisant dans cette Séance la
@@ -1498,8 +1423,7 @@
           avis à son tour en Académicien, &amp; d’une maniere qui fit voir la connoissance
           particuliere qu’il a de la Langue Françoise. Apres que chacun se fut levé de son siege,
             M<hi rend="sup">r</hi> Boyer, comme faisant la distribution ordinaire des Médailles du
-          Roy, en donna une à M<hi rend="sup">r</hi> de Faure, &amp; une autre à M<hi rend="sup"
-            >r</hi> son Fils, jeune Gentilhomme de tres-belle espérance, qui avoit eu sa place dans
+          Roy, en donna une à M<hi rend="sup">r</hi> de Faure, &amp; une autre à M<hi rend="sup">r</hi> son Fils, jeune Gentilhomme de tres-belle espérance, qui avoit eu sa place dans
           l’Académie durant tout le temps de cette Séance.</p>
       </div>
       <div type="article" xml:id="MG-1682-06_224" resp="wordpro">
@@ -1573,8 +1497,7 @@
           &amp; vraye cause de son changement de Religion. Cette calomnie ne l’ébranla point. Le
           refus qu’elle avoit fait des avantages qui luy venoient d’estre offerts à Camamber, la
           justifioit assez. Apres s’estre fait pleinement instruite des Veritez qui luy avoient
-          toûjours esté inconnuës, elle abjura le jour de la Pentecoste entre les mains de M<hi
-            rend="sup">r</hi> le Curé de S. Oüen du Ponteaudemer ; &amp; la retraite luy paroissant
+          toûjours esté inconnuës, elle abjura le jour de la Pentecoste entre les mains de M<hi rend="sup">r</hi> le Curé de S. Oüen du Ponteaudemer ; &amp; la retraite luy paroissant
           necessaire pour ouvrir entierement son cœur à la Grace, elle entra le 17. de ce mois dans
           l’Abbaye de Preaux, celebre par les Dames de qualité qui y sont, par sa situation
           agréable, &amp; par ses grands revenus. Elle acheva de cette maniere genéreuse ce qu’elle
@@ -1910,8 +1833,7 @@
           </lg>
         </quote>
         <p/>
-        <p>Il avoit pour marques <hi rend="i">Anacreon</hi>, &amp; ces mots Latins <hi rend="i"
-            >Prostrasse sat est</hi>. On examina tous ceux qui restoient à lire, &amp; aucun n’ayant
+        <p>Il avoit pour marques <hi rend="i">Anacreon</hi>, &amp; ces mots Latins <hi rend="i">Prostrasse sat est</hi>. On examina tous ceux qui restoient à lire, &amp; aucun n’ayant
           paru de la mesme force, toutes les voix luy furent données. M<hi rend="sup">r</hi> le Duc
           de S. Aignan, qui estoit présent, dit aussitost qu’il estoit de luy. Ce Sonnet avoit esté
           mis parmy les autres du temps que M<hi rend="sup">rs</hi> de l’Académie Françoise devoient
@@ -2114,9 +2036,7 @@
           donner une Médaille d’or du Roy, d’un prix fort considérable, pour récompenser le plus bel
           Ouvrage en Vers que l’on auroit fait sur une Matiere proposée par eux à la loüange de Sa
           Majesté. Celuy de ce Corps à qui les autres s’estoient adressez, ayant eu des affaires qui
-          l’ont assez occupé pour luy faire remettre à un autre temps à en parler à M<hi rend="sup"
-            >r</hi> le Duc de Saint Aignan, Protecteur de cette Académie, les Bouts-rimez de M<hi
-            rend="sup">r</hi> Mignon firent songer ce Duc à proposer un Prix, &amp; c’est celuy que
+          l’ont assez occupé pour luy faire remettre à un autre temps à en parler à M<hi rend="sup">r</hi> le Duc de Saint Aignan, Protecteur de cette Académie, les Bouts-rimez de M<hi rend="sup">r</hi> Mignon firent songer ce Duc à proposer un Prix, &amp; c’est celuy que
           l’on a jugé depuis quinze jours ; ce que M<hi rend="sup">rs</hi> de l’Académie d’Arles
           ayant appris, M<hi rend="sup">r</hi> le Marquis de Robias a envoyé à ce Duc le Madrigal
           &amp; le Sonnet que vous allez lire.</p>
@@ -2184,5 +2104,4 @@
           Vostre tres-humble, &amp;c.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

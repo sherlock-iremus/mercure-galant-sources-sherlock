@@ -1,67 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1681-09e">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title>Extraordinaire du Mercure galant, quartier de juillet 1681 [tome XV]</title>
-   </titleStmt>
-   <editionStmt>
-    <edition>OBVIL/IReMuS</edition>
-    <respStmt>
-     <name>Nathalie Berton-Blivet</name>
-     <resp>Responsable éditorial</resp>
-    </respStmt>
-    <respStmt>
-     <name>Anne Piéjus</name>
-     <resp>Responsable éditorial</resp>
-    </respStmt>
-    <respStmt>
-     <name>Frédéric Glorieux</name>
-     <resp>Informatique éditoriale</resp>
-    </respStmt>
-    <respStmt>
-     <name>Vincent Jolivet</name>
-     <resp>Informatique éditoriale</resp>
-    </respStmt>
-   </editionStmt>
-   <publicationStmt>
-    <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-    <date when="2017"/>
-    <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1681-09e</idno>
-    <availability status="restricted">
-     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-       Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie
-       littéraire » (ci-après dénommé OBVIL).</p>
-      <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les
-       bases de données (L341-1) est mise à disposition de la communauté scientifique internationale
-       par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas
-       d’Utilisation Commerciale - Pas de Modification 3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-      <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de
-       cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de
-       la ressource.</p>
-      <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-       utilisation commerciale est interdite.</p>
-      <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-       électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de
-       versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl><title>Extraordinaire du Mercure galant</title>, quartier de <date>juillet 1681</date>
-     [tome XV]. <hi rend="i">Achevé d’imprimer le 15 octobre 1681</hi>.</bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <creation>
-    <date when="1681-09"/>
-   </creation>
-   <langUsage>
-    <language ident="fre"/>
-   </langUsage>
-  </profileDesc>
- </teiHeader>
- <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
   <body>
    <head><hi rend="i">Extraordinaire du Mercure galant</hi>, quartier de juillet 1681 (tome
     XV).</head>
@@ -232,10 +169,8 @@
       l’Homme font partie de ses actions, ou qu’ils en sont les effets, il semble qu’il n’y a point
       de plaisirs dans l’Homme qui ne doivent estre également &amp; de l’esprit &amp; des sens tout
       ensemble, ou du moins est-il fort difficile de trouver de la diférence entre les plaisirs de
-      l’esprit &amp; ceux des sens. Il n’en faut point d’autre preuve que le terme de <hi rend="i"
-       >sensibles</hi> employé dans la présente Question, dans laquelle il est aussi bien appliqué
-      aux plaisirs de l’esprit, qu’à ceux des sens ; car dire que les plaisirs de l’esprit sont <hi
-       rend="i">sensibles</hi>, n’est-ce pas en quelque façon demeurer d’accord dans la proposition
+      l’esprit &amp; ceux des sens. Il n’en faut point d’autre preuve que le terme de <hi rend="i">sensibles</hi> employé dans la présente Question, dans laquelle il est aussi bien appliqué
+      aux plaisirs de l’esprit, qu’à ceux des sens ; car dire que les plaisirs de l’esprit sont <hi rend="i">sensibles</hi>, n’est-ce pas en quelque façon demeurer d’accord dans la proposition
       mesme que l’on fait, qu’il n’y a point de plaisirs dans l’esprit ausquels les sens ne
       participent, &amp; que les sens n’en peuvent joüir d’aucun, si l’esprit ne contribuë à les
       leur faire goûter ?</p>
@@ -252,16 +187,14 @@
       qu’ils n’en soient des effets. Il faut donc demeurer d’accord qu’ils sont de mesme qualité,
       &amp; que la mesme diférence qui se rencontre entre ses actions se trouve entre ses plaisirs.
        M<hi rend="sup">r</hi> Descartes dans son Livre des Passions, a parfaitement bien étably la
-      diférence des actions de l’Homme, en disant que les unes sont purement <hi rend="i"
-       >spirituelles</hi>, comme <hi rend="i">penser, se ressouvenir de quelque chose</hi>, qui sont
+      diférence des actions de l’Homme, en disant que les unes sont purement <hi rend="i">spirituelles</hi>, comme <hi rend="i">penser, se ressouvenir de quelque chose</hi>, qui sont
       des actions produites par l’esprit seul sans la participation du corps ; les autres purement
        <hi rend="i">corporelles</hi>, comme le mouvement &amp; la chaleur qui se rencontrent dans
       les corps qui sont privez d’ame &amp; d’esprit. Ainsi le feu produit ce mouvement &amp; cette
       chaleur, &amp; les autres <hi rend="i">mixtes</hi> qui sont produites &amp; par l’esprit &amp;
       par le corps conjointement, comme <hi rend="i">écrire, chanter, se promener.</hi></p>
      <p>Il faut raisonner de mesme des plaisirs de l’Homme. Tous les plaisirs qu’il possede qui luy
-      sont communs avec tous les autres Animaux pourveus des sens aussi-bien que luy, ce sont <hi
-       rend="i">les plaisirs des sens</hi>, comme <hi rend="i">entendre les voix, manger</hi>. Les
+      sont communs avec tous les autres Animaux pourveus des sens aussi-bien que luy, ce sont <hi rend="i">les plaisirs des sens</hi>, comme <hi rend="i">entendre les voix, manger</hi>. Les
       plaisirs dont il joüit qui ne peuvent estre possedez par les Brutes, ce sont <hi rend="i">les
        plaisirs de l’esprit</hi>, comme <hi rend="i">la satisfaction de posseder l’honneur &amp; la
        gloire</hi>, dont l’ame d’aucun Animal autre que celle de l’Homme, ne peut estre chatoüillée.
@@ -427,8 +360,7 @@
       <l><hi rend="i">Mais les excés d’amour nous font plaindre &amp; parler.</hi></l>
      </lg>
     </quote>
-    <p><hi rend="i">Ces deux Déclarations sont du mesme M<hi rend="sup">r</hi> Allard ; &amp; M<hi
-       rend="sup">r</hi> Gardien, Secretaire du Roy, a fait tous les Vers qui suivent sur six des
+    <p><hi rend="i">Ces deux Déclarations sont du mesme M<hi rend="sup">r</hi> Allard ; &amp; M<hi rend="sup">r</hi> Gardien, Secretaire du Roy, a fait tous les Vers qui suivent sur six des
       Questions proposées dans le dernier Extraordinaire.</hi></p>
     <quote>
      <label>Si un Amant aimé, qui a peu de Bien, une extréme ambition, beaucoup de délicatesse,
@@ -725,8 +657,7 @@
       Personne, &amp; ce raport bon ou mauvais, est ce qui fait que les Personnes plaisent ou
       déplaisent. Mademoiselle de Scudery dit que c’est un Esprit naturel qui fait que l’on est
       habile &amp; agreable. Mais n’est-ce pas tomber dans une autre Question ? car qu’est ce que
-      cet Esprit naturel ? Est-ce cette heureuse naissance dont on parle tant ? ce <hi rend="i"
-       >gaudeant bene nati</hi> des Anciens ? Est-ce estre né coëffé ? Ce seroit tout cela, si avec
+      cet Esprit naturel ? Est-ce cette heureuse naissance dont on parle tant ? ce <hi rend="i">gaudeant bene nati</hi> des Anciens ? Est-ce estre né coëffé ? Ce seroit tout cela, si avec
       l’art de plaire, on avoit celuy d’estre heureux. Mais trop de Gens heureux déplaisent, &amp;
       trop de Gens plaisent qui sont misérables. Qu’on en die ce qu’on voudra, ces choses ne rendent
       pas plus heureux ; au contraire je tiens que plus on est poly &amp; qu’on a de cet air du
@@ -884,8 +815,7 @@
       &amp; l’esprit solide, se prennent garde de pareilles affectations, &amp; ne s’entestent pas
       d’un air qui est dangereux pour les Provinciaux. On peut estre un honneste Homme, un Homme
       bien fait, sans estre un Homme de Cour ; &amp; ce seroit grand pitié, si tous les Provinciaux
-      devenoient Courtisans. Qu’ils lisent <hi rend="i">l’Honneste Homme</hi> de Faret, ou <hi
-       rend="i">le Parfait Courtisan</hi> du Coulet Castiliogue, pour y apprendre à estre civils
+      devenoient Courtisans. Qu’ils lisent <hi rend="i">l’Honneste Homme</hi> de Faret, ou <hi rend="i">le Parfait Courtisan</hi> du Coulet Castiliogue, pour y apprendre à estre civils
       &amp; honnestes, mais non pas je-ne-sçay-quelle maniere, &amp; quelle fausse galanterie, qui
       n’est bonne qu’à les rendre ridicules. Parce qu’on leur a dit que les Gens de Cour &amp; du
       grand monde ne sont point façonniers, ils sont libres &amp; familiers jusques à l’impertinence
@@ -942,8 +872,7 @@
       que la Nature forme un Homme avec soin, &amp; que les belles Lettres &amp; le grand monde le
       polissent ; car ce n’est pas assez de plaire lors qu’on nous voit, il faut encor que nous
       laissions le desir de nous revoir, &amp; le regret de ne nous voir plus, &amp; tout cela ne se
-      peut sans un grand fond d’esprit &amp; de mérite. Les vrais agrémens, dit M<hi rend="sup"
-       >r</hi> le Chevalier de Meré, ne viennent pas d’une simple superficie, ou d’une legere
+      peut sans un grand fond d’esprit &amp; de mérite. Les vrais agrémens, dit M<hi rend="sup">r</hi> le Chevalier de Meré, ne viennent pas d’une simple superficie, ou d’une legere
       apparence. L’esprit sans-doute est ce qui touche le plus, &amp; quelque avantage que l’on ait
       de la Nature, on n’a point cette liberté, ce brillant &amp; cet enjouëment qui plaisent tant
       dans le grand monde ; car estre libre &amp; enjoüé sans esprit, c’est estre brutal &amp;
@@ -1014,8 +943,7 @@
       ne sont pas Gens à se donner tant de peines ; &amp; en effet, si vous en ostez un petit
       nombre, qui par leur naissance ou par leur éducation ont joint l’usage du monde aux belles
       Lettres, il y a peu d’Autheurs qui ayent eu, je ne dis pas seulement dans leurs personnes,
-      mais encor dans leurs écrits, le grand air &amp; la veritable politesse. Avant M<hi rend="sup"
-       >r</hi> d’Urfé, nous n’avons aucun Autheur François qui ait excelé en ce genre ; mais
+      mais encor dans leurs écrits, le grand air &amp; la veritable politesse. Avant M<hi rend="sup">r</hi> d’Urfé, nous n’avons aucun Autheur François qui ait excelé en ce genre ; mais
       c’estoit un Homme qui estoit aussi poly &amp; aussi galant dans sa personne, que dans sa
       divine Astrée. Les Autheurs de Poléxandre, de Cléopatre, de Clélie, de Cyrus, &amp; de tant de
       beaux Romans qui ont paru de nos jours, nous en ont donné de parfaits modelles ; mais comme
@@ -1051,8 +979,7 @@
       rien, il s’accommode à tout, il profite de tout, &amp; il est par tout ce qu’estoit Alcibiade.
       Mais sans nous arrester à faire icy un plus long détail de leurs défauts, disons pour leur
       faire justice, qu’un bel Esprit qui est galant Homme, est un composé du Monde &amp; des belles
-      Lettres, de l’Ecole &amp; du Cercle, du Cabinet &amp; de la Ruelle. C’est la pensée de M<hi
-       rend="sup">r</hi> de Vaugelas, quand il a dit que dans la Galanterie il y entre du
+      Lettres, de l’Ecole &amp; du Cercle, du Cabinet &amp; de la Ruelle. C’est la pensée de M<hi rend="sup">r</hi> de Vaugelas, quand il a dit que dans la Galanterie il y entre du
       je-ne-sçay-quoy, de la bonne grace, de l’air de la Cour, de l’esprit, du jugement, de la
       civilité, de l’honnesteté, de l’enjouëment, &amp; le tout sans contrainte, sans affectation
       &amp; sans défaut. Apres cela demeurons d’accord qu’un bel Esprit qui a ces qualitez,
@@ -1403,8 +1330,7 @@
       République de Venise, il se trouva engagé en un celébre Duel qui se fit de nuit aux Flambeaux
       dans Rome, à la Place de Navonne, &amp; auquel il y eut trois Gentilshommes Romains qui furent
       tuez. Ce malheur l’obligea de fuir en Avignon, où s’estant marié, il n’eut aucun autre Enfant
-      que la Dame dont la mort a donné lieu à ces Vers. D’autres Ouvrages que vous avez veus de M<hi
-       rend="sup">r</hi> de Templery, vous ont fait connoistre la beauté de son génie. Ce dernier a
+      que la Dame dont la mort a donné lieu à ces Vers. D’autres Ouvrages que vous avez veus de M<hi rend="sup">r</hi> de Templery, vous ont fait connoistre la beauté de son génie. Ce dernier a
       fait grand bruit en Provence, &amp; il est tombé entre mes mains à l’insçeu de son
       Autheur.</hi></p>
     <quote>
@@ -1688,12 +1614,10 @@
       encor plus admirable, c’est que l’on y pouvoit mesme remarquer les affections &amp; les
       mouvemens de l’esprit, tant ce grand Homme estoit heureux &amp; subtil à bien représenter tous
       les linéamens du visage. C’est pourquoy le mesme Pline adjoûte, que le Grand Aléxandre, dont
-      il estoit Contemporain, ne voulut point estre tiré d’autre main que de la sienne : <hi
-       rend="i">Alexander Imperator edixit, ne quis ipsum alius quàm Apelles pingeret.</hi> L’on dit
+      il estoit Contemporain, ne voulut point estre tiré d’autre main que de la sienne : <hi rend="i">Alexander Imperator edixit, ne quis ipsum alius quàm Apelles pingeret.</hi> L’on dit
       qu’il avoit coûtume de mettre au bas de ses Tableaux ce terme, <hi rend="i">Faciebat</hi>,
       pour signifier qu’il n’y avoit pas mis la derniere main, de peur de faire rougir de honte la
-      Nature, qui se fust avoüée vaincuë par l’industrie de son Art ; mais qu’il mit celuy-cy, <hi
-       rend="i">Fecit</hi>, dessous trois de ses plus rares Portraits, pour donner à entendre qu’il
+      Nature, qui se fust avoüée vaincuë par l’industrie de son Art ; mais qu’il mit celuy-cy, <hi rend="i">Fecit</hi>, dessous trois de ses plus rares Portraits, pour donner à entendre qu’il
       y avoit surmonté l’Art, la Nature, &amp; soy-mesme.</p>
      <p>La premiere de ces trois excellentes Pieces, fut un Portrait d’Aléxandre le Grand, tenant en
       main le Foudre de Jupiter, qu’il fit estant à Ephese ; mais avec tant d’artifice, qu’on
@@ -1820,8 +1744,7 @@
       premier qui inventa le Dessein, ou la maniere de porfiler &amp; de contretirer avec le crayon
       &amp; le simple trait, sans mélange de couleurs ; ce qui n’estoit à la verité qu’un Ouvrage
       tres-imparfait, puis qu’il falloit mettre au bas le nom de la Personne représentée, pour la
-      donner à connoistre. <hi rend="i">Ideo &amp; quos pingeret</hi>, dit Pline, <hi rend="i"
-       >adscribere institutum.</hi></p>
+      donner à connoistre. <hi rend="i">Ideo &amp; quos pingeret</hi>, dit Pline, <hi rend="i">adscribere institutum.</hi></p>
      <p>Aristidés, Thébain, s’est rendu celebre pour avoir trouvé le secret de peindre avec la Cire,
       dont on peut voir la maniere dans le 35. Livre de Pline, C. 11. Cette sorte de Peinture, dont
       on peignoit ordinairement les Navires, estoit si solide &amp; si fortement imprimée, dit cet
@@ -1897,8 +1820,7 @@
       la Symétrie, sur laquelle il composa de sçavans Traitez, aussi-bien que sur la préparation,
       l’alliement &amp; la composition des Couleurs : <hi rend="i">Volumina quoque composuit de
        Symetria &amp; Coloribus. Plin. L. 35. C. 11.</hi></p>
-     <p>Hygion, ou Hygienon, natif d’Athénes, selon Pline, ou de Crotone, comme le veut <hi rend="i"
-       >Adæus in Libro de Statuarijs</hi>, fut le premier qui remarqua &amp; fit connoître dans les
+     <p>Hygion, ou Hygienon, natif d’Athénes, selon Pline, ou de Crotone, comme le veut <hi rend="i">Adæus in Libro de Statuarijs</hi>, fut le premier qui remarqua &amp; fit connoître dans les
       Peintures la distinction du Sexe entre l’Homme &amp; la Femme, <hi rend="i">Hygiænon qui
        primus marem fœminamque discreverit. Plin. L. 35. C. 8</hi>. Les Figures ayant esté jusqu’à
       son temps dépeintes si imparfaites pour la plûpart, qu’à peine pouvoit-on dire de quel Sexe
@@ -1960,8 +1882,7 @@
      <p>Panéus, Frere de Phidias, &amp; natif de Corinthe, estoit en vogue dans la 83. Olympiade.
       Les Autheurs rapportent que ce fut de son temps qu’on établit dans cette Ville &amp; à Delphes
       des Combats &amp; des Prix pour la Peinture, &amp; qu’il entra le premier en lice avec
-      Timagoras de Chalcide, duquel cependant il fut vaincu dans les Jeux Pythiens. <hi rend="i"
-       >Quinimò certamen Picturæ Florente Panæo institutum est Cerinthi, ac Delphis ; primuusque
+      Timagoras de Chalcide, duquel cependant il fut vaincu dans les Jeux Pythiens. <hi rend="i">Quinimò certamen Picturæ Florente Panæo institutum est Cerinthi, ac Delphis ; primuusque
        omnium certavit cum Timagora Chalcidense, superatúsque est ab eo Pythijs. Plin. L. 35.
        C. 9.</hi> Ce qui n’empescha pas qu’il ne fust estimé un des plus habiles de sa Profession,
       &amp; que l’on ne fist un grand cas de ses Ouvrages ; &amp; entr’autres d’une représentation
@@ -2124,8 +2045,7 @@
       Agrigentins en eurent Alcméne ; Archelaüs, un Dieu Pan ; &amp; quelqu’autres un Atléthe
       sortant du Combat, qui estoit peint avec tant de naïveté, qu’on eust dit qu’il suoit
       veritablement. Aussi en fit-il tant d’éclat, qu’il osa bien mettre au dessous un Vers Grec,
-      portant qu’il seroit plus facile aux Peintres de l’envier, que de l’imiter. <hi rend="i"
-       >Culpaberis faciliùs hoc, quam imitaberis.</hi> Ce ne fut pas cependant le plus accomply de
+      portant qu’il seroit plus facile aux Peintres de l’envier, que de l’imiter. <hi rend="i">Culpaberis faciliùs hoc, quam imitaberis.</hi> Ce ne fut pas cependant le plus accomply de
       tous ses Ouvrages ; car on dit que son Chef-d’œuvre fut le Portrait d’une Helene, dont
       l’Orateur Romain a pris plaisir de décrire l’excellence sous les plus riches termes de sa
       Rhétorique dans le commencement de son second Livre <hi rend="i">De Inventione</hi>. On dit
@@ -2829,8 +2749,7 @@
       les douceurs que l’idée de sa Maistresse luy inspire, &amp; qui luy servent de nourriture, ne
       peut du tout les conserver, parce que son Rival les luy enleve malgré toute sa résistance.</p>
      <p>Puis que le desespoir est le dernier état où l’Amour porte les Amans, il est temps que je
-      finisse ce que j’avois à dire sur cette passion, aussibien que sur la Question, <hi rend="i"
-       >Si la santé peut estre alterée par les passions</hi>. Mais il ne sera peut-estre pas
+      finisse ce que j’avois à dire sur cette passion, aussibien que sur la Question, <hi rend="i">Si la santé peut estre alterée par les passions</hi>. Mais il ne sera peut-estre pas
       mal-à-propos d’avertir auparavant, qu’on ne confonde pas l’ame que je décris dans ce Discours
       avec celle que Dieu crée dans le temps de la formation de l’Homme ; car elles sont tout-à-fait
       diférentes, puis que la Religion &amp; les Ecrits sacrez nous enseignent que celle qui vient
@@ -3136,8 +3055,7 @@
       <l> <hi rend="i">Des deux Enigmes qu’on propose,</hi></l>
       <l><hi rend="i">Je resvois, &amp; tandis que mes yeux sans dessein</hi></l>
       <l> <hi rend="i">Contemploient son teint &amp; sa main,</hi></l>
-      <l><hi rend="i">Je trouvay</hi> l’Eventail, <hi rend="i">&amp;</hi> le Lys, <hi rend="i"
-        >&amp;</hi> la Rose.</l>
+      <l><hi rend="i">Je trouvay</hi> l’Eventail, <hi rend="i">&amp;</hi> le Lys, <hi rend="i">&amp;</hi> la Rose.</l>
      </lg>
      <p>Le Procureur du Roy, de Conches en Normandie.</p>
     </quote>
@@ -3240,8 +3158,7 @@
      </lg>
      <p>Le jeune Solitaire, de la Ruë Maubué.</p>
     </quote>
-    <p><hi rend="i">J’adjoûte deux Madrigaux qui sont encor sur les Enigmes</hi> du Feu. <hi
-      rend="i">Une Belle se plaint dans le premier, de ce que j’ay oublié son nom, en parlant de
+    <p><hi rend="i">J’adjoûte deux Madrigaux qui sont encor sur les Enigmes</hi> du Feu. <hi rend="i">Une Belle se plaint dans le premier, de ce que j’ay oublié son nom, en parlant de
       ceux qui ont expliqué ces deux Enigmes.</hi></p>
     <quote>
      <label>I.</label>
@@ -3268,8 +3185,7 @@
     <head>[Explication de la Lettre en Chifres du dernier Extraordinaire]</head>
     <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1681 [tome XV],
      p. 352-354.</bibl>
-    <p><hi rend="i">Messieurs de Belle-Isle &amp; Langlois, tous deux de Paris, &amp; M<hi
-       rend="sup">r</hi> de Folleville de Normandie, sont les seuls qui ayent trouvé le secret de la
+    <p><hi rend="i">Messieurs de Belle-Isle &amp; Langlois, tous deux de Paris, &amp; M<hi rend="sup">r</hi> de Folleville de Normandie, sont les seuls qui ayent trouvé le secret de la
       Lettre du dernier Extraordinaire, dans laquelle un sens parfait est caché sous un autre sens
       parfait. Il faut vous dire en quoy il consiste. Ces mots employez d’abord</hi>, Voicy le
      compte de ce que j’ay avancé suivant vos ordres, <hi rend="i">sont composez de quarante-cinq
@@ -3640,5 +3556,4 @@
     </quote>
    </div>
   </body>
- </text>
-</TEI>
+ </text></TEI>

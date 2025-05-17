@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1684-01">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, janvier 1684 [tome 1]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1684-01</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>janvier 1684</date> [tome 1].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1684-01"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, janvier 1684 [tome 1].</head>
       <div type="article" xml:id="MG-1684-01_001" resp="wordpro">
@@ -119,8 +55,7 @@
           fait à l’occasion de cette Guerre, &amp; l’état au vray des Affaires de l’Europe pendant
           tout ce mois. En attendant ce qu’il me reste à sçavoir pour ce grand Article, je vay vous
           apprendre les Nouvelles dont on m’a fait part ; mais ce ne sera qu’apres vous avoir parlé
-          de deux Devises faites pour le Roy, au jour des Etrennes. Elles sont de M<hi rend="sup"
-            >r</hi> Magnin, aussi-bien que les Madrigaux qui les expliquent.</p>
+          de deux Devises faites pour le Roy, au jour des Etrennes. Elles sont de M<hi rend="sup">r</hi> Magnin, aussi-bien que les Madrigaux qui les expliquent.</p>
         <p>La premiere est une Main qui donne l’Encens au Soleil, avec ces mots, <hi rend="i">De
             munere munus.</hi></p>
         <quote>
@@ -261,8 +196,7 @@
         <p>L’autre Mariage qu’il faut que je vous apprenne, est celuy de M<hi rend="sup">r</hi> le
           Chevalier de Crillon avec Mademoiselle de Saporte. M<hi rend="sup">r</hi> le Marquis de
           Crillon, Aîné de cette Famille, Colonel &amp; Brigadier de Cavalerie, n’ayant point
-          d’Enfans depuis vingt-trois ans qu’il est marié, a veu avec joye le choix que M<hi
-            rend="sup">r</hi> son Frere a fait de cette aimable Personne. Elle n’est pas moins à
+          d’Enfans depuis vingt-trois ans qu’il est marié, a veu avec joye le choix que M<hi rend="sup">r</hi> son Frere a fait de cette aimable Personne. Elle n’est pas moins à
           estimer par son esprit, que par sa naissance. Ces Vers qu’elle fit le premier jour de ce
           mois, pour Etrenne à M<hi rend="sup">r</hi> de Crillon son Mary, vous feront connoître les
           avantages qu’elle a de ce costé-là.</p>
@@ -412,8 +346,7 @@
             Messire Pierre, contenant que pour acquitter la loyauté envers le Roy nostre Sire, &amp;
             Monsieur le Duc d’Orleans, il se partit de son Païs pour venir à leur service en la
             Compagnie de Jeanne la Pucelle sa Sœur, avec laquelle, &amp; jusqu’à son absentement,
-            &amp; depuis jusqu’à présent il a exposé son corps &amp; ses biens audit service. <hi
-              rend="i">Termes qui marquoient que la Pucelle n’avoit esté qu’absente, &amp; qu’elle
+            &amp; depuis jusqu’à présent il a exposé son corps &amp; ses biens audit service. <hi rend="i">Termes qui marquoient que la Pucelle n’avoit esté qu’absente, &amp; qu’elle
               n’estoit pas morte ; ce que son Frere n’auroit pas manqué de dire &amp; de faire
               exprimer dans ces Lettres, s’il avoit esté véritable, afin de s’attirer plus de mérite
               auprés de ce Prince. Il me témoigna enfin, qu’il ne doutoit point que le Roy mesme
@@ -474,8 +407,7 @@
               &amp; de me croire, Monsieur, vostre, &amp;c.</hi></p>
           <p><hi rend="sc">De Vienne-Plancy.</hi></p>
         </quote>
-        <p>Je vous parlay il y a un mois, de deux Médailles d’or, qui furent distribuées par M<hi
-            rend="sup">r</hi> de Louvoys à l’Académie des beaux Arts, pour les Prix de Peinture
+        <p>Je vous parlay il y a un mois, de deux Médailles d’or, qui furent distribuées par M<hi rend="sup">r</hi> de Louvoys à l’Académie des beaux Arts, pour les Prix de Peinture
           &amp; de Sculpture, lors qu’il y fut reçû Protecteur. Je vous en envoye le Revers gravé.
           La face droite représente le Roy, dont vous trouverez le Portrait dans plusieurs de mes
           Lettres. Je vous dis à l’égard de la mesme Académie, que M<hi rend="sup">r</hi> de Louvoys
@@ -489,8 +421,7 @@
         <head>[Compliment fait à M. le Nonce]</head>
         <bibl><title>Mercure galant</title>, janvier 1684 [tome 1], p. 83-96.</bibl>
         <p>Dans le mesme temps que je vous parle d’Oraisons Funébres, le hazard me fait tomber entre
-          les mains le Compliment que M<hi rend="sup">r</hi> l’Abbé Faydet fit à M<hi rend="sup"
-            >r</hi> le Nonce le jour de Noël, en prêchant aux Prémontrez en présence de ce Prélat.
+          les mains le Compliment que M<hi rend="sup">r</hi> l’Abbé Faydet fit à M<hi rend="sup">r</hi> le Nonce le jour de Noël, en prêchant aux Prémontrez en présence de ce Prélat.
           Je vous l’envoye, fort persuadé que vous le lirez avec plaisir.</p>
         <quote>
           <label>COMPLIMENT<lb/>A M<hi rend="sup">r</hi> LE NONCE.</label>
@@ -525,8 +456,7 @@
               Cour ; &amp; ils courent en foule dams le Desert, pour y voir de prés S. Jean, &amp; y
               admirer un Homme qui ne beuvoit ny ne mangeoit. Ils n’envoyent point d’Ambassade à
               Rome ; mais ils en envoyent une celébre composée de Prétres &amp; de Levites à S.
-              Jean</hi>, Miserunt Judæi ab Jerosolymis Sacerdotes &amp; Levitas ad eum. <hi rend="i"
-              >C’est que Jean brilloit plus à leurs yeux par sa Sainteté, que les Césars par leurs
+              Jean</hi>, Miserunt Judæi ab Jerosolymis Sacerdotes &amp; Levitas ad eum. <hi rend="i">C’est que Jean brilloit plus à leurs yeux par sa Sainteté, que les Césars par leurs
               Victoires.</hi></p>
           <p><hi rend="i">Or on peut dire tres-veritablement, Monseigneur, que ces trois sortes de
               Grandeurs sont reünies dans V.Ex. Vous êtes Grand par la grandeur de vostre Naissance.
@@ -605,28 +535,23 @@
             <l><hi rend="sc">Rolandt Hunn mog tosuit.</hi></l>
           </lg>
         </quote>
-        <p>Cette Inscription paroissant énigmatique, a fait souhaiter qu’on l’expliquast. M<hi
-            rend="sup">r</hi> Vignier de Richelieu, en a fait connoistre ses sentimens en ces
+        <p>Cette Inscription paroissant énigmatique, a fait souhaiter qu’on l’expliquast. M<hi rend="sup">r</hi> Vignier de Richelieu, en a fait connoistre ses sentimens en ces
           termes.</p>
         <p>Celuy qui a posé ce Cercueil, pouvoit dire avec raison, <hi rend="i">Gaudebis si
             inveneris</hi>. Tu te réjoüiras, si tu trouves. L’éclat des Pieces d’or, d’argent, &amp;
-          des pierreries, qui estoient dedans, est bien capable de produire cet effet. <hi rend="i"
-            >Videbis</hi>. Tu verras avec étonnement. Il n’est pas petit de rencontrer de grandes
-          richesses, où l’on ne croit trouver que des cendres, ou les ossemens d’un Mort. <hi
-            rend="i">Tacebis</hi>. Tu garderas le silence. Cela est assez ordinaire en de pareilles
+          des pierreries, qui estoient dedans, est bien capable de produire cet effet. <hi rend="i">Videbis</hi>. Tu verras avec étonnement. Il n’est pas petit de rencontrer de grandes
+          richesses, où l’on ne croit trouver que des cendres, ou les ossemens d’un Mort. <hi rend="i">Tacebis</hi>. Tu garderas le silence. Cela est assez ordinaire en de pareilles
           rencontres. <hi rend="i">Orabis</hi>. Tu prieras pour l’ame de ceux qui te mettent à ton
           aise. Tu remercîras la Divine Providence, qui t’a fait trouver une source de Biens, où
           l’on n’en porte point, &amp; dans le temps que les Infidelles ravissent ceux de tes
-          Compatriotes, brûlent, &amp; saccagent tout ce qu’ils ont à la Campagne. <hi rend="i"
-            >Pugnabis</hi>. Tu combatras pour la défense de ta Patrie, &amp; pour conserver ce qui
+          Compatriotes, brûlent, &amp; saccagent tout ce qu’ils ont à la Campagne. <hi rend="i">Pugnabis</hi>. Tu combatras pour la défense de ta Patrie, &amp; pour conserver ce qui
           t’est tombé entre les mains. <hi rend="i">Ædificabis</hi>. Tu feras faire des Bastimens.
           Tu feras bâtir quelque Chapelle en l’honneur de ton bon Ange, qui t’a si heureusement
           conduit ; ou quelque Hôpital, pour retirer ceux que les Ennemis du nom Chrestien ont
           tout-à-fait ruinez. Tu dois cette marque de reconnoissance à la Bonté souveraine, qui loin
           de t’avoir laissé perdre dans le bouleversement genéral de cette fameuse Ville, t’a retiré
           de la mort, ou de la captivité. <hi rend="i">Non hodie, nec cras</hi>. Tu ne feras pas
-          toutes choses ny aujourd’huy, ny demain. <hi rend="i">Sed</hi>. Mais pourquoy ? <hi
-            rend="i">Quia</hi>. Parce que tu as bien d’autres affaires plus pressées, &amp; qu’il te
+          toutes choses ny aujourd’huy, ny demain. <hi rend="i">Sed</hi>. Mais pourquoy ? <hi rend="i">Quia</hi>. Parce que tu as bien d’autres affaires plus pressées, &amp; qu’il te
           faut achever auparavant. <hi rend="i">Equus universus</hi>. Le Cheval universel doit
           laisser sa queuë devant cette Ville. Peut-estre qu’il appelle ainsi le Grand Vizir, à
           cause des queuës de Cheval que l’on porte devant luy, &amp; que l’on a trouvées dans sa
@@ -636,8 +561,7 @@
           Armes mises en ordre pour la défense de la Place, ne te permettront pas de faire des
           Edifices, que ses Murs &amp; ses Bastions ne soient relevez. <hi rend="i">Rolandt Huun
             Mog. posuit</hi>. Rolandt Huun de Mayence a posé cecy.</p>
-        <p>Ces mesmes Paroles énigmatiques ont esté paraphrasées en Vers de cette sorte, par M<hi
-            rend="sup">r</hi> Dizeul, Doyen de Nostre Dame du Mur, de Morlaix en Bretagne. La Fable
+        <p>Ces mesmes Paroles énigmatiques ont esté paraphrasées en Vers de cette sorte, par M<hi rend="sup">r</hi> Dizeul, Doyen de Nostre Dame du Mur, de Morlaix en Bretagne. La Fable
           du Cerf &amp; du Cheval, dont il parle, est tirée d’Horace. La Donation de l’Empire de
           Constantinople, qu’il touche en passant, est celle que fit André Paléologue, Heritier de
           Constantin XII. dernier Emperieur d’Orient.</p>
@@ -928,8 +852,7 @@
           dans le moment. Il entra en suite dans la Chambre où estoient les quatre Tables de Dames,
           accompagné de tous ceux qui composoient la Table des Princes &amp; des Seigneurs. Ils se
           tenoient tous avec des Servietes qu’ils laissoient pendre en maniere de Festons. L’un
-          d’entr’eux, ayant une Couronne de lumieres, estoit porté au milieu par M<hi rend="sup"
-            >r</hi> le Duc de la Ferté. Ils chanterent tous des Paroles faites par feu Moliere pour
+          d’entr’eux, ayant une Couronne de lumieres, estoit porté au milieu par M<hi rend="sup">r</hi> le Duc de la Ferté. Ils chanterent tous des Paroles faites par feu Moliere pour
           un Balet du Roy, dans lequel on voyoit un Homme qui croyoit qu’on le rajeunissoit par
           enchantement. Ces Paroles sont,</p>
         <quote>
@@ -1168,8 +1091,7 @@
         <p>Cette Réponse en a attiré une autre que j’ajoûte icy. Elle est encore de Madame des
           Houlieres.</p>
         <quote>
-          <label><hi rend="sc">Reponse de M</hi><hi rend="sup">e</hi><lb/>DES HOULLIERES,<lb/>A M<hi
-              rend="sup">r</hi> le Duc de S. Aignan.</label>
+          <label><hi rend="sc">Reponse de M</hi><hi rend="sup">e</hi><lb/>DES HOULLIERES,<lb/>A M<hi rend="sup">r</hi> le Duc de S. Aignan.</label>
           <lg>
             <l rend="i">Duc plus vaillant que ces fiers Paladins,</l>
             <l rend="i">Qui de Géans cinquestoient les Armures ;</l>
@@ -1237,8 +1159,7 @@
           une excellente Musique, en présence de M<hi rend="sup">r</hi> l’Evesque d’Angers. Apres
           cela les Compagnies vinrent au milieu d’une double Haye de la Milice rangée des deux
           costez des Rües, depuis la Cathédrale jusqu’à la Place publique, où M<hi rend="sup">r</hi>
-          d’Autichamp, M<hi rend="su">r</hi> Gohin Président du Présidial, &amp; M<hi rend="sup"
-            >r</hi> Charlot Maire (ces deux derniers à la teste de leurs Compagnies) allumérent le
+          d’Autichamp, M<hi rend="su">r</hi> Gohin Président du Présidial, &amp; M<hi rend="sup">r</hi> Charlot Maire (ces deux derniers à la teste de leurs Compagnies) allumérent le
           feu au bruit des Canons, des Tambours, des Trompettes, &amp; des acclamations publiques.
           La Soldatesque vint ensuite faire ses Décharges à diverses reprises. On avoit dressé dans
           cette Place un grand Arc de Triomphe à trois faces, orné d'Obélisques, de Festons, &amp;
@@ -1287,8 +1208,7 @@
           Brisac, a fait sur cette mesme Naissance. Elle a pour corps un Miroir commun, qui exposé
           au Soleil, outre l’image de ce brillant Astre, représente encore deux autres Soleils aux
           deux costez, pareils au premier. Ces paroles en font l’ame, <hi rend="i">Ex splendore
-            pares</hi>. Vous en trouverez l’explication dans ce Sonnet du mesme M<hi rend="sup"
-            >r</hi> de Billy.</p>
+            pares</hi>. Vous en trouverez l’explication dans ce Sonnet du mesme M<hi rend="sup">r</hi> de Billy.</p>
         <quote>
           <label><hi rend="sc">A Monseigneur</hi><lb/>LE DAUPHIN.</label>
           <lg>
@@ -1411,8 +1331,7 @@
           qui tiroit sept coups. Ce Présent fut accompagné de ces Vers. Ils expliquent ce que Madame
           des Houlieres a touché légerement dans sa Réponse.</p>
         <quote>
-          <label><hi rend="sc">A Monsieur</hi><lb/>LE DUC DE S. AIGNAN.<lb/><hi rend="sc"
-              >Ballade.</hi></label>
+          <label><hi rend="sc">A Monsieur</hi><lb/>LE DUC DE S. AIGNAN.<lb/><hi rend="sc">Ballade.</hi></label>
           <lg>
             <l rend="i">Parmy les Bois, &amp; la gaye verdure,</l>
             <l rend="i">Où va cherchant souvent mainte Avanture.</l>
@@ -1477,10 +1396,7 @@
         <bibl><title>Mercure galant</title>, janvier 1684 [tome 1], p. 328-329.</bibl>
         <p/>
         <p>La Troupe Françoise a représenté trois Piéces nouvelles, <hi rend="i">Marie Stuard</hi>,
-          de M<hi rend="sup">r</hi> Boursault ; <hi rend="i">le Docteur Extravagant</hi>, de M<hi
-            rend="sup">r</hi> de Beauregard ; &amp; <hi rend="i">Penelope</hi>, de l’Auteur de <hi
-            rend="i">Zelonide</hi>. Vous vous souvenez, Madame, du bruit que fit <hi rend="i"
-            >Zelonide</hi> il y a deux ans. <hi rend="i">Penelope</hi> est un Ouvrage, qui a comme
+          de M<hi rend="sup">r</hi> Boursault ; <hi rend="i">le Docteur Extravagant</hi>, de M<hi rend="sup">r</hi> de Beauregard ; &amp; <hi rend="i">Penelope</hi>, de l’Auteur de <hi rend="i">Zelonide</hi>. Vous vous souvenez, Madame, du bruit que fit <hi rend="i">Zelonide</hi> il y a deux ans. <hi rend="i">Penelope</hi> est un Ouvrage, qui a comme
           ce premier, de grandes beautez. Les Vers en sont travaillez avec un soin fort exact, &amp;
           répondent noblement à la force des pensées.</p>
         <p>Il paroist depuis peu un Livre intitulé, <hi rend="i">L’Espion du Grand Seigneur</hi>.
@@ -1499,9 +1415,7 @@
           <label>AIR NOUVEAU.</label>
           <label>Servant d´Explication aux deux Enigmes du mois de Decembre 1683.</label>
           <lg>
-            <l rend="i">Je fuis l'Amour &amp; les Procés ;<note resp="author" place="margin"><hi
-                  rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i"
-                  >Je fuis l'Amour &amp; les Procés</hi>, doit regarder la page 330.</note></l>
+            <l rend="i">Je fuis l'Amour &amp; les Procés ;<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Je fuis l'Amour &amp; les Procés</hi>, doit regarder la page 330.</note></l>
             <l rend="i">Pour en avoir un bon succés,</l>
             <l rend="i">On devient trop mélancolique.</l>
             <l rend="i">J'aime mieux chanter la Musique,</l>
@@ -1524,8 +1438,7 @@
         <head>[Arlequin Procureur]</head>
         <bibl><title>Mercure galant</title>, janvier 1684 [tome 1], p. 335-336.</bibl>
         <p>Je viens d’apprendre que M<hi rend="sup">r</hi> de Louvoys a nommé M<hi rend="sup">r</hi>
-          l’Abbé de Lanion, pour présider à l’Académie des Sciences ; &amp; M<hi rend="sup"
-          >r</hi> Reinsant, pour avoir soin des Médailles de Sa Majesté. L’un &amp; l’autre Employ
+          l’Abbé de Lanion, pour présider à l’Académie des Sciences ; &amp; M<hi rend="sup">r</hi> Reinsant, pour avoir soin des Médailles de Sa Majesté. L’un &amp; l’autre Employ
           demande des Personnes d’une érudition consommée.</p>
         <p>Je n’ay point douté que vous ne prissiez beaucoup de plaisir à la lecture de la Comédie
             d’<hi rend="i">Arlequin Procureur</hi> ; mais je ne croyois pas que vous dûssiez avoir
@@ -1607,5 +1520,4 @@
         </quote>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

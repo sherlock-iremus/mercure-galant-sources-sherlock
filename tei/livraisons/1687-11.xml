@@ -1,66 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1687-11">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, novembre 1687 [tome 16]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1687-11</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
-    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
-    sur les bases de données (L341-1) est mise à disposition de la communauté
-    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
-    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
-    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-<p>Attribution : afin de référencer la source, toute utilisation ou publication
-    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
-    l’adresse Internet de la ressource.</p>
-<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
-    toute utilisation commerciale est interdite.</p>
-<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-    électronique, notamment en intégrant toutes les contributions extérieures, la
-    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>novembre 1687</date> [tome 16].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1687-11"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, novembre 1687 [tome 16].</head>
       <div type="article" xml:id="MG-1687-11_000" resp="wordpro">
@@ -220,8 +158,7 @@
           France qu’autant qu’elle les soûtient, il ne faut pas s’étonner des plaintes que l’on fait
           contre elle dans le Dialogue qui suit.</p>
         <quote>
-          <label><hi rend="i">PLAINTES</hi><lb/><hi rend="i">DES PALATINES</hi><lb/><hi rend="i"
-              >contre la Mode</hi></label>
+          <label><hi rend="i">PLAINTES</hi><lb/><hi rend="i">DES PALATINES</hi><lb/><hi rend="i">contre la Mode</hi></label>
           <label><hi rend="sc">La Mode.</hi></label>
           <p>C’est donc une resolution prise que vostre sortie du Royaume, &amp; vous voulez quitter
             le plus beau Pays du monde, pour aller chercher un établissement ailleurs ?</p>
@@ -413,8 +350,7 @@
           pourquoy il cache son nom, puis qu’ils sont si bien tournez, qu’il n’y a personne qui ne
           deust faire gloire de les avoüer.</p>
         <quote>
-          <label>RESPONSE<lb/>d’une Demoiselle à qui on conseille d’aimer.<lb/><hi rend="i"
-              >STANCES.</hi></label>
+          <label>RESPONSE<lb/>d’une Demoiselle à qui on conseille d’aimer.<lb/><hi rend="i">STANCES.</hi></label>
           <lg>
             <l rend="i">Je voudrois aimer à mon tour,</l>
             <l rend="i">Je suivrois vos conseils, heureuse de m’y rendre,</l>
@@ -621,8 +557,7 @@
         <head>[Entrée de M. le Marquis de Dangeau à Tours]</head>
         <bibl><title>Mercure galant</title>, novembre 1687 [tome 16], p. 110-114</bibl>
         <p/>
-        <p>Je vous aurois parlé dans ma Lettre du dernier mois, de l’Entrée de M<hi rend="sup"
-            >r</hi> le Marquis de Dangeau, Gouverneur de Touraine, dans la Ville de Tours, si
+        <p>Je vous aurois parlé dans ma Lettre du dernier mois, de l’Entrée de M<hi rend="sup">r</hi> le Marquis de Dangeau, Gouverneur de Touraine, dans la Ville de Tours, si
           l’abondance de la matiere sur des articles tres-longs, ne m’en eust pas empesché.
           Messieurs de la Maréchaussée l’allerent prendre à sa Maison de campagne, qui est à
           quelques lieuës de cette Ville-là, &amp; marcherent au devant de son Carosse, autour
@@ -632,13 +567,10 @@
           qui se montoient à dix mille hommes, &amp; qui estoient distinguées par des rubans de
           differentes couleurs, sortirent une demy-lieuë hors de la Ville. On alla descendre à
           l’Hostel du Gouverneur. Toutes les Dames de Tours se trouverent dans la premiere Sale,
-          &amp; il y avoit des Violons dans la seconde. Elles passerent dans la troisiéme avec M<hi
-            rend="sup">r</hi> le Marquis de Dangeau, &amp; Madame la Marquise sa Femme, &amp; l’on y
-          commença une conversation qui ne put estre que spirituelle, puis que M<hi rend="sup"
-            >r</hi> de Dangeau y avoit la meilleure part. Elle fut interrompuë par des complimens
+          &amp; il y avoit des Violons dans la seconde. Elles passerent dans la troisiéme avec M<hi rend="sup">r</hi> le Marquis de Dangeau, &amp; Madame la Marquise sa Femme, &amp; l’on y
+          commença une conversation qui ne put estre que spirituelle, puis que M<hi rend="sup">r</hi> de Dangeau y avoit la meilleure part. Elle fut interrompuë par des complimens
           que le Corps de Ville vint luy faire par la bouche de son Maire. Le Corps de Medecine
-          arriva ensuite, &amp; fut suivy de plusieurs autres. On alla le soir souper chez M<hi
-            rend="sup">r</hi> l’Intendant. Ce Repas fut magnifique ; il y eut grand Bal aprés le
+          arriva ensuite, &amp; fut suivy de plusieurs autres. On alla le soir souper chez M<hi rend="sup">r</hi> l’Intendant. Ce Repas fut magnifique ; il y eut grand Bal aprés le
           Soupé, &amp; grande Collation pendant le Bal. M<hi rend="sup">r</hi> le Marquis de Dangeau
           a tenu table dans tout le temps qu’il a demeuré à Tours. Toute la Noblesse de la Province
           a esté manger chez luy, &amp; il en est party avec un applaudissement general.</p>
@@ -651,8 +583,7 @@
           faire l’éloge, lors qu’il m’en est tombé un entre les mains auquel je n’ay rien à ajoûter.
           Il paroit que celuy qui l’a dressé le connoissoit tres-parfaitement. La maniere dont-il
           est écrit me persuade sans peine qu’il vient, comme on me l’a dit, d’un excellent homme du
-          mesme Ordre. En voicy les termes. Le Pere René Rapin de la Compagnie de <hi rend="sc"
-            >Jesus</hi>, né à Tours, est mort à Paris le 27. d’Octobre 1687. en la soixante-sixiéme
+          mesme Ordre. En voicy les termes. Le Pere René Rapin de la Compagnie de <hi rend="sc">Jesus</hi>, né à Tours, est mort à Paris le 27. d’Octobre 1687. en la soixante-sixiéme
           année de son âge, d’une espece d’apoplexie jointe à un commencement de paralysie qui l’a
           fait languir prés de deux mois. C’est une perte considerable pour son Ordre dont il estoit
           un des principaux ornemens : car il avoit d’excellentes qualitez ; un génie heureux pour
@@ -677,9 +608,7 @@
           &amp; de Ciceron fust presque la sienne, &amp; qu’il en eust fait son étude principale dés
           ses premieres années, il connoissoit toutes les beautez de la nostre ; &amp; ce qu’il a
           écrit en François, a une élegance particuliere. Il s’estoit rempli l’esprit de toutes les
-          belles connoissances, &amp; rien ne marque mieux son érudition que ses <hi rend="i"
-            >Réflexions sur l’Eloquence, sur la Poésie, sur la Philosophie</hi>, &amp; <hi rend="i"
-            >sur l’Histoire</hi>, avec ses <hi rend="i">Comparaisons de Virgile &amp; d’Homere, de
+          belles connoissances, &amp; rien ne marque mieux son érudition que ses <hi rend="i">Réflexions sur l’Eloquence, sur la Poésie, sur la Philosophie</hi>, &amp; <hi rend="i">sur l’Histoire</hi>, avec ses <hi rend="i">Comparaisons de Virgile &amp; d’Homere, de
             Demosthene</hi> &amp; <hi rend="i">de Ciceron, de Platon &amp; d’Aristote, de Thucydide
             &amp; de Tite-Live</hi>. Mais ses vertus chrétiennes &amp; religieuses le rendent encore
           plus estimable que ses talens naturels &amp; humains. Il a eû dés son enfance une pureté
@@ -1002,8 +931,7 @@
         il y a deux mois, dans une Relation particuliere, intitulée, <hi rend="i">Défaites des
           Armées Othomanes par les Armées Chrestiennes en Hongrie &amp; dans la Morée, avec la
           prise de plusieurs Places</hi>. Comme celle d’Athenes vient de reconnoistre la puissance
-        des Venitiens, je vais vous en faire la description, ainsi que j’ay déja décrit <hi
-          rend="i">Patras, Lepante, Castel-Tornese, Corinthe, Acrocorinthe, &amp; Misitra</hi>,
+        des Venitiens, je vais vous en faire la description, ainsi que j’ay déja décrit <hi rend="i">Patras, Lepante, Castel-Tornese, Corinthe, Acrocorinthe, &amp; Misitra</hi>,
         dans la Relation dont je viens de vous parler.</p>
       </div>
       <div type="article" xml:id="MG-1687-11_262" resp="mercure">
@@ -1133,8 +1061,7 @@
           de Sully.</hi></p>
         <p><hi rend="i">Le même Monsieur de Bacilly avertit qu'il a une Bibliotheque à vendre de toutes sortes de
           livres de Musique, Italienne, Latine &amp; Françoise, </hi>in quarto <hi rend="i">au nombre de plus de cent
-          Volumes, à trois, à quatre &amp; à cinq parties, même des Ouvrages du vieux Boisset<note
-            resp="editor">Boësset.</note>, de Gaudron<note resp="editor">Guédron.</note>, de
+          Volumes, à trois, à quatre &amp; à cinq parties, même des Ouvrages du vieux Boisset<note resp="editor">Boësset.</note>, de Gaudron<note resp="editor">Guédron.</note>, de
           Moulinié, comme aussi toutes sortes de Livres d'Airs de differens Autheurs, dont les trois
           premiers ne se trouvent plus chez le sieur Ballard, &amp; autres Livres de Richard,
           Chastelet, des Rosiers, Sicard, Cambefort, Hotman, Cambert, &amp; tous les Livres de
@@ -1143,5 +1070,4 @@
             pour écrire de la Musique &amp; de la Tablature.</hi></p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

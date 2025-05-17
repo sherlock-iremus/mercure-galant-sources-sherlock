@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1709-03">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, mars 1709 [tome 3]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1709-03</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>mars 1709</date> [tome 3].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1709-03"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, mars 1709 [tome 3].</head>
       <div type="article" xml:id="MG-1709-03_011">
@@ -113,8 +49,7 @@
               une fievre, qui au bout de quinze jours ou environ, nous l’enleva. Ce fut le 6. de
               May ; il estoit âgé de quatre-vingt six ans. Il avoit été sacré Evêque de Petrée en
               1659. à Paris, à l’Abbaye Saint Germain des Prez, par le Nonce du Pape, &amp; fait
-              Evêque Titulaire de Quebec</hi> (<hi rend="i">où il estoit dés-lors</hi>) <hi rend="i"
-              >en 1673. On peut dire que son Convoy a esté un espece de Triomphe, &amp; que ses
+              Evêque Titulaire de Quebec</hi> (<hi rend="i">où il estoit dés-lors</hi>) <hi rend="i">en 1673. On peut dire que son Convoy a esté un espece de Triomphe, &amp; que ses
               obseques ont esté celebrées avec toute la solemnité que l’on peut desirer. Il a esté
               porté sur les épaules des Prestres &amp; des Diacres par toutes les Eglises de Quebec,
               avant d’estre deposé dans la Cathedrale. Chacun s’empressoit d’assister à un spectacle
@@ -139,8 +74,7 @@
               une idée du solide, dans le choix des choses qu’il dit à la loüange de l’illustre
               deffunt, ce qui est le caractere de la veritable Eloquence. Mr</hi><note resp="author"> Il est fils d’un President à Mortier au Parlement de Grenoble.</note>
             <hi rend="i">de Belmont, aussi Grand Vicaire &amp; Superieur des Missions de Saint
-              Sulpice dans l’Isle de Montreal, en fit une dans l’Eglise de Nostre-Dame de</hi><note
-              resp="author">Eglise principale de Montreal.</note>
+              Sulpice dans l’Isle de Montreal, en fit une dans l’Eglise de Nostre-Dame de</hi><note resp="author">Eglise principale de Montreal.</note>
             <hi rend="i">Ville-Marie, qui attira l’applaudissement de toutes les personnes de bon
               goust. Le Corps du vertueux &amp; Saint Evêque a esté mis dans un Cercüeil de plomb,
               &amp; enterré au milieu du Sanctuaire de la Cathedrale : voicy ce que l’on a gravé sur
@@ -569,8 +503,7 @@
           on voit tous les ans en cette Saison, les Poëtes n’oubliant pas de le chanter chaque
           année, même avant qu’il ait commencé à faire sentir ses douceurs.<note resp="editor">Deux airs, anonymes l'un et l'autre, ont été composés sur ce poème et publiés respectivement dans le <hi rend="italic">Livre d'airs de différents auteurs</hi> (cf. LADDA 1679-07) et dans le <hi rend="italic">Mercure galant</hi> (cf. <ref target="MG-1710-04_346">cet article</ref>).</note></p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air, <hi rend="i"
-              >L’Heureux Printemps</hi>, page 346.</note>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air, <hi rend="i">L’Heureux Printemps</hi>, page 346.</note>
           <lg>
             <l><hi rend="i">L’heureux Printemps est de retour,</hi></l>
             <l><hi rend="i">Sa douceur inspire l’amour,</hi></l>
@@ -610,5 +543,4 @@
         </quote>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

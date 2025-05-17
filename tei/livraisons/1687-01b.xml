@@ -1,66 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1687-01b">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, Quatrième partie du voyage des ambassadeurs de Siam, janvier 1687 (deuxième partie) [tome 2]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1687-01b</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
-    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
-    sur les bases de données (L341-1) est mise à disposition de la communauté
-    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
-    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
-    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-<p>Attribution : afin de référencer la source, toute utilisation ou publication
-    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
-    l’adresse Internet de la ressource.</p>
-<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
-    toute utilisation commerciale est interdite.</p>
-<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-    électronique, notamment en intégrant toutes les contributions extérieures, la
-    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant, Quatrième partie du voyage des ambassadeurs de Siam</title>, <date>janvier 1687</date> (deuxième partie) [tome 2].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1687-01"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant, Quatrième partie du voyage des ambassadeurs de Siam</hi>, janvier 1687 (deuxième partie) [tome 2].</head>
       <div type="article" xml:id="MG-1687-01b_000" resp="wordpro">
@@ -454,14 +392,12 @@
           dit]</head>
         <bibl><title>Mercure galant, Quatrième partie du voyage des ambassadeurs de Siam</title>, janvier 1687 (deuxième partie) [tome 2], p. 184-187</bibl>
         <p>Comme chacun s’empressoit à leur donner des divertissements aprés leur retour de Flandre,
-          &amp; qu’on leur offroit l’Opera &amp; la Comedie, ils allerent à l’<hi rend="i"
-            >Avare</hi>, &amp; ce qu’il y eut de surprenant, c’est que l’Ambassadeur dit pendant la
+          &amp; qu’on leur offroit l’Opera &amp; la Comedie, ils allerent à l’<hi rend="i">Avare</hi>, &amp; ce qu’il y eut de surprenant, c’est que l’Ambassadeur dit pendant la
           Piece, <hi rend="i">qu’il gageroit que la cassette où estoit l’argent de l’Avare seroit
             prise, &amp; que l’Avare seroit trompé</hi> ; ce qui estant arrivé selon sa pensée, dût
           luy faire beaucoup de plaisir, &amp; fit connoistre dans le mesme temps combien la
           penetration de son esprit est grande pour les choses qui sont de son usage.</p>
-        <p>Ils allerent le lendemain voir l’Opera d’<hi rend="i">Armide</hi>, que M<hi rend="sup"
-            >r</hi> de Veneroni leur expliqua ainsi qu’il avoit fait la Comedie le jour precedent.
+        <p>Ils allerent le lendemain voir l’Opera d’<hi rend="i">Armide</hi>, que M<hi rend="sup">r</hi> de Veneroni leur expliqua ainsi qu’il avoit fait la Comedie le jour precedent.
           L’Ambassadeur voulut estre éclaircy de tout le Sujet ; &amp; sur les enchantemens que
           faisoit Armide pour engager Renaud à l’aimer, il demanda <hi rend="i">si Armide estoit
             Françoise</hi> ; &amp; quand on luy eut repondu <hi rend="i">que non</hi>, &amp; qu’elle
@@ -586,16 +522,13 @@
           pour leur faire voir comment on assemble les caracteres. Ils furent surpris de la vitesse
           avec laquelle les Ouvriers levoient les lettres, &amp; particulierement les petites ; car
           l’Ambassadeur fit de luy-mesme la difference des gros &amp; des petits caracteres qu’il
-          confronta les uns contre les autres. Il demanda à M<hi rend="sup">r</hi> Cramoisy <hi
-            rend="i">de quel metal ces lettres estoient, &amp; si on les faisoit en France</hi>.
-          Lors qu’il eut satisfait à ces demandes, l’Ambassadeur poursuivit en disant <hi rend="i"
-            >que l’on trouvoit toutes choses en France, &amp; qu’elle pouvoit se passer de tous les
+          confronta les uns contre les autres. Il demanda à M<hi rend="sup">r</hi> Cramoisy <hi rend="i">de quel metal ces lettres estoient, &amp; si on les faisoit en France</hi>.
+          Lors qu’il eut satisfait à ces demandes, l’Ambassadeur poursuivit en disant <hi rend="i">que l’on trouvoit toutes choses en France, &amp; qu’elle pouvoit se passer de tous les
             autres Païs</hi>. M<hi rend="sup">r</hi> Cramoisy fit ensuite lier des pages, &amp;
           mesme imposer une Forme devant eux, &amp; les mena aussi-tost dans la Salle où sont les
           Presses au nombre de douze, toutes roulantes. Leur surprise augmenta d’abord, &amp;
           l’Ambassadeur dit en entrant à M<hi rend="sup">r</hi> Cramoisy, &amp; en s’arrestant à
-          considerer les mouvements des 24. hommes qui faisoient aller les Presses, qu’<hi rend="i"
-            >il croyoit voir des Soldats rangez en bataille</hi>. M<hi rend="sup">r</hi> Cramoisy
+          considerer les mouvements des 24. hommes qui faisoient aller les Presses, qu’<hi rend="i">il croyoit voir des Soldats rangez en bataille</hi>. M<hi rend="sup">r</hi> Cramoisy
           luy répondit, <hi rend="i">que s’ils n’étoient pas Soldats, ils employoient leur vie aussi
             utilement pour le service du Roy ; que le plus grand travail de l’Imprimerie n’avoit
             presentement pour but que la gloire de Sa Majesté, &amp; qu’à bien examiner les choses,
@@ -604,8 +537,7 @@
             gagner des Batailles</hi>. L’Ambassadeur luy répondit qu’<hi rend="i">il ne s’étonnoit
             pas de voir tant de Travailleurs, &amp; qu’il n’y en pourroit jamais avoir assez, pour
             publier les grandeurs inoüies du Roy &amp; de la France</hi>. Ils s’attacherent ensuite
-          à examiner le travail de chaque Presse, &amp; l’Ambassadeur fit plusieurs questions à M<hi
-            rend="sup">r</hi> Cramoisy sur l’ancre &amp; sur les balles, &amp; luy demanda pourquoy
+          à examiner le travail de chaque Presse, &amp; l’Ambassadeur fit plusieurs questions à M<hi rend="sup">r</hi> Cramoisy sur l’ancre &amp; sur les balles, &amp; luy demanda pourquoy
           le papier estoit moüillé, aprés quoy il mania beaucoup de choses pour les mieux connoître.
           Le second Ambassadeur prit un bareau, tira cinq ou six feuilles, &amp; parut fort surpris,
           de ce que les feuilles qu’il avoit tirées, estoient venuës toutes pareilles aux autres.
@@ -613,15 +545,13 @@
           comment on étend les feuilles mouillées, comment on les assemble, aprés qu’on les a
           sechées, &amp; la maniere dont on fait des corps complets de Livres. Ils les pria ensuite
           de monter dans un petit Cabinet, où il leur fit voir les Poinçons des Caracteres Grecs du
-          Roy, que François I. a fait faire, &amp; qui sont tres-beaux. M<hi rend="sup"
-          >r</hi> Cramoisy leur montra aussi des Caracteres Arabes nouvellement fondus, sur quoy le
+          Roy, que François I. a fait faire, &amp; qui sont tres-beaux. M<hi rend="sup">r</hi> Cramoisy leur montra aussi des Caracteres Arabes nouvellement fondus, sur quoy le
           premier Ambassadeur luy dit qu’<hi rend="i">on pourroit donc faire des Caracteres Siamois,
             &amp; avoir une Imprimerie à Siam ?</hi> Il luy répondit <hi rend="i">que oüy, &amp;
             qu’il ne falloit que le vouloir</hi>. L’Ambassadeur leva aussi-tôt les yeux au Ciel,
           &amp; fit une maniere de cry. M<hi rend="sup">r</hi> Cramoisy demanda à l’Interprete ce
           que l’Ambassadeur disoit, &amp; il luy répondit qu’il avoit dit, <hi rend="i">ô France,
-            France !</hi> Ils sortirent ensuite de l’Imprimerie aprés avoir remercié M<hi rend="sup"
-            >r</hi> Cramoisy, qui leur dit en les reconduisant, qu’<hi rend="i">il s’estimoit
+            France !</hi> Ils sortirent ensuite de l’Imprimerie aprés avoir remercié M<hi rend="sup">r</hi> Cramoisy, qui leur dit en les reconduisant, qu’<hi rend="i">il s’estimoit
             heureux que de si grands Seigneurs fussent venus de si loin voir son travail, &amp;
             qu’ils y eussent pris du plaisir.</hi></p>
       </div>
@@ -694,5 +624,4 @@
           sans estre brodé.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

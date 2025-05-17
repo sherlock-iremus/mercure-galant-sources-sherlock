@@ -1,64 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, juillet 1679 [tome 7]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2015"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1679-07/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, juillet <date>1679</date> [tome 7].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1679-07"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1679-07_019" resp="mercure">
         <head>[Poëme de M. de Fontenelle]</head>
@@ -284,8 +224,7 @@
           de la Bourgeoisie, d’une superbe Collation. Les Dames &amp; la Jeunesse furent traitées
           séparément à cause de la foule. Les Trompetes, les Hautbois, les Violons, &amp; le grand
           bruit du Canon qui fut tiré ce jour-là pour le Feu de joye de la Paix ratifiée avec
-          l’Empire, mirent tout le monde de belle humeur. Ainsi l’on n’entendoit que des <hi
-            rend="i">Vive le Roy</hi> de tous costez. M<hi rend="sup">r</hi> de Lhospital, dont
+          l’Empire, mirent tout le monde de belle humeur. Ainsi l’on n’entendoit que des <hi rend="i">Vive le Roy</hi> de tous costez. M<hi rend="sup">r</hi> de Lhospital, dont
           l’esprit sublime est soûtenu d’un fort grand mérite, donna le Bal à Madame la Senéchale.
           C’est une Personne qui se fait aimer de tous ceux qui ont le goust bon &amp; délicat. Rien
           n’est plus honneste que ses manieres. Elle a l’air aisé &amp; engageant, &amp; il est
@@ -531,8 +470,7 @@
           tres-furieux, qui avoient envie de s’en saisir, on fut contraint pour une plus entiere
           seûreté, de le transferer à Angers, &amp; de là à Tulles. Cela seroit peut-estre encor
           ignoré, sans les soins de M<hi rend="sup">r</hi> l’Evesque de Condom, qui ayant une
-          venération particuliere pour ce Saint, a découvert où son Corps estoit. M<hi rend="sup"
-            >r</hi> l’Evesque de Tulles luy en ayant accordé une partie des Ossemens, pour les
+          venération particuliere pour ce Saint, a découvert où son Corps estoit. M<hi rend="sup">r</hi> l’Evesque de Tulles luy en ayant accordé une partie des Ossemens, pour les
           donner à la Ville qui porte encor aujourd’huy son nom, ce Prélat que d’importantes
           affaires appelloient ailleurs, pria Madame la Doüairiere de Matignon sa Mere, de se
           charger du soin de la Feste. Elle y consentit, &amp; s’en acquita avec cette magnificence
@@ -570,24 +508,21 @@
           luy, M<hi rend="sup">rs</hi> du Chapitre de Coutance, ayant M<hi rend="sup">r</hi> de
           Bayeux accompagné de ses Officiers immédiatement derriere eux. Madame la Doüairiere de
           Matignon, Madame de Matignon sa Belle-Fille, Mesdames les Comtesses de Thorigny, de
-          Coigny, &amp; de Franquetot, &amp; Mademoiselle de Matignon, précedées des Gardes de M<hi
-            rend="sup">r</hi> de Matignon, &amp; suivies de plusieurs Dames des plus qualifiées de
+          Coigny, &amp; de Franquetot, &amp; Mademoiselle de Matignon, précedées des Gardes de M<hi rend="sup">r</hi> de Matignon, &amp; suivies de plusieurs Dames des plus qualifiées de
           la Province, &amp; de M<hi rend="sup">rs</hi> de la Justice en Corps, fermoient cette
           Marche. Vous pouvez juger avec quelle foule le Peuple estoit accouru de tous costez à
           cette Feste. Le Procession estant arrivée à l’Abbaye, où M<hi rend="sup">r</hi> de
           Coutance l’attendoit, ce Prélat présenta les Reliques à M<hi rend="sup">r</hi> l’Evesque
           de Bayeux. Pendant qu’on leur rendoit la venération qui leur est deuë, une tres-bonne
           Musique chanta diférens Motets, apres lesquels la Procession sortit, &amp; fit le tour de
-          la Ville avec ces Reliques portées sur un petit Trône magnifiquement orné. M<hi rend="sup"
-            >rs</hi> les Evesques marchoient derriere, celuy de Bayeux à la droite, &amp; celuy de
+          la Ville avec ces Reliques portées sur un petit Trône magnifiquement orné. M<hi rend="sup">rs</hi> les Evesques marchoient derriere, celuy de Bayeux à la droite, &amp; celuy de
           Coutance à la gauche. Si-tost qu’on fut rentré dans la Cathédrale, M<hi rend="sup">r</hi>
           de Bayeux commença la Messe qu’il celébra en Habits Pontificaux. Apres qu’elle fut finie,
             M<hi rend="sup">r</hi> de Coutance qui remplit si dignement aujourd’huy la place que S.
           Lo a autrefois occupée, monta en Chaire dans la Court du Chasteau, à cause de la quantité
           de monde que l’Eglise n’eust pû contenir. Il traita des vertus du Saint avec tant de force
           &amp; d’éloquence, qu’il s’attira d’admiration genérale. Cette juste &amp; pieuse
-          cerémonie s’estant ainsi terminée, Madame la Doüairiere de Matignon fit monter M<hi
-            rend="sup">rs</hi> les Evesques &amp; les Dames dans une tres-belle Salle de son
+          cerémonie s’estant ainsi terminée, Madame la Doüairiere de Matignon fit monter M<hi rend="sup">rs</hi> les Evesques &amp; les Dames dans une tres-belle Salle de son
           Apartement. Elle estoit superbement tenduë, &amp; toute remplie de fleurs. Les Personnes
           les plus considérables de la Ville de l’un &amp; de l’autre Sexe, qui avoient esté
           invitées le jour précedent, s’y rendirent dans le mesme temps, aussi-bien que Messieurs du
@@ -598,8 +533,7 @@
           pour un parterre, tant elles y estoient en abondance. L’agréable odeur qui s’en répandoit
           par toute la Salle, ne faisoit pas un des moindres plaisirs du Festin. Le <hi rend="i">Te
             Deum</hi> fut chanté le soir en Musique pour la Paix ratifiée avec l’Allemagne. En suite
-          toute la Compagnie assista à la cerémonie du Feu de joye qui fut allumé par M<hi
-            rend="sup">r</hi> le Marquis de Canisy Lieutenant de Roy en Normandie. Il en avoit donné
+          toute la Compagnie assista à la cerémonie du Feu de joye qui fut allumé par M<hi rend="sup">r</hi> le Marquis de Canisy Lieutenant de Roy en Normandie. Il en avoit donné
           les ordres en l’absence de M<hi rend="sup">r</hi> de Matignon, qui les luy avoit envoyez
           quelques jours auparavant.</p>
       </div>
@@ -702,8 +636,7 @@
           matiere. Je ne sçay qui a fait les Vers. Je sçay seulement que M<hi rend="sup">r</hi>
           Bellon, les a mis en Air.</p>
         <quote>
-          <label type="head">AIR A BOIRE.</label><note resp="author" place="margin"><hi rend="i"
-              >Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Quoy, de
+          <label type="head">AIR A BOIRE.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Quoy, de
               l’eau dans ce Verre</hi>, doit regarder la page 96.</note>
           <lg>
             <l rend="i"><seg type="tab">    </seg>Quoy ? de l’eau dans ce Verre ?</l>
@@ -814,8 +747,7 @@
           Le second est un Inpromptu pour M<hi rend="sup">r</hi> le Comte de Louvigny, qui, comme
           vous sçavez, est un des plus braves Hommes qu’il y ait dans le Party de l’Empereur. Il y a
           peu de temps qu’il traita magnifiquement toute la Cour de Monsieur le Duc de Hannover,
-          dans son Quartier sur le chemin d’Embs, où ce Prince alloit aux Eaux. M<hi rend="sup"
-            >r</hi> de la Barre Matéï estoit du Régal, &amp; fit ce Sonnet en buvant à la santé de
+          dans son Quartier sur le chemin d’Embs, où ce Prince alloit aux Eaux. M<hi rend="sup">r</hi> de la Barre Matéï estoit du Régal, &amp; fit ce Sonnet en buvant à la santé de
           ce fameux Commandant.</p>
         <quote>
           <label type="head">Au Roy.</label>
@@ -882,8 +814,7 @@
           proprement qu’une Benediction extraordinaire, à laquelle on donne ce nom dans le Païs,
           avoit attiré un nombre infiny de Curieux, on fut obligé de garder les Portes de l’Eglise
           pour empescher la confusion. Apres les Prieres accoûtumées, les Rideaux de la Grille
-          furent tirez, les Portes du Chœur des Dames s’ouvrirent, &amp; sept d’entr’elles que M<hi
-            rend="sup">r</hi> de Grenoble devoit benir, parurent au milieu des autres, vétuës de
+          furent tirez, les Portes du Chœur des Dames s’ouvrirent, &amp; sept d’entr’elles que M<hi rend="sup">r</hi> de Grenoble devoit benir, parurent au milieu des autres, vétuës de
           blanc, dans un air sérieux &amp; modeste, tenant chacune un cierge à la main parsemé des
           Ecussons de leur Famille. En cet état, elles s’approcherent de M<hi rend="sup">r</hi>
           l’Evesque revétu de ses Habits Pontificaux, &amp; assis dans un tres-riche Fauteüil. Celuy
@@ -895,8 +826,7 @@
           cette Maison. La Messe finie, on apporta deux Bassins d’argent, dans l’un desquels
           estoient sept Anneaux, &amp; dans l’autre sept Couronnes semblables à celles qu’on donne
           aux Filles de France, &amp; autour desquelles on avoit écrit en lettres d’or quelques mots
-          Latins, qui marquoient le sacrifice qu’elles faisoient à Dieu d’elles-mesmes. M<hi
-            rend="sup">r</hi> de Grenoble leur mit les Anneaux aux doigts, &amp; les Couronnes sur
+          Latins, qui marquoient le sacrifice qu’elles faisoient à Dieu d’elles-mesmes. M<hi rend="sup">r</hi> de Grenoble leur mit les Anneaux aux doigts, &amp; les Couronnes sur
           la teste, en disant les Oraisons propres à cet effet ; apres quoy pendant qu’on chanta le
             <hi rend="i">Te Deum</hi>, il alla luy-mesme les presenter à la Superieure de ce
           Convent, qui les reçeut à l’une des Portes du Chœur, où elles rentrerent pour ne plus
@@ -1165,8 +1095,7 @@
           de branchages, &amp; d’autre bois propre à estre embrasé facilement. Si-tost que le feu y
           eut esté mis, les Musiciens, soûtenus de Violons, de Basses de Viole, de Flustes-douces,
           &amp; de plusieurs autres Instrumens ; commencerent l’<hi rend="i">Exaudiat</hi>. A trente
-          pas de ce Feu, qu’on apelle ordinairement Bucher, étoit un Théatre, sur lequel M<hi
-            rend="sup">r</hi> du Chesnay Ingénieur, avoit posé la Figure du Dieu Mars. On le voyoit
+          pas de ce Feu, qu’on apelle ordinairement Bucher, étoit un Théatre, sur lequel M<hi rend="sup">r</hi> du Chesnay Ingénieur, avoit posé la Figure du Dieu Mars. On le voyoit
           à demy couché sur deux Tambours &amp; sur quelques Trophées d’Armes, tenant son Sabre
           négligemment d’une main, &amp; son Bouclier de l’autre. Aux pieds de ce Dieu mourant
           paroissoit Vulcain, tout accablé de douleur d’avoir perdu son plus fort appuy. Son Enclume
@@ -1213,13 +1142,11 @@
         <bibl><title>Mercure galant</title>, juillet 1679 [tome 7], p. 207-225.</bibl>
         <p>Cette matiere [l’envie] ne peut estre traitée ny
           plus agréablement, ny avec plus d’esprit qu’elle l’est dans la Fable que je vous envoye.
-          Quoy qu’elle soit un peu longue, je suis assuré qu’elle ne vous ennuyera pas. M<hi
-            rend="sup">r</hi> de Frontiniere en est l’Autheur. Il a un talent admirable pour la
+          Quoy qu’elle soit un peu longue, je suis assuré qu’elle ne vous ennuyera pas. M<hi rend="sup">r</hi> de Frontiniere en est l’Autheur. Il a un talent admirable pour la
           Poësie, &amp; travaille avec beaucoup de délicatesse. C’est luy qui depuis quelques années
           a fait la plûpart des belles Paroles que M<hi rend="sup">r</hi> Lambert a mises en Air.
           Celles que je vous envoyay notées le dernier Mois, commençant par <hi rend="i">Ombre de
-            mon Amant</hi>, sont de luy. Il n’y a personne aujourd’huy qui ne les chante.<note
-            resp="editor">Pour la publication du poème, cf. <ref target="MG-1679-06_259">cet article</ref>.</note></p>
+            mon Amant</hi>, sont de luy. Il n’y a personne aujourd’huy qui ne les chante.<note resp="editor">Pour la publication du poème, cf. <ref target="MG-1679-06_259">cet article</ref>.</note></p>
         <quote>
           <label type="head">Les <lb/>Chenilles <lb/>et le Buisson.</label>
           <label type="head">Fable.</label>
@@ -1244,8 +1171,7 @@
           <l><seg type="tab">    </seg><hi rend="i">Ne font que l’attirer sur nous</hi> ?</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Il vaut mieux se
               taire</hi>,</l>
-          <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-            >    </seg>Et faire. </l>
+          <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Et faire. </l>
           <l><seg type="tab">    </seg><hi rend="i">Vous parlez trop hautement</hi> ;</l>
           <l rend="i"><seg type="tab">    </seg>Des Chenilles inhumaines </l>
           <l><seg type="tab">    </seg><hi rend="i">Nous rongent terriblement</hi>,</l>
@@ -1349,8 +1275,7 @@
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Elle y fut en un moment.</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Une
             Pie,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-            >    </seg>Accroupie,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Accroupie,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Qui faisoit alors le guet ;</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg><hi rend="i">Où cours-tu si
               daguet</hi> ?</l>
@@ -1710,8 +1635,7 @@
           réfuter les calomnies dont ils remplissoient toute l’Europe. Il ne faut pas s’étonner de
           la passion qu’il a toûjours fait paroistre pour les belles Lettres &amp; pour la
           perfection de nostre Langue, puis qu’il la tient de Famille, &amp; comme par Succession.
-          En effet les Sciences n’ont point eu de plus solides appuis au Siecle passé que M<hi
-            rend="sup">rs</hi> Verjus, Présidens &amp; Conseillers au Parlement. On se souviendra
+          En effet les Sciences n’ont point eu de plus solides appuis au Siecle passé que M<hi rend="sup">rs</hi> Verjus, Présidens &amp; Conseillers au Parlement. On se souviendra
           toûjours du fameux Président André Verjus, qui en tant d’occasions a si vigoureusement
           défendu les droits de la Couronne. Personne n’a fait plus de bruit que le docte Conseiller
           Jacques Verjus, si estimé de tous les Sçavans de son temps. L'Ayeul &amp; le Pere de celuy
@@ -1816,8 +1740,7 @@
           faire connoistre que la Paix entre la France &amp; les Etats Genéraux, avoit esté faite
           par la Médiation de l’Angleterre. Si son Roy a esté Médiateur, il faut qu’il ait trouvé
           beaucoup de modération dans les conditions offertes par celuy de France, &amp; que les
-          ayant approuvées, il n’ait travaillé qu’à faire consentir les Ennemis de <hi rend="sc"
-            >Loüis le Grand</hi> à les accepter, puis que la Paix n’a esté concluë qu’à ces mesmes
+          ayant approuvées, il n’ait travaillé qu’à faire consentir les Ennemis de <hi rend="sc">Loüis le Grand</hi> à les accepter, puis que la Paix n’a esté concluë qu’à ces mesmes
           conditions. Au milieu de la Face droite est un Autel sur lequel est écrit 1678. &amp; dans
           son pied, <hi rend="i">Neomagi</hi> ; ce qui marque l’année &amp; le lieu où la Paix s’est
           faite. L’ovale ou nœud qui est passé dans les mains des deux grandes Figures que vous
@@ -1882,8 +1805,7 @@
           est fort au goust des Connoisseurs. Il est du dernier Opéra que la Reyne de Suede a fait
           représenter à Rome<note resp="editor">L'attribution usuelle, ici sous-entendue, à Luigi Rossi, est erronée. Une note de Christophe Ballard dans son <hi rend="italic">Recueil d'airs sérieux et à boire de différents auteurs pour l'année 1701</hi> (Paris, Christophe Ballard, 1701, août, p. [2]) attribue sans ambiguité cet air (qui figure à la p. 156) à La Barre.</note>.</p>
         <quote>
-          <label type="head">AIR ITALIEN.</label><note resp="author" place="margin"><hi rend="i"
-              >Avis pour placer les Figures</hi> : l’Air Italien doit regarder la page 335.</note>
+          <label type="head">AIR ITALIEN.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air Italien doit regarder la page 335.</note>
           <lg>
             <l rend="i">Due labra di rose</l>
             <l rend="i">Fan guerra al mio core,</l>
@@ -1942,8 +1864,7 @@
           revint par les deux grandes Terrasses qui régnent sur une belle Prairie, dans toute
           l’étenduë de laquelle, la Riviere de Seine forme le plus bel aspect des environs de Paris.
           Au retour, Monsieur fit une Partie d’Hombre avec M<hi rend="sup">r</hi> de los Balbases
-          &amp; M<hi rend="sup">r</hi> le Chevalier de Lorraine. Madame joüa avec M<hi rend="sup"
-            >r</hi> l’Evesque de Troyes, &amp; Madame l’Ambassadrice. Madame la Duchesse de Foix,
+          &amp; M<hi rend="sup">r</hi> le Chevalier de Lorraine. Madame joüa avec M<hi rend="sup">r</hi> l’Evesque de Troyes, &amp; Madame l’Ambassadrice. Madame la Duchesse de Foix,
           &amp; Madame la Mareschale de Clerambaut, firent une autre Table d’Hombre dans une Chambre
           voisine, tandis que Mademoiselle faisoit conversation dans la Ruelle de la mesme
           Chambre.</p>
@@ -1969,11 +1890,8 @@
         <p>Une autre Table fut servie en mesme temps avec beaucoup de magnificence, dans le petit
           Sallon de l’aisle droite du Logis, pour l’Ambassadeur, &amp; pour les principaux Seigneurs
           qui estoient venus avec Monsieur &amp; avec luy ; entr’autres M<hi rend="sup">r</hi>
-          l’Evesque de Troyes, M<hi rend="sup">r</hi> le Prince de Saxe-Eysenach, M<hi rend="sup"
-            >r</hi> le Chevalier de Lorraine, Messieurs les Ducs de S. Pierre &amp; del Sesto, M<hi
-            rend="sup">r</hi> le Marquis de Borgia, M<hi rend="sup">r</hi> le Chevalier de
-          Chastillon, M<hi rend="sup">r</hi> le Rotgrave, Fils naturel du Prince Palatin, M<hi
-            rend="sup">r</hi> le Comte de Vaillac, Messieurs les Marquis d’Effiat, de Bron, &amp; de
+          l’Evesque de Troyes, M<hi rend="sup">r</hi> le Prince de Saxe-Eysenach, M<hi rend="sup">r</hi> le Chevalier de Lorraine, Messieurs les Ducs de S. Pierre &amp; del Sesto, M<hi rend="sup">r</hi> le Marquis de Borgia, M<hi rend="sup">r</hi> le Chevalier de
+          Chastillon, M<hi rend="sup">r</hi> le Rotgrave, Fils naturel du Prince Palatin, M<hi rend="sup">r</hi> le Comte de Vaillac, Messieurs les Marquis d’Effiat, de Bron, &amp; de
           Grave, &amp; M<hi rend="sup">r</hi> de Purnon, Premier Maistre-d’Hostel de Monsieur.
           Souvenez-vous, Madame, que je vous ay déjà dit plusieurs fois, que dans des Festes de
           cette nature, toutes les Personnes que je vous nomme sont sans aucun ordre de rang.</p>
@@ -2000,8 +1918,7 @@
           Royales partirent de cette Maison à minuit, &amp; arriverent à une heure au Palais
           Royal.</p>
         <p>Peu de jours auparavant, Monsieur avoit mené M<hi rend="sup">r</hi> de los Balbases à
-          Conflans, où il régala les Dames qui furent de cette partie, dans la belle Maison de M<hi
-            rend="sup">r</hi> l’Archevesque de Paris.</p>
+          Conflans, où il régala les Dames qui furent de cette partie, dans la belle Maison de M<hi rend="sup">r</hi> l’Archevesque de Paris.</p>
       </div>
       <div type="article" xml:id="MG-1679-07_351" resp="mercure">
         <head>[Te Deum en Musique chanté dans l’Eglise des Feüillans, pour la Ratification de la
@@ -2017,8 +1934,7 @@
         <head>[Explication en vers de la premiere Enigme du mois passé]</head>
         <bibl><title>Mercure galant</title>, juillet 1679 [tome 7], p. 353.</bibl>
         <p>J'avois crû les Enigmes du dernier Mois plus difficiles à expliquer qu’à l’ordinaire,
-          mais il n’en échape aucune à ceux qui se font un plaisir d’en chercher le sens. <hi
-            rend="i">Les Portes</hi>, c’est à dire la Porte de pierre qui laisseroit l’entrée libre
+          mais il n’en échape aucune à ceux qui se font un plaisir d’en chercher le sens. <hi rend="i">Les Portes</hi>, c’est à dire la Porte de pierre qui laisseroit l’entrée libre
           à tout le monde sans la Porte de bois qu’on y attache, &amp; cette mesme Porte de bois,
           estoient le vray Mot de la premiere. M<hi rend="sup">r</hi> Gon d’Abbeville, l’a expliquée
           par ce Quatrain.</p>
@@ -2095,13 +2011,11 @@
           trouvé le vray sens. Elle est composée principalement de Salpestre, de Soulfre &amp; de
           Charbon meslez ensemble dans un Moulin. Le Salpestre est reprèsenté par Proserpine, Fille
           de Céres ou de la Terre ; le Charbon, par Pluton ; L'Esprit de Soulfre, par l’Amour ;
-          &amp; le Moulin, par le Chariot. Plusieurs ont expliqué cette mesme Enigme sur <hi
-            rend="i">la Moisson</hi>, &amp; d’autres sur <hi rend="i">la Semence, l’Exhalaison, la
+          &amp; le Moulin, par le Chariot. Plusieurs ont expliqué cette mesme Enigme sur <hi rend="i">la Moisson</hi>, &amp; d’autres sur <hi rend="i">la Semence, l’Exhalaison, la
             Tristesse, la Pesche, l’Eau de vie de Biere, la Gresle, &amp; la Nuit.</hi></p>
         <p><hi rend="i">Salmonée</hi> Roy d’Elide, qui voulut imiter le Foudre de Jupiter par des
           feux qu’il lançoit d’un Chariot de Fer avec grand bruit, est la nouvelle Enigme en Figure
           dont vos Amis chercheront à penétrer les obscuritez.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

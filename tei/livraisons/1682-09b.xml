@@ -1,65 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1682-09b" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, septembre 1682 (deuxième partie) [tome 10]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2016"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1682-09b/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>septembre 1682</date> (deuxième partie) [tome
-          10].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1682-09"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1682-09b_004">
         <head resp="editor">Madrigal.</head>
@@ -253,8 +192,7 @@
             Madame de Latrenne. Madame de Bouran, Madame de Sales, Madame de Nord, Mademoiselle
             Carriere, &amp; Mademoiselle Cloisel, se distinguerent par la justesse &amp; la grace de
             leur dance ; &amp; entre les Hommes, on remarqua M<hi rend="sup">r</hi> le Marquis de
-            Femel, M<hi rend="sup">r</hi> de Bordes, M<hi rend="sup">r</hi> de Malvirade, &amp; M<hi
-              rend="sup">r</hi> de S. Cric. Le Bal ayant duré jusques à minuit, on présenta la
+            Femel, M<hi rend="sup">r</hi> de Bordes, M<hi rend="sup">r</hi> de Malvirade, &amp; M<hi rend="sup">r</hi> de S. Cric. Le Bal ayant duré jusques à minuit, on présenta la
             Collation aux Dames. Elle fut servie par six Hommes, qui portoient toutes sortes de
             Confitures dans six grands Bassins d'argent. Six autres suivoient dans le mesme ordre,
             avec pareil nombre de Bassins de Fruit. Pendant la Collation, on tira des Boëtes dans le
@@ -268,8 +206,7 @@
         <p/>
         <p><hi rend="i">Le Samedy 23. le Chasteau Trompete, le Fort-Loüis, &amp; le Chasteau du Ha,
             firent leur réjoüissance, à laquelle les Marchands Habitans des Chartrons contribuerent,
-            en préparant cinquante Pieces de Canon qui avoient esté tirées de leurs Vaisseaux. M<hi
-              rend="sup">r</hi>s de l'Admirauté choisirent ce mesme jour pour marquer leur joye. Ils
+            en préparant cinquante Pieces de Canon qui avoient esté tirées de leurs Vaisseaux. M<hi rend="sup">r</hi>s de l'Admirauté choisirent ce mesme jour pour marquer leur joye. Ils
             firent mettre quantité de Lumieres à tous les Vaisseaux, depuis la Hune jusque sur le
             Pont. Ainsi à l'entrée de la nuit, les Habitans des Chartrons qui sont sur le Port,
             ayant illuminé toutes les Fenestres de leurs Maisons, qui sont la plûpart de trois
@@ -369,8 +306,7 @@
             estoient en tres-grand nombre, firent paroistre les Dames avec un éclat extraordinaire ;
             &amp; les mesmes Personnes qui s'estoient fait remarquer chez M<hi rend="sup">r</hi> de
             Ris, se distinguerent encor à l'Hostel de Ville. M<hi rend="sup">r</hi> Jegun commença
-            le Bal avec Madame l'Intendante. Il dura pres de quatre heures, apres quoy M<hi
-              rend="sup">r</hi>s les Jurats firent passer tout ce beau monde dans une autre grande
+            le Bal avec Madame l'Intendante. Il dura pres de quatre heures, apres quoy M<hi rend="sup">r</hi>s les Jurats firent passer tout ce beau monde dans une autre grande
             Salle tapissée, &amp; éclairée de la mesme sorte que celle où l'on venoit de dancer. J'y
             vis, Madame, une Table de quatre vingt Couverts, sur laquelle on servit un Ambigu de
             toute sorte de Viandes exquises, de Fruits, &amp; de Confitures. C'estoit quelque chose
@@ -391,23 +327,20 @@
             nombre incroyable de Lumieres, faisoient un effet tres-surprenant. Il y avoit dans le
             bas quatre</hi> F<hi rend="i">ontaines de Vin, deux de blanc, &amp; deux de rouge, que
             quatre Dauphins, qui sembloient sortir du fond de cette Riviere, jettoient par cinq
-            tuyaux dans quatre Bassins, où tout le monde puisoit dans distinction. Le</hi> F<hi
-            rend="i">eu d'artifice représentoit la mesme chose, &amp; l'on avoit placé l'un &amp;
+            tuyaux dans quatre Bassins, où tout le monde puisoit dans distinction. Le</hi> F<hi rend="i">eu d'artifice représentoit la mesme chose, &amp; l'on avoit placé l'un &amp;
             l'autre avec tant de justesse, que quand la grande Machine fut illuminée, &amp; qu'on
             fit joüer le Feu, la Court du College parut comme un enfoncement reculé, au fond duquel
             on voyoit une tres-belle Perspéctive d'un Feu tout diférent, par le soin que les
             Jesuites avoient pris, de faire briller diversement les Lumieres qu'ils avoient placées
             en tres-grand nombre sur toutes les Fenestres qui regardent cette Court.</hi></p>
         <p><hi rend="i">M<hi rend="sup">r</hi>s les Jurats, qui avoient commencé le Jeudy 20. par le
-            Feu de joye, avoient prétendu finir le Dimanche 23. par celuy d'artifice ; mais M<hi
-              rend="sup">r</hi>s les Juge &amp; Consuls, &amp; les Bourgeois qui ont passé dans les
+            Feu de joye, avoient prétendu finir le Dimanche 23. par celuy d'artifice ; mais M<hi rend="sup">r</hi>s les Juge &amp; Consuls, &amp; les Bourgeois qui ont passé dans les
             Charges qui composent le Corps de la Bource, aussi bien que les Bourgeois Marchands des
             Chartrons, les prierent d'agréer qu'ils fissent leurs Réjoüissances particulieres. Ainsi
             ils prolongerent leur Ordonnance, de deux autres jours, &amp; Bordeaux chomma la Feste
             de S. Loüis, quoy qu'elle ne soit point de commandement dans le Diocese. Le Lundy 24.
             ayant donc esté donné aux</hi> M<hi rend="i">archands des Chartrons, pour faire leur
-            Feste, ils la commencerent dés le matin par plusieurs décharges de Canon. M<hi
-              rend="sup">r</hi>s Renut, Delbreil, Ras, Bongard, &amp; Boët, tenoient table ouverte,
+            Feste, ils la commencerent dés le matin par plusieurs décharges de Canon. M<hi rend="sup">r</hi>s Renut, Delbreil, Ras, Bongard, &amp; Boët, tenoient table ouverte,
             &amp; devant cette belle Maison qu'on bâtissoit lors que vous estiez icy, ils avoient
             fait faire une Fontaine de Vin de Grave, qui sortoit de dessous terre par deux gros
             tuyaux. [...] Les Flamands &amp; les Anglois, &amp; quantité d'autres Etrangers, firent
@@ -431,8 +364,7 @@
             cette année, donna le Bal aux Dames Bourgeoises, &amp; une magnifique Collation, apres
             laquelle il fit allumer un Feu de joye devant sa Maison. [...]</hi></p>
         <p><hi rend="i">Le Mardy 25. Feste de Saint Loüis, qui estoit le jour choisy pour la
-            Réjoüissance du Corps de la Bourgoisie dans l'Hostel de la Bource, M<hi rend="sup"
-              >r</hi>s les Juge &amp; Consuls en charge, avec tous les anciens Juge &amp; Consuls,
+            Réjoüissance du Corps de la Bourgoisie dans l'Hostel de la Bource, M<hi rend="sup">r</hi>s les Juge &amp; Consuls en charge, avec tous les anciens Juge &amp; Consuls,
             tous en Robe, &amp; les Conseillers en Manteau, se rendirent sur les neuf heures dans
             leur Chapelle, où la Messe fut celebrée par M<hi rend="sup">r</hi> le Curé de S. Pierre,
             pendant qu'une excellente Musique chanta diférens Motets. Apres la Messe, la mesme
@@ -492,9 +424,7 @@
         <bibl><title>Mercure galant</title>, septembre 1682 (deuxième partie) [tome 10], p.
           64-66.</bibl>
         <p/>
-        <p>Celles de Rennes en Bretagne ont paru avec grand éclat par la présence de M<hi rend="sup"
-            >r</hi> le Duc de Chaunes, Gouverneur de la Province. Apres qu'on y eut chanté le <hi
-            rend="i">Te Deum</hi> avec beaucoup de solemnité, il alluma un grand Feu qui avoit esté
+        <p>Celles de Rennes en Bretagne ont paru avec grand éclat par la présence de M<hi rend="sup">r</hi> le Duc de Chaunes, Gouverneur de la Province. Apres qu'on y eut chanté le <hi rend="i">Te Deum</hi> avec beaucoup de solemnité, il alluma un grand Feu qui avoit esté
           préparé dans la Place, &amp; le soir il en fit joüer un d'artifice qui attira l'admiration
           d'un nombre infiny de Spéctateurs. On l'avoit dressé dans un Pré qui est entre le Cours
           &amp; le Rampart de la Ville. Toutes les Maisons furent illuminées pendant trois jours,
@@ -801,8 +731,7 @@
           soûpira deux ou trois fois assez à propos pour n’estre entendu que d’elle. La jeune
           Comtesse fit réfléxion sur tout cela, &amp; n’y comprit rien. Elle le rencontre encor une
           fois. Ce furent les mesmes regards, les mesmes soûpirs, le mesme air. Il sortit presque
-          aussi-tost qu’elle, &amp; la réjoignant sur l’Escalier, il luy dit assez bas ; <hi
-            rend="i">Madame, vous voyez un Malheureux, à qui il ne reste dans sa vie, que le triste
+          aussi-tost qu’elle, &amp; la réjoignant sur l’Escalier, il luy dit assez bas ; <hi rend="i">Madame, vous voyez un Malheureux, à qui il ne reste dans sa vie, que le triste
             plaisir de vous voir quelquefois un moment au milieu de vingt Personnes. Encor, à en
             juger par vos autres actions, je doute que vous m’en laissiez joüir longtemps</hi>. Il
           la quitta, en disant ces mots, sans attendre sa réponse, &amp; la mit dans un embarras
@@ -919,9 +848,7 @@
           n'eut pas esté plûtost apportée à Montpellier, que M<hi rend="sup">r</hi> de la Gresse
           Premier Consul de la Ville, donna tous ses soins, pour s'acquiter dignement de ce qui le
           regardoit. On la fit sçavoir au Peuple par un Cry public, &amp; ce fut par tout une joye
-          inexprimable. On commença aussi-tost d'en donner des marques par un <hi rend="i"><hi
-              rend="i">Te Deum</hi></hi>, chanté solemnellement dans la Cathédrale. M<hi rend="sup"
-            >r</hi> Daguesseau, Intendant de la Province, y assista avec toutes les Compagnies de
+          inexprimable. On commença aussi-tost d'en donner des marques par un <hi rend="i"><hi rend="i">Te Deum</hi></hi>, chanté solemnellement dans la Cathédrale. M<hi rend="sup">r</hi> Daguesseau, Intendant de la Province, y assista avec toutes les Compagnies de
           Justice, &amp; les Consuls de la Ville en Robes de cerémonies. M<hi rend="sup">r</hi> de
           la Baume, &amp; M<hi rend="sup">r</hi> de Trémoulet, Commandans dans la Ville &amp;
           Citadelle en l'absence de M<hi rend="sup">r</hi> le Marquis de Castres qui en est le
@@ -983,8 +910,7 @@
           beau temps du monde leur succeda. Aussi les Consuls en voulurent profiter ; &amp; à leur
           sollicitation, cette mesme Milice qui n'estoit ordonnée que pour le lendemain, alla
           trouver M<hi rend="sup">r</hi> le Premier Président, qui commande en Dauphiné en l'absence
-          de M<hi rend="sup">r</hi> le Maréchal Duc de la Feüillade Gouverneur, &amp; de M<hi
-            rend="sup">r</hi> le Comte Tallard Lieutenant de Roy, &amp; obtint de luy la permission
+          de M<hi rend="sup">r</hi> le Maréchal Duc de la Feüillade Gouverneur, &amp; de M<hi rend="sup">r</hi> le Comte Tallard Lieutenant de Roy, &amp; obtint de luy la permission
           de prendre les armes dés ce jour. Jamais en si peu de temps on ne vit tant de monde armé.
           Les Compagnies se rangerent à leurs Postes en bon ordre, &amp; se rendirent le soir sur le
           Pont de pierre, qui est à un bout de la Ville sur la Riviere de Lisere. Les Consuls y
@@ -1146,8 +1072,7 @@
         <bibl><title>Mercure galant</title>, septembre 1682 (deuxième partie) [tome 10],
           p. 175-178.</bibl>
         <p/>
-        <p>Des trois Sonnets que j’ajoûte a cet Ouvrage, les deux premiers sont de M<hi rend="sup"
-            >r</hi> l’Abbé de la Volpiliere, &amp; le troisiéme de M<hi rend="sup">r</hi> du Mas de
+        <p>Des trois Sonnets que j’ajoûte a cet Ouvrage, les deux premiers sont de M<hi rend="sup">r</hi> l’Abbé de la Volpiliere, &amp; le troisiéme de M<hi rend="sup">r</hi> du Mas de
           Joigny.</p>
         <quote>
           <label>AU ROY.</label>
@@ -1247,8 +1172,7 @@
           183-187.</bibl>
         <p/>
         <p>Le Roy un peu avant son départ, fit entendre à Madame la Dauphine, cette merveilleuse
-          Romaine, dont je vous ay entretenuë dans deux ou trois de mes Lettres<note resp="editor">Voir <ref target="MG-1682-04_008">cet article d'avril 1682</ref> et <ref
-              target="MG-1682-07_236">cet article de juillet 1682</ref>.</note>. Elle avoit
+          Romaine, dont je vous ay entretenuë dans deux ou trois de mes Lettres<note resp="editor">Voir <ref target="MG-1682-04_008">cet article d'avril 1682</ref> et <ref target="MG-1682-07_236">cet article de juillet 1682</ref>.</note>. Elle avoit
           extrémement plû les premieres fois qu'elle avoit chanté mais elle charma dans cette
           derniere occasion. M<hi rend="sup">r</hi> Lorenzani Maître de Chapelle &amp; Intendant de
           la Musique de la Reyne, qui doit aussi sa naissance à la premiere Ville du monde, avoit
@@ -1294,20 +1218,17 @@
         <p>Le Lundy 24. M<hi rend="sup">r</hi>s du Chapitre de S. Martin commencerent leurs
           Réjouissances par une sonnerie qu'ils ordonnerent pendant tout le jour à tous les
           Chapitres &amp; Eglises qui dépendent d'eux. Sur les cinq heures du soir ils firent
-          chanter le <hi rend="i">Te Deum</hi> en Musique, avec un Motet de la composition de M<hi
-            rend="sup">r</hi> Cotereau, Célerier de leur Eglise, un des plus sçavans Hommes que nous
+          chanter le <hi rend="i">Te Deum</hi> en Musique, avec un Motet de la composition de M<hi rend="sup">r</hi> Cotereau, Célerier de leur Eglise, un des plus sçavans Hommes que nous
           ayons en Musique. Les mesmes Corps qui s'estoient trouvez à Saint Gatien, y assisterent en
           Robes de Cerémonie. La nuit commençant à s'approcher, on fit les Illuminations des cinq
           Clochers de la mesme Eglise, qui parurent tout en feu, par la quantité d'artifice &amp; de
-          Fusées que l'on y tira. On alluma aussi un grand Feu de joye, apres quoy M<hi rend="sup"
-            >r</hi> de Razilly, M<hi rend="sup">r</hi>s du Présidial, M. le Maire, &amp; les autres
+          Fusées que l'on y tira. On alluma aussi un grand Feu de joye, apres quoy M<hi rend="sup">r</hi> de Razilly, M<hi rend="sup">r</hi>s du Présidial, M. le Maire, &amp; les autres
           Officiers de Ville, se rendirent dans la grande Salle du Chapitre, où ils furent régalez
           splendidement.</p>
         <p>Le Mardy Feste de Saint Loüis, Madame de Béthune Abbesse de Beaumont, qui dés le 9. Aoust
           avoit fait chanter le Gratias Agimus en Musique, avec plusieurs beaux Motets, en attendant
           l'ordre des solemnitez publiques, fit tout ce qu'on pouvoit attendre d'une Personne aussi
-          zelée qu'elle l'est pour Sa Majesté, &amp; pour toute la Famille Royale. Le <hi rend="i"
-            >Te Deum</hi> fut tres-solemnellement chanté dans son Eglise, qui paroissoit toute en
+          zelée qu'elle l'est pour Sa Majesté, &amp; pour toute la Famille Royale. Le <hi rend="i">Te Deum</hi> fut tres-solemnellement chanté dans son Eglise, qui paroissoit toute en
           feu, par le nombre presque infiny de cierges qu'on y alluma. Ensuite on chanta l'Exaudiat,
           &amp; plusieurs Motets, composez par M<hi rend="sup">r</hi>. Loyseau, Organiste de S.
           Martin. L'Orgue, les Voix &amp; la Symphonie, tout fut admirable. Il s'y trouva de tous
@@ -1326,8 +1247,7 @@
           l'artifice. En mesme temps on vit jouer Roüets, Pots, Lances, Fusées de toutes manieres,
           avec un succés qui luy attira de grands applaudissemens. Le carillon des Cloches, les
           Hautbois, les Musetes, les Violons, les Trompetes, les Timbales, les Tambours, faisoient
-          cependant des Concerts tres-agreables. La Feste fut honorée de la présence de M<hi
-            rend="sup">r</hi> l'Archevesque de Tours, de M<hi rend="sup">r</hi> de Razilly, des
+          cependant des Concerts tres-agreables. La Feste fut honorée de la présence de M<hi rend="sup">r</hi> l'Archevesque de Tours, de M<hi rend="sup">r</hi> de Razilly, des
           principaux Officiers, &amp; de tout ce qu'il y avoit aux environs de Personnes
           considérables. Il y eut sur tout un si grand concours de Peuple, que les Murs &amp; les
           Ramparts de la Ville, ausquels l'Abbaye est exposée, en estoient couverts. Les Païsanes
@@ -1337,8 +1257,7 @@
           Feste, &amp; en laissa la conduite à M<hi rend="sup">r</hi> de la Grangerouge son
           Intendant. Il est Frere du P. Henry de Montbazon, l'un des deux Capucins du Louvre, si
           renommez pour la Médecine.</p>
-        <p>Le Vendredy 28. Feste de S. Augustin, les Augustins firent paroistre leur zele par un <hi
-            rend="i">Te Deum</hi> chanté en Musique, par quantité de Feux d'artifice, &amp; par une
+        <p>Le Vendredy 28. Feste de S. Augustin, les Augustins firent paroistre leur zele par un <hi rend="i">Te Deum</hi> chanté en Musique, par quantité de Feux d'artifice, &amp; par une
           tres-belle Collation qu'ils donnerent aux Musetes du Poitou, qui s'y étaient trouvées au
           nombre de vingt-quatre, &amp; à diférentes Compagnies, que le dessein de leur faire
           honneur avoit mises sous les armes. M<hi rend="sup">r</hi> d'Apremont se distingua dans le
@@ -1408,8 +1327,7 @@
             de Flambeaux faisoit paroistre toutes brûlantes, &amp; qui envoyoient sans cesse mille
             Fusées dans les airs. Sera-ce vous payer assez bien de vostre belle Rélation, que de
             vous en faire une des Festes qui se sont faites icy ? Candes n'est qu'un Désert, mais
-            c'est le plus agreable Désert du Monde. Son heureuse situation a mérité que M<hi
-              rend="sup">rs</hi> les Archevesques de Tours le choisissent, pour y passer la plus
+            c'est le plus agreable Désert du Monde. Son heureuse situation a mérité que M<hi rend="sup">rs</hi> les Archevesques de Tours le choisissent, pour y passer la plus
             belle partie de l'année. [...]</hi></p>
         <p><hi rend="i">Si tost que nostre grand Prélat eut solemnisé dans sa Cathédrale la
             Naissance de Monseigneur le Duc de Bourgogne, il se rendit icy pour celebrer la mesme
@@ -1433,8 +1351,7 @@
           215.</bibl>
         <p/>
         <p>Le Mardy 18. Aoust, on fit à Limoges la Réjoüissance publique de la Naissance de
-          Monseigneur le Duc de Bourgogne, &amp; rien ne manqua à cette Cerémonie. Le <hi rend="i"
-            >Te Deum</hi> fut chanté dans l'Eglise Cathédrale de S. Etienne. Tous les Corps y
+          Monseigneur le Duc de Bourgogne, &amp; rien ne manqua à cette Cerémonie. Le <hi rend="i">Te Deum</hi> fut chanté dans l'Eglise Cathédrale de S. Etienne. Tous les Corps y
           assisterent, &amp; M<hi rend="sup">r</hi> l'Evesque, accompagné de son Clergé, officia
           avec grande pompe.</p>
       </div>
@@ -1462,8 +1379,7 @@
           de Fruits. Les trois faces estoient semblables, à la réserve de chaque Devise.
           L’aprobation qu’elles ont euë, a engagé M<hi rend="sup">r</hi> Perrault à les expliquer
           par des Vers, qui ne vous déplairont pas.</p>
-        <p>La premiere de ces Devises, représentoit un Soleil levant, avec ces deux mots, <hi
-            rend="i">Nascitur orbi</hi>, pour dire que la Naissance de Monseigneur le Duc de
+        <p>La premiere de ces Devises, représentoit un Soleil levant, avec ces deux mots, <hi rend="i">Nascitur orbi</hi>, pour dire que la Naissance de Monseigneur le Duc de
           Bourgogne, est un bien general qui ne regarde pas seulement la France, mais encor tous les
           Peuples de la Terre. Voicy les Vers qui expliquent cette pensée.</p>
         <quote>
@@ -1477,8 +1393,7 @@
           </lg>
         </quote>
         <p/>
-        <p>La seconde Devise représentoit un Aiglon suivant deux grands Aigles, avec ces mots, <hi
-            rend="sc">fortes creantur fortibus</hi>, pour faire entendre que la seule Naissance de
+        <p>La seconde Devise représentoit un Aiglon suivant deux grands Aigles, avec ces mots, <hi rend="sc">fortes creantur fortibus</hi>, pour faire entendre que la seule Naissance de
           Monseigneur le Duc de Bourgogne, est une preuve assurée de la Valeur, &amp; des autres
           Vertus qu’il possedera.</p>
         <quote>
@@ -1492,8 +1407,7 @@
           </lg>
         </quote>
         <p/>
-        <p>La troisiéme estoit une Fontaine sortant de sa source, avec ces mots d’Ovide, <hi
-            rend="sc">patrios petet impiger ortus</hi>, pour signifier que comme les Fontaines
+        <p>La troisiéme estoit une Fontaine sortant de sa source, avec ces mots d’Ovide, <hi rend="sc">patrios petet impiger ortus</hi>, pour signifier que comme les Fontaines
           remontent aussi haut que les Sources, quand les eaux en sont renfermées dans des Canaux
           qui les rendent jallissantes ; ainsi Monseigneur le Duc de Bourgogne, conduit par les
           préceptes &amp; par les exemples des Princes incomparables dont il est issu, atteindra au
@@ -1583,8 +1497,7 @@
           donc pas plûtost reçeu les ordres de M<hi rend="sup">r</hi> le Duc de S. Aignan, que tous
           les Corps furent avertis de se tenir prests pour celébrer la Naissance de Monseigneur le
           Duc de Bourgogne. La Cerémonie commença le Jeudy 3. de ce Mois, par le <hi rend="i">Te
-            Deum</hi> qui fut chanté solemnellement dans l’Eglise de Nostre-Dame. M<hi rend="sup"
-            >r</hi> de la Vaissiere y assista à la teste des Echevins, Conseillers, Syndic, &amp;
+            Deum</hi> qui fut chanté solemnellement dans l’Eglise de Nostre-Dame. M<hi rend="sup">r</hi> de la Vaissiere y assista à la teste des Echevins, Conseillers, Syndic, &amp;
           Corps de la Ville. Les Officiers de la Justice ordinaire, &amp; les autres Corps Réguliers
           &amp; Séculiers, les Capucins, &amp; les Pénitens, se rendirent aussi dans la mesme
           Eglise, d’où apres le <hi rend="i">Te Deum</hi>, M<hi rend="sup">r</hi> de la Vaissiere
@@ -1613,8 +1526,7 @@
           temps ; le septiéme, les Vœux publics ; &amp; le huitiéme, la Naissance &amp; l’Education
           de Monseigneur le Duc de Bourgogne. Pour vous donner une idée plus forte de toutes ces
           choses, je vous envoye ces neuf Camayeux gravez, dans le mesme ordre où ils ont paru le
-          jour de la Feste ; &amp; comme ils sont tres-ingénieux, &amp; que M<hi rend="sup"
-          >r</hi> Morel n’y a pas moins fait paroistre le zele des Habitans du Havre, que son
+          jour de la Feste ; &amp; comme ils sont tres-ingénieux, &amp; que M<hi rend="sup">r</hi> Morel n’y a pas moins fait paroistre le zele des Habitans du Havre, que son
           esprit, &amp; son talent à bien inventer, il est juste d’ajoûter une plus ample
           explication de la Planche où je les ay fait graver. Remarquez les Chifres qui sont au
           dessus de chaque Tableau, &amp; jettez les yeux en suite sur ceux qui sont dans cette
@@ -1767,8 +1679,7 @@
         <p>Ces neuf Tableaux, embellis de Fleurs, &amp; de divers ornemens, faisoient un tres-bel
           effet, aussi-bien que deux Fontaines de Vin placées aux deux Pavillons de l’Hôtel de
           Ville, que rendoient deux Merletes, qui sont les Armes de M<hi rend="sup">r</hi> de S.
-          Aignan, &amp; deux Salamandres, qui sont celles de la Ville, avec cette ame aux unes, <hi
-            rend="sc">tutto cuore</hi>, &amp; aux autres, <hi rend="sc">tutto fuoco</hi>. Toute la
+          Aignan, &amp; deux Salamandres, qui sont celles de la Ville, avec cette ame aux unes, <hi rend="sc">tutto cuore</hi>, &amp; aux autres, <hi rend="sc">tutto fuoco</hi>. Toute la
           Court, &amp; les dehors &amp; dedans de cet Hôtel, estoient ornez de Paviers semez de
           Fleurs-de-Lys, &amp; garnis d’une infinité de Lumieres. On avoit aussi illuminé toutes les
           Maisons des Habitans ; &amp; les Echevins, Conseillers, Syndic, &amp; autres Officiers,
@@ -1804,8 +1715,7 @@
           a fait sentir. Comme il est aussi Gouverneur des Villes &amp; Château de Loches &amp;
           Beaulieu ont y a fait des choses assez singulieres pour mériter icy un Article. [...]</p>
         <p>Depuis le Dimanche 30. Aoust jusques au 6. de ce mois, il y eut divers Feux de joye, où
-          les Fusées, les Girandoles, &amp; autres Feux d'artifice, brillerent toûjours. M<hi
-            rend="sup">r</hi>s de Loches en firent un avec une fort agreable Symphonie, &amp; des
+          les Fusées, les Girandoles, &amp; autres Feux d'artifice, brillerent toûjours. M<hi rend="sup">r</hi>s de Loches en firent un avec une fort agreable Symphonie, &amp; des
           Cabinets d'Orgues tres-beaux &amp; tres-grands, qu'on apporta dans la Ruë, afin que rien
           ne manquast aux remercîmens &amp; aux prieres que l'on fit à Dieu. Les Cordeliers, les
           Capucins, les Religieuses, nommées Filles de la Mere de Dieu, ou de Viantais, du nom de
@@ -1887,15 +1797,13 @@
           l’occasion du Mariage de Mademoiselle de Morizel, qui s’est fait depuis deux mois à
           l’Hostel de S. Aignan. C’est une Personne de beaucoup de mérite, qui a demeuré plus de
           vingt ans aupres de feuë Madame la Duchesse de S. Aignan, &amp; depuis toûjours aupres de
-          Madame la Duchesse d’aujourd’huy. Elle est de la Maison du Bellay, &amp; a épousé M<hi
-            rend="sup">r</hi> de Viviers, qui a servy longtemps en qualité de Capitaine dans le
+          Madame la Duchesse d’aujourd’huy. Elle est de la Maison du Bellay, &amp; a épousé M<hi rend="sup">r</hi> de Viviers, qui a servy longtemps en qualité de Capitaine dans le
           Regiment de la Marine, &amp; de Major dans Tréves, &amp; qui est d’une des plus
           considérables Maisons du Dunois. Sa Majesté, dont la bonté &amp; la justice se signalent
           tous les jours, l’a nommé pour son Lieutenant au Havre de Grace, &amp; pour Survivant de
             M<hi rend="sup">r</hi> de la Vaissiere, Lieutenant de Roy en ce Gouvernement, que son
           grand âge, &amp; l’incommodité d’une Paralysie du costé droit, en suite de plusieurs
-          blessures, empeschent d’agir suivant toute l’étenduë de son zele. Quoy que M<hi rend="sup"
-            >r</hi> de Viviers ait ses Provisions, &amp; fasse toutes les fonctions de cet Employ,
+          blessures, empeschent d’agir suivant toute l’étenduë de son zele. Quoy que M<hi rend="sup">r</hi> de Viviers ait ses Provisions, &amp; fasse toutes les fonctions de cet Employ,
           Sa Majesté satisfaite des grands services de M<hi rend="sup">r</hi> de la Vaissiere, luy a
           fait aussi renouveler ses Provisions.</p>
       </div>
@@ -1909,14 +1817,11 @@
           d'autant plus d'éclat, qu'elle faisoit paroître aux yeux de tant de Nations diférentes qui
           abordent dans son Port, &amp; qu'elle avoit pour témoins de son zele. Dés qu'elle eut
           appris la Naissance de nostre nouveau Prince, les Feux que tous ses Habitans allumerent de
-          leur propre mouvement, prévinrent les ordres publics. Cet Empressement fut cause que M<hi
-            rend="sup">r</hi>s les Echevins qui font la fonction de Gouverneurs en l'absence de M<hi
-            rend="sup">r</hi> de Fourville-Pilles, Gouverneur Viguier pour sa Majesté, ne purent
+          leur propre mouvement, prévinrent les ordres publics. Cet Empressement fut cause que M<hi rend="sup">r</hi>s les Echevins qui font la fonction de Gouverneurs en l'absence de M<hi rend="sup">r</hi> de Fourville-Pilles, Gouverneur Viguier pour sa Majesté, ne purent
           prendre autant de loisir qu'il eussent voulu, pour préparer la Feste à laquelle ils
           destinoient le 28. le 29. &amp; le 30. d'Aoust, qui n'estoient guere éloignez.</p>
         <p>Pendant que la Ville faisoit les aprests de ses Réjoüissances, tout le Port fit les
-          siennes. M<hi rend="sup">r</hi> Brodart, Intendant General des Galeres, &amp; M<hi
-            rend="sup">r</hi> de Mansse, Premier Chef d'Escadre, se rendirent le 23. d'Aoust sur la
+          siennes. M<hi rend="sup">r</hi> Brodart, Intendant General des Galeres, &amp; M<hi rend="sup">r</hi> de Mansse, Premier Chef d'Escadre, se rendirent le 23. d'Aoust sur la
           Galere Réale, où ils assisterent avec tous les Officiers, au <hi rend="i">Te Deum</hi> qui
           fut chanté en Musique. [...]</p>
         <p>Toutes les Galeres firent trois salves de cent coups de Canon chacune ausquelles
@@ -1939,8 +1844,7 @@
           dans l'Eglise, où fut chanté un <hi rend="i">Te Deum</hi> à trois Choeurs de Musique, de
           la composition de M<hi rend="sup">r</hi> Michel, un des plus excellens Maîtres de Chapelle
           qu'ait jamais eus la Provence, &amp; mesme quelques Chansons Provençales sur
-          l'accouchement de Madame la Dauphine, ne furent pas trouvées indignes de suivre le <hi
-            rend="i">Te Deum</hi>. L'apres-dînée, des Fontaines de Vin coulerent jusqu'à la nuit
+          l'accouchement de Madame la Dauphine, ne furent pas trouvées indignes de suivre le <hi rend="i">Te Deum</hi>. L'apres-dînée, des Fontaines de Vin coulerent jusqu'à la nuit
           devant l'Hostel de Ville. On y donna un grand Bal à toutes les Dames ; &amp; afin qu'il
           n'y eust point de divertissement où le Peuple ne prist part, on mit dans toutes les Places
           publiques des Violons pour le faire dancer. [...]</p>
@@ -2120,8 +2024,7 @@
           Chambre des Comptes de Dijon. Il a beaucoup de mérite, &amp; s’est acquis grande
           réputation dans le Barreau par ses Plaidoyers, &amp; le Discours de la présentation de
             M<hi rend="sup">r</hi> le Marquis d’Uxelles, Lieutenant de Roy en Bourgogne, &amp; par
-          ses Harangues à la Chambre des Comptes, qu’il fait tous les ans à la S. Martin. M<hi
-            rend="sup">r</hi> Moreau, Auditeur des Comptes à Paris, est son Frere. C’est celuy dont
+          ses Harangues à la Chambre des Comptes, qu’il fait tous les ans à la S. Martin. M<hi rend="sup">r</hi> Moreau, Auditeur des Comptes à Paris, est son Frere. C’est celuy dont
           je vous ay envoyé plusieurs Ouvrages galans, sous le nom du Fils d’un Auditeur des Comptes
           de Dijon.</p>
       </div>
@@ -2137,8 +2040,7 @@
           ils conservent prétieusement les Reliques, ont mélé les témoignages de leur joye à ceux de
           toute la France. Ils ont suivy en cela l'exemple de M<hi rend="sup">r</hi> L'Abbé de
           Villacerf leur Chef, &amp; de toute sa Famille, qui a un attachement inviolable pour le
-          service du Roy. Le Dimanche 13. de ce mois ayant esté choisy pour la Feste, M<hi
-            rend="sup">r</hi> Cottard, Prieur Claustral, donna tous les ordres necessaires pour
+          service du Roy. Le Dimanche 13. de ce mois ayant esté choisy pour la Feste, M<hi rend="sup">r</hi> Cottard, Prieur Claustral, donna tous les ordres necessaires pour
           l'Illumination de toute l'Eglise, &amp; fit mettre au dessous du grand Crucifix de la Nef
           un Dais de Brocatel d'or, garny de Dentelles d'or &amp; d'argent, &amp; sous ce Dais, le
           Portrait du Roy, avec ses Armes. Celles de Monseigneur le Dauphin estoient à la droite,
@@ -2236,8 +2138,7 @@
           est Gouverneur, y a fait entendre un <hi rend="i">Te Deum</hi> au bruit des décharges de
           trente Pieces de Canon, &amp; de trois salves de toute l'infanterie, qui est campée aux
           environs de la Place. La solemnité fut suivie d'un magnifique Repas qu'ils donna aux
-          Officiers des Troupes, &amp; aux principaux du Païs, qui avoient assisté au <hi rend="i"
-            >Te Deum</hi>. Il fit tirer le soir un tres-beau Feu d'artifice, qu'il avoit fait
+          Officiers des Troupes, &amp; aux principaux du Païs, qui avoient assisté au <hi rend="i">Te Deum</hi>. Il fit tirer le soir un tres-beau Feu d'artifice, qu'il avoit fait
           préparer sur un Rocher proche du Camp, où depuis quelques années il a fait faire plusieurs
           gros Jets d'eau. Rien n'estoit plus agreable que de voir ces eaux briller à la clarté que
           rendoient les Feux.</p>
@@ -2277,8 +2178,7 @@
           dans la maniere dont elle a fait chanter le <hi rend="i">Te Deum</hi>, &amp; d'autres
           Prieres pendant trois jours. Son Eglise estoit parée avec beaucoup de magnificence. Il y
           avoit quantité d'Instrumens, &amp; la Musique fut trouvée charmante. Le Curé du lieu, avec
-          tout ce qui compose sa Paroisse, &amp; les Capucins, voulurent bien assister au <hi
-            rend="i">Te Deum</hi> à la priere de cette illustre &amp; pieuse Abbesse.</p>
+          tout ce qui compose sa Paroisse, &amp; les Capucins, voulurent bien assister au <hi rend="i">Te Deum</hi> à la priere de cette illustre &amp; pieuse Abbesse.</p>
       </div>
       <div type="article" xml:id="MG-1682-09b_343">
         <head resp="editor">Réjouissances à Bourg-en-Bresse pour la naissance du duc de Bourgogne</head>
@@ -2322,5 +2222,4 @@
           de mieux prouver son attachement pour la Famille Royale.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

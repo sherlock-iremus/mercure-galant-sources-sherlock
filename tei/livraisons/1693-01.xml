@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1693-01">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, janvier 1693 [tome 1]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1693-01</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>janvier 1693</date> [tome 1].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1693-01"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, janvier 1693 [tome 1].</head>
       <div type="article" xml:id="MG-1693-01_012" resp="wordpro">
@@ -169,8 +105,7 @@
               matieres ? Encore pour M<hi rend="sup">r</hi> de.… passe, qu’il nie le fait, il est
               Physicien, on le consulte, il ne sçait que répondre, aucun Systeme ne le contente ; le
               plus court est de tout nier. Voulez-vous qu’il dise qu’il y a de la diablerie ?
-              Sieroit il aux Physiciens de.… Permettez-moy de vous interrompre, reprit le sage M<hi
-                rend="sup">r</hi> de … Vos reflexions sont de fort bon sens. Mais que nous importe
+              Sieroit il aux Physiciens de.… Permettez-moy de vous interrompre, reprit le sage M<hi rend="sup">r</hi> de … Vos reflexions sont de fort bon sens. Mais que nous importe
               de découvrir d’où vient que quelques-uns nient le fait ? Ne sçait-on pas bien qu’en
               semblables occasions, il se trouve toujours des gens qui s’obstinent, les uns à croire
               tout sans discernement, les autres à tout nier sans raison ? Ne nous faschons point
@@ -227,8 +162,7 @@
               qu’on propose, on le compare dans l’obscurité ; on croit voir quelque rapport ; on
               aide aux conjectures ; on risque un peut-estre ; insensiblement on assure, &amp; quand
               on s’est une fois engagé, on tient ferme, &amp; il n’est plus rien qui étonne. Faut-il
-              expliquer comment la Baguette a pû découvrir le dernier vol, dont M<hi rend="sup"
-                >r</hi> de … lisoit le recit ? En trois mots ils croyent resoudre la difficulté. Le
+              expliquer comment la Baguette a pû découvrir le dernier vol, dont M<hi rend="sup">r</hi> de … lisoit le recit ? En trois mots ils croyent resoudre la difficulté. Le
               linge volé, disent-ils, a esté d’abord touché par le Voleur. Qu’on le porte ensuite
               par tout où l’on voudra, il laissera couler le long du chemin quelques-uns des atomes
               que le Voleur luy a communiquez. Ne voila-t il pas de quoy faire tourner la Baguette ?
@@ -326,8 +260,7 @@
               tourne sur l’endroit où elles devroient estre. Une infinité de gens font chercher
               presentement des limites, &amp; sur bien des differends, on s’en rapporte à deux
               fameux devins qui courent le Dauphiné, avec l’approbation de plusieurs Curez. Ne
-              renvoyez pas, s’il vous plaist, mon R.P. la decision de cette difficulté à M<hi
-                rend="sup">r</hi> le Cardinal le Camus, car outre qu’il sera bien aise que des
+              renvoyez pas, s’il vous plaist, mon R.P. la decision de cette difficulté à M<hi rend="sup">r</hi> le Cardinal le Camus, car outre qu’il sera bien aise que des
               Physiciens y pensent, il est absent de Grenoble depuis sept ou huit mois, parce qu’il
               a presché l’Avent &amp; le Caresme à Chambery, &amp; que sans avoir pris aucun relâche
               il fait depuis Pasque la visite de son Diocese.</hi></p>
@@ -789,8 +722,7 @@
         <p>Il y a quelque-temps que je vous envoyay la Traduction de la seconde Epode d’Horace, qui
           commence par, <hi rend="i">Beatus ille qui procul negotiis</hi>. Je vous envoye
           aujourd’huy une Paraphrase de la mesme Epode, qui vous fera voir combien un heureux genie
-          trouve de differentes pensées sur une mesme matiere. Cette Paraphrase est du Fils de M<hi
-            rend="sup">r</hi> Mahudel, Avocat au Presidial de Langres.</p>
+          trouve de differentes pensées sur une mesme matiere. Cette Paraphrase est du Fils de M<hi rend="sup">r</hi> Mahudel, Avocat au Presidial de Langres.</p>
         <quote>
           <label>LES PLAISIRS<lb/>De la Vie Champestre.</label>
           <lg>
@@ -940,8 +872,7 @@
         <p>Puisque le Traité de Mademoiselle de S. Quentin sur la possibilité de l’Immortalité
           corporelle, vous a donné autant de plaisir que vous me le témoignez, je vous en envoye une
           suite qui vous donnera sujet d’admirer la fecondité de son genie. Il ne faut pas s’étonner
-          qu’elle ait autant d’esprit qu’elle en fait paroistre dans ce Traité, estant Fille de M<hi
-            rend="sup">r</hi> de Saint Quentin, Avocat fameux, qui a composé sur le Droit de fort
+          qu’elle ait autant d’esprit qu’elle en fait paroistre dans ce Traité, estant Fille de M<hi rend="sup">r</hi> de Saint Quentin, Avocat fameux, qui a composé sur le Droit de fort
           beaux écrits, qui donnent beaucoup de facilité à l’apprendre. Ces Ecrits sont en la
           disposition de Mademoiselle de Saint Quentin.</p>
         <quote>
@@ -1339,8 +1270,7 @@
               limites de leurs heritages, c’est aussi peut-estre pour cela que selon cette veuë, on
               a mis du charbon dans les tombeaux, pour nous faire concevoir que c’est-là le
               veritable terme des desirs, de l’ambition, de la vanité, des esperances, &amp;
-              generalement de tout ce qui enteste les hommes</hi>, Hîc rerum terminus esto ; <hi
-              rend="i">&amp; que comme si ce Mort parloit aux Tirans, il leur disoit, faites
+              generalement de tout ce qui enteste les hommes</hi>, Hîc rerum terminus esto ; <hi rend="i">&amp; que comme si ce Mort parloit aux Tirans, il leur disoit, faites
               reflexion que toutes vos prétentions sont enfin bornées à ce Sepulchre</hi>, Solum
             mihi superest sepulcrum. <hi rend="i">La conjecture paroistra peut estre d’autant plus
               vray-semblable, qu’on donnoit également le nom de </hi>Tumulus<hi rend="i"> à ces
@@ -1365,15 +1295,13 @@
               feu en est plus vif &amp; plus ardent. Ainsi nos corps, quoy que reduits en cendres,
               doivent reprendre une vie immortelle &amp; infiniment plus parfaite, que celle qu’ils
               ont perduë, lorsque l’ame, qui n’est pas mal representée par le Symbole du feu,
-              rallumera ces charbons esteints à present,</hi> Igneus est ollis vigor. <hi rend="i"
-              >Enfin, Monsieur, le charbon étant d’un costé une substance fragile, friable &amp;
+              rallumera ces charbons esteints à present,</hi> Igneus est ollis vigor. <hi rend="i">Enfin, Monsieur, le charbon étant d’un costé une substance fragile, friable &amp;
               facile à reduire en poussiere, est une image fort naturelle de la foiblesse de nos
               corps, &amp; qui de l’autre est plus inalienable, incorruptible &amp; durable que les
               marbres mesmes, comme remarquent les Naturalistes, ils peuvent estre pris pour un
               Symbole assez juste de l’Eternité que nos corps attendent ; si-bien qu’on l’a choisi
               dans cette occasion pour nous faire entendre qu’il faut que ce corps corruptible
-              devienne incorruptible,</hi> Opportet corruptibile hoc induere incorruptionem. <hi
-              rend="i">Toutes ces raisons, comme vous voyez, supposent que ce sont là des Urnes des
+              devienne incorruptible,</hi> Opportet corruptibile hoc induere incorruptionem. <hi rend="i">Toutes ces raisons, comme vous voyez, supposent que ce sont là des Urnes des
               Chrestiens, &amp; qu’il n’y a que la seconde qu’on puisse ajuster aux Payens
               même.</hi></p>
           <p><hi rend="i">Quoy qu’il en soit, Monsieur, ce sont mes conjectures que vous avez voulu
@@ -1566,8 +1494,7 @@
               <hi rend="i">avec le Pere Barthelemy d’Acosta, Jesuite. Il y a trois de nos
               Missionnaires qui ont quitté de force par l’excés du travail, &amp; qui ont tous esté
               malades. Nos Evesques François, Vicaires Apostoliques de Tonquin, joüissent d’une
-              assez bonne santé, &amp; d’une assez grande paix dans leurs Missions. M<hi rend="sup"
-                >r</hi> Charmot, Missionnaire de France, arrivé à la Coste l’année derniere, est
+              assez bonne santé, &amp; d’une assez grande paix dans leurs Missions. M<hi rend="sup">r</hi> Charmot, Missionnaire de France, arrivé à la Coste l’année derniere, est
               allé à la Chine. Nous n’avons encore receu aucune des Lettres qu’il a apportées de
               Paris. Je ne sçay s’il repassera par Siam. M<hi rend="sup">r</hi> Pin repasse de la
               Chine en Europe. Il est à present à Ponticheri. Nous avons secouru les Peres Madonat
@@ -1603,10 +1530,8 @@
           de Sa Majesté, ou sur toutes ensemble, pourveu qu’on n’excede point cent Vers. On y
           ajoûtera une courte priere à Dieu pour le Roy, separée du corps de l’Ouvrage, &amp; de
           telle mesure de Vers qu’on jugera à propos. Ceux qui prétendront aux Prix, seront obligez
-          de mettre leurs Ouvrages, dans le dernier du mois de May prochain, entre les mains de M<hi
-            rend="sup">r</hi> l’Abbé Regnier, Secretaire perpetuel de l’Academie Françoise, à Hostel
-          de Crequi, sur le Quay Malaquest, &amp; en son absence, chez le S<hi rend="sup"
-          >r</hi> Coignard, Imprimeur &amp; Libraire du Roy &amp; de l’Academie Françoise, ruë S.
+          de mettre leurs Ouvrages, dans le dernier du mois de May prochain, entre les mains de M<hi rend="sup">r</hi> l’Abbé Regnier, Secretaire perpetuel de l’Academie Françoise, à Hostel
+          de Crequi, sur le Quay Malaquest, &amp; en son absence, chez le S<hi rend="sup">r</hi> Coignard, Imprimeur &amp; Libraire du Roy &amp; de l’Academie Françoise, ruë S.
           Jacques, à la Croix d’or. Je vous ay marqué dans d’autres Lettres que l’on ne reçoit aucun
           Discours sans une approbation signée de deux Docteurs de la Faculté de Theologie de Paris,
           &amp; qui y resident actuellement, &amp; que les Auteurs ne doivent point mettre leur nom
@@ -1619,8 +1544,7 @@
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
           Médaille doit regarder la page 219.</note>
         <p>Je vous ay déja envoyé une Medaille, faite sur la prise de Namur. En voicy une seconde
-          que vous avez eu raison de souhaiter, puis qu’elle a esté faite par M<hi rend="sup"
-            >rs</hi> de l’Académie des Devises, &amp; des Inscriptions. Je ne vous l’explique point.
+          que vous avez eu raison de souhaiter, puis qu’elle a esté faite par M<hi rend="sup">rs</hi> de l’Académie des Devises, &amp; des Inscriptions. Je ne vous l’explique point.
           Les Sçavans de cette distinction ne produisent jamais rien d’obscur, &amp; ceux qui ont
           cru que je les avois eus en veuë il y a quelques mois, en parlant de l’obscurité de la
           pluspart des Medailles, n’ont pas bien examiné l’article. On fait des Medailles depuis
@@ -1677,8 +1601,7 @@
               de Lyon ont publié de l’histoire qui s’y est passée depuis trois mois. Je vous declare
               donc, Monsieur, qu’à peine d’estre regardé comme un Philosophe à la vieille mode,
               &amp; comme</hi> un homme organizé individuellement pour donner mon consentement aux
-            opinions extraordinaires, &amp; qui ne sont point du ressort de la raison ; <hi rend="i"
-              >je declare, dis-je, que je ne suis pas du nombre</hi> des plus Naturalistes &amp; des
+            opinions extraordinaires, &amp; qui ne sont point du ressort de la raison ; <hi rend="i">je declare, dis-je, que je ne suis pas du nombre</hi> des plus Naturalistes &amp; des
             moins scrupuleux ; <hi rend="i">mais qu’au contraire je donne de tout mon cœur dans
               l’opinion</hi> de plusieurs, qui croyent que tous ces Phenomenes proviennent des
             causes surnaturelles, &amp; qu’ils ne peuvent arriver sans Magie. <hi rend="i">Je ne
@@ -1774,8 +1697,7 @@
               eust un art asseuré &amp; naturel de venir à la connoissance de toutes ces choses, qui
               cependant ont esté recherchées depuis si longtemps, &amp; dans le Paganisme, &amp;
               parmy les Chrestiens. Au contraire nous trouvons que S. Thomas &amp; tous les
-              Theologiens avec luy, asseurent que la découverte, tant des choses</hi> futures, <hi
-              rend="i">que des choses</hi> occultes, <hi rend="i">par la Divination est
+              Theologiens avec luy, asseurent que la découverte, tant des choses</hi> futures, <hi rend="i">que des choses</hi> occultes, <hi rend="i">par la Divination est
               criminelle</hi>, Cognitio futurorum &amp; occultorum. <hi rend="i">Et n’est ce pas de
               la connoissance de pareils objets, dont il est question presentement ; &amp; dont il
               conste qu’on a voulu ardemment s’asseurer dans tous les siecles par divers moyens, que
@@ -1787,8 +1709,7 @@
             fuisse veteribus. <hi rend="i">On les trouve employées par tout dans leurs
               superstitions, dans leurs divinations, &amp; dans leurs operations de Magie. Les
               Augures y paroissent avec leurs bastons, que les Romains appelloient</hi>, Lituos ;
-              <hi rend="i">&amp; les Devins avec leurs Baguettes, qu’ils nommoient</hi>, Radios, <hi
-              rend="i">parce que c’étoient-là les instrumens ordinaires, dont ils se servoient en
+              <hi rend="i">&amp; les Devins avec leurs Baguettes, qu’ils nommoient</hi>, Radios, <hi rend="i">parce que c’étoient-là les instrumens ordinaires, dont ils se servoient en
               toutes rencontres pour les fonctions de leur mestier. Ce fut sans doute pour cela que
               la Cour de Pharaon se trouvant pleine de Magiciens destinez à contenter la curiosité
               de ce Prince, il les opposa à Moyse, &amp; que chacun d’eux y parut armé de sa Verge,
@@ -1814,8 +1735,7 @@
             annunciavit ci. <hi rend="i">Il vouloit dire, selon l’explication de S. Jerôme, que le
               Peuple de Dieu avoit interrogé le bois &amp; les Verges</hi>, lignum interrogavit
             &amp; virgas, <hi rend="i">pour découvrir les choses cachées ; ce qui est, ajoute ce
-              Pere, une sorte de Divination que les Grecs ont appellée</hi> Rabdomantie. <hi
-              rend="i">Or quoy qu’il y eust une espece de</hi> Rabdomantie, <hi rend="i">qui étoit
+              Pere, une sorte de Divination que les Grecs ont appellée</hi> Rabdomantie. <hi rend="i">Or quoy qu’il y eust une espece de</hi> Rabdomantie, <hi rend="i">qui étoit
               purement un Sort, il y en avoit pourtant une autre, qui consistoit dans des signes
               exterieurs, qui faisoient connoistre la chose</hi> occulte, <hi rend="i">qu’on
               prétendoit découvrir par cette sorte de divination. Ces signes estoient entr’autres,
@@ -1931,8 +1851,7 @@
               d’avoir bien penetré le secret de la Nature ; car enfin que ne peut-on pas faire avec
               le secours de ces verges miraculeuses, quand on connoistra leur force dans toute son
               étenduë</hi> ?</p>
-          <p><hi rend="i">Raillerie à part, ne faut-il pas estre</hi> individuellement organisé, <hi
-              rend="i">pour recevoir toutes sortes de nouveautez dés qu’elles se presentent, afin de
+          <p><hi rend="i">Raillerie à part, ne faut-il pas estre</hi> individuellement organisé, <hi rend="i">pour recevoir toutes sortes de nouveautez dés qu’elles se presentent, afin de
               s’estre persuadé</hi> analytiquement, <hi rend="i">que tous ces Phenomenes sont
               naturels ? Il n’est point d’homme de bon sens, qui les envisageant d’un premier
               regard, n’y soupçonne d’abord quelque chose de Magique ; car comme les Theologiens
@@ -1950,8 +1869,7 @@
               Theologiens donnent pour distinguer les operations, qui sont veritablement naturelles,
               d’avec celles, où le Demon prend quelque part, on trouvera, dis-je, que l’art du Devin
               de Lyon doit estre suspect aux bonnes ames.</hi></p>
-          <p><hi rend="i">Mais rien ne me confirme davantage dans mes</hi> Scrupules <hi rend="i"
-              >sur le fait dont il s’agit, que les raisons mesmes dont se servent vos</hi>
+          <p><hi rend="i">Mais rien ne me confirme davantage dans mes</hi> Scrupules <hi rend="i">sur le fait dont il s’agit, que les raisons mesmes dont se servent vos</hi>
             Naturalistes <hi rend="i">pour soustenir leur Hypothese, car on voit assez par les
               choses qu’ils ont écrites, que ce sont des gens d’esprit &amp; d’étude, qui font les
               derniers efforts pour deffendre une cause, qui dans le fond leur paroist insoutenable.
@@ -1972,8 +1890,7 @@
               qu’il leur plaist de nous faire accroire ; ou plustost ils nous donnent pour des
               preuves valables tout ce qu’ils peuvent s’imaginer pour vray. Ne paroist-il pas qu’ils
               sentent eux-mesmes le foible de leurs raisonnemens, puis qu’ils les abandonnent aprés
-              tout malgré eux ; &amp; que quelques-uns sont forcez de recourir à</hi> l’Etoile <hi
-              rend="i">du Devin, &amp; les autres à</hi> l’œuf <hi rend="i">de la mere qui l’a pondu
+              tout malgré eux ; &amp; que quelques-uns sont forcez de recourir à</hi> l’Etoile <hi rend="i">du Devin, &amp; les autres à</hi> l’œuf <hi rend="i">de la mere qui l’a pondu
               &amp; au germe qui l’a rendu fecond ? En bonne verité, n’est-ce pas-là abuser de la
               credulité des Gens, que de nous debiter de semblables bagatelles pour des points de
               Physique ; &amp; ne peut-on pas dire que cette</hi> Etoile <hi rend="i">&amp; cet</hi>
@@ -1989,8 +1906,7 @@
           <p><hi rend="i">Pour éclaircir à fond cette matiere, je voudrois bien que ces Messieurs
               nous dissent précisément à quoy sert dans cette découverte la Baguette dont on use
               pour la faire, puis que dans leur hypothese toute la vertu reside dans la personne du
-              Devin, &amp; qu’il ne la doit qu’à la rare puissance de son</hi> Etoile, <hi rend="i"
-              >ou à la merveilleuse proprieté de son</hi> œuf. <hi rend="i">Ils ne seroient pas peu
+              Devin, &amp; qu’il ne la doit qu’à la rare puissance de son</hi> Etoile, <hi rend="i">ou à la merveilleuse proprieté de son</hi> œuf. <hi rend="i">Ils ne seroient pas peu
               embarassez à nous dire d’où vient la diversité du mouvement de cette Baguette, qui
               gauchit, &amp; qui tourne selon les differentes routes qu’a tenuës celuy qu’on
               cherche. On nous obligeroit de nous apprendre d’où vient encore qu’un talent si
@@ -2023,8 +1939,7 @@
               des points qui ont quelque rapport à la Religion. Le grand S. Augustin &amp; avec luy
               tous les Peres de l’Eglise, reconnoissent des engagemens &amp; des pactes faits avec
               les Demons, lesquels il appelle une amitié trompeuse &amp; infidelle faite entr’eux
-              &amp; les hommes</hi>, quasi pacta infidelis &amp; dolosæ amicitiæ constituta, <hi
-              rend="i">&amp; il ajoûte que quelquefois la seule présomption de l’esprit humain sert
+              &amp; les hommes</hi>, quasi pacta infidelis &amp; dolosæ amicitiæ constituta, <hi rend="i">&amp; il ajoûte que quelquefois la seule présomption de l’esprit humain sert
               de langue pour lier &amp; pour entretenir ces dangereux commerces</hi>, præsumptione
             animorum quasi quadam lingua cum dæmonibus fæderata sunt. <hi rend="i">Son fidelle
               Disciple S. Thomas &amp; les Theologiens, qui les regardent &amp; l’un &amp; l’autre
@@ -2033,8 +1948,7 @@
             tacito vel expresso. <hi rend="i">La Faculté de Theologie de Paris, qui n’est pas moins
               fameuse dans le monde, que la Faculté de Medecine de Montpellier, a condamné autrefois
               des Doctrines, qui vouloient autoriser dans de pareils cas des pactes exprés ou
-              tacites faits avec l’Enfer</hi>, pactum cum dæmonibus tacitum vel expressum. <hi
-              rend="i">Je ne vois donc pas que nos</hi> Naturalistes <hi rend="i">ajoûtent rien à la
+              tacites faits avec l’Enfer</hi>, pactum cum dæmonibus tacitum vel expressum. <hi rend="i">Je ne vois donc pas que nos</hi> Naturalistes <hi rend="i">ajoûtent rien à la
               bonté de leur cause, en mettant les rieurs ignorans de leur costé contre les Docteurs
               qui examinent serieusement les choses, ny qu’il leur siée bien de badiner dans une
               matiere aussi grave &amp; aussi importante que l’est en effet l’observation du premier
@@ -2066,8 +1980,7 @@
           Instrumens. L'air de sa marche a esté trouvé si beau, qu'il a passé jusqu'en France, &amp;
           M<hi rend="sup">r</hi> de Philidor, Ordinaire de la Musique du Roy <note resp="editor">Il s'agit probablement de Jacques I Philidor, auteur de marches, batteries et airs de danse.</note>, en a souvent regalé
           la Cour, qui a pris beaucoup de plaisir à l'entendre. Je croy que vous me serez obligée du
-          soin que je prens de vous l'envoyez gravé.<note resp="author"
-            place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air doit regarder la
+          soin que je prens de vous l'envoyez gravé.<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air doit regarder la
             page 285.</note></p>
         <ref target="images/1693-01_285.JPG">
           <figure>
@@ -2110,8 +2023,7 @@
           volontairement l’arbitre de leurs differends. Il tenoit Academie chez luy tous les
           Samedis, &amp; l’on y discouroit sur toutes sortes de sujets. Il a esté inhumé en l’Eglise
           des Carmes de la Place Maubert, dans la sepulture de ses Ancestres. Il avoit épousé Dame
-          Gabrielle Collet, dont il ne laisse point d’Enfans. Il luy reste un Frere unique, M<hi
-            rend="sup">r</hi> Chassebras de Cramailles, qui s’adonne à la connoissance des belles
+          Gabrielle Collet, dont il ne laisse point d’Enfans. Il luy reste un Frere unique, M<hi rend="sup">r</hi> Chassebras de Cramailles, qui s’adonne à la connoissance des belles
           Lettres, &amp; dont je vous ay fait voir de temps en temps plusieurs Relations curieuses
           &amp; sçavantes. Il se trouve aujourd’huy le seul de la branche aînée de sa Famille. Je
           vous en ay parlé en diverses occasions, &amp; vous pouvez en apprendre davantage dans les
@@ -2175,18 +2087,15 @@
           touchant la prise de l’une &amp; de l’autre, la frayeur des Ennemis en fourniroit plus de
           matiere que les Combats qu’ils ont soutenus. Le Comte de Horne, General de l’Artillerie
           Hollandoise qui commandoit dans Furnes, estant venu trouver l’Electeur de Baviere aprés la
-          reddition de cette Place, cet Electeur le receut fort froidement, &amp; luy dit, <hi
-            rend="i">Monsieur le Comte, je ne dois pas vous entretenir long-temps, &amp; vous
+          reddition de cette Place, cet Electeur le receut fort froidement, &amp; luy dit, <hi rend="i">Monsieur le Comte, je ne dois pas vous entretenir long-temps, &amp; vous
             entendre sur vostre deffence. Nous avons besoin de repos aprés tant de travaux ; allez
             vous reposer, on en parlera plus à loisir quand vous serez délassé</hi>. Quant au Prince
           d’Orange, il n’a pas sujet de se plaindre de la manœuvre que l’Electeur de Baviere a
           faite. Ce Prince a assemblé le plus qu’il a pû de Troupes ; il a marché ; il s’est campé à
           portée de donner Bataille ; il a vû prendre Furnes, il est revenu. Je croy qu’il seroit
           bien difficile de mieux imiter le Prince d’Orange.</p>
-        <p>La prise de Furnes n’auroit pas cousté un homme au Roy, sans la perte de M<hi rend="sup"
-            >r</hi> le Marquis de Vilacerf, Fils de M<hi rend="sup">r</hi> de Vilacerf, Surintendant
-          des Bâtimens de Sa Majesté. Il fut emporté à un Bivouac de Cavalerie, auprés de M<hi
-            rend="sup">r</hi> de Bouflers, d’un coup de Canon, tiré de Nieuport. Il avoit commencé
+        <p>La prise de Furnes n’auroit pas cousté un homme au Roy, sans la perte de M<hi rend="sup">r</hi> le Marquis de Vilacerf, Fils de M<hi rend="sup">r</hi> de Vilacerf, Surintendant
+          des Bâtimens de Sa Majesté. Il fut emporté à un Bivouac de Cavalerie, auprés de M<hi rend="sup">r</hi> de Bouflers, d’un coup de Canon, tiré de Nieuport. Il avoit commencé
           de si bonne heure à faire connoistre son merite, qu’il avoit eu des Emplois de distinction
           dans un âge, où les autres ont pû à peine se faire remarquer dans le service. On ne peut
           avoir plus d’application, plus de vigilance, &amp; plus de valeur qu’il en avoit. Ce sont
@@ -2285,10 +2194,8 @@
           qu’il y a de plus curieux à Versailles. Le Roy le trouva à son retour de la Messe, &amp;
           luy dit encore plusieurs choses obligeantes. Ce Prince alla ensuite dîner chez Mr de
           Croissy, où il fut magnifiquement traité, &amp; retourna à Paris. Sa livrée est nombreuse
-          &amp; riche, &amp; tout marque en ce Prince ce que l’usage de paroistre <hi rend="i"
-            >incognito</hi>, pour éviter l’embarras des ceremonies, oblige à cacher. Il y eut encore
+          &amp; riche, &amp; tout marque en ce Prince ce que l’usage de paroistre <hi rend="i">incognito</hi>, pour éviter l’embarras des ceremonies, oblige à cacher. Il y eut encore
           le mesme jour Bal au Palais Royal.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

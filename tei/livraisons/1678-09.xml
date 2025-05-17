@@ -1,73 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1678-09" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, septembre 1678</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Alexandre De Craim</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name ref="mailto:frederic.glorieux@fictif.org">Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2014"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1678-09/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <publisher>Claude Blageart</publisher>,
-            <date>septembre, 1678</date></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1678"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, septembre 1678 [tome 9], 1678.</head>
       <div type="article" xml:id="MG-1678-09_000a" resp="mercure">
@@ -200,7 +131,7 @@
             <l>Ne me rebutez plus si je viens à paraistre,</l>
             <l>Ou je sçauray long-temps vous faire repentir.</l>
           </lg>
-          <p><hi rend="i">>Cette menace faite d’un ton fier, pût bien trouver des timides, &amp; les
+          <p><hi rend="i">&gt;Cette menace faite d’un ton fier, pût bien trouver des timides, &amp; les
               obliger à ne se plus défendre contre l’Amour. Du moins j’ay oüy dire que quelqu’une
               commença dés ce moment à soûpirer. Les Bergers apres avoir dancé quelque temps dans la
               Court, allerent dans le Parc chercher un endroit plus commode pour continuer leur
@@ -919,8 +850,7 @@
         <p>M<hi rend="sup">r</hi> le Protonotaire de Grace y donne des Leçons tres-fructueuses, en
           qualité de sçavant Antiquaire. Il les soûtient par cette quantité de curieuses Medailles
           dont on sçait qu’il est richement muny.</p>
-        <p>Les Préceptes Chrestiens y sont insinuez avec beaucoup de succés, par M<hi rend="sup"
-            >r</hi> de Perussys, Gentilhomme d’une vertu consommée, &amp; veritable imitateur de
+        <p>Les Préceptes Chrestiens y sont insinuez avec beaucoup de succés, par M<hi rend="sup">r</hi> de Perussys, Gentilhomme d’une vertu consommée, &amp; veritable imitateur de
           celles de M<hi rend="sup">r</hi> de Renty.</p>
         <p>M<hi rend="sup">r</hi> de Malespine donne dans les Affaires de Palais, &amp; fait des
           Raports tres-judicieux sur les Procés qu’on tâche en suite de terminer par les soins de
@@ -970,8 +900,7 @@
           s’attira l’applaudissement universel. N’en est ce pas assez, Madame, pour avoir aussi le
           vostre, &amp; celuy de tout le beau Sexe ? Les Hommes mesmes qui pourroient avoir quelque
           jalousie secrete des avantages de cette admirable Fille, se sont fait honneur de
-          contribuer à sa gloire, &amp; le 15. de Juillet la fameuse Académie des <hi rend="i"
-            >Ricorrari</hi> s’assembla extraordinairement pour célébrer les merveilleuses qualitez
+          contribuer à sa gloire, &amp; le 15. de Juillet la fameuse Académie des <hi rend="i">Ricorrari</hi> s’assembla extraordinairement pour célébrer les merveilleuses qualitez
           d’une Personne si rare. Cela se fit dans la Salle des Geans, lieu ordinaire de leur
           Assemblée, où est la Biblioteque publique, par les soins de M<hi rend="sup">r</hi> Patin
           de Paris, aujourd’huy Prince de cette Académie, &amp; Professeur en Medecine à Padouë.
@@ -1114,11 +1043,9 @@
           Fleur de Lys, dont plusieurs Lys sortoient. De bastion en Bastion on voyoit des Ouvrages à
           jour en maniere de Filagrane, avec une Devise au milieu. Celle de dessus estoit un Soleil
           avec ces mots, <hi rend="i">Non quem regit orbe minor</hi>. Un Arc-en-Ciel dissipant des
-          nuës, faisoit celle qu’on voyoit en bas. Ces Paroles luy servoient d’ame, <hi rend="i"
-            >Vincendo facit omina pacis</hi>. Celles-cy accompagnoient la Devise qui estoit à un des
+          nuës, faisoit celle qu’on voyoit en bas. Ces Paroles luy servoient d’ame, <hi rend="i">Vincendo facit omina pacis</hi>. Celles-cy accompagnoient la Devise qui estoit à un des
           costez, formée d’un Lyon qui fuyoit, <hi rend="i">Gloria ejus terror</hi>. Il y avoit de
-          l’autre costé un Foudre qui frapoit une Tour, avec ces mots Espagnols, <hi rend="i"
-            >Hiriendo à uno, amenaça à muchos</hi>. Au dessus de la Place, au bas du Soleil, on
+          l’autre costé un Foudre qui frapoit une Tour, avec ces mots Espagnols, <hi rend="i">Hiriendo à uno, amenaça à muchos</hi>. Au dessus de la Place, au bas du Soleil, on
           voyoit deux Branches de lys qui se joignoient, &amp; qui enfermoient le Portrait du Roy.
           Il estoit couvert d’une Glace de Venise, aussi bien qu’une espece de Cartouche où estoient
           les Positions. Sur le dessus il y avoit un Trophée, avec toute sorte d’Armes, un Hercule
@@ -1419,9 +1346,7 @@
         <head>[Explication de la premiere Enigme en Vers du Mois dernier]</head>
         <bibl><title>Mercure galant</title>, septembre [tome 9], 1678, p. 342-345.</bibl>
         <p>Les Enigmes sont toûjours expliquées dans leur vray sens par quantité de Personnes. Vous
-          trouverez celuy de la premiere du dernier Mois <note resp="editor">Voir l'<ref
-            target="MG-1678-08_346"><hi rend="i">Enigme</hi></ref> du mois d'août 1678 et <ref
-              target="MG-1678-04_389"> l'explication de l'énigme</ref>.</note>dans ces Vers de
+          trouverez celuy de la premiere du dernier Mois <note resp="editor">Voir l'<ref target="MG-1678-08_346"><hi rend="i">Enigme</hi></ref> du mois d'août 1678 et <ref target="MG-1678-04_389"> l'explication de l'énigme</ref>.</note>dans ces Vers de
             M<hi rend="sup">r</hi> le Courrier, de Caën.</p>
         <quote>
           <lg>
@@ -1446,10 +1371,7 @@
         <p>Il est temps de vous apprendre les Divertissemens de Fontainebleau. Il s’y fit une Course
           de Bague un des premiers jours de ce mois, en presence du Roy, de la Reyne, &amp; de toute
           la Cour. Ceux qui coururent, furent Monseigneur le Dauphin, Messieurs les Princes de Conty
-          &amp; de la Roche sur Yon, M<hi rend="sup">r</hi> le Comte de Brionne, M<hi rend="sup"
-            >r</hi> le Prince de Caumercy, M<hi rend="sup">r</hi> le Marquis de Bellefonds, M<hi
-            rend="sup">r</hi> le Comte de Tonnerre, M<hi rend="sup">r</hi> de Bouligneux, &amp; M<hi
-            rend="sup">r</hi> le Chevalier de Mailly. Le Prix estoit une Escharpe magnifique que
+          &amp; de la Roche sur Yon, M<hi rend="sup">r</hi> le Comte de Brionne, M<hi rend="sup">r</hi> le Prince de Caumercy, M<hi rend="sup">r</hi> le Marquis de Bellefonds, M<hi rend="sup">r</hi> le Comte de Tonnerre, M<hi rend="sup">r</hi> de Bouligneux, &amp; M<hi rend="sup">r</hi> le Chevalier de Mailly. Le Prix estoit une Escharpe magnifique que
           donnoit le Roy. Chacun courut trois Courses. Mr le Prince de la Roche sur-Yon emporta le
           Prix, ayant fait deux dedans &amp; une atteinte. Ce jeune Prince n’a pas moins de vivacité
           d’esprit que d’adresse.</p>
@@ -1592,24 +1514,20 @@
       <div type="article" xml:id="MG-1678-09_382" resp="mercure">
         <head>[Apostille sur le mot porfil]</head>
         <bibl><title>Mercure galant</title>, septembre 1678 [tome 9], p. 382.</bibl>
-        <p>Par apostille, Madame, je vay vous éclaircir pleinement sur le mot de <hi rend="i"
-            >Porfil</hi> dont nous avons déja parlé. Vos Amis qui prétendent qu’il ait vieilly
+        <p>Par apostille, Madame, je vay vous éclaircir pleinement sur le mot de <hi rend="i">Porfil</hi> dont nous avons déja parlé. Vos Amis qui prétendent qu’il ait vieilly
           depuis Regnier &amp; Balzac, n’ont pas veu ce qu’en écrit M. Ménage au 84. Chapitre de la
           premiere partie de ses Observations imprimée en 1672. Il dit, en parlant des noms qu’on
           doit prononcer en <hi rend="i">o</hi>, &amp; non pas en <hi rend="i">ou</hi>, qu’il faut
           dire <hi rend="i">chose</hi>, &amp; non pas <hi rend="i">chouse, Porfil</hi>, &amp; non
-          pas <hi rend="i">Pourfil</hi>. Cela fait voir qu’il n’a point crû qu’on pust recevoir <hi
-            rend="i">Profil</hi>. Cependant il est certain que les Peintres &amp; les Sculpteurs se
+          pas <hi rend="i">Pourfil</hi>. Cela fait voir qu’il n’a point crû qu’on pust recevoir <hi rend="i">Profil</hi>. Cependant il est certain que les Peintres &amp; les Sculpteurs se
           servent toûjours de ce dernier mot soit en parlant, soit en écrivant ; &amp; c’est sans
           doute par cette raison qu’une partie des Illustres qui composent l’Académie Françoise,
           prend ce party, se persuadant que c’est à ceux qui sont habiles dans les Arts à déterminer
           les mots qui leur sont propres. Les autres (car j’ay fait proposer la Question dans une de
           leurs Assemblées) tiennent obstinément pour <hi rend="i">Porfil</hi>, &amp; ils
           conviennent tous ensemble qu’on peut employer indiféremment l’un &amp; l’autre mot. Ainsi,
-          Madame, vos Amis diront <hi rend="i">Profil</hi>, &amp; me permettront de garder <hi
-            rend="i">Porfil</hi> que je luy préfere, sans que je vous en puisse donner de
+          Madame, vos Amis diront <hi rend="i">Profil</hi>, &amp; me permettront de garder <hi rend="i">Porfil</hi> que je luy préfere, sans que je vous en puisse donner de
           raison.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

@@ -1,65 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1702-07a">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, juillet 1702 [première partie] [tome 9]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1702-07a</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
-    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
-    sur les bases de données (L341-1) est mise à disposition de la communauté
-    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
-    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
-    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-<p>Attribution : afin de référencer la source, toute utilisation ou publication
-    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
-    l’adresse Internet de la ressource.</p>
-<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
-    toute utilisation commerciale est interdite.</p>
-<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-    électronique, notamment en intégrant toutes les contributions extérieures, la
-    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>juillet 1702</date> [première partie] [tome 9].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1702-07"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, [première partie] [tome 9].</head>
         <div type="article" xml:id="MG-1702-07a_5">
@@ -1304,5 +1243,4 @@
           <p>Je dois ajoûter icy que l’on a trouvé 30 pieces de Canon dans Modene, &amp; qu’on les a fait conduire dans la Citadelle afin qu’elle fut plus en estat de se défendre. On s’est emparé de Corregio, &amp; de Carpi. Ces deux petites Places appartiennent à Monsieur le Duc de Modene ; ainsi le Roy d’Espagne est à present Maistre de tout le Modenois, à la reserve de Bercelle. On a mis dans Corregio qui n’est fermé que d’une simple muraille, deux Compagnies de Grenadiers pour la garder. On a desarmé les peuples de ces deux Places pour plus de sureté. Ce n’est pas qu’on n’ait lieu d’estre tres content du Peuple &amp; de la Noblesse de Modene qui a temoigné beaucoup de joye de voir arriver les troupes des deux Couronnes, se voyant par là délivrée des mortelles inquietudes où estoit ce Duché. On parle diversement de la situation des Ennemis. On dit qu’ils ont leur droite à Borgoforte, &amp; que leur gauche s’étend vers Revero. On assure qu’ils font un Pont à Revero, &amp; un autre à Ostiglia. Mr le Prince Eugene cherchant à profiter de la separation des deux Armées fait aplanir tous les chemins par les Paysans, &amp; couper les hayes &amp; les buissons. Cependant la terreur est dans son Armée depuis le combat du 26. &amp; Mr du Gua s’estant mis en marche avec six cens chevaux, a rencontré un gros corps de Cuirassiers qui pour fuir plus aisement ont abandonné leur cuirasses. Ainsi il y a peu d’apparence que le Prince Eugene risque une bataille. Je suis, Madame, vostre, &amp;c.</p>
         </div>
       </body>
-  </text>
-</TEI>
+  </text></TEI>

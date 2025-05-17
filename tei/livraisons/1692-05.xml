@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1692-05">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, mai 1692 [tome 5]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1692-05</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>mai 1692</date> [tome 5].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1692-05"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, mai 1692 [tome 5].</head>
       <div type="article" xml:id="MG-1692-05_007" resp="wordpro">
@@ -131,8 +67,7 @@
           prêcha le matin sur la Charité, &amp; fit l’Eloge du Roy avec une entiere satisfaction de
           son Auditoire. M<hi rend="sup">r</hi> Marqs, dont l’éloquence est connuë par tant de
           Sermons, où il s’est fait admirer dans les meilleures Chaires du Royaume, fit
-          l’aprés-dînée un nouveau Panegyrique de ce grand Monarque, &amp; on chanta l’<hi rend="i"
-            >Exaudiat</hi> en Musique, avec les autres Prieres que l’Eglise ordonne en pareille
+          l’aprés-dînée un nouveau Panegyrique de ce grand Monarque, &amp; on chanta l’<hi rend="i">Exaudiat</hi> en Musique, avec les autres Prieres que l’Eglise ordonne en pareille
           occasion.</p>
       </div>
       <div type="article" xml:id="MG-1692-05_024" resp="wordpro">
@@ -397,8 +332,7 @@
         <quote>
           <label>A LA BELLE<lb/>MARTHESIE.</label>
           <p>La sixiéme &amp; derniere Societé dont je fis partie, est celle qui a le plus éclaté
-            dans le monde. Son nom estoit <hi rend="i">l’Etat Incarnadin</hi> ; sa couleur l’<hi
-              rend="i">Incarnat</hi>, &amp; sa Devise, <hi rend="i">Tout du grand air</hi>. Le
+            dans le monde. Son nom estoit <hi rend="i">l’Etat Incarnadin</hi> ; sa couleur l’<hi rend="i">Incarnat</hi>, &amp; sa Devise, <hi rend="i">Tout du grand air</hi>. Le
             Pastoral en fut banni ; tout y fut heroïque ; &amp; l’on emprunta dans la Cleopatre, les
             noms des Heros &amp; des Heroïnes, pour les donner aux Cavaliers &amp; aux Dames. Cette
             Societé commença <hi rend="i">à Flore</hi>, &amp; j’en fus, pour ainsi dire,
@@ -1029,8 +963,7 @@
           </lg>
         </quote>
       </div>
-      <div type="article" xml:id="MG-1692-05_281" resp="mercure"
-        copyOf="JLB_MG-1692-05-308__JLB_MG-1692-05-280">
+      <div type="article" xml:id="MG-1692-05_281" resp="mercure" copyOf="JLB_MG-1692-05-308__JLB_MG-1692-05-280">
         <head>[Journal du Voyage du Roy, avec l’état de ses Armées]</head>
         <bibl><title>Mercure galant</title>, mai 1692 [tome 5], p. 281-308.</bibl>
         <p>[...] Le Roy ayant convié les Dames à dîner le lendemain, les traita dans une Tente,
@@ -1074,5 +1007,4 @@
         </ref>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

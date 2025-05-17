@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1683-03">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, mars 1683 [tome 3]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1683-03</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>mars 1683</date> [tome 3].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1683-03"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, mars 1683 [tome 3].</head>
       <div type="article" xml:id="MG-1683-03_023" resp="nbb">
@@ -211,8 +147,7 @@
           Majesté à Strasbourg, avant que cette Ville eust reconnu le Roy pour son Souverain. Le
           second est de M<hi rend="sup">r</hi> de S. Clair Turgot ; le troisiéme, de Mademoiselle
           Bernard, (c’est la jeune Iris du <hi rend="i">Commerce Galant</hi>, si estimée par les
-          jolies Lettres qui sont d’elle dans ce Livre ;) le quatriéme, de M<hi rend="sup"
-          >r</hi> Petit, de Roüen ; &amp; le cinquiéme de M<hi rend="sup">r</hi> de Montfort,
+          jolies Lettres qui sont d’elle dans ce Livre ;) le quatriéme, de M<hi rend="sup">r</hi> Petit, de Roüen ; &amp; le cinquiéme de M<hi rend="sup">r</hi> de Montfort,
           Autheur des <hi rend="i">Conversations Galantes</hi>, qui ont eu un grand succés, &amp;
           d’un autre Livre qui va paroistre, intitulé, <hi rend="i">La Politique des Amans.</hi>
             M<hi rend="sup">r</hi> de Montfort est tres-agreable par sa personne, &amp; par son
@@ -768,8 +703,7 @@
           des remords, que ma bonté &amp; ma prudence vous ont épargnez. N’est-il pas vray qu’avant
           cette nuit, que vous avez épié M<hi rend="sup">r</hi> le Comte, vous estiez tous deux les
           Amans du monde les plus contens ? Suis-je coupable de vostre indiscrétion ? Pourquoy me
-          venir chercher le soir ? Ne vous avois-je pas averty par une Lettre que je donnay à M<hi
-            rend="sup">r</hi> le Comte, de ne venir que ce matin ? Tout cela fut dit d’une maniere
+          venir chercher le soir ? Ne vous avois-je pas averty par une Lettre que je donnay à M<hi rend="sup">r</hi> le Comte, de ne venir que ce matin ? Tout cela fut dit d’une maniere
           si libre, &amp; si peu déconcertée, que ce trait leur fit connoître la Dame encor mieux
           qu’ils n’avoient fait. Ils admirerent un caractere si particulier, &amp; laisserent à qui
           le voulut la liberté d’en estre la Dupe. La Marquise se consola de leur perte, en faisant
@@ -780,8 +714,7 @@
         <head>[L’Homme Artificiel Anemoscope, ou Prophete Physique des changemens du temps]</head>
         <bibl><title>Mercure galant</title>, mars 1683 [tome 3], p. 184-191</bibl>
         <quote>
-          <p>[...]<hi rend="i">Les Grecs nomment ce vent qui tombe à plomb</hi>, Ecnephias, <hi
-              rend="i">&amp; assurent avec raison, que de tous les vents orageux</hi>, Ecnephias,
+          <p>[...]<hi rend="i">Les Grecs nomment ce vent qui tombe à plomb</hi>, Ecnephias, <hi rend="i">&amp; assurent avec raison, que de tous les vents orageux</hi>, Ecnephias,
             Typhon, <hi rend="i">&amp;</hi> Prester, <hi rend="i">sont les plus à craindre ; car,
               comme dit Virgile</hi>, Venti, velut agmine facto, Qua data porta ruunt, &amp; terras
             Turbine perflant.</p>
@@ -1239,10 +1172,7 @@
       </div>
       <div type="article" xml:id="MG-1683-03_281" resp="mercure">
         <head>[Opéra de Coriolan]</head>
-        <bibl><title>Mercure galant</title>, mars 1683 [tome 3], p. 281-282<note resp="editor">Les articles de <ref target="MG-1683-03_282">mars 1683, p. 282</ref>, <ref
-          target="MG-1683-03_285">mars 1683, p. 285</ref>, <ref target="MG-1683-03_288">mars 1683, p. 288</ref>, <ref target="MG-1683-03_291">mars 1683, p. 291</ref>, <ref
-            target="MG-1683-03_293">mars 1683, p. 293</ref>, <ref target="MG-1683-03_297">mars 1683, p. 297</ref>, <ref target="MG-1683-03_300">mars 1683, p. 300</ref> et <ref
-              target="MG-1683-03_301">mars 1683, p. 301</ref>, font état des spectacles donnés à
+        <bibl><title>Mercure galant</title>, mars 1683 [tome 3], p. 281-282<note resp="editor">Les articles de <ref target="MG-1683-03_282">mars 1683, p. 282</ref>, <ref target="MG-1683-03_285">mars 1683, p. 285</ref>, <ref target="MG-1683-03_288">mars 1683, p. 288</ref>, <ref target="MG-1683-03_291">mars 1683, p. 291</ref>, <ref target="MG-1683-03_293">mars 1683, p. 293</ref>, <ref target="MG-1683-03_297">mars 1683, p. 297</ref>, <ref target="MG-1683-03_300">mars 1683, p. 300</ref> et <ref target="MG-1683-03_301">mars 1683, p. 301</ref>, font état des spectacles donnés à
             Venise.</note></bibl>
         <p/>
         <p><hi rend="i">Coriolan</hi>, est le titre du second Opéra que l'on a représenté sur ce
@@ -1261,10 +1191,7 @@
       </div>
       <div type="article" xml:id="MG-1683-03_282" resp="mercure">
         <head>[Opéra de Virgilia]</head>
-        <bibl><title>Mercure galant</title>, mars 1683 [tome 3], p. 282-285<note resp="editor">Les articles de <ref target="MG-1683-03_281">mars 1683, p. 281</ref>, <ref
-          target="MG-1683-03_285">mars 1683, p. 285</ref>, <ref target="MG-1683-03_288">mars 1683, p. 288</ref>, <ref target="MG-1683-03_291">mars 1683, p. 291</ref>, <ref
-            target="MG-1683-03_293">mars 1683, p. 293</ref>, <ref target="MG-1683-03_297">mars 1683, p. 297</ref>, <ref target="MG-1683-03_300">mars 1683, p. 300</ref> et <ref
-              target="MG-1683-03_301">mars 1683, p. 301</ref>, font état des spectacles donnés à
+        <bibl><title>Mercure galant</title>, mars 1683 [tome 3], p. 282-285<note resp="editor">Les articles de <ref target="MG-1683-03_281">mars 1683, p. 281</ref>, <ref target="MG-1683-03_285">mars 1683, p. 285</ref>, <ref target="MG-1683-03_288">mars 1683, p. 288</ref>, <ref target="MG-1683-03_291">mars 1683, p. 291</ref>, <ref target="MG-1683-03_293">mars 1683, p. 293</ref>, <ref target="MG-1683-03_297">mars 1683, p. 297</ref>, <ref target="MG-1683-03_300">mars 1683, p. 300</ref> et <ref target="MG-1683-03_301">mars 1683, p. 301</ref>, font état des spectacles donnés à
             Venise.</note></bibl>
         <p>Le Théatre de S. Angelo n'est pas si grand que les autres, quoy qu'il soit aussi peint,
           doré, &amp; fort propre. Il contient cinq rangs de Pales, vingt-neuf à chaque rang. La
@@ -1291,11 +1218,7 @@
       </div>
       <div type="article" xml:id="MG-1683-03_285" resp="mercure">
         <head>[Opéra de Silla]</head>
-        <bibl><title>Mercure galant</title>, mars 1683 [tome 3], p. 285-288<note resp="editor"
-          >Les articles de <ref target="MG-1683-03_281">mars 1683, p. 281</ref>, <ref
-            target="MG-1683-03_282">mars 1683, p. 282</ref>, <ref target="MG-1683-03_288">mars 1683, p. 288</ref>, <ref target="MG-1683-03_291">mars 1683, p. 291</ref>, <ref
-              target="MG-1683-03_293">mars 1683, p. 293</ref>, <ref target="MG-1683-03_297">mars 1683, p. 297</ref>, <ref target="MG-1683-03_300">mars 1683, p. 300</ref> et <ref
-                target="MG-1683-03_301">mars 1683, p. 301</ref>, font état des spectacles donnés à
+        <bibl><title>Mercure galant</title>, mars 1683 [tome 3], p. 285-288<note resp="editor">Les articles de <ref target="MG-1683-03_281">mars 1683, p. 281</ref>, <ref target="MG-1683-03_282">mars 1683, p. 282</ref>, <ref target="MG-1683-03_288">mars 1683, p. 288</ref>, <ref target="MG-1683-03_291">mars 1683, p. 291</ref>, <ref target="MG-1683-03_293">mars 1683, p. 293</ref>, <ref target="MG-1683-03_297">mars 1683, p. 297</ref>, <ref target="MG-1683-03_300">mars 1683, p. 300</ref> et <ref target="MG-1683-03_301">mars 1683, p. 301</ref>, font état des spectacles donnés à
             Venise.</note></bibl>
         <p/>
         <p>La seconde Piece est intitulée <hi rend="i">Silla</hi>. Lucius-Cornelius-Silla estant
@@ -1325,11 +1248,7 @@
       </div>
       <div type="article" xml:id="MG-1683-03_288" resp="mercure">
         <head>[Opéra de Thémistocle]</head>
-        <bibl><title>Mercure galant</title>, mars 1683 [tome 3], p. 288-291<note resp="editor"
-          >Les articles de <ref target="MG-1683-03_281">mars 1683, p. 281</ref>, <ref
-            target="MG-1683-03_282">mars 1683, p. 282</ref>, <ref target="MG-1683-03_285">mars 1683, p. 285</ref>, <ref target="MG-1683-03_291">mars 1683, p. 291</ref>, <ref
-              target="MG-1683-03_293">mars 1683, p. 293</ref>, <ref target="MG-1683-03_297">mars 1683, p. 297</ref>, <ref target="MG-1683-03_300">mars 1683, p. 300</ref> et <ref
-                target="MG-1683-03_301">mars 1683, p. 301</ref>, font état des spectacles donnés à
+        <bibl><title>Mercure galant</title>, mars 1683 [tome 3], p. 288-291<note resp="editor">Les articles de <ref target="MG-1683-03_281">mars 1683, p. 281</ref>, <ref target="MG-1683-03_282">mars 1683, p. 282</ref>, <ref target="MG-1683-03_285">mars 1683, p. 285</ref>, <ref target="MG-1683-03_291">mars 1683, p. 291</ref>, <ref target="MG-1683-03_293">mars 1683, p. 293</ref>, <ref target="MG-1683-03_297">mars 1683, p. 297</ref>, <ref target="MG-1683-03_300">mars 1683, p. 300</ref> et <ref target="MG-1683-03_301">mars 1683, p. 301</ref>, font état des spectacles donnés à
             Venise.</note></bibl>
         <p/>
         <p>Le Théatre de S. Cassian est aussi peint &amp; doré comme les autres, à cinq rangs de
@@ -1358,15 +1277,10 @@
       </div>
       <div type="article" xml:id="MG-1683-03_291" resp="mercure">
         <head>[Opéra de l'Innocence justifiée]</head>
-        <bibl><title>Mercure galant</title>, mars 1683 [tome 3], p. 291-295<note resp="editor"
-          >Les articles de <ref target="MG-1683-03_281">mars 1683, p. 281</ref>, <ref
-            target="MG-1683-03_282">mars 1683, p. 282</ref>, <ref target="MG-1683-03_285">mars 1683, p. 285</ref>, <ref target="MG-1683-03_288">mars 1683, p. 288</ref>, <ref
-              target="MG-1683-03_293">mars 1683, p. 293</ref>, <ref target="MG-1683-03_297">mars 1683, p. 297</ref>, <ref target="MG-1683-03_300">mars 1683, p. 300</ref> et <ref
-                target="MG-1683-03_301">mars 1683, p. 301</ref>, font état des spectacles donnés à
+        <bibl><title>Mercure galant</title>, mars 1683 [tome 3], p. 291-295<note resp="editor">Les articles de <ref target="MG-1683-03_281">mars 1683, p. 281</ref>, <ref target="MG-1683-03_282">mars 1683, p. 282</ref>, <ref target="MG-1683-03_285">mars 1683, p. 285</ref>, <ref target="MG-1683-03_288">mars 1683, p. 288</ref>, <ref target="MG-1683-03_293">mars 1683, p. 293</ref>, <ref target="MG-1683-03_297">mars 1683, p. 297</ref>, <ref target="MG-1683-03_300">mars 1683, p. 300</ref> et <ref target="MG-1683-03_301">mars 1683, p. 301</ref>, font état des spectacles donnés à
             Venise.</note></bibl>
         <p/>
-        <p>Le second que l'on a représenté sur le mesme Théatre de S. Cassian, est intitulé <hi
-            rend="i">l'Innocence justifiée</hi>. Maxime, Favory de Valentinian III. ne pût voir sans
+        <p>Le second que l'on a représenté sur le mesme Théatre de S. Cassian, est intitulé <hi rend="i">l'Innocence justifiée</hi>. Maxime, Favory de Valentinian III. ne pût voir sans
           jalousie les marques d'honneur dont cet Empereur combla Ætius Capitaine Romain, qui venoit
           de remporter dans la France la fameuse Victoire contre Attila Roy des Huns. Il luy dressa
           plusieurs embuches pour le perdre, fit croire qu'il machinoit secrement contre l'Empire ;
@@ -1381,11 +1295,7 @@
       </div>
       <div type="article" xml:id="MG-1683-03_293" resp="mercure">
         <head>[Opéra de Cidippe]</head>
-        <bibl><title>Mercure galant</title>, mars 1683 [tome 3], p. 293-297<note resp="editor"
-          >Les articles de <ref target="MG-1683-03_281">mars 1683, p. 281</ref>, <ref
-            target="MG-1683-03_282">mars 1683, p. 282</ref>, <ref target="MG-1683-03_285">mars 1683, p. 285</ref>, <ref target="MG-1683-03_288">mars 1683, p. 288</ref>, <ref
-              target="MG-1683-03_291">mars 1683, p. 291</ref>, <ref target="MG-1683-03_297">mars 1683, p. 297</ref>, <ref target="MG-1683-03_300">mars 1683, p. 300</ref> et <ref
-                target="MG-1683-03_301">mars 1683, p. 301</ref>, font état des spectacles donnés à
+        <bibl><title>Mercure galant</title>, mars 1683 [tome 3], p. 293-297<note resp="editor">Les articles de <ref target="MG-1683-03_281">mars 1683, p. 281</ref>, <ref target="MG-1683-03_282">mars 1683, p. 282</ref>, <ref target="MG-1683-03_285">mars 1683, p. 285</ref>, <ref target="MG-1683-03_288">mars 1683, p. 288</ref>, <ref target="MG-1683-03_291">mars 1683, p. 291</ref>, <ref target="MG-1683-03_297">mars 1683, p. 297</ref>, <ref target="MG-1683-03_300">mars 1683, p. 300</ref> et <ref target="MG-1683-03_301">mars 1683, p. 301</ref>, font état des spectacles donnés à
             Venise.</note></bibl>
         <p/>
         <p>Le Théatre du Canareggio, ou du Canal Royal, est fort petit, mais bien peint. Il est
@@ -1424,11 +1334,7 @@
       </div>
       <div type="article" xml:id="MG-1683-03_297" resp="mercure">
         <head>[Machines ajoûtées à l'Opéra du Roy Infant]</head>
-        <bibl><title>Mercure galant</title>, mars 1683 [tome 3], p. 297-300<note resp="editor"
-          >Les articles de <ref target="MG-1683-03_281">mars 1683, p. 281</ref>, <ref
-            target="MG-1683-03_282">mars 1683, p. 282</ref>, <ref target="MG-1683-03_285">mars 1683, p. 285</ref>, <ref target="MG-1683-03_288">mars 1683, p. 288</ref>, <ref
-              target="MG-1683-03_291">mars 1683, p. 291</ref>, <ref target="MG-1683-03_293">mars 1683, p. 293</ref>, <ref target="MG-1683-03_300">mars 1683, p. 300</ref> et <ref
-                target="MG-1683-03_301">mars 1683, p. 301</ref>, font état des spectacles donnés à
+        <bibl><title>Mercure galant</title>, mars 1683 [tome 3], p. 297-300<note resp="editor">Les articles de <ref target="MG-1683-03_281">mars 1683, p. 281</ref>, <ref target="MG-1683-03_282">mars 1683, p. 282</ref>, <ref target="MG-1683-03_285">mars 1683, p. 285</ref>, <ref target="MG-1683-03_288">mars 1683, p. 288</ref>, <ref target="MG-1683-03_291">mars 1683, p. 291</ref>, <ref target="MG-1683-03_293">mars 1683, p. 293</ref>, <ref target="MG-1683-03_300">mars 1683, p. 300</ref> et <ref target="MG-1683-03_301">mars 1683, p. 301</ref>, font état des spectacles donnés à
             Venise.</note></bibl>
         <p/>
         <p>L'Opéra du Roy Infant, dont je vous ay fait la description, a esté trouvé si beau, que
@@ -1461,15 +1367,10 @@
       </div>
       <div type="article" xml:id="MG-1683-03_300" resp="mercure">
         <head>[Opéra intitulé Orontea]</head>
-        <bibl><title>Mercure galant</title>, mars 1683 [tome 3], p. 300-302<note resp="editor"
-          >Les articles de <ref target="MG-1683-03_281">mars 1683, p. 281</ref>, <ref
-            target="MG-1683-03_282">mars 1683, p. 282</ref>, <ref target="MG-1683-03_285">mars 1683, p. 285</ref>, <ref target="MG-1683-03_288">mars 1683, p. 288</ref>, <ref
-              target="MG-1683-03_291">mars 1683, p. 291</ref>, <ref target="MG-1683-03_293">mars 1683, p. 293</ref>, <ref target="MG-1683-03_297">mars 1683, p. 297</ref> et <ref
-                target="MG-1683-03_301">mars 1683, p. 301</ref>, font état des spectacles donnés à
+        <bibl><title>Mercure galant</title>, mars 1683 [tome 3], p. 300-302<note resp="editor">Les articles de <ref target="MG-1683-03_281">mars 1683, p. 281</ref>, <ref target="MG-1683-03_282">mars 1683, p. 282</ref>, <ref target="MG-1683-03_285">mars 1683, p. 285</ref>, <ref target="MG-1683-03_288">mars 1683, p. 288</ref>, <ref target="MG-1683-03_291">mars 1683, p. 291</ref>, <ref target="MG-1683-03_293">mars 1683, p. 293</ref>, <ref target="MG-1683-03_297">mars 1683, p. 297</ref> et <ref target="MG-1683-03_301">mars 1683, p. 301</ref>, font état des spectacles donnés à
             Venise.</note></bibl>
         <p/>
-        <p>On a jouë un troisiéme Opéra au Théatre de S. Jean &amp; Paul, intitulé <hi rend="i"
-            >Orontea</hi>. Voicy ce que c'est. Floridanus, Fils de Sidonius, Roy des Phéniciens, fut
+        <p>On a jouë un troisiéme Opéra au Théatre de S. Jean &amp; Paul, intitulé <hi rend="i">Orontea</hi>. Voicy ce que c'est. Floridanus, Fils de Sidonius, Roy des Phéniciens, fut
           pris fort jeune par un Corsaire, &amp; élevé comme son Fils. Orontea, Reyne d'Egypte, qui
           avoit toûjours conservé son cœur dans une entiere liberté, luy trouva tant de mérite,
           qu'elle ne pût s'empescher de l'aimer. Neantmoins elle commençoit à se détacher de l'amour
@@ -1480,11 +1381,7 @@
       </div>
       <div type="article" xml:id="MG-1683-03_301" resp="mercure" copyOf="JLB-MG-1683-03_302">
         <head>[Opéra de Justin]</head>
-        <bibl><title>Mercure galant</title>, mars 1683 [tome 3], p. 301-309<note resp="editor"
-          >Les articles de <ref target="MG-1683-03_281">mars 1683, p. 281</ref>, <ref
-            target="MG-1683-03_282">mars 1683, p. 282</ref>, <ref target="MG-1683-03_285">mars 1683, p. 285</ref>, <ref target="MG-1683-03_288">mars 1683, p. 288</ref>, <ref
-              target="MG-1683-03_291">mars 1683, p. 291</ref>, <ref target="MG-1683-03_293">mars 1683, p. 293</ref>, <ref target="MG-1683-03_297">mars 1683, p. 297</ref> et <ref
-                target="MG-1683-03_300">mars 1683, p. 300</ref>, font état des spectacles donnés à
+        <bibl><title>Mercure galant</title>, mars 1683 [tome 3], p. 301-309<note resp="editor">Les articles de <ref target="MG-1683-03_281">mars 1683, p. 281</ref>, <ref target="MG-1683-03_282">mars 1683, p. 282</ref>, <ref target="MG-1683-03_285">mars 1683, p. 285</ref>, <ref target="MG-1683-03_288">mars 1683, p. 288</ref>, <ref target="MG-1683-03_291">mars 1683, p. 291</ref>, <ref target="MG-1683-03_293">mars 1683, p. 293</ref>, <ref target="MG-1683-03_297">mars 1683, p. 297</ref> et <ref target="MG-1683-03_300">mars 1683, p. 300</ref>, font état des spectacles donnés à
             Venise.</note></bibl>
         <p>Depuis huit jours on en a aussi joüé un second sur le Théatre de S. Luc, ou S. Salvator.
           Il est tout remply de Spéctacles &amp; de Machines. Il faut retenir les Chaises du
@@ -1584,8 +1481,7 @@
           nouveauté si surprenante, qu'un Homme seul en représentoit jusques à quatre tout à la
           fois. Enfin l'on a veu jusques à des Garnitures de Porcelaines mouvantes &amp; chantantes.
           Je diray un mot de quelques-uns de ces déguisemens, en parlant des Lieux où ils ont paru.
-          Monseigneur le Dauphin ayant changé huit ou dix fois d'Habit chaque soir, M<hi rend="sup"
-            >r</hi> Berrin a eu besoin de tout son génie pour luy en fournir, &amp; de toute sa
+          Monseigneur le Dauphin ayant changé huit ou dix fois d'Habit chaque soir, M<hi rend="sup">r</hi> Berrin a eu besoin de tout son génie pour luy en fournir, &amp; de toute sa
           vigilance pour les faire faire, &amp; cause du peu de temps qu'il y avoit depuis un Bal
           jusqu'à l'autre. Comme ce Prince ne vouloit pas estre reconnu, il n'y a sorte de
           Personnage extraordinaire qu'on n'ait inventé pour le déguiser ; &amp; bien souvent sous
@@ -1614,8 +1510,7 @@
           affaires de l'Etat ; qu'il n'est pas levé un moment plus tard que de coûtume, &amp; qu'il
           a pris part aux Divertissemens pour honorer par sa présence ceux qui les donnoient, &amp;
           pour obliger sa Cour à gouster l'heureux repos que luy procurent ses veilles.</p>
-        <p>Le premier des cinq Bals, dont il faut que je vous parle, fut donné par M<hi rend="sup"
-            >r</hi> le Grand, dans son Apartement de la Gallerie basse de l'Allée neuve de
+        <p>Le premier des cinq Bals, dont il faut que je vous parle, fut donné par M<hi rend="sup">r</hi> le Grand, dans son Apartement de la Gallerie basse de l'Allée neuve de
           Versailles. Ce Bal s'ouvrit par une Mascarade de Mademoiselle de Nantes. On y joüoit
           alternativement un Menüet, &amp; une Gigue, mais il n'y avoit que Mademoiselle de Nantes
           qui dançast la Gigue. Le Menüet fut dancé par Mademoiselle d'Armagnac, &amp; par
@@ -1758,19 +1653,15 @@
           longues &amp; étroites ; ses Botines, blanches ; &amp; son Linge, de Dentelle à dent.
           Apres qu'il eut quitté cet Habit, il en prit un de Femme, de Tafetas cramoisy &amp;
           argent, &amp; représenta la Femme hydropique de la Comédie de <hi rend="i">la
-            Devineresse</hi>. Ce Prince se déguisa encor de sept ou huit manieres diférentes. M<hi
-            rend="sup">r</hi> le Duc avoit un Habit de Chauve-souris tres superbe ; &amp; M<hi
-            rend="sup">r</hi> le Prince de la Roche-sur-Yon représentoit une Dame Chinoise, dans une
+            Devineresse</hi>. Ce Prince se déguisa encor de sept ou huit manieres diférentes. M<hi rend="sup">r</hi> le Duc avoit un Habit de Chauve-souris tres superbe ; &amp; M<hi rend="sup">r</hi> le Prince de la Roche-sur-Yon représentoit une Dame Chinoise, dans une
           parure des plus somptueuses &amp; des plus brillantes.</p>
         <p>Le dernier jour du Carnaval, le cinquiéme &amp; dernier Bal extraordinaire fut donné chez
           Madame de Thiange. Tout y etoit galant, magnifique, &amp; bien entendu, &amp; le Roy fut
-          agreablement surpris par plusieurs divertissemens, ainsi qu'il l'avoit esté chez M<hi
-            rend="sup">r</hi> le Duc. Je croy qu'en lisant le nom de Madame de Thiange, &amp;
+          agreablement surpris par plusieurs divertissemens, ainsi qu'il l'avoit esté chez M<hi rend="sup">r</hi> le Duc. Je croy qu'en lisant le nom de Madame de Thiange, &amp;
           sçachant de quelle maniere elle s'acquite de toutes les choses dont elle se mesle, vous
           vous attendez à une Feste de bon goust. Monseigneur le Dauphin avoit concerté une grande
           Mascarade pour y venir. Il la fit faire, &amp; on la trouva tres-belle. Elle représentoit
-          une Nôce de Village<note resp="editor">Voir <ref target="MG-1683-04_159"
-              >cet article</ref> pour la gravure représentant le cortège de la Noce de
+          une Nôce de Village<note resp="editor">Voir <ref target="MG-1683-04_159">cet article</ref> pour la gravure représentant le cortège de la Noce de
             village.</note>. Voicy les noms de ceux qui la composoient, les Personnages qu'ils
           représentoient, &amp; dans quel ordre ils entrerent.</p>
         <p>Madame la Dauphine, Sœur de la Mariée, estoit menée par M<hi rend="sup">r</hi> le Grand,
@@ -1860,12 +1751,9 @@
           pas s'étonner si l'affluence de monde est grande dans toutes les Cerémonies qui les
           regardent. C'est ce qui vient d'arriver à leur Convent de Vernon, où tout le Clergé de la
           ville, toute la Noblesse des environs, &amp; presque tout le Peuple avec les Officiers,
-          ont assisté à la Position de la premiere Pierre de leur Cloître, qui fut posée par M<hi
-            rend="sup">r</hi> le Marquis de Blaru, Gouverneur de Vernon. La Benédiction de cette
+          ont assisté à la Position de la premiere Pierre de leur Cloître, qui fut posée par M<hi rend="sup">r</hi> le Marquis de Blaru, Gouverneur de Vernon. La Benédiction de cette
           Pierre, sur laquelle on avoit fait graver les Armes de ce Gouverneur, avec plusieurs
-          Devises &amp; Inscriptions, fut faite par Messieurs du Chapitre en Corps. Un <hi rend="i"
-            >Te Deum</hi> solemnel termina la Cerémonie, qui avoit esté commencée par le <hi
-            rend="i">Veni Creator</hi>, &amp; le tout fut suivy de deux Collations magnifiques,
+          Devises &amp; Inscriptions, fut faite par Messieurs du Chapitre en Corps. Un <hi rend="i">Te Deum</hi> solemnel termina la Cerémonie, qui avoit esté commencée par le <hi rend="i">Veni Creator</hi>, &amp; le tout fut suivy de deux Collations magnifiques,
           l'une pour les Hommes, &amp; l'autre pour les Dames. Les Convents des Religieuses des
           environs, &amp; quelques Particuliers, sçachant que les Capucins ne peuvent rien donner si
           on ne leur donne, avoient non seulement signalé leurs libéralitez, mais encor leur adresse
@@ -1885,8 +1773,7 @@
           plûpart, y trouvent la mesme finesse de Satire &amp; de Morale, que vous avez admirée dans
           les premiers. Cette suite paroistra dans peu de temps.</p>
         <p>On a enfin imprimé la Comédie du <hi rend="i">Festin de Pierre</hi>, &amp; elle se vend
-          sur le Quay des Augustins à l’Image S. Loüis, &amp; chez le S<hi rend="sup"
-          >r</hi> Blageart. C’est celle que le celébre Moliere fit joüer en Prose quelque temps
+          sur le Quay des Augustins à l’Image S. Loüis, &amp; chez le S<hi rend="sup">r</hi> Blageart. C’est celle que le celébre Moliere fit joüer en Prose quelque temps
           avant sa mort. Elle a esté mise en Vers, &amp; le grand nombre de Représentations qu’on en
           donne tous les ans, fait assez connoistre qu’elle n’a rien perdu par ce changement. Il n’y
           avoit point de Femmes dans le troisiéme Acte de cet excellent Original, non plus que dans
@@ -1900,11 +1787,8 @@
         <bibl><title>Mercure galant</title>, mars 1683 [tome 3], p. 362-363</bibl>
         <p>La fin du mois m’oblige à finir ma Lettre, qui est déja plus longue qu’à l’ordinaire.
           Cependant il me reste encor assez de matiere pour en faire une seconde, &amp; vous en
-          serez persuadée quand je vous diray que je réserve le Voyage de M<hi rend="sup"
-          >r</hi> Gabaret dans la Martinique, dont j’ay des Relations tres-amples &amp;
-          tres-curieuses ; la mort de M<hi rend="sup">r</hi> de Roquelaure ; celle de M<hi
-            rend="sup">r</hi> Hotman, &amp; de Madame de Rambure ; la Nomination de M<hi rend="sup"
-            >r</hi> le Cardinal de Boüillon à l’Abbaye de Cluny ; ce qui s’est passé pendant le
+          serez persuadée quand je vous diray que je réserve le Voyage de M<hi rend="sup">r</hi> Gabaret dans la Martinique, dont j’ay des Relations tres-amples &amp;
+          tres-curieuses ; la mort de M<hi rend="sup">r</hi> de Roquelaure ; celle de M<hi rend="sup">r</hi> Hotman, &amp; de Madame de Rambure ; la Nomination de M<hi rend="sup">r</hi> le Cardinal de Boüillon à l’Abbaye de Cluny ; ce qui s’est passé pendant le
           sejour du Roy à Compiegne, &amp; à Villers-Cotrets, &amp; plusieurs autres Articles, sans
           compter beaucoup d’Ouvrages galans &amp; d’érudition. Quoy que vous soyez déja informée de
           toutes ces choses par la voix publique, j’espere vous en apprendre le Mois prochain des
@@ -1916,5 +1800,4 @@
           plus generales, &amp; plus dignes d’exciter vostre curiosité.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

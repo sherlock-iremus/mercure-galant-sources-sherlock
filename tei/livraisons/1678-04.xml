@@ -1,73 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1678-04" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, avril 1678</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Alexandre De Craim</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name ref="mailto:frederic.glorieux@fictif.org">Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2014"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1678-04/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <publisher>Claude Blageart</publisher>, <date>avril,
-            1678</date></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1678"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, avril 1678 [tome 4].</head>
       <div type="article" xml:id="MG-1678-04_000" resp="mercure">
@@ -387,50 +318,50 @@
           veux presentement vous entretenir, vous fera plus aisément concevoir la maniere dont
           l’Attaque en a esté faite. Examinez-le, je vous prie, avant que de rien lire de ce qui en
           regarde le détail.</p>
-        <p>Mr le Chevalier de Lezy Gouverneur de Cayenne, n’ayant perdu aucune des occasions qui se
+        <p>M<hi rend="sup">r</hi> le Chevalier de Lezy Gouverneur de Cayenne, n’ayant perdu aucune des occasions qui se
           sont assez souvent presentées, de harceler les Hollandois, &amp; de ruiner les
           Etablissemens qu’ils ont voulu faire au Vent de cette Isle, n’eut pas plutost reçeu deux
           Compagnies d’Infanterie que Monsieur le Comte d’Estrées luy envoya de la Martinique sur le
-          Navire de Mr le Chevalier de Machaut, qu’il appliqua tous ses soins à chasser les Ennemis
+          Navire de M<hi rend="sup">r</hi> le Chevalier de Machaut, qu’il appliqua tous ses soins à chasser les Ennemis
           de la Riviere d’Oyapoco au Cap d’Orange. Ils avoient commencé de s’y établir par l’envoy
           d’un nombre considérable de Vaisseaux, au mois de Fevrier 1677. Leur dessein estoit de
           faire une puissante Colonie, qui selon leurs projets devoit s’emparer de cette Isle au
           premier Secours qu’ils attendoient incessamment. Ils se regardoient déja comme les
           Maistres de toute cette Coste, dont ils prétendoient faire un second Brésil. Mais Dieu qui
-          voulut tromper leurs espérances, fit concevoir à Mr le Chevalier de Lezy le dessein de
+          voulut tromper leurs espérances, fit concevoir à M<hi rend="sup">r</hi> le Chevalier de Lezy le dessein de
           leur ruine, &amp; il l’exécuta par des voyes aussi extraordinaires que ses forces estoient
           inégales à celles qu’on luy devoit opposer. Il prit seulement soixante &amp; dix Soldats à
-          Cayenne, trente Habitans, quelques Négres &amp; Indiens, &amp; pour Officiers Mrs de
+          Cayenne, trente Habitans, quelques Négres &amp; Indiens, &amp; pour Officiers M<hi rend="sup">rs</hi> de
           Ferolles Major, de Quermont, de Cloches Capitaines, &amp; de la Sauvagere Ayde-Major. Ils
           s’embarquerent dans dix Canots, &amp; la connoissance qu’il avoit des lieux, luy fit juger
           à propos de s’embarquer aussi luy-mesme avec eux. Outre qu’attendant beaucoup des Indiens
           pour le succès de cette entreprise, il ne doutoit pas que le pouvoir qu’ils luy avoient
           laissé prendre sur leur esprit, ne fust d’un grand poids à les faire agir avec vigueur.
-          Ainsi apres qu’il eut laissé à Mr des Granges premier Capitaine de la Garnison, le
+          Ainsi apres qu’il eut laissé à M<hi rend="sup">r</hi> des Granges premier Capitaine de la Garnison, le
           Commandement de l’Isle qu’il couvroit en quelque façon par sa route, il partit le 5 de
           Juillet dernier, &amp; arriva en trois jours avec cette petite Flote à une Habitation
           d’Indiens sur la Montagne d’argent. Elle n’estoit qu’à six lieuës des Ennemis, &amp; on
           fut assez heureux pour prendre six Hollandois en ce lieu-là, par le moyen de deux Canots
           qu’on avoit détachez exprès un jour auparavant. Ils rendirent meilleur compte de la
-          disposition des Ennemis, que n’avoient fait deux Espions que Mr le Chevalier de Lezy y
+          disposition des Ennemis, que n’avoient fait deux Espions que M<hi rend="sup">r</hi> le Chevalier de Lezy y
           avoit envoyez quelque temps avant qu’il eust résolu de les aller attaquer. Ce qu’ils
           rapporterent luy fit prendre les dernieres mesures pour ce dessein, quoy que ces
           Prisonniers luy eussent dit qu’ils croyoient leurs Gens avertis de l’approche des
           François, &amp; que cinq cens Hommes ne pouvoient les prendre, parce qu’ils estoient du
           moins trois cens qui portoient les armes.</p>
-        <p>Il fut donc arresté que Mr de Ferolles accompagné de vingt-cinq Hommes, se jetteroit dans
+        <p>Il fut donc arresté que M<hi rend="sup">r</hi> de Ferolles accompagné de vingt-cinq Hommes, se jetteroit dans
           le Fort du costé de la Riviere, où il n’y avoit ordinairement qu’une Sentinelle, &amp; que
-          Mr de Lezy donneroit en mesme temps dans le Bourg du costé des terres, pour enveloper les
+          M<hi rend="sup">r</hi> de Lezy donneroit en mesme temps dans le Bourg du costé des terres, pour enveloper les
           Ennemis. Cette résolution estant prise, on passa un jour en ce lieu-là pour s’y
           rafraîchir. Les Canots se remirent en Mer, &amp; entrerent dans la Riviere de Oyapoco la
-          nuit, à la faveur de laquelle Mr le Chevalier de Lezy descendit à une demy-lieuë du Fort,
+          nuit, à la faveur de laquelle M<hi rend="sup">r</hi>le Chevalier de Lezy descendit à une demy-lieuë du Fort,
           avec ses Officiers &amp; les Soldats qui le devoient suivre. Les Indiens dont il s’estoit
           fait accompagner, contribuerent fort au prompt succès de cette Expédition. Non seulement
           ils luy servirent de Guides dans des Bois pleins d’épines, &amp; dans des Païs noyez,
           qu’on fut obligé de traverser à la lueur de quelques chandelles ; mais ils luy donnerent
           lieu de se trouver deux heures avant le jour avec la plus grande partie de son monde, aux
           premiers Retranchemens des Ennemis, dont il fit ployer la Garde. Tout ce qui se rencontra
-          fut tué. Mr de Ferolles s’estoit emparé du Fort dans le mesme temps, &amp; en défendoit
+          fut tué. M<hi rend="sup">r</hi>de Ferolles s’estoit emparé du Fort dans le mesme temps, &amp; en défendoit
           les approches avec des Grénades. II avoit auparavant fait mettre bas la Sentinelle, &amp;
           tué le Gouverneur qui estoit accouru les armes à la main. Plusieurs Hollandois voulurent
           se rallier en divers endroits, mais on les chargea si promptement, qu’ils furent
@@ -443,16 +374,16 @@
           costé des terres par où ils suposoient que leur Fort estoit inaccessible. Il s’en sauva
           quelques-uns, mais en tres-petit nombre, au moyen d’une Barque qui revenoit de la Pesche,
           dans laquelle ils se jetterent pour s’échaper.</p>
-        <p>Mr le Chevalier de Lezy apres avoir laissé à Mr de Ferolles le soin de ruiner le Fort
+        <p>M<hi rend="sup">r</hi> le Chevalier de Lezy apres avoir laissé à M<hi rend="sup">r</hi> de Ferolles le soin de ruiner le Fort
           &amp; le commencement de leur Ville, en partit le lendemain avec les principaux
           Prisonniers, &amp; arriva à Cayenne le 8. jour apres son depart. Cette Ville contenoit
           déja une trentaine de Maisons de charpente couvertes de tuiles, &amp; beaucoup d’autres à
           la façon du Païs, enfermées d’une Palissade, avec un Parapet &amp; un bon Fossé. Cette
-          démolition ayant esté faite, Mr de Ferolles revint avec le reste des Prisonniers dans un
+          démolition ayant esté faite, M<hi rend="sup">r</hi> de Ferolles revint avec le reste des Prisonniers dans un
           Brigantin qui de Cayenne s’estoit avancé jusques à la Montagne d’argent, à la suite des
           Canots, &amp; en plusieurs voyages de ce Bastiment, toute l’Artillerie &amp; les Munitions
-          de guerre furent apportées à cette Isle par les soins de Mr de Cloches. Le pillage auroit
-          esté plus considérable qu’il ne fut pour les François, si Mr le Chevalier de Lezy par une
+          de guerre furent apportées à cette Isle par les soins de M<hi rend="sup">r</hi> de Cloches. Le pillage auroit
+          esté plus considérable qu’il ne fut pour les François, si M<hi rend="sup">r</hi> le Chevalier de Lezy par une
           génerosité ordinaire à la Nation, oubliant les droits de la Guerre, &amp; le ressentiment
           d’une Prison fort injuste, n’eust laissé à ceux qui s’estoient rendus une partie de leurs
           Effets.</p>
@@ -480,8 +411,7 @@
           de Monsieur le Tellier, de sa Personne, &amp; des avantages que l’Etat recevoit de
           Messieurs ses Fils. Il regarda son élevation à la premiere Dignité de la Magistrature,
           comme une récompense de la pieté de ses Ancestres, &amp; des services qu’ils avoient
-          rendus à la France ; &amp; il prouva par les Registres de sa Compagnie, que feu M<hi
-            rend="sup">r</hi> le Tellier son Pere avoit reçeu dans la Cour des Aydes toutes les
+          rendus à la France ; &amp; il prouva par les Registres de sa Compagnie, que feu M<hi rend="sup">r</hi> le Tellier son Pere avoit reçeu dans la Cour des Aydes toutes les
           marques particulieres &amp; publiques d’estime dont elle pouvoit honorer un mérite
           extraordinaire. En parlant de toutes les Charges que Monsieur le Chancelier avoit exercées
           depuis l’Année 1624. il fit remarquer qu’il avoit fait paroistre dans chacune l’expérience
@@ -502,8 +432,7 @@
         <head>[Chanson notée]</head>
         <bibl><title>Mercure galant</title>, avril 1678 [tome 4], p. 71-73.</bibl>
         <p>Il est temps de vous donner à mon ordinaire dequoy exercer vostre belle voix. Lisez ces
-          Paroles que vous trouverez en suite notées. Elles ont esté mises en Air par M<hi
-            rend="sup">r</hi> Martin le Fils. Le mérite du Pere est connu de tous ceux qui aiment la
+          Paroles que vous trouverez en suite notées. Elles ont esté mises en Air par M<hi rend="sup">r</hi> Martin le Fils. Le mérite du Pere est connu de tous ceux qui aiment la
           Musique ; &amp; ce que je vous envoye du Fils vous persuadera aisément qu’on a eu raison
           d’attendre beaucoup de luy. Il s’est acquis de l’estime par la maniere dont il jouë du
           Clavessin, de la Basse &amp; du Dessus de Viole, &amp; il est à croire qu’il n’en acquerra
@@ -872,8 +801,7 @@
         <head>Sonnet. Passion naissante.</head>
         <bibl><title>Mercure galant</title>, avril 1678 [tome 4], p. 143-147.</bibl>
         <p>Je vous envoye un Sonnet qui vous obligera sans doute à vous déclarer pour une Muse
-          naissante. Il est de M<hi rend="sup">r</hi> le Marquis de Maduran, petit-Fils de feu M <hi
-            rend="sup">r</hi>le Mareschal de la Force. Sa lecture vous persuadera de son Esprit. Il
+          naissante. Il est de M<hi rend="sup">r</hi> le Marquis de Maduran, petit-Fils de feu M <hi rend="sup">r</hi>le Mareschal de la Force. Sa lecture vous persuadera de son Esprit. Il
           l’a vif &amp; délicat ; &amp; quoy qu’il n’ait encor que quinze ans, vous m’avoüerez qu’il
           tourne déja les choses d’une maniere tres fine. Il fut élevé en Angleterre dés son bas
           âge, &amp; il y aprit la Langue du Païs qu’il parle avec une facilité admirable. Il
@@ -957,9 +885,7 @@
         <head>[Chanson]</head>
         <bibl><title>Mercure galant</title>, avril 1678 [tome 4], p. 150-151.</bibl>
         <quote>
-          <label>DISPOSITION D’UNE<lb/> Belle à aimer.</label><note resp="author" place="margin"><hi
-              rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par, <hi rend="i"
-              >Si vous poursuivez de m’aimer</hi>, doit regarder la Page 150.</note>
+          <label>DISPOSITION D’UNE<lb/> Belle à aimer.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par, <hi rend="i">Si vous poursuivez de m’aimer</hi>, doit regarder la Page 150.</note>
           <lg>
             <l rend="i">Si vous poursuivez de m’aimer,</l>
             <l rend="i">Je vous trouve assez redoutable ;</l>
@@ -979,8 +905,7 @@
         <head>[Livre nouveau]</head>
         <bibl><title>Mercure galant</title>, avril 1678 [tome 4], p. 151-152.</bibl>
         <p>Je suis surpris que vous n’ayez point encor veu l’Histoire de <hi rend="i">Tamerlan</hi>.
-          Il y a trois mois qu’elle est imprimée. Je vous l’envoye. Elle est de M<hi rend="sup"
-            >r</hi> de Saintyon Secretaire de feu M<hi rend="sup">r</hi> de Guise Henry de Lorraine,
+          Il y a trois mois qu’elle est imprimée. Je vous l’envoye. Elle est de M<hi rend="sup">r</hi> de Saintyon Secretaire de feu M<hi rend="sup">r</hi> de Guise Henry de Lorraine,
           qui l’a dédiée au Roy. Ce Livre fut reçeu de toute la Cour avec applaudissement quand il
           eut l’honneur de le présenter à Sa Majesté. Vous y trouverez quantité de choses qui vous
           plairont, soit pour la maniere dont elles sont tournées, soit pour les recherches
@@ -1035,8 +960,7 @@
           <l>Malgré vous sa valeur comblera nos souhaits,</l>
           <l>Et la France par luy vous fera bien comprendre</l>
           <l>Qu’elle sçait triompher encor plus que jamais,</l>
-          <l>Ayant plus qu’un <hi rend="sc">Philippe</hi>, &amp; plus qu’un <hi rend="sc"
-              >Alexandre</hi>.</l>
+          <l>Ayant plus qu’un <hi rend="sc">Philippe</hi>, &amp; plus qu’un <hi rend="sc">Alexandre</hi>.</l>
         </quote>
         <p>Voicy d’autres Vers qui ont esté fait sur la prise de cette importante Place.</p>
         <quote>
@@ -1205,8 +1129,7 @@
         <head>[Plusieurs Pieces de Vers sur la prise d’Ypres]</head>
         <bibl><title>Mercure galant</title>, avril 1678 [tome 4], p. 248-254.</bibl>
         <p>Comme les Muses s’exercent toûjours sur de si grandes Actions, il s’est fait quantité de
-          Vers sur cette derniere conqueste, parmy lesquels on a trouvé fort agreable ce que M<hi
-            rend="sup">r</hi> Brissault supose que le Duc de Villa-Hermosa a écrit aux Bourgeois
+          Vers sur cette derniere conqueste, parmy lesquels on a trouvé fort agreable ce que M<hi rend="sup">r</hi> Brissault supose que le Duc de Villa-Hermosa a écrit aux Bourgeois
           d’Ypres. La Lettre est courte, &amp; ne vous ennuyera pas. Voicy ce qu’il luy fait
           dire.</p>
         <quote>
@@ -1887,8 +1810,7 @@
             &amp; que malgré les Hyvers, on entendoit toûjours gronder son Tonnerre sans sçavoir où
             il tomberoit.</hi> Vous pouvez vous imaginer, Madame, ce que de pareilles pensées ont pû
           fournir. Son Compliment fut court, serré, fort, &amp; digne d’un grand Magistrat.</p>
-        <p>M<hi rend="sup">r</hi> Nicolaï Premier Président de la Chambre des Comptes dit, <hi
-            rend="i">Que le Roy ne surprenoit plus que par la grandeur de ses Actions ; Qu’on estoit
+        <p>M<hi rend="sup">r</hi> Nicolaï Premier Président de la Chambre des Comptes dit, <hi rend="i">Que le Roy ne surprenoit plus que par la grandeur de ses Actions ; Qu’on estoit
             accoûtumé à luy voir faire ses Campagnes dans une saison où les Nations les plus
             endurcies aux Rigueurs du temps n’avoient jamais osé faire la moindre entreprise ; Qu’il
             avoit amusé toute l’Europe par son Voyage de Mets, lors qu’il estoit venu fondre
@@ -1983,8 +1905,7 @@
         <bibl><title>Mercure galant</title>, avril 1678 [tome 4], p. 366-380.</bibl>
         <p>M<hi rend="sup">rs</hi> de l’Académie Françoise allerent faire leur Compliment quelques
           jours apres les Cours Souveraines. Les Cerémonies qui s’observent en ces rencontres vous
-          sont connuës aussi bien que les honneurs qu’on fait à cet Illustre Corps. M<hi rend="sup"
-            >r</hi> Perraut qui en est presentement Directeur porta la parole en ces termes.</p>
+          sont connuës aussi bien que les honneurs qu’on fait à cet Illustre Corps. M<hi rend="sup">r</hi> Perraut qui en est presentement Directeur porta la parole en ces termes.</p>
         <quote>
           <p><hi rend="sc">Sire</hi>,</p>
           <p>Quelques grandes &amp; merveilleuse que soient les nouvelles Conquestes de Vostre
@@ -2097,8 +2018,7 @@
             perfectionnoit les heureux talens ; Qu’il falloit travailler beaucoup pour connoistre
             bien la Justice, &amp; qu’on ne pouvoit assez se souvenir qu’elle devoit estre comme la
             Mer, qui rejette tout ce qui est impur.</hi></p>
-        <p>Le Sujet de la Mercuriale de M<hi rend="sup">r</hi> le Procureur General a esté, <hi
-            rend="i">Que le premier devoir d’un Magistrat estoit le service de son Roy, &amp; que
+        <p>Le Sujet de la Mercuriale de M<hi rend="sup">r</hi> le Procureur General a esté, <hi rend="i">Que le premier devoir d’un Magistrat estoit le service de son Roy, &amp; que
             nous estions obligez de servir celuy que Dieu nous a donné pour Maistre, &amp; par
             devoir &amp; par reconnoissance, puis qu’il travaille sans cesse pour le bien de ses
             Sujets. Il a parlé de la fermeté de feu M<hi rend="sup">r</hi> le Premier President Molé
@@ -2172,13 +2092,11 @@
       <div type="article" xml:id="MG-1678-04_392" resp="mercure">
         <head>[Nom de ceux qui l’ont expliquée]</head>
         <bibl><title>Mercure galant</title>, avril 1678 [tome 4], p. 392-396.</bibl>
-        <p>Ceux qui ont trouvé ce mesme Mot de <hi rend="i">la Mode</hi>, sont M<hi rend="sup"
-            >r</hi> Lagrené de Vrilly ; Mademoiselle de Clerbourg ; Une Belle de Thoüars ; L’Œdipe
+        <p>Ceux qui ont trouvé ce mesme Mot de <hi rend="i">la Mode</hi>, sont M<hi rend="sup">r</hi> Lagrené de Vrilly ; Mademoiselle de Clerbourg ; Une Belle de Thoüars ; L’Œdipe
           Boulonnois ; M<hi rend="sup">r</hi> de Lescar, d’Avignon ; M<hi rend="sup">r</hi> de la
           Vigne, de Nismes ; M<hi rend="sup">r</hi> de Cohon, Gentilhomme d’Alençon, Chevalier de
           l’Ordre du Roy de Portugal ; M<hi rend="sup">r</hi> Doguet, Avocat à Brie-Comte-Robert ;
-            M<hi rend="sup">r</hi> Lelleron ; M<hi rend="sup">r</hi> Aubert, Avocat de Lyon, ; M<hi
-            rend="sup">r</hi> Guillet, Ecclesiastique de Lyon ; M<hi rend="sup">r</hi> de Maurry ;
+            M<hi rend="sup">r</hi> Lelleron ; M<hi rend="sup">r</hi> Aubert, Avocat de Lyon, ; M<hi rend="sup">r</hi> Guillet, Ecclesiastique de Lyon ; M<hi rend="sup">r</hi> de Maurry ;
           Mademoiselle de la Salle, de Blois ; Une Belle Suissesse ; M<hi rend="sup">r</hi> de
           Lardenay ; M<hi rend="sup">r</hi> du Mont, Avocat à Chaumont ; Mademoiselle Chrestien,
           d’Auxerre ; M<hi rend="sup">r</hi> Rolant, Avocat à Rheims ; M<hi rend="sup">r</hi>
@@ -2189,22 +2107,15 @@
           Domaine de Languedoc ; M<hi rend="sup">r</hi> l’Abbé Sanguin ; M<hi rend="sup">r</hi>
           Baisé le jeune ; Mademoiselle la Fileuse ; M<hi rend="sup">r</hi> du Plessis, Conseiller à
           Chinon ; Les deux Inséparables de la Ruë de Moussy ; M<hi rend="sup">r</hi> de Lantages ;
-          Les Pensionnaires du Cloistre de Lyon ; Les Beaux esprits du Canton de Lile ; M<hi
-            rend="sup">r</hi> le Moine, de Forests ; L’agreable Demoiselle de la Ruë de Moussy ;
+          Les Pensionnaires du Cloistre de Lyon ; Les Beaux esprits du Canton de Lile ; M<hi rend="sup">r</hi> le Moine, de Forests ; L’agreable Demoiselle de la Ruë de Moussy ;
             M<hi rend="sup">r</hi> de Soucanie, Avocat à Roye ; M<hi rend="sup">r</hi> Thabaud des
           Ferrons, de Berry ; &amp; M<hi rend="sup">r</hi> Potier de Lauge.</p>
         <p>J’oubliois à vous dire que cette Enigme de <hi rend="i">la Mode</hi> a esté faite par
             M<hi rend="sup">r</hi> l’Abbé de la Chapelle. Elle a reçeu divers sens de plusieurs
           Particuliers. M<hi rend="sup">r</hi> le Baron de Hoques, M<hi rend="sup">r</hi> le Roy, le
-          Solitaire de Caën, M<hi rend="sup">r</hi> Basin Chanoine de l’Eglise de Troyes, M<hi
-            rend="sup">r</hi> Hourdaut, M<hi rend="sup">r</hi> Herpy de Rheims, M<hi rend="sup"
-            >r</hi> du Laurens Prieur du Boishallebout, Mademoiselle Souchu, M<hi rend="sup">r</hi>
+          Solitaire de Caën, M<hi rend="sup">r</hi> Basin Chanoine de l’Eglise de Troyes, M<hi rend="sup">r</hi> Hourdaut, M<hi rend="sup">r</hi> Herpy de Rheims, M<hi rend="sup">r</hi> du Laurens Prieur du Boishallebout, Mademoiselle Souchu, M<hi rend="sup">r</hi>
           Gelan, &amp; M<hi rend="sup">r</hi> Palleron, ont crû que c’estoit <hi rend="i">la
-            Fortune</hi> ; M<hi rend="sup">r</hi> Bourg de Villiere, Avocat à Cosne sur Loire, <hi
-            rend="i">l’Estime</hi> ; M<hi rend="sup">r</hi> de Boisgirad, <hi rend="i"
-          >l’Heure</hi> ; Mademoiselle Camuset de Rheims, <hi rend="i">l’Epée</hi> ; M<hi rend="sup"
-            >r</hi> Godefroy le jeune, S<hi rend="sup">r</hi> de Maubuisson, &amp; M<hi rend="sup"
-            >r</hi> le Jay, <hi rend="i">la Beauté</hi> ; &amp; M<hi rend="sup">r</hi> du Fossey de
+            Fortune</hi> ; M<hi rend="sup">r</hi> Bourg de Villiere, Avocat à Cosne sur Loire, <hi rend="i">l’Estime</hi> ; M<hi rend="sup">r</hi> de Boisgirad, <hi rend="i">l’Heure</hi> ; Mademoiselle Camuset de Rheims, <hi rend="i">l’Epée</hi> ; M<hi rend="sup">r</hi> Godefroy le jeune, S<hi rend="sup">r</hi> de Maubuisson, &amp; M<hi rend="sup">r</hi> le Jay, <hi rend="i">la Beauté</hi> ; &amp; M<hi rend="sup">r</hi> du Fossey de
           Roüen, <hi rend="i">la Monnoye</hi>.</p>
       </div>
       <div type="article" xml:id="MG-1678-04_396" resp="mercure">
@@ -2244,25 +2155,19 @@
         <p>Ce mesme Mot <hi rend="i">du Volant</hi> a esté trouvé par beaucoup de Particuliers, qui
           sont M<hi rend="sup">r</hi> de Roux ; Le Solitaire de Caën ; Un Inconnu de Rheims ; La
           ville de Ham ; L’Illustre Fille de Village d’entre Tours et Saumur ; L’Athis de Thoüars ;
-            M<hi rend="sup">r</hi> de Bois-girand ; M<hi rend="sup">r</hi> Godefroy le jeune, S<hi
-            rend="sup">r</hi> de Maubuisson ; Mademoiselle de la Borde ;M<hi rend="sup">r</hi>
+            M<hi rend="sup">r</hi> de Bois-girand ; M<hi rend="sup">r</hi> Godefroy le jeune, S<hi rend="sup">r</hi> de Maubuisson ; Mademoiselle de la Borde ;M<hi rend="sup">r</hi>
           l4abbé Baugy ; M<hi rend="sup">r</hi> le Jay ; M<hi rend="sup">r</hi> du Fossey, de
-          Roüen ; Mademoiselle de Chennevarin, Fille d’un Auditeur des Comptes de Normandie ; M<hi
-            rend="sup">r</hi> le Roy ; M<hi rend="sup">r</hi> de la Fosse de Baudevire, de S. Lo ;
+          Roüen ; Mademoiselle de Chennevarin, Fille d’un Auditeur des Comptes de Normandie ; M<hi rend="sup">r</hi> le Roy ; M<hi rend="sup">r</hi> de la Fosse de Baudevire, de S. Lo ;
           Une Dame du Païs du Maine ; M<hi rend="sup">r</hi> du Mont ; La Société Cloistrée de
           Paris ; M<hi rend="sup">r</hi> Maze, de Roüen ; M<hi rend="sup">r</hi> Roussel, Prestre,
           Aumônier ordinaire du Roy ; M<hi rend="sup">r</hi> Laisné ; M<hi rend="sup">r</hi>
-          Hourdaut ; M<hi rend="sup">r</hi> du Laurens, Prieur du Bois Hallebout ; M<hi rend="sup"
-            >r</hi> Grasset ; La Belle Climene ; Mademoiselle Mariane, pres la Place Royale ; M<hi
-            rend="sup">r</hi> Palleron ; &amp; M<hi rend="sup">r</hi> de Lestac, Avocat en
+          Hourdaut ; M<hi rend="sup">r</hi> du Laurens, Prieur du Bois Hallebout ; M<hi rend="sup">r</hi> Grasset ; La Belle Climene ; Mademoiselle Mariane, pres la Place Royale ; M<hi rend="sup">r</hi> Palleron ; &amp; M<hi rend="sup">r</hi> de Lestac, Avocat en
           Parlement.</p>
         <p>M<hi rend="sup">r</hi> Panthot, Docteur &amp; Professeur en Medecine à Lyon, a expliqué
           cette Enigme du Volant, sur <hi rend="i">le Gibier en plume</hi> ; M<hi rend="sup">r</hi>
           de la Vigne, de Nismes, sur <hi rend="i">un Arbre</hi> ; Mademoiselle de la Salle de
-          Blois, &amp; M<hi rend="sup">r</hi> Lelleron, sur <hi rend="i">la Fusée</hi> ; M<hi
-            rend="sup">r</hi> de Lardenay, sur <hi rend="i">le Feu</hi> ; Une Belle Suissesse, sur
-            <hi rend="i">le Balon</hi> ; M<hi rend="sup">r</hi> Roland, Avocat à Rheims, sur <hi
-            rend="i">la Bombe ou la Fusée Volante</hi> ; M<hi rend="sup">r</hi> Dauvillier de
+          Blois, &amp; M<hi rend="sup">r</hi> Lelleron, sur <hi rend="i">la Fusée</hi> ; M<hi rend="sup">r</hi> de Lardenay, sur <hi rend="i">le Feu</hi> ; Une Belle Suissesse, sur
+            <hi rend="i">le Balon</hi> ; M<hi rend="sup">r</hi> Roland, Avocat à Rheims, sur <hi rend="i">la Bombe ou la Fusée Volante</hi> ; M<hi rend="sup">r</hi> Dauvillier de
           Bassebourg Avocat, M<hi rend="sup">r</hi> du Tel, M<hi rend="sup">r</hi> de Lantages, sur
           la mesme <hi rend="i">Fusée Volante</hi> ; &amp; M<hi rend="sup">r</hi> de Soucanie Avocat
           à Roye, sur <hi rend="i">le Héron</hi>.</p>
@@ -2270,34 +2175,26 @@
       <div type="article" xml:id="MG-1678-04_402" resp="mercure">
         <head>[Nom de ceux qui ont expliqué les deux Enigmes]</head>
         <bibl><title>Mercure galant</title>, avril 1678 [tome 4], p. 402-406.</bibl>
-        <p>Voicy les noms de ceux qui ont trouvé le vray Mot de l’une &amp; de l’autre Enigme. M<hi
-            rend="sup">r</hi> de Mouceaux, de la Ruë de Paradis ; La Salamandre du Havre de Grace ;
+        <p>Voicy les noms de ceux qui ont trouvé le vray Mot de l’une &amp; de l’autre Enigme. M<hi rend="sup">r</hi> de Mouceaux, de la Ruë de Paradis ; La Salamandre du Havre de Grace ;
             M<hi rend="sup">r</hi> le Chevalier de Marles, de Roüen ; M<hi rend="sup">r</hi> de
-          Prével, de la Place Royale ; M<hi rend="sup">r</hi> de la Couldre, de Caën ; M<hi
-            rend="sup">r</hi> Bernier, de Blois, Medecin à Paris ; M<hi rend="sup">r</hi> de
-          Rionville, de Mets ; La Belle Angélique ; Le Solitaire de Champagne ; M<hi rend="sup"
-            >r</hi> de Saintfrie, Prieur de S. Joseph ; M<hi rend="sup">r</hi> de Billedestru,
-          d’Auxerre ; Mademoiselle Loiseau, de Coulommiers ; Mademoiselle le Vignon ; M<hi
-            rend="sup">r</hi> le Comte de l’Aubepin ; Mademoiselle Raince, de la Ruë Chapon ;
+          Prével, de la Place Royale ; M<hi rend="sup">r</hi> de la Couldre, de Caën ; M<hi rend="sup">r</hi> Bernier, de Blois, Medecin à Paris ; M<hi rend="sup">r</hi> de
+          Rionville, de Mets ; La Belle Angélique ; Le Solitaire de Champagne ; M<hi rend="sup">r</hi> de Saintfrie, Prieur de S. Joseph ; M<hi rend="sup">r</hi> de Billedestru,
+          d’Auxerre ; Mademoiselle Loiseau, de Coulommiers ; Mademoiselle le Vignon ; M<hi rend="sup">r</hi> le Comte de l’Aubepin ; Mademoiselle Raince, de la Ruë Chapon ;
           Mesdemoiselles de Lochefontaine ; M<hi rend="sup">r</hi> d’Auberville ; Le petit Gormont ;
           Un Gentilhomme de Verdun ; Mademoiselle de Rebecour, de Loudun ; M<hi rend="sup">r</hi> de
           Rocmont ; M<hi rend="sup">r</hi> de Robbe ; M<hi rend="sup">r</hi> le Grand, de Troyes ;
             M<hi rend="sup">r</hi> du Tremblay, de Caën ; M<hi rend="sup">r</hi> Roussel, Prestre,
           Aumônier ordinaire du Roy ; M<hi rend="sup">r</hi> Mignot de Bussy, Gentilhomme Lyonnois ;
-          Les Dames de Richelieu ; M<hi rend="sup">r</hi> Seffrie, d’Andely en Véxin ; M<hi
-            rend="sup">r</hi> Trigodet ; M<hi rend="sup">r</hi> Proaudeau, d’Auxerre ; Le Solitaire
+          Les Dames de Richelieu ; M<hi rend="sup">r</hi> Seffrie, d’Andely en Véxin ; M<hi rend="sup">r</hi> Trigodet ; M<hi rend="sup">r</hi> Proaudeau, d’Auxerre ; Le Solitaire
           de Caën ; M<hi rend="sup">r</hi> Marquis S<hi rend="sup">r</hi> de Chevigny, de la Charité
           sur Loire ; M<hi rend="sup">r</hi> Charpentier ; Mademoiselle Lenfant ; Mademoiselle
           Nomman-Anory, de Poitiers ; M<hi rend="sup">r</hi> l’Abbé de la Tanerie, de Poitiers ; La
           Belle Solitaire ; M<hi rend="sup">r</hi> l’Abbé Montel ; M<hi rend="sup">r</hi> du
           Tilieu ; M<hi rend="sup">r</hi> L. B. des Aunais ; M<hi rend="sup">r</hi> des Boquets
-          Rabots, du Ponteau-de-Mer ; Madame Vincent, Femme d’un Procureur en Parlement ; M<hi
-            rend="sup">r</hi> Bonnet, Fermier des Devoirs de Fougeres en Bretagne ; Un Chanoine
+          Rabots, du Ponteau-de-Mer ; Madame Vincent, Femme d’un Procureur en Parlement ; M<hi rend="sup">r</hi> Bonnet, Fermier des Devoirs de Fougeres en Bretagne ; Un Chanoine
           Régulier de l’Abbaye S. Victor ; Une Belle d’Etampes ; M<hi rend="sup">r</hi> l’Abbé
           Droüin ; M<hi rend="sup">r</hi> l’Abbé Bossart Chanoine de Vannes ; Mademoiselle la Salle,
-          de Blois ; M<hi rend="sup">r</hi> de Boulainvilliers, Chanoine Régulier ; M<hi rend="sup"
-            >r</hi> d’Hermilly ; M<hi rend="sup">r</hi> de Florimon, de Caën, ; M<hi rend="sup"
-            >r</hi> des Bois, Avocat en Parlement ; M<hi rend="sup">r</hi> Marchant, Avocat au
+          de Blois ; M<hi rend="sup">r</hi> de Boulainvilliers, Chanoine Régulier ; M<hi rend="sup">r</hi> d’Hermilly ; M<hi rend="sup">r</hi> de Florimon, de Caën, ; M<hi rend="sup">r</hi> des Bois, Avocat en Parlement ; M<hi rend="sup">r</hi> Marchant, Avocat au
           Présidial de la Rochelle.</p>
       </div>
       <div type="article" xml:id="MG-1678-04_406" resp="mercure">
@@ -2307,8 +2204,7 @@
           des Enigmes, dont la plûpart sont en Vers, &amp; me contente aujourd’huy de vous apprendre
           les noms de ceux qui les ont devinées. J’en useray toûjours de la mesme sorte à l’avenir,
           &amp; cependant je vous envoye deux autres Enigmes que vous pourrez proposer à vos Amies.
-          La premiere est de M<hi rend="sup">r</hi> de Poclagnis ; &amp; l’autre de M<hi rend="sup"
-            >r</hi> du Matha-d’Emery.</p>
+          La premiere est de M<hi rend="sup">r</hi> de Poclagnis ; &amp; l’autre de M<hi rend="sup">r</hi> du Matha-d’Emery.</p>
         <quote>
           <label rend="center">Enigme.</label>
           <l>Parmy les Courtisans j’ay la premiere place,</l>
@@ -2346,5 +2242,4 @@
           extraordinaire que je vous ay promise.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

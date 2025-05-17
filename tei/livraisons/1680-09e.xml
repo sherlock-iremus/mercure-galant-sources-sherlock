@@ -1,65 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Extraordinaire du Mercure galant, quartier de juillet 1680 [tome XI]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2015"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1680-09e/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet <date>1680</date>
-          [tome XI]. <hi rend="i">Achevé d’imprimer le 15 octobre 1680</hi>.</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1680-09"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1680-09e_003" resp="mercure">
         <head>Quelle est l’origine de la dance</head>
@@ -245,8 +184,7 @@
           nos Roys, qu’il aimoit passionnément la Dance, quoy qu’il fust l’Homme de son Royaume qui
           dançast de plus méchante grace. Ce qui est surprenant, c’est que les plus beaux Esprits,
           mesme les plus galans, &amp; ceux qui ont le corps le mieux fait, ont quelquefois peu de
-          disposition à la Dance. Voiture se raille agreablement luy-mesme sur ce sujet. <hi
-            rend="i">Mademoiselle de Bourbon</hi>, dit-il, <hi rend="i">jugea qu’à la verité je
+          disposition à la Dance. Voiture se raille agreablement luy-mesme sur ce sujet. <hi rend="i">Mademoiselle de Bourbon</hi>, dit-il, <hi rend="i">jugea qu’à la verité je
             dançois mal, mais que je tirois bien des Armes, parce qu’à la fin de toutes les cadences
             il sembloit que je me misse en garde.</hi> C’est donc une disposition naturelle du corps
           qu’il faut avoir pour y réüssir, que tous les Maistres ne peuvent donner, &amp; qu’ils ne
@@ -374,11 +312,9 @@
           que les Courtisans avoient à la Dance, qu’elle entretenoit par l’inclination qu’elle leur
           en faisoit naître. On dança encor sous le Regne de Henry le Grand. Quand je dis qu’on
           dança, je veux dire qu’on en fist le plus grand divertissement de la Cour. On y estoit
-          accoûtumé, la plûpart des Courtisans estant les mesmes du Regne precédent. <hi rend="i"
-            >Quand je vins à la Cour</hi>, dit le Maréchal de Clérambaut dans les Conversations du
+          accoûtumé, la plûpart des Courtisans estant les mesmes du Regne precédent. <hi rend="i">Quand je vins à la Cour</hi>, dit le Maréchal de Clérambaut dans les Conversations du
           Chevalier de Meré, <hi rend="i">on estoit persuadé que pour estre honneste Homme, il ne
-            falloit que sçavoir dancer, ou courre la Bague : mais</hi>, continua-t-il, <hi rend="i"
-            >comme ces Exercices ne sont que pour un certain âge, il arrivoit que ceux qui n’avoient
+            falloit que sçavoir dancer, ou courre la Bague : mais</hi>, continua-t-il, <hi rend="i">comme ces Exercices ne sont que pour un certain âge, il arrivoit que ceux qui n’avoient
             songé qu’à cela, n’estant plus jeunes, ne sçavoient plus à quoy s’occuper.</hi> C’estoit
           ce que souhaitoit l’adroite Princesse dont j’ay parlé. Elle entretenoit les Courtisans
           dans cette occupation pendant qu’ils estoient jeunes, afin de les rendre incapables de
@@ -565,8 +501,7 @@
           avant luy, en avoit écrit fort copieusement ; mais d’autres Sçavans, &amp; principalement
           quelques-uns de nos François, ont esté beaucoup diffus, &amp; se sont contentez, les uns
           de rapporter le plus solide de la Theorie, &amp; les autres de n’en toucher seulement que
-          ce qui est absolument necessaire pour conduire à une bonne &amp; seûre pratique. M<hi
-            rend="sup">r</hi> de la Voye-Mignot, &amp; M<hi rend="sup">r</hi> Nivers, excellent
+          ce qui est absolument necessaire pour conduire à une bonne &amp; seûre pratique. M<hi rend="sup">r</hi> de la Voye-Mignot, &amp; M<hi rend="sup">r</hi> Nivers, excellent
           entre ceux-cy, ayans donné au Public en 1666. &amp; 1667. leurs Traitez de la Composition,
           que l’on ne peut assez estimer pour l’ordre, la bréveté &amp; la clarté qu’ils ont
           apportées. Il faut donc laisser aux Maistres, ce qui regarde la méthode &amp; les
@@ -788,8 +723,7 @@
           Science divine, qu’il prenne en premier lieu un bon Maistre pour guide, &amp; puis qu’il
           s’adonne à la lecture des Traitez de Musique, &amp; qu’il s’applique à la connoissance
           &amp; à la pratique du Clavier. Ce luy sera un charme &amp; un digne sujet d’admiration,
-          de voir apres les Gammes &amp; les premiers Elémens, soit par les muances ou par le <hi
-            rend="i">Si</hi>, combien sept degrez principaux de la voix produisent d’agreables
+          de voir apres les Gammes &amp; les premiers Elémens, soit par les muances ou par le <hi rend="i">Si</hi>, combien sept degrez principaux de la voix produisent d’agreables
           diversitez, combien de sons, de semy-tons majeurs &amp; mineurs, de tons majeurs &amp;
           mineurs, résultent des intervales d’un son à l’autre ; la division des intervales en
           justes &amp; en fausses ; la division des justes en consonances &amp; dissonances ; la
@@ -841,10 +775,8 @@
           Figure où est écrit, <hi rend="i">Vista de la Fuente y Plazuela de la Cavada de
             Madrid</hi>, doit regarder la page 298.</note>
         <p><hi rend="i">Voicy encor une Veuë d’une des Places publiques de Madrid, que cette Planche
-            vous représente ornée d’une tres-belle Fontaine, comme la Place de</hi> San Domingo. <hi
-            rend="i">Celle-cy est appellée</hi> de la Cevada<hi rend="i">, qui veut dire, le Marché
+            vous représente ornée d’une tres-belle Fontaine, comme la Place de</hi> San Domingo. <hi rend="i">Celle-cy est appellée</hi> de la Cevada<hi rend="i">, qui veut dire, le Marché
             où l’on vend l’Avoine.</hi></p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

@@ -1,66 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, mars (deuxième partie) [tome 5], 1680</title>
-        <title type="desc">Contenant les Cerémonies du Mariage de Monseigneur le Dauphin</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2015"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1680-03b/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, mars (deuxième partie) [tome 5],
-          <date>1680</date>.</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1680-03"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1680-03b_000" resp="mercure">
         <head>Au lecteur</head>
@@ -139,8 +77,7 @@
           rencontrer tant d'extraordinaires qualitez dans une seule Personne, que ce qui devoit
           l'engager à le faire sçavoir au plutost au Roy, l'empescha d'écrire. Il crût avoir esté
           ébloüy, &amp; voulut examiner de plus pres cette Princesse, pour estre entiérement
-          convaincu de mille choses qui luy estoient avantageuses; apres quoy il écrivit, <hi
-            rend="i">Que la premiere fois qu'il avoit eu l'honneur de l'entretenir, il luy avoit
+          convaincu de mille choses qui luy estoient avantageuses; apres quoy il écrivit, <hi rend="i">Que la premiere fois qu'il avoit eu l'honneur de l'entretenir, il luy avoit
             trouvé un si grand mérite, que quoy qu'il l'eust admirée d'abord, il n'avoit osé mander
             à Sa Majesté ce qu'il en croyait, dans la crainte d'en avoir jugé trop promptement, mais
             que trois ou quatre autres conversations luy avoient donné sujet de l'amdirer encor
@@ -161,8 +98,7 @@
           toûjours la Genéalogie des Princesses qui s'alliënt à la France. On commença à travailler
           aux Articles, quelque temps après l'arrivée de M<hi rend="sup">r</hi> Colbert à Munic;
           &amp; ceux qui traiterent ce grand Mariage avec ce Ministre, furent M<hi rend="sup">r</hi>
-          le Baron de Reckberg, M<hi rend="sup">r</hi> le Comte de Tering, &amp; M<hi rend="sup"
-            >r</hi> de Schmied Chancelier de Baviere. Cependant M<hi rend="sup">r</hi> de Troyes,
+          le Baron de Reckberg, M<hi rend="sup">r</hi> le Comte de Tering, &amp; M<hi rend="sup">r</hi> de Schmied Chancelier de Baviere. Cependant M<hi rend="sup">r</hi> de Troyes,
           Peintre fameux qui avoit esté envoyé de France, travailla au Portrait de la Princesse. Il
           fut achevé en peu de temps, &amp; envoyé aussitost avec toute la diligence possible. Dans
           le temps qu'on l'apportoit, le Roy dit à Monseigneur le Dauphin qu'il pouvoit écrire. Il
@@ -195,8 +131,7 @@
           Madame la Princesse de Baviere, dont il fut reçeu avec de tres-grandes démonstrations de
           joye. Il estoit en petit deüil, parceque cette Cour le portoit encor du feu Electeur, Pere
           de l'Electeur d'aujourd'hui, &amp; qu'elle ne le devoit quiter que pendant trois jours,
-          pour celébrer avec plus de pompe la Céremonie du Mariage. L'Habit de M<hi rend="sup"
-            >r</hi> le Duc de Créquy estoit noir. Il avoit une Rhingrave toute couverte de Point de
+          pour celébrer avec plus de pompe la Céremonie du Mariage. L'Habit de M<hi rend="sup">r</hi> le Duc de Créquy estoit noir. Il avoit une Rhingrave toute couverte de Point de
           France, &amp; entre les boüillons de sa Rhingrave, de gros noeuds de Ruban couleur de feu.
           Ses Manches estoient ornées de la mesme sorte. Outre tous les Gentilhommes de sa Suite, il
           estoit accompagné de M<hi rend="sup">r</hi> le Marquis de Créquy, Fils du maréchal de ce
@@ -212,8 +147,7 @@
           le Duc de Créquy dépescha en France M<hi rend="sup">r</hi> l'Abbé Regnier Desmarests qui
           l'avoit accompagné pour apporter les Contrats de Mariage, &amp; dire au Roy qu'il se
           devoit celébrer le soir du jour mesme qu'il estoit party. Cet Abbé fit toute la diligence
-          possible, &amp; arriva à S. Germain le 2. de Fevrier. Les Lettres qu'il apporta de M<hi
-            rend="sup">r</hi> de Créquy, confirmérent le bien qu'on disoit de tous costez de la
+          possible, &amp; arriva à S. Germain le 2. de Fevrier. Les Lettres qu'il apporta de M<hi rend="sup">r</hi> de Créquy, confirmérent le bien qu'on disoit de tous costez de la
           Princesse; &amp; quoy que la Cour eust esté fort satisfaite de ses Portraits, on commença
           à estre presuadé qu'elle estoit beaucoup plus belle, que le Pinceau ne l'avoit
           representée. Monsieur l’Electeur de Baviere avoit souhaité que la Cerémonie du Mariage
@@ -354,8 +288,7 @@
           à la nourriture de plus de quatre cens Personnes. On avoit donné les mesmes ordres à
           l’égard des fourrages pour cinq cens Chevaux. Ainsi toute la Suite de Madame la Dauphine
           devoit estre défrayée jusques à Binfeld, où la Maison du Roy l'attendoit. Les Equipages de
-          cette Princesse furent prests pour le temps qu'on les avoit demandez. M<hi rend="sup"
-            >r</hi> le Marquis d'Araucour General de la Cavalerie, Gouverneur de Braunau, &amp;
+          cette Princesse furent prests pour le temps qu'on les avoit demandez. M<hi rend="sup">r</hi> le Marquis d'Araucour General de la Cavalerie, Gouverneur de Braunau, &amp;
           Premier Capitaine des Gardes de Son Altesse Electorale, fut nommé pour l'escorter avec sa
           Compagnie jusques sur la Frontiere. M<hi rend="sup">r</hi> le Marquis d'Espinchal, General
           Major de la Cavalerie, &amp; qui a commandé un Corps de douze mille Hommes sur la
@@ -413,13 +346,11 @@
           Monsieur l'Electeur &amp; M<hi rend="sup">r</hi> le Duc Maximilien, partirent en mesme
           temps qu'elle pour s'en retourner. Je vous ay déja fait connoistre que ce fut une feinte
           de l'Electeur, &amp; que le Duc prit véritablement le chemin de Munic. Madame la Dauphine,
-          en partant d’Ausbourg, prit la route d’Ulm &amp; de Stutgard. Ce fut à Ulm que M<hi
-            rend="sup">r</hi> l’Electeur son Frere se sépara d’elle. De là, elle se rendit à
+          en partant d’Ausbourg, prit la route d’Ulm &amp; de Stutgard. Ce fut à Ulm que M<hi rend="sup">r</hi> l’Electeur son Frere se sépara d’elle. De là, elle se rendit à
           Tubinguen dans le Duché de Vitemberg, &amp; fut défrayée dans toutes les Terres de ce
           Duché aux dépens du Païs, &amp; accompagnée par le Duc Frideric Charles, qui en est
           Administrateur, &amp; qui l'avoit reçeuë sur la Frontiere. Il luy donna le divertissement
-          de la Chasse. Cette Princesse alla en suite à Oberkirck, où elle sejourna. M<hi rend="sup"
-            >r</hi> le Duc de Créquy avoit écrit le jour precédent une Lettre datée de Treudeltat, à
+          de la Chasse. Cette Princesse alla en suite à Oberkirck, où elle sejourna. M<hi rend="sup">r</hi> le Duc de Créquy avoit écrit le jour precédent une Lettre datée de Treudeltat, à
             M<hi rend="sup">r</hi> Quinsert Secretaire de la Ville de Strasbourg, dont voicy une
           Copie.</p>
         <label rend="center"> À Treudeltat ce 18. Fevrier 1680.</label>
@@ -429,8 +360,7 @@
             Magistrat, qu'ils ayent à la recevoir de la mesme maniere, que si l'Impératrice y
             passoit. La Présente n'estant à autre fin, je me contenteray de vous assurer, que je
             suis, <lb/> Vostre affectionné à vous servir.</hi></p>
-        <p>Madame la Dauphine arriva à Strasbourg le jour marqué dans la Lettre de M<hi rend="sup"
-            >r</hi> de Créquy. Elle y entra à trois heures apres midy, &amp; fut reçeuë comme on
+        <p>Madame la Dauphine arriva à Strasbourg le jour marqué dans la Lettre de M<hi rend="sup">r</hi> de Créquy. Elle y entra à trois heures apres midy, &amp; fut reçeuë comme on
           l'avoit souhaité. M<hi rend="sup">rs</hi> de Strasbourg avoient fait ranger toute leur
           Infanterie en haye, seulement du costé droit, &amp; en quatre rangs. Elle s'étendoit
           depuis la Porte jusques au lieu où Madame la Dauphine devoit loger.</p>
@@ -494,15 +424,13 @@
           l'Ecurie, plusieurs Valets de pied, un Fourrier, &amp; quelques autres Officiers. Tout
           ceka estoit accompagné de cent Gardes de Sa Majesté, commandez par M<hi rend="sup">r</hi>
           de Brusac Lieutenant des Gardes du Corps? Le jour du départ de Paris pour aller au devant
-          de Madame la Dauphine, ayant esté arresté par le Roy pour le 25. de Janveir, M<hi
-            rend="sup">r</hi> de Condom, Madame la Maréchale de Rochefort, Madame la Marquise de
+          de Madame la Dauphine, ayant esté arresté par le Roy pour le 25. de Janveir, M<hi rend="sup">r</hi> de Condom, Madame la Maréchale de Rochefort, Madame la Marquise de
           Maintenon, toutes les Filles d'Honneur &amp; toutes les Femmes de Chambre de cette
           Princesse, furent splendidement traitées par Madame la Duchesse de Richelieu, &amp; l'on
           partit apres le Dîné. Vous jugez bien qu'il y avoit déjà quelque temps qu'ils estoient
           tous arrivez au Lieu où ils devoient recevoir Madame la Dauphine, quand cette Princesse
           partit de Strasbourg. Elle rencontra environ à un quart de lieuë de cette Ville les cent
-          Gardes du Corps du Roy, commandez par M<hi rend="sup">r</hi> de Brusac, M<hi rend="sup"
-            >r</hi> de Monclar n'estoit guére plus éoloigné. Il parut à la teste de cinq cens
+          Gardes du Corps du Roy, commandez par M<hi rend="sup">r</hi> de Brusac, M<hi rend="sup">r</hi> de Monclar n'estoit guére plus éoloigné. Il parut à la teste de cinq cens
           Chevaux ou Dragons, bien montez, tirez de quelques Garnisons des Villes d'Alsace, &amp;
           servit d'Escorte à Madame la Dauphine. Elle arriva un peu avant midy à Feigreseim, petit
           Village à deux heures &amp; demie de Strasbourg. Comme elle ne devoit que dîner dans ce
@@ -535,8 +463,7 @@
             bien obligée de vouloir bien la servir apres avoir servy une grande Reyne.</hi> Quand on
           luy voulut parler de Madame de Maintenon, elle répondit, <hi rend="i">Qu'il n'estoit pas
             necessaire qu'on luy dist rien d'elle, qu'elle connoissoit son mérite il y avoit
-            longtemps, &amp; qu'elle sçavoit l'estime qu'en faisoit le Roy.</hi> Elle dit à M<hi
-            rend="sup">r</hi> de Condom, <hi rend="i">Qu'elle prenoit part à tout ce qu'il avoit
+            longtemps, &amp; qu'elle sçavoit l'estime qu'en faisoit le Roy.</hi> Elle dit à M<hi rend="sup">r</hi> de Condom, <hi rend="i">Qu'elle prenoit part à tout ce qu'il avoit
             appris à Monseigneur le Dauphin, qu'elle tâcheroit d'en profiter, &amp; qu'elle le
             priëroit de luy donner aussi quelques instructions.</hi> Toutes les Filles d'Honneur en
           reçeurent de pareilles honnestetez. Elle leur marqua <hi rend="i">Qu'elle connoissoit le
@@ -552,8 +479,7 @@
           auroient montré en plusieurs années.</p>
         <p>Madame de Maintenon écrivit aussi-tost au Roy, <hi rend="i">que le feu de ses yeux, &amp;
             qui paroissoit dans toutes ses manieres, estoient des choses qui les paroles &amp; la
-            peinture estoient incapables d'exprimer.</hi> Entre midy &amp; une heure, M<hi
-            rend="sup">r</hi> Delrieu Maître-d'Hôtel ordinaire du Roy, la vint avertir que le Dîner
+            peinture estoient incapables d'exprimer.</hi> Entre midy &amp; une heure, M<hi rend="sup">r</hi> Delrieu Maître-d'Hôtel ordinaire du Roy, la vint avertir que le Dîner
           estoit prest. M<hi rend="sup">r</hi> le Duc de Richelieu la prit par la main, &amp; la
           conduisit dans une grande Salle où le Couvert avoit esté mis. Le Service estoit de deux
           grands Plats, de deux moyens, &amp; de quatre hors d'oeuvre. Il y eut cinq Services. La
@@ -568,9 +494,7 @@
           Jonquilles, le tout amené dans quatre Litieres, &amp; sur des Chevaux. Cela fait
           connoistre que rien n'est difficile aux François, que l'abondance regne dans ce Royaume,
           &amp; que souvent dans une seule Saison, on sert chez le Roy la plûpart des choses que
-          toutes les quatre produisent. Madame la Dauphine trouva tout bien appresté, &amp; M<hi
-            rend="sup">r</hi> le Marquis de Créquy luy ayant demandé pendant son dîner <hi rend="i"
-            >si elle s'accoûtumeroit aux Repas de France,</hi> elle répondit, <hi rend="i">qu'il
+          toutes les quatre produisent. Madame la Dauphine trouva tout bien appresté, &amp; M<hi rend="sup">r</hi> le Marquis de Créquy luy ayant demandé pendant son dîner <hi rend="i">si elle s'accoûtumeroit aux Repas de France,</hi> elle répondit, <hi rend="i">qu'il
             n'estoit pas difficile de s'accoûtumer quand on trouvoit quelque chose de mieux que ce
             que l'on venoit de quiter</hi>. Deux autres Tables de dix-huit Couverts chacune, furent
           servies dans le mesme temps, par les Officiers de la Bouche. Les Services estoient d'un
@@ -593,8 +517,7 @@
           sommes versées et noms des donnateurs]</p>
         <p>Tous ceux qui reçeurent ces diverses sommes, loüerent hautement la magnificence du Roy.
           La distribution en fut faite par M<hi rend="sup">r</hi> Berthelot, Trésorier de Madame la
-          Dauphine, quyi leur dit en la faisant, qu'en cas de mauvaises Pieces, ou de bas aloy, M<hi
-            rend="sup">r</hi> Berthelot son Fils restoit, qui leur en feroit raison. Outre les
+          Dauphine, quyi leur dit en la faisant, qu'en cas de mauvaises Pieces, ou de bas aloy, M<hi rend="sup">r</hi> Berthelot son Fils restoit, qui leur en feroit raison. Outre les
           Présens qui furent faits de la part du Roy, Madame la Dauphine demanda à Madame de
           Richelieu, si elle pouvoit donner quelques-uns des Habits qu'elle avoit aportez de
           Baviere. Cette Duchesse luy répondit, elle dit, <hi rend="i">qu'elle obligeroit le Roy en
@@ -619,16 +542,14 @@
           chemins se trouvoient bordez de monde. Il y avoit par tout de la Cavalerie sur son
           passage. Toute la Garnison de Schlestat estoit en armes pour la recevoir, &amp; se mit en
           haye depuis la premiere Barriere, jusqu’à la Maison qui luy avoit esté préparée. Les
-          Maires &amp; Echevins la complimenterent à la Porte de la Ville, présentez par M<hi
-            rend="sup">rs</hi> de Gondreville Gouverneur, &amp; de Provenchere Lieutenant de Roy,
+          Maires &amp; Echevins la complimenterent à la Porte de la Ville, présentez par M<hi rend="sup">rs</hi> de Gondreville Gouverneur, &amp; de Provenchere Lieutenant de Roy,
           qui luy apporterent les Clefs. M<hi rend="sup">r</hi> de Saintot Maître de Cerémonies, luy
           présenta les autres Corps. Elle eut le soir le divertissement de la Comédie Françoise, par
           une Troupe de Comédiens qui estoient venus de Brisac. Elle en fut si satisfaite, qu’elle
           leur fit donner ordre de la suivre jusqu’à Nancy. Cette Princesse entendit la Messe le
           lendemain dans sa chambre, à cause d’un Rhume dont elle se trouva un peu incommodée. Elle
           vint coucher à Saint Dié, les chemins estant toûjours couverts de Cavalerie, &amp; de
-          Dragons, &amp; fut reçeuë à la Porte de la Ville par les Magistrats que conduisit M<hi
-            rend="sup">r</hi> de Saintot. Les Bourgeois estoient rangez sous les amres. Le Grand
+          Dragons, &amp; fut reçeuë à la Porte de la Ville par les Magistrats que conduisit M<hi rend="sup">r</hi> de Saintot. Les Bourgeois estoient rangez sous les amres. Le Grand
           Prevost qui a tous les droits Episcopaux, la complimenta à la teste du Chapitre. Il y eut
           Comédie le soir. Le jour suivant elle entendit la Messe dans la Cathédrale, vint coucher à
           Raon, &amp; le lendemain à Luneville. Elle reçeut par tout les mesmes honneurs. Je manque
@@ -653,15 +574,13 @@
           Court, où cette Princesse estoit logée. Elle charma toutes les Dames Lorraines qui ne
           pouvoient se lasser de l'admirer, &amp; de la loüer. J'ay oublié de vous dire qu'il y
           avoit déja quelque temps qu'elle soufroit beaucoup d'un grand rhume, &amp; qu'on luy avoit
-          demandé si elle vouloit se reposer pendant quelques jours ; à quoy elle répondit, <hi
-            rend="i">Que le plaisir qu'elle se faisoit d'approcher du Roy, luy feroit oublier son
+          demandé si elle vouloit se reposer pendant quelques jours ; à quoy elle répondit, <hi rend="i">Que le plaisir qu'elle se faisoit d'approcher du Roy, luy feroit oublier son
             mal, &amp; le feroit mesme passer.</hi> Si elle avoit tant d'impatience de se rendre
           aupres de luy, ce grand Prince n'en avoit pas moins de la voir. Il partit de S. Germain,
           le Lundy 26. de Fevrier. La Reyne estoit dans le mesme Carrosse avec Monseigneur le
           Dauphin, Madame de Guise, &amp; Madame la Duchesse de Créquy sa Dame d'Honneur. Ils
           dînerent au Bourget. Vous sçavez que dans les marches de la Cour, le Roy ne descend point
-          de Carrosse pour dîner. Les Officiers de la Reyne le servent &amp; la prévoyance de M<hi
-            rend="sup">r</hi> le Marquis de Villacerf luy fait trouver dans ces sortes de Repas,
+          de Carrosse pour dîner. Les Officiers de la Reyne le servent &amp; la prévoyance de M<hi rend="sup">r</hi> le Marquis de Villacerf luy fait trouver dans ces sortes de Repas,
           tout l'ordre, &amp; toute la politesse qu'on pourroit attendre dans les grandes Villes.
           Tout ce qu'il y avoit de Gens de qualité à la Cour furent servis à leur passage, avec
           autant d'abondance que de propreté. On n'épargna aucun rafraîchissement, &amp; jusqu'aux
@@ -727,8 +646,7 @@
           soins de M<hi rend="sup">r</hi> Langaut Trésorier de France, avoient fort aidé à les y
           faire amener.</p>
         <p>Le Lundy 4. du mois, le Roy partit de Fismes, &amp; alla jusques à Rheims en chassant.
-          Toutes les Dames estoient en habit de Chasse. La Maréchaussée, &amp; M<hi rend="sup"
-            >rs</hi> de Ville, vinrent au devant de Sa Majesté pour luy faire leurs Complimens. Elle
+          Toutes les Dames estoient en habit de Chasse. La Maréchaussée, &amp; M<hi rend="sup">rs</hi> de Ville, vinrent au devant de Sa Majesté pour luy faire leurs Complimens. Elle
           défendit de faire tirer aucun coup de Canon, &amp; logea au Palais Archépiscopal. La Reyne
           alla aussitost à l'Abbaye de S. Remy, où elle vit le Tombeau du Saint, &amp; la Sainte
           Ampoule. Elle alla en suite, accompagnée de Monseigneur, &amp; de plusieurs Princesses, à
@@ -747,8 +665,7 @@
           rendirent à l'Evesché, &amp; les salüerent sans leur faire de compliment. Le Roy n'en
           voulut point recevoir, &amp; avoit défendu tout ce qui est de la cerémonie des Entrées.
           Ainsi les Bourgeois ne se sont mis sous les armes dans aucune des Villes où il a passé,
-          &amp; on ne l'a point attendu aux Portes, comme on auroit fait sans cette défence. M<hi
-            rend="sup">rs</hi> de Ville firent en suite leurs Présens à Leurs Majestez &amp; à
+          &amp; on ne l'a point attendu aux Portes, comme on auroit fait sans cette défence. M<hi rend="sup">rs</hi> de Ville firent en suite leurs Présens à Leurs Majestez &amp; à
           Monseigneur. Ces Présens estoient dans des Manes fort propres, &amp; consistoient en
           Bouteilles de Vin, Cire, &amp; Confitures. Le lendemain, jour des Cendres, Sa Majesté
           accompagnée de Monsieur, vint sur les sept heures à l’Eglise Cathédrale<note resp="editor">De Châlons-en-Champagne.</note> où Elle entendit la Messe. Elle
@@ -759,12 +676,9 @@
           mesme Doyen avoit benîtes. Il les donna en suite à Monsieur. La Musique de l’Eglise chanta
           quelques Motets pendant la Messe. Monseigneur fit ses devotions ce mesme matin, &amp; ne
           pût partir qu’apres le Roy, qui prit le chemin de Vitry. Sa Majesté estoit dans une
-          Caleche avec Monsieur ; &amp; Monseigneur, dans son Carrosse, accompagné de M<hi
-            rend="sup">rs</hi> les Ducs de Montausier, &amp; de Crussol &amp; de M<hi rend="sup"
-            >r</hi> Miler son Sous-Gouverneur.</p>
+          Caleche avec Monsieur ; &amp; Monseigneur, dans son Carrosse, accompagné de M<hi rend="sup">rs</hi> les Ducs de Montausier, &amp; de Crussol &amp; de M<hi rend="sup">r</hi> Miler son Sous-Gouverneur.</p>
         <p>Pendant tout ce temps, Madame la Dauphine avoit continué son Voyage, &amp; de Nancy,
-          estoit arrivée à Toul le 2. de Mars. Elle y fut reçeuë à la Porte de la Ville par M<hi
-            rend="sup">r</hi> le Comte de Pas-Feuquieres qui en est le Gouverneur. La Garnison &amp;
+          estoit arrivée à Toul le 2. de Mars. Elle y fut reçeuë à la Porte de la Ville par M<hi rend="sup">r</hi> le Comte de Pas-Feuquieres qui en est le Gouverneur. La Garnison &amp;
           les Bourgeois estoient sous les armes. Les Magistrats vinrent aussi-tost la complimenter.
           Le Maistre Echevin portoit la parole. M<hi rend="sup">r</hi> de Fieux, Evesque de Toul, la
           vint aussi haranguer. Il estoit en Rochet &amp; en Camail, &amp; à la teste de son
@@ -824,12 +738,10 @@
             manieres, qu'elle ne pouvoit se dispenser, dans un jour aussi glorieux que celuy-là,
             d'avoir quelque chagrin, quand elle envisageoit le peu de moyens qu'elle pourroit jamais
             avoir de luy donner des marques de reconnoissance proportionnées aux bienfaits de Sa
-            Majesté.</hi> Le Roy luy présenta en suite Monseigneur le Dauphin, en luy disant, <hi
-            rend="i">Madame, voila le Cavalier</hi>. Sa Majesté avoit dit à ce jeune Prince de le
+            Majesté.</hi> Le Roy luy présenta en suite Monseigneur le Dauphin, en luy disant, <hi rend="i">Madame, voila le Cavalier</hi>. Sa Majesté avoit dit à ce jeune Prince de le
           laisser parler le premier, &amp; qu’il prenoit sur luy le Compliment qu’il estoit obligé
           de faire à Madame la Dauphine. Monseigneur l’ayant salüée &amp; baisée, Monsieur
-          s’approcha de cette Princesse, &amp; luy fut présenté par Sa Majesté, qui luy dit, <hi
-            rend="i">Madame, voila mon Frere</hi>. Monsieur la salüa, &amp; la baisa d'un costé;
+          s’approcha de cette Princesse, &amp; luy fut présenté par Sa Majesté, qui luy dit, <hi rend="i">Madame, voila mon Frere</hi>. Monsieur la salüa, &amp; la baisa d'un costé;
           apres quoy Sa Majesté dit, qu'il falloit remonter en Carrosse &amp; qu'on parleroit de
           toutes choses plus commodement. Le Roy entra le premier, &amp; ayant dit à cette Princesse
           qu'il le saisoit comme Pere, il luy tendit la main pour luy aider à monter, &amp;
@@ -844,8 +756,7 @@
           Princes, &amp; Seigneurs précederent en montant l'Esclalier. Monseigneur, &amp; Monsieur,
           marchoient seuls devant le Roy, &amp; M<hi rend="sup">r</hi> le Duc de Richelieu ayant vû
           que Sa Majesté avoit donné la main à Madame la Dauphine, passa devant avec d'autres. Un
-          moment apres, le Roy n'ayant point vû M<hi rend="sup">r</hi> de Richelieu, dit à M<hi
-            rend="sup">r</hi> le Maréchal de Belfonds qui se trouva là, de luy prendre l'autre main.
+          moment apres, le Roy n'ayant point vû M<hi rend="sup">r</hi> de Richelieu, dit à M<hi rend="sup">r</hi> le Maréchal de Belfonds qui se trouva là, de luy prendre l'autre main.
           Elle fut conduite de cette sorte dans l'Apartement qu'elle devoit occuper. La foule estoit
           si grande, que le Roy luy dit <hi rend="i">Qu'il seroit difficile d'assembler en aucun
             lieu de la Terre, autant de Gens d'un aussi grand mérite, &amp; d'une aussi haute
@@ -858,8 +769,7 @@
           Maréchaux de France, &amp; Officiers de la Couronne, qui la salüerent, &amp; la baiserent
           selon leur rang. Les autres Seigneurs luy baiserent le bas de la Robe. Elle se leva pour
           les Princes &amp; les Ducs, &amp; fit donner des Sieges plians aux Princes du Sang, &amp;
-          aux Cardinaux qui l'avoient aussi baisée en la salüant. Elle dit à Monsieur le Prince, <hi
-            rend="i">Qu'elle le connoissoit par ses grandes Actions, par ses Batailles qu'il avoit
+          aux Cardinaux qui l'avoient aussi baisée en la salüant. Elle dit à Monsieur le Prince, <hi rend="i">Qu'elle le connoissoit par ses grandes Actions, par ses Batailles qu'il avoit
             gagnées, &amp; par les Villes qu'il avoit prises.</hi> Quelqu'un ayant dit à cette
           Princesse pendant le Cercle qu'elle tint avec tant d'Hommes, qu'il n'y avoit pas loin de
           Vitry à Châlons, &amp; quelle y seroit bien-tost, elle répondit, <hi rend="i">Qu'elle ne
@@ -1012,16 +922,13 @@
         <p>Le Vendredy 8. de Mars, le Roy &amp; toute la Cour, visiterent Monseigneur le Dauphin
           &amp; cette Princesse, avant leur lever. Sur les onze heures ils se rendirent à l’Eglise
           Cathédrale, accompagnez de toute la Maison Royale. Monseigneur, en Habit à Manteau,
-          marchoit le premier. Le Roy suivoit, &amp; Madame la Dauphine venoit apres, menée par M<hi
-            rend="sup">r</hi> le Duc de Richelieu &amp; par M<hi rend="sup">r</hi> le Marquis de
+          marchoit le premier. Le Roy suivoit, &amp; Madame la Dauphine venoit apres, menée par M<hi rend="sup">r</hi> le Duc de Richelieu &amp; par M<hi rend="sup">r</hi> le Marquis de
           Belfonds, reçeu en survivance à la Charge de Premier Ecuyer. La Reyne marchoit en suite,
           &amp; toute la Cour derriere elle. Leurs Majestez furent reçeuës à la Porte par le Clergé,
           revestu de Chapes, &amp; le Roy fut complimenté par le Doyen. Deux Carreaux avoient esté
           préparez sur les degrez de l’Autel. Monseigneur &amp; Madame la Dauphine, vinrent s’y
           mettre à genoux, vers le milieu de la Messe que celébra M<hi rend="sup">r</hi> le Cardinal
-          de Boüillon en Habits Pontificaux. Sitost qu’il s’y furent mis, on apporta à M<hi
-            rend="sup">r</hi> l’Evesque d’Orleans Premier Aumônier du Roy, &amp; à M<hi rend="sup"
-            >r</hi> l’Evesque de Condom Premier Aumônier de Madame la Dauphine, un Poële de Brocard
+          de Boüillon en Habits Pontificaux. Sitost qu’il s’y furent mis, on apporta à M<hi rend="sup">r</hi> l’Evesque d’Orleans Premier Aumônier du Roy, &amp; à M<hi rend="sup">r</hi> l’Evesque de Condom Premier Aumônier de Madame la Dauphine, un Poële de Brocard
           d’argent, qu’ils étendirent au dessus de la teste de ce Prince &amp; de cette Princesse.
             M<hi rend="sup">r</hi> le Cardinal de Boüillon se tourna vers eux, &amp; dit les
           Oraisons ordinaires, apres quoy on osta le Poële. Toute l’Eglise estoit tenduë depuis le
@@ -1068,8 +975,7 @@
           furent charmées réciproquement de leur esprit. Madame l'Abbesse présenta à la Reyne, à
           Monseigneur, &amp; à Madame la Dauphine, de tres-beaux Ouvrages en Broderie, qui furent
           reçeus avec tout l'agrément possible. Ce mesme jour, l'Académie Françoise de Soissons se
-          rendit chez Madame la Dauphine, &amp; eut l'honneur de la saluer. Vous sçavez que M<hi
-            rend="sup">r</hi> le Cardinal d'Estrées en est Protecteur. Toute la Cour partit le 13.
+          rendit chez Madame la Dauphine, &amp; eut l'honneur de la saluer. Vous sçavez que M<hi rend="sup">r</hi> le Cardinal d'Estrées en est Protecteur. Toute la Cour partit le 13.
           au matin pour aller coucher à Villiers-Costerets. Le voisinage de la Forest, qui est une
           des plus grandes du Royaume, obligea François I. à faire bastir ce Château. Les Apartemens
           en sont grands, commodes, &amp; bien dégagez. Il y eut Comédie Italienne le jour que Leurs
@@ -1169,5 +1075,4 @@
             sçauroit estre plus grand. Je suis vostre, &amp;c.</hi></p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

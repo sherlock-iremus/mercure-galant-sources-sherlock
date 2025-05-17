@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1682-01">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, janvier 1682 [tome 1]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1682-01</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>janvier 1682</date> [tome 1].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1682-01"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, janvier 1682 [tome 1].</head>
       <div type="article" xml:id="MG-1682-01_077" resp="mercure">
@@ -104,8 +40,7 @@
           personne ne naissant avec ce Titre ; en sorte que tous nos Roys ont reçeu l'Ordre de
           Chevalerie. Ils le reçoivent ordinairement le lendemain de leur Sacre, par les mains de
           celuy qui les a sacrez. Ainsi M<hi rend="sup">r</hi> le Cardinal de Joyeuse, Archevesque
-          de Rheims, le confera au Roy Loüis XIII. &amp; notre auguste Monarque l'a reçeu de M<hi
-            rend="sup">r</hi> l'Evesque de Soissons, premier Suffragant de Rheims, pendant la
+          de Rheims, le confera au Roy Loüis XIII. &amp; notre auguste Monarque l'a reçeu de M<hi rend="sup">r</hi> l'Evesque de Soissons, premier Suffragant de Rheims, pendant la
           vacance du Siege, ou en l'absence de l'Archevesque. Cet Ordre a esté institué par Henry
           III. Roy de France &amp; de Pologne, qui voyant naistre plusieurs factions dans son Etat,
           jugea necessaire de serrer plus étroitement le nœud de l'obeïssance naturelle de ses
@@ -209,14 +144,12 @@
           étoffe, doublé d'une toile d'argent trait, &amp; bordé d'une dentelle d'argent. Quantité
           de Diamans d'un grand prix couvroient le Collet. Si-tost que Monseigneur le Dauphin se fut
           revêtu de cet Habit, M<hi rend="sup">r</hi> de Mesmes, President à Mortier, Prevost &amp;
-          Grand Maître des Cerémonies de l'Ordre, tenant son Bâton, &amp; precédé de M<hi rend="sup"
-            >r</hi> du Pont Héraut, &amp; M<hi rend="sup">r</hi> Desprez Huissier du mesme Ordre,
+          Grand Maître des Cerémonies de l'Ordre, tenant son Bâton, &amp; precédé de M<hi rend="sup">r</hi> du Pont Héraut, &amp; M<hi rend="sup">r</hi> Desprez Huissier du mesme Ordre,
           vint prendre ce Prince, &amp; le conduisit à la Chambre du Roy. Aussi-tost Sa Majesté fit
           entrer dans son Cabinet les Commandeurs &amp; les Grands Officiers, que le Héraut, par
           l'ordre de ce Président, avoit avertis de se rendre en l'Appartement du Roy, à dix heures
           du matin. On tint Chapitre, &amp; l'on arresta que Monseigneur le Dauphin seroit receu
-          Chevalier. En mesme temps le Roy commanda que l'on fist entrer ce Prince. M<hi rend="sup"
-            >r</hi> de Mesmes l'ayant amené, il se mit à genoux devant le Roy ; &amp; Sa Majesté
+          Chevalier. En mesme temps le Roy commanda que l'on fist entrer ce Prince. M<hi rend="sup">r</hi> de Mesmes l'ayant amené, il se mit à genoux devant le Roy ; &amp; Sa Majesté
           ayant tiré son Epée, l'en frapa sur chaque épaule, en disant : <hi rend="i">Par S. Georges
             &amp; par S. Michel, je te fais Chevalier.</hi> On employe le nom de S. Georges en cette
           Cerémonie, parce qu'il est l'ancien Patron de tous les Chevaliers. Et pour S. Michel, je
@@ -255,8 +188,7 @@
           estant achevée, on se rendit à la Chapelle dans l'ordre qui suit. M<hi rend="sup">r</hi>
           Desprez, Huissier de l'Ordre, marchant à la teste, estoit suivy de M<hi rend="sup">r</hi>
           du Pont Heraut, &amp; l'un &amp; l'autre précedoit M<hi rend="sup">r</hi> le Président de
-          Mesmes, Prévost &amp; Grand-Maistre des Cerémonies de l'Ordre, qui avoit à sa droite M<hi
-            rend="sup">r</hi> le Marquis de Seignelay, &amp; à sa gauche M<hi rend="sup">r</hi> le
+          Mesmes, Prévost &amp; Grand-Maistre des Cerémonies de l'Ordre, qui avoit à sa droite M<hi rend="sup">r</hi> le Marquis de Seignelay, &amp; à sa gauche M<hi rend="sup">r</hi> le
           Marquis de Chasteauneuf, tous deux Secretaires d'Etat. Le premier est Grand Trésorier de
           l'Ordre, &amp; le second en est Secretaire. M<hi rend="sup">r</hi> le Marquis de Louvois,
           Ministre &amp; Secretaire d'Etat, Chancelier de l'Ordre, paroissoit en suite, &amp; estoit
@@ -297,8 +229,7 @@
           faire un autre salut au Roy, pour l'avertir d'aller à l'Offrande. Il fit aussi une
           revérence à Monseigneur le Dauphin, &amp; une à Monsieur, pour avertir l'un &amp; l'autre
           d'accompagner Sa Majesté. Le Roy apres avoir salué l'Autel &amp; la Reyne, &amp; s'estre
-          tourné vers les Chevaliers à droit &amp; à gauche, alla à l'Autel précedé par M<hi
-            rend="sup">r</hi> de Mesmes, &amp; accompagné de Monseigneur le Dauphin &amp; de
+          tourné vers les Chevaliers à droit &amp; à gauche, alla à l'Autel précedé par M<hi rend="sup">r</hi> de Mesmes, &amp; accompagné de Monseigneur le Dauphin &amp; de
           Monsieur. Sa Majesté baisa la Patene, &amp; ayant receu le Cierge &amp; l'Offrande des
           mains de Monseigneur le Dauphin, qui les avoit pris de celles de M<hi rend="sup">r</hi> de
           Mesmes, elle les presenta à M<hi rend="sup">r</hi> l'Archevesque d'Auch, qui officioit. La
@@ -306,8 +237,7 @@
           d'autant d'Ecus d'or que le Roy a d'années. Sa Majesté ayant fait de nouvelles revérences,
           fut reconduite à son Prié-Dieu, &amp; après l'<hi rend="i">Agnus Dei</hi>, Mr le Cardinal
           de Boüillon luy présenta la Paix à baiser. Il l'avoit prise des mains du Sous-Diacre. La
-          Messe estant achevée, les Officiers recommencerent leurs revérences, &amp; M<hi rend="sup"
-            >r</hi> de Mesmes en fit une particuliere au Roy, pour l'avertir de monter sur un Trône
+          Messe estant achevée, les Officiers recommencerent leurs revérences, &amp; M<hi rend="sup">r</hi> de Mesmes en fit une particuliere au Roy, pour l'avertir de monter sur un Trône
           qu'on avoit dressé pres de l'Autel, du costé de l'Evangile. Ce Trône estoit élevé de
           plusieurs marches sous un Dais de l'Ordre donné par Henry III. de Velours violet en
           broderie. Les Armes de France y sont my-parties avec celles de Pologne. Sa Majesté apres
@@ -318,11 +248,9 @@
           Roy, la Reyne, &amp; les Chevaliers, monta sur le Trône, où il se mit à genoux sur un
           Carreau de Velours violet à Fleurs-de-Lys d'or, ayant Monsieur à sa droite, &amp; Monsieur
           le Duc à sa gauche. M<hi rend="sup">r</hi> le Cardinal de Boüillon estoit derriere le Roy
-          ; M<hi rend="sup">r</hi> de Louvois à la droite, avec le Livre des Evangiles ; M<hi
-            rend="sup">r</hi> le Marquis de Seignelay à costé de M<hi rend="sup">r</hi> de Louvois,
+          ; M<hi rend="sup">r</hi> de Louvois à la droite, avec le Livre des Evangiles ; M<hi rend="sup">r</hi> le Marquis de Seignelay à costé de M<hi rend="sup">r</hi> de Louvois,
           tenant le Collier de l'Ordre, &amp; le Cordon bleu avec une Croix ; M<hi rend="sup">r</hi>
-          de Mesmes à la gauche du Roy ; M<hi rend="sup">r</hi> de Chasteau-neuf aupres de <hi
-            rend="sup">r</hi> de Mesmes, tenant l'Acte du Serment que Monseigneur le Dauphin devoit
+          de Mesmes à la gauche du Roy ; M<hi rend="sup">r</hi> de Chasteau-neuf aupres de <hi rend="sup">r</hi> de Mesmes, tenant l'Acte du Serment que Monseigneur le Dauphin devoit
           faire ; &amp; M<hi rend="sup">rs</hi> du Pont &amp; Desprez au bas des marches du Trône.
           Ce Prince ayant les mains sur le Livre des Evangiles, leût à haute voix ce Serment, &amp;
           le signa apres l'avoir leû. Il est conceu en ces termes dans le trente-sixiéme Article des
@@ -607,8 +535,7 @@
         <p>L'arrivée de l'Ambassadeur de Mula Ismael Roy de Maroc, a fait trop de bruit icy, pour
           n'avoir pas esté sceuë dans vostre Province. Ce Roy est Frere de Muley Arrid, si connu en
           France sous le nom de Tafilete. C'est ainsi qu'on appelloit le Royaume de son Pere. Cet
-          Etat est assez grand. Il fait partie de l'ancienne Numidie, nommée aujourd'huy <hi
-            rend="i">Biledulgerie</hi>, &amp; est situé entre Fez &amp; la Mer Mediterranée. Ce Roy
+          Etat est assez grand. Il fait partie de l'ancienne Numidie, nommée aujourd'huy <hi rend="i">Biledulgerie</hi>, &amp; est situé entre Fez &amp; la Mer Mediterranée. Ce Roy
           Tafilete, l'un des plus grands Conquerans d'Afrique, faisant faire un jour le Manege à son
           Cheval, donna de la teste contre une branche de Figuier. Ce coup fut mortel, &amp; il en
           mourut quelques temps apres. Lors qu'il fut prest d'expirer, il mit son Epée qui est la
@@ -674,8 +601,7 @@
           qu'un seul Dieu.</p>
         <p>Mula Ismael, apres avoir reduit Tanger à l'extremité, comme les nouvelles publiques vous
           l'ont appris, &amp; fait avec les Anglois une Paix tres-glorieuse, resolut d'envoyer un
-          Ambassadeur au Roy, sur ce que l'Escadre de six Vaisseaux commandez par M<hi rend="sup"
-            >r</hi> le Chevalier de Chasteau-renaud, que Sa Majesté a toûjours tenus devant ses
+          Ambassadeur au Roy, sur ce que l'Escadre de six Vaisseaux commandez par M<hi rend="sup">r</hi> le Chevalier de Chasteau-renaud, que Sa Majesté a toûjours tenus devant ses
           Ports, avoit ruïné tout son commerce ces deux dernieres années, &amp; dans ce dessein il
           nomma Hardgi Mehema Thummim, Gouverneur de Tetoüan pour venir en France. Cet Ambassadeur,
           qui est le premier qui soit jamais sorty de Maroc pour aller parler de Paix dans aucune
@@ -700,8 +626,7 @@
           Dame fort spirituelle, blâmant l'inconstance de ceux de son Païs, qui prenoient un si
           grand nombre de Femmes ; <hi rend="i">Si elles estoient faites comme vous,</hi> dit-il,
             <hi rend="i">nous n'en prendrions jamais qu'une.</hi> Par tout où il s'est trouvé, il a
-          condamné l'usage de doter les Filles pour les marier, disant à la plus jolie, <hi rend="i"
-            >qu'il donneroit des millions pour l'épouser.</hi></p>
+          condamné l'usage de doter les Filles pour les marier, disant à la plus jolie, <hi rend="i">qu'il donneroit des millions pour l'épouser.</hi></p>
         <p>Le Dimanche 4. de ce mois, il fut conduit à l'Audience du Roy par M<hi rend="sup">r</hi>
           de Bonneüil, Introducteur des Ambassadeurs, qui estoit venu le prendre icy dans l'Hostel
           des Ambassadeurs Extraordinaires. Il fit une profonde inclination à Sa Majesté, luy
@@ -744,12 +669,10 @@
             quinze jours dans la mesme Route, ayant toûjours rencontré sur son chemin des Jardins
             &amp; des Maisons qui continuoient la mesme Ville.</hi> Ce qui l'obligeoit à parler
           ainsi, c'est la desolation de son Païs, que les Guerres ont tellement ruiné, qu'on y
-          marche quelquefois trois jours de suite sans trouver une Maison. Il adjousta, <hi rend="i"
-            >qu'il avoit veu dans tout son voyage autant de civilité &amp; d'honnesteté aux
+          marche quelquefois trois jours de suite sans trouver une Maison. Il adjousta, <hi rend="i">qu'il avoit veu dans tout son voyage autant de civilité &amp; d'honnesteté aux
             François, que la reputation qu'ils ont par tout leur en donne, &amp; qu'il ne s'étonnoit
             pas si l'avantage d'avoir un Roy si puissant, les rendoit fiers &amp; redoutables à
-            leurs Ennemis.</hi> Tout cela fut dit en Espagnol, &amp; expliqué à Sa Majesté par M<hi
-            rend="sup">r</hi> de Rémondis, qui s'acquita de cette conversation d'une maniere
+            leurs Ennemis.</hi> Tout cela fut dit en Espagnol, &amp; expliqué à Sa Majesté par M<hi rend="sup">r</hi> de Rémondis, qui s'acquita de cette conversation d'une maniere
           tres-spirituelle. Ce Gentilhomme avoit eu ordre du Roy à Brest d'accompagner cet
           Ambassadeur, &amp; il ne l'a point quitté depuis ce tems-là. Ainsi il le suivit dans les
           Conferences qu'il eut quelques jours apres avec M<hi rend="sup">rs</hi> de Croissy &amp;
@@ -809,8 +732,7 @@
           Gobelins, lors qu'il eut admiré toutes les choses dont je vous ay déja parlé dans la
           Relation de l'Ambassadeur de Moscovie, il fit compliment à M<hi rend="sup">r</hi> le Brun
           sur son merveilleux talent, &amp; sur l'honneur que Sa Majesté luy avoit fait. On l'a mené
-          aussi au Palais, où voyant la grande foule qui s'y rencontre toûjours, il dit <hi rend="i"
-            >qu'il commençoit à connoistre ce que c'estoit que Paris.</hi> En allant voir la
+          aussi au Palais, où voyant la grande foule qui s'y rencontre toûjours, il dit <hi rend="i">qu'il commençoit à connoistre ce que c'estoit que Paris.</hi> En allant voir la
           Bibliotheque du Roy, il fut fort surpris du grand nombre de Livres Arabes qu'on luy
           montra. Parmy ces Livres il trouva un Alcoran. Il le prit, &amp; le porta sur son front,
           sur ses yeux, &amp; sur sa bouche, avec des marques d'une venération tres-particuliere.
@@ -819,13 +741,11 @@
             idée de la France pareille à celle que les Mahometans ont de la gloire où ils croyent
             aller quand il sont morts.</hi> Une des choses qui luy a le plus causé d'admiration, a
           esté l'Exercice des Mousquetaires. M<hi rend="sup">r</hi> de Fourbin qui estoit aupres de
-          luy pendant ce temps, luy demanda ce qui luy sembloit de cet Exercice. <hi rend="i"
-            >Croyez-vous, Monsieur,</hi> luy répondit-il, <hi rend="i">estre aupres de moy dans ce
+          luy pendant ce temps, luy demanda ce qui luy sembloit de cet Exercice. <hi rend="i">Croyez-vous, Monsieur,</hi> luy répondit-il, <hi rend="i">estre aupres de moy dans ce
             moment ? Vous estes au milieu de ce Bataille à faire vous mesme tous ces mouvemens,
             estant impossible qu'ils fussent si justes, s'il y avoit plus d'une personne qui s'en
             meslast. Bien heureux, Monsieur, d'avoir mille bras que vous pouvez remuër à mesme
-            temps.</hi> Quelque autres luy ayant demandé, si cet Exercice le divertissoit. <hi
-            rend="i">Rien n'est si divertissant,</hi> leur repliqua-t-il, <hi rend="i">que de voir
+            temps.</hi> Quelque autres luy ayant demandé, si cet Exercice le divertissoit. <hi rend="i">Rien n'est si divertissant,</hi> leur repliqua-t-il, <hi rend="i">que de voir
             manier les armes à ces Braves quand on est de leurs Amis, car il n'y feroit pas bon
             autrement.</hi> Quelqu'un luy voulut expliquer ensuite que ces Messieurs avoient fait de
           tres-belles actions dans toutes les Guerres, &amp; que ces Compagnies estoient au Roy. Il
@@ -842,8 +762,7 @@
           pleuré lors qu'il apprit qu'il devoit venir en France ; mais qu'il pleureroit beaucoup
           davantage en la quitant. Et là-dessus le Roy expliqua tout haut, comment il estoit venu
           Ambassadeur malgré luy, le Roy son Maître luy ayant envoyé dire qu'il luy couperoit le col
-          s'il ne partoit. Sa Majesté demanda encor ce qu'il disoit de Paris ; à quoy le mesme M<hi
-            rend="sup">r</hi> de Rémondis répondit, <hi rend="i">qu'il estoit au desespoir de ce
+          s'il ne partoit. Sa Majesté demanda encor ce qu'il disoit de Paris ; à quoy le mesme M<hi rend="sup">r</hi> de Rémondis répondit, <hi rend="i">qu'il estoit au desespoir de ce
             qu'on ne le croiroit pas chez luy, &amp; qu'il ne pourroit le trouver mauvais, puis que
             luy-mesme n'auroit pas crû tout ce qu'on luy avoit fait voir, quand mille personnes en
             auroient voulu soûtenir la verité ; qu'il avoit un Livre où il écrivoit tout ce qu'il
@@ -887,8 +806,7 @@
           estoient imprimées sur de la cire, tout ce que l'on voit dans les Tapis de Turquie &amp;
           de Perse, &amp; dans les plus curieux Cabinets de Pieces raportées ; l'or, l'azur, le
           blanc &amp; plusieurs autres couleurs, y estant meslées avec tant de varieté, qu'on ne
-          peut les regarder sans que les yeux en soient ébloüis. L'un de ces Sallons s'appelle <hi
-            rend="i">de las dos Hermanas</hi>, ou des deux Sœurs, à cause qu'il est pavé entierement
+          peut les regarder sans que les yeux en soient ébloüis. L'un de ces Sallons s'appelle <hi rend="i">de las dos Hermanas</hi>, ou des deux Sœurs, à cause qu'il est pavé entierement
           de deux grandes Pierres de Marbre que l'on nomme sans pareilles, &amp; qui remplissent les
           deux costez depuis une muraille jusqu'à l'autre, à la reserve de l'espace que tient la
           Fontaine. L'autre Sallon est appellé <hi rend="i">des Abencerrages,</hi> à cause qu'on
@@ -897,5 +815,4 @@
           l'Ambassadeur de Maroc.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1682-05">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, mai 1682 [tome 5]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1682-05</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>mai 1682</date> [tome 5].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1682-05"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, mai 1682 [tome 5].</head>
       <div type="article" xml:id="MG-1682-05_001" resp="mercure">
@@ -269,10 +205,8 @@
         <p>Vous me demandez qui a remporté le Prix des Bouts-rimez, proposez depuis deux mois par ce
           sçavant Maistre de Musique. Il n’a point encor esté donné. Si ceux que Sa Majesté a nommez
           pour Juges, prononcent avant que je finisse ma Lettre, je vous envoyeray le Sonnet
-          victorieux. En voicy cependant quatre sur les mesmes Bouts-rimez. Le premier est de M<hi
-            rend="sup">r</hi> Gardien ; le second, de Mademoiselle Frédin de Pontoise ; le
-          troisiéme, de M<hi rend="sup">r</hi> Philibert d’Antibe ; &amp; le quatriéme, de M<hi
-            rend="sup">r</hi> Astier, Prieur d’Avignon.</p>
+          victorieux. En voicy cependant quatre sur les mesmes Bouts-rimez. Le premier est de M<hi rend="sup">r</hi> Gardien ; le second, de Mademoiselle Frédin de Pontoise ; le
+          troisiéme, de M<hi rend="sup">r</hi> Philibert d’Antibe ; &amp; le quatriéme, de M<hi rend="sup">r</hi> Astier, Prieur d’Avignon.</p>
         <quote>
           <label>A LA GLOIRE DU ROY,<lb/>Sur les vains Projets des autres<lb/>Puissances jalouses de
             sa grandeur.</label>
@@ -936,13 +870,11 @@
           pour examiner les Livres de ces Autheurs, &amp; les confronter avec les Edifices dont ils
           traitent, afin de connoistre lequel d’eux on pouvoit suivre ; mais il fut pris en Mer par
           les Turcs, qui le menerent à Alger, où ils le retinrent avec dix neuf autres François,
-          jusqu’à ce que le Roy eust fait un échange d’un pareil nombre de Turcs. M<hi rend="sup"
-            >r</hi> Desgodets estant enfin arrivé à Rome, se disposa à travailler suivant
+          jusqu’à ce que le Roy eust fait un échange d’un pareil nombre de Turcs. M<hi rend="sup">r</hi> Desgodets estant enfin arrivé à Rome, se disposa à travailler suivant
           l’intention de M<hi rend="sup">r</hi> Colbert ; mais ayant reconnu qu’aucun des Autheurs
           qui ont traité des Edifices antiques, ne les a décrits de la maniere qu’ils sont, il les a
           tous dessinez &amp; mesurez avec la derniere exactitude, &amp; en a observé jusqu’aux
-          moindres particularitez. Ces Desseins ayant esté approuvez à son retour par M<hi
-            rend="sup">r</hi> les Architectes de l’Académie Royale, M<hi rend="sup">r</hi> Colbert
+          moindres particularitez. Ces Desseins ayant esté approuvez à son retour par M<hi rend="sup">r</hi> les Architectes de l’Académie Royale, M<hi rend="sup">r</hi> Colbert
           luy ordonna de les faire graver, pour en composer un Infolio accompagné d’Explications,
           tel qu’il se vend à Paris chez le S<hi rend="sup">r</hi> Jean-Baptiste Coignard, Imprimeur
           du Roy, Rue S. Jacques à la Bible d’or. Cet Infolio contient 140. Planches tres-bien
@@ -957,8 +889,7 @@
         <p/>
         <p>Il est souvent dangereux de se hazarder à voir les Belles, sur tout lors que des raisons
           d’interest &amp; de fortune font une necessité de l’éloignement. L’avanture du Biset en
-          est un exemple. Vous la trouverez dans les Vers qui suivent. Ils sont de M<hi rend="sup"
-            >r</hi> de Richebourg, Avocat au Parlement de Toulouse. Son esprit vous est connu par
+          est un exemple. Vous la trouverez dans les Vers qui suivent. Ils sont de M<hi rend="sup">r</hi> de Richebourg, Avocat au Parlement de Toulouse. Son esprit vous est connu par
           les Ouvrages galans que vous avez déja vûs de luy.</p>
         <quote>
           <label>LE BISET,<lb/>ET LE PIGEON.<lb/>FABLE.</label>
@@ -1151,11 +1082,8 @@
           Sexe qui alloient y faire leur Cour, on pouvoit manquer d'y estre bien régalé. Trois
           sortes de Divertissemens ont occupé tous les soirs, sçavoir la Comédie Italienne, la
           Françoise, &amp; le Bal. Les Comédiens François ont représenté <hi rend="i">Nicomede,
-            Oedipe, &amp; Polieucte</hi>, de M<hi rend="sup">r</hi> de Corneille l’aîné ; <hi
-            rend="i">Venceslas</hi>, de feu M<hi rend="sup">r</hi> de Rotrou ; <hi rend="i"
-            >Britanicus, &amp; Phedre</hi>, de M<hi rend="sup">r</hi> Racine ; <hi rend="i">le
-            Geolier de soy-mesme, D. Bertrand de Cigaral ; &amp; le Baron d’Albikrac</hi>, de M<hi
-            rend="sup">r</hi> de Corneille le jeune. Tout ce qu’ont joüé les les Italiens a
+            Oedipe, &amp; Polieucte</hi>, de M<hi rend="sup">r</hi> de Corneille l’aîné ; <hi rend="i">Venceslas</hi>, de feu M<hi rend="sup">r</hi> de Rotrou ; <hi rend="i">Britanicus, &amp; Phedre</hi>, de M<hi rend="sup">r</hi> Racine ; <hi rend="i">le
+            Geolier de soy-mesme, D. Bertrand de Cigaral ; &amp; le Baron d’Albikrac</hi>, de M<hi rend="sup">r</hi> de Corneille le jeune. Tout ce qu’ont joüé les les Italiens a
           extrémement diverty, &amp; l’inimitable Arlequin a toûjours paru de belle humeur. Il me
           seroit impossible de vous bien marquer jusqu'où a esté la joye que Monsieur a ressentie,
           de voir chez luy tant d'illustres Hostes. Il aime le Roy avec passion, &amp; ce seul mot
@@ -1648,8 +1576,7 @@
         <p/>
         <p>M<hi rend="sup">r</hi> le Duc de S. Aignan estoit la Personne illustre qui avoit voulu
           cacher son nom en proposant une Médaille d’or du Portrait du Roy pour Prix du meilleur
-          Sonnet qui seroit fait sur les rimes de Jupiter &amp; de Pharmacopole. M<hi rend="sup"
-            >rs</hi> de l’Académie Françoise se voyant choisis pour Juges, déclarerent qu’aucun de
+          Sonnet qui seroit fait sur les rimes de Jupiter &amp; de Pharmacopole. M<hi rend="sup">rs</hi> de l’Académie Françoise se voyant choisis pour Juges, déclarerent qu’aucun de
           leur Corps ne seroit reçeu à prétendre au Prix. Cet illustre Duc qui n’a jamais rien eu de
           plus cher, que de travailler pour la gloire de son Maistre, se crut obligé de leur
           découvrir, non seulement que c’estoit luy qui donnoit cette Médaille, mais qu’il croyoit
@@ -1788,9 +1715,7 @@
           vous manderay que dans l’autre ce qui se sera passé dans ce Jugement.</p>
         <p>On difére toûjours à prononcer sur les Sonnets des rimes de Pan &amp; de Guenuche.
           Apparemment il s’en trouve tant de bons, que le meilleur est difficile à choisir. Parmy
-          ceux qui courent, les deux que je vous envoye sont fort estimez. L’une est de M<hi
-            rend="sup">r</hi> l’Abbé Gautier de Provence, &amp; l’autre de M<hi rend="sup"
-          >r</hi> Amoreux de Digne, Avocat au Parlement d’Aix.</p>
+          ceux qui courent, les deux que je vous envoye sont fort estimez. L’une est de M<hi rend="sup">r</hi> l’Abbé Gautier de Provence, &amp; l’autre de M<hi rend="sup">r</hi> Amoreux de Digne, Avocat au Parlement d’Aix.</p>
         <quote>
           <label>A LA GLOIRE DU ROY.<lb/><hi rend="sc">Sonnet.</hi></label>
           <lg>
@@ -1848,8 +1773,7 @@
           </lg>
         </quote>
         <p/>
-        <p>Cet autre Sonnet, sur un sujet diférent, quoy que sur les mesmes rimes, est de M<hi
-            rend="sup">r</hi> le Président de Silvecane de Lyon.</p>
+        <p>Cet autre Sonnet, sur un sujet diférent, quoy que sur les mesmes rimes, est de M<hi rend="sup">r</hi> le Président de Silvecane de Lyon.</p>
         <quote>
           <label>SUR UN DEPIT.</label>
           <lg>
@@ -2250,12 +2174,10 @@
         <p>La Duchesse d’Estramene se vend chez le S<hi rend="sup">r</hi> Blageart, Court neuve du
           Palais, au Dauphin.</p>
         <p>Le S<hi rend="sup">r</hi> Libraire au Palais, à l’Ecu de France, debite un Livre nouveau,
-          intitulé <hi rend="i">La Science parfaite des Notaires</hi>. Il est de M<hi rend="sup"
-            >r</hi> Ferriore Avocat en Parlement, celebre par quantité d’autres Livres de Droit
+          intitulé <hi rend="i">La Science parfaite des Notaires</hi>. Il est de M<hi rend="sup">r</hi> Ferriore Avocat en Parlement, celebre par quantité d’autres Livres de Droit
           qu’il a mis au jour depuis trois ans avec grand succés. Ce dernier est un Inquarto fort
           ample, &amp; aussi utile pour les Provinces de Droit Ecrit, que pour celles de Droit
           Coûtumier.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

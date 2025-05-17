@@ -1,69 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1687-03a">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, mars 1687 (première partie) [tome 4]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1687-03a</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>mars 1687</date> (première partie) [tome
-          4].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1687-03"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, mars 1687 (première partie) [tome 4].</head>
       <div type="article" xml:id="MG-1687-03a_000" resp="wordpro">
@@ -183,8 +118,7 @@
         <head>[Madrigal]</head>
         <bibl><title>Mercure galant</title>, mars 1687 (première partie) [tome 4], p. 9-11</bibl>
         <p>Le jour que le Roy honora Paris de sa presence, le Pont Nostre-Dame, par lequel passa Sa
-          Majesté, se trouva orné de Lustres &amp; de Miroirs. Ce fut là-dessus que M<hi rend="sup"
-            >r</hi> Vignier fit ce Madrigal.</p>
+          Majesté, se trouva orné de Lustres &amp; de Miroirs. Ce fut là-dessus que M<hi rend="sup">r</hi> Vignier fit ce Madrigal.</p>
         <quote>
           <label>AU ROY.</label>
           <lg>
@@ -228,8 +162,7 @@
         <p>Aprés que le Soleil est levé, il trouve quelquefois des nuages en son chemin qui ne
           servent qu’à montrer sa force, c’est précisément le destin du Roy. Sa convalescence a esté
           un peu traversée, &amp; tous les periodes en sont assez bien marquez par cette autre
-          Devise. Elle represente un Soleil qui perce des nuages, avec ces paroles Italiennes, <hi
-            rend="i">Non Ingombrato da’ nubi.</hi></p>
+          Devise. Elle represente un Soleil qui perce des nuages, avec ces paroles Italiennes, <hi rend="i">Non Ingombrato da’ nubi.</hi></p>
         <quote>
           <lg>
             <l rend="i"> C’est sa vertu, c’est sa vigueur</l>
@@ -242,8 +175,7 @@
           qu’il est au Signe de la Vierge, il forme des jours qui sont des plus chauds &amp; des
           plus longs de l’année. A ce sujet on a fait une troisiéme Devise sur le Voyage du Roy à
           Nostre-Dame de Paris, où Sa Majesté vint le 30. de Janvier rendre graces à Dieu de sa
-          guerison. Là-dessus on propose le Soleil au Signe de la Vierge, avec ces mots, <hi
-            rend="i">Lucet &amp; ardet.</hi></p>
+          guerison. Là-dessus on propose le Soleil au Signe de la Vierge, avec ces mots, <hi rend="i">Lucet &amp; ardet.</hi></p>
         <quote>
           <lg>
             <l rend="i"> Ses lumieres &amp; son ardeur</l>
@@ -308,8 +240,7 @@
         </quote>
         <p>La Médaille est sur l’honneur que Paris a receu par la presence de Sa Majesté, lors
           qu’Elle disna à l’Hostel de Ville, &amp; se fit voir à tout son Peuple aprés le
-          recouvrement de sa Santé. C’est encore la teste du Roy, &amp; autour, <hi rend="i"
-            >Ludovicus Magnus, Pater Patriæ</hi>. Le Revers a pour Devise le Soleil dans le Zodiaque
+          recouvrement de sa Santé. C’est encore la teste du Roy, &amp; autour, <hi rend="i">Ludovicus Magnus, Pater Patriæ</hi>. Le Revers a pour Devise le Soleil dans le Zodiaque
           à costé du Signe du Belier, mais plus bas, pour marquer qu’il s’en rapproche afin de
           ramener le Printemps, avec ces mots autour de cet Astre, <hi rend="i">Quanta propioris
             gratia vultus</hi> ! Dans l’Exerque, <hi rend="i">Regi optimo, ab Ædilib. Lutet. excipi
@@ -344,8 +275,7 @@
             hospitio</hi>. Cette Inscription est dans la seconde, <hi rend="i">Ludovicus Magnus
             vindex fidei</hi>. Le Soleil levant &amp; une nuit obscure qui fuit à l’Occident, sont
           dans le revers avec ces mots autour de cet Astre. <hi rend="i">Veto pulsis errare
-            tenebris</hi> ; &amp; dans l’Exerque, <hi rend="i">Deletâ Calvinianâ hæresi</hi>. <hi
-            rend="sc">m. dc. lxxxvi</hi>.</p>
+            tenebris</hi> ; &amp; dans l’Exerque, <hi rend="i">Deletâ Calvinianâ hæresi</hi>. <hi rend="sc">m. dc. lxxxvi</hi>.</p>
         <p>Voicy une seconde Devise sur l’Heresie abatuë. La baguete de Moyse frapant le Rocher en
           fait le Corps, &amp; elle a pour ame, <hi rend="i">A Domino factum est istud.</hi></p>
         <quote>
@@ -385,8 +315,7 @@
         <p/>
         <p>Tandis que les uns ont fait connoistre par des Ouvrages d'esprit, la joye qu'ils ont de
           la parfaite guerison du Roy, les autres l'ont fait éclater par de grandes Festes. Il s'en
-          fit une des plus magnifiques à Marseille le 5. de Février, par les ordres de M<hi
-            rend="sup">r</hi> Begon, Intendant des Galeres. M<hi rend="sup">r</hi> Simon, Directeur
+          fit une des plus magnifiques à Marseille le 5. de Février, par les ordres de M<hi rend="sup">r</hi> Begon, Intendant des Galeres. M<hi rend="sup">r</hi> Simon, Directeur
           general des Vivres, qui fut chargé de les faire executer, fit faire à la pointe du jour
           une décharge de plusieurs Boëtes, &amp; la Diane fut batuë sur toutes les Galeres, par
           tous les Tambours des Compagnies qui y sont entretenuës, aprés laquelle tous les Fifres,
@@ -400,8 +329,7 @@
           communierent, &amp; à la fin de la Messe M<hi rend="sup">r</hi> l'Intendant leur mit leur
           Congé entre les mains pour se retirer chez eux, ce qui fut suivy d'une infinité de cris de
             <hi rend="i">Vive le Roy</hi>. Cette Ceremonie estant achevée, M<hi rend="sup">r</hi> le
-          Commandeur de la Bretesche, qui commande les Galeres en l'absence de M<hi rend="sup"
-            >r</hi> le Duc de Mortemar, &amp; de M<hi rend="sup">r</hi> le Chevalier de Noailles, se
+          Commandeur de la Bretesche, qui commande les Galeres en l'absence de M<hi rend="sup">r</hi> le Duc de Mortemar, &amp; de M<hi rend="sup">r</hi> le Chevalier de Noailles, se
           rendit dans l'Eglise Cathedrale avec M<hi rend="sup">r</hi> l'Intendant, &amp; tous les
           Officiers des Galeres, qui furent suivis de toutes les Personnes de qualité de la Ville.
           On se plaça d'abord dans la Nef, où M<hi rend="sup">r</hi> Muret, Aumônier de Galere,
@@ -409,8 +337,7 @@
           grand merite, &amp; qui presche actuellement le Caresme dans la Cathedrale de Marseille.
           Il a remply le premier Employ dans l'Ambassade d'Espagne sous M<hi rend="sup">r</hi>
           l'Archevesque d'Ambrun Evesque de Mets, &amp; il s'est fait long-temps connoistre à Paris
-          par ses Predications, &amp; par les divers Livres qu'il a donnez au Public, sçavoir, <hi
-            rend="i">L'Explication morale sur les Epistres de S. Paul, les Ceremonies Funebres de
+          par ses Predications, &amp; par les divers Livres qu'il a donnez au Public, sçavoir, <hi rend="i">L'Explication morale sur les Epistres de S. Paul, les Ceremonies Funebres de
             toutes les Nations, &amp; le Traité des Festins.</hi> Lors qu'il eut finy, on entra dans
           le Choeur, où il y eut une grand'Messe chantée en Musique avec le <hi rend="i">Te
             Deum</hi> à la fin, &amp; l'<hi rend="i">Exaudiat</hi>, &amp; à la sortie de l'Eglise,
@@ -418,32 +345,27 @@
           l'Intendante fit chanter un autre <hi rend="i">Te Deum</hi> aux Carmes, en presence de
           tous les Pauvres de la Ville, au nombre de plus de 1600. à qui elle avoit fait distribuer
           une aumône extraordinaire de pain, de vin, &amp; d'argent, outre ce que sa charité luy
-          fait donner tous les jours pour leur nourriture. Sur les cinq heures du soir, M<hi
-            rend="sup">r</hi> l'Intendant se rendit à la Réale, où M<hi rend="sup">r</hi> le
+          fait donner tous les jours pour leur nourriture. Sur les cinq heures du soir, M<hi rend="sup">r</hi> l'Intendant se rendit à la Réale, où M<hi rend="sup">r</hi> le
           Commandeur de la Bretesche fit chanter le <hi rend="i">Te Deum</hi> en Musique. On en
           chanta un dans le mesme temps sur chaque Galere, &amp; il fut suivy par trois décharges de
           toute l'Artillerie. Deux heures aprés on fit à l'Arcenal un Feu d'artifice, qui dura
           demy-heure. Il y eut des fusées de toutes sortes, &amp; en fort grand nombre. A neuf
           heures toutes les personnes de qualité de l'un &amp; de l'autre Sexe, tant de Marseille,
-          que d'Aix, de Toulon &amp; des autres Villes de la Province, se rendirent chez M<hi
-            rend="sup">r</hi> l'Intendant, &amp; trouverent les Apartemens de sa maison illuminez,
+          que d'Aix, de Toulon &amp; des autres Villes de la Province, se rendirent chez M<hi rend="sup">r</hi> l'Intendant, &amp; trouverent les Apartemens de sa maison illuminez,
           &amp; partagez de maniere, qu'il n'y en avoit aucun qui ne fust disposé pour servir à la
-          Feste qu'il avoit fait préparer.<note resp="author">Voir <ref
-              target="MG-1687-03a_033">l'article suivant</ref> qui relate la suite de la
+          Feste qu'il avoit fait préparer.<note resp="author">Voir <ref target="MG-1687-03a_033">l'article suivant</ref> qui relate la suite de la
             fête.</note></p>
       </div>
       <div type="article" xml:id="MG-1687-03a_033" resp="mercure">
         <head>[Vers d'un petit Opera intitulé, Jugement du Soleil]</head>
         <bibl><title>Mercure galant</title>, mars 1687 (première partie) [tome 4], p. 33-46.</bibl>
         <p/>
-        <p>Comme il n'y avoit point de Salle assez grande pour recevoir tous les Conviez<note
-          resp="editor">Voir <ref target="MG-1687-03a_025">l'article
+        <p>Comme il n'y avoit point de Salle assez grande pour recevoir tous les Conviez<note resp="editor">Voir <ref target="MG-1687-03a_025">l'article
             précédent</ref> et <ref target="MG-1687-03a_046">suivant</ref> qui relatent également la
           fête.</note>, on avoit
           dressé un Theatre sur la Terrasse qui regne le long de l'Apartement de Madame
           l'Intendante, afin d'y representer un <hi rend="i">Opera</hi> fait exprés, qui avoit pour
-          titre, <hi rend="i">Le Jugement du Soleil</hi>. Les Vers estoient de M<hi rend="sup"
-            >r</hi> de Bonnecorse, &amp; la Musique de M<hi rend="sup">r</hi> Gautier, Chef de
+          titre, <hi rend="i">Le Jugement du Soleil</hi>. Les Vers estoient de M<hi rend="sup">r</hi> de Bonnecorse, &amp; la Musique de M<hi rend="sup">r</hi> Gautier, Chef de
           l'Academie Royale de Musique de Marseille. Pour se parer du vent, qui estoit tres-grand,
           on avoit eu soin de couvrir toute la Terrasse &amp; le Theatre, tant de voiles que
           d'étofes, en sorte qu'on n'en receut aucune incommodité. Il s'y trouva plus de mille
@@ -622,8 +544,7 @@
             il y eut des rafraichissemens de toutes sortes de liqueurs pour tous ceux qui en
             voulurent. Les Apartemens estoient éclairez d'une infinité de lumieres, aussi bien que
             l'Escalier. On avoit encore préparé des Illuminations par dehors aux logemens de
-            l'Arcenal, &amp; aux Galeres, mais le grand vent en empescha le succés. M<hi rend="sup"
-              >r</hi> du Pile, qui fournit tous les vivres de la Marine, fit voir la part qu'il
+            l'Arcenal, &amp; aux Galeres, mais le grand vent en empescha le succés. M<hi rend="sup">r</hi> du Pile, qui fournit tous les vivres de la Marine, fit voir la part qu'il
             prenoit aux réjoüissances publiques par une liberalité qu'il fit faire à tous les
             Forçats des Galeres, &amp; à ceux de l'Hospital, qui sont au nombre de huit mille. Outre
             leur Ration ordinaire, il fit distribuer à chacun une livre de mouton, quatre onces de
@@ -633,9 +554,7 @@
       </div>
       <div type="article" xml:id="MG-1687-03a_046" resp="mercure">
         <head>[Prieres &amp; Réjoüissances faites à Marseille par les Comites des Galeres]</head>
-        <bibl><title>Mercure galant</title>, mars 1687 (première partie) [tome 4], p. 46-49 <note
-            resp="editor">Voir les articles précédents <ref target="MG-1687-03a_025"
-            /> et <ref target="MG-1687-03a_046"/> qui relatent également la fête.</note></bibl>
+        <bibl><title>Mercure galant</title>, mars 1687 (première partie) [tome 4], p. 46-49 <note resp="editor">Voir les articles précédents <ref target="MG-1687-03a_025"/> et <ref target="MG-1687-03a_046"/> qui relatent également la fête.</note></bibl>
         <p>Le 16. du mesme mois, les Comites des Galeres firent leur Ceremonie particuliere dans
           l'Eglise des Minimes, avec toute la pompe qu'on pouvoit attendre du zele d'un si grand
           Corps. Ils s'assemblerent dans la Réale, d'où ils partirent ayant chacun un flambeau à la
@@ -720,8 +639,7 @@
           illuminée comme le matin, &amp; lors que chacun eut pris sa place, M<hi rend="sup">r</hi>
           de Peyron, Procureur du Roy, prononça un discours sur l'importance de la vie &amp; de la
           santé de Sa Majesté, &amp; donna à toute l'Assemblée de grandes marques de son eloquence
-          &amp; de son zele. Ce discours fut suivy d'un Motet à la gloire du Roy &amp; de <hi
-            rend="i">l'Exaudit</hi> chanté en Musique. La nuit arrivée, M<hi rend="sup">rs</hi> du
+          &amp; de son zele. Ce discours fut suivy d'un Motet à la gloire du Roy &amp; de <hi rend="i">l'Exaudit</hi> chanté en Musique. La nuit arrivée, M<hi rend="sup">rs</hi> du
           Siege ayant M<hi rend="sup">r</hi> le Senéchal à leur teste, descendirent pour aller
           allumer le feu. Ils marcherent au bruit des Tambours &amp; des Trompetes jusqu'à la porte
           du Palais où ils s'arresterent, &amp; alors les Musiciens qui s'estoient placez sur des
@@ -757,11 +675,9 @@
           quoy que ce lieu parust si favorable au dessein qu'ils avoient pris, tant par sa vaste
           étenduë, que par la richesse de ses peintures &amp; de ses dorures qui l'embellissent
           depuis le haut de la voûte jusques au bas, M<hi rend="sup">rs</hi> de l'Academie prirent
-          encore un soin particulier de l'orner magnifiquement, &amp; prierent M<hi rend="sup"
-            >r</hi> Giffon, l'un de leurs Confreres, de se charger de cette conduite, &amp; de
+          encore un soin particulier de l'orner magnifiquement, &amp; prierent M<hi rend="sup">r</hi> Giffon, l'un de leurs Confreres, de se charger de cette conduite, &amp; de
           travailler aussi à la composition quelques paroles en forme de Cantique à la gloire de Sa
-          Majesté, &amp; au sujet de cette Feste, pour les faire mettre en Musique par le S<hi
-            rend="sup">r</hi> Aubert, Maistre de Chapelle de la Cathedrale d'Arles, l'un des plus
+          Majesté, &amp; au sujet de cette Feste, pour les faire mettre en Musique par le S<hi rend="sup">r</hi> Aubert, Maistre de Chapelle de la Cathedrale d'Arles, l'un des plus
           celebres Compositeurs, &amp; du meilleur goût qu'il y ait en France. [...] Il seroit
           difficile de representer quel fut le concours de toutes les personnes de qualité, des
           Sçavans de tous les Ordres &amp; de tous les Curieux de la Ville. M<hi rend="sup">r</hi>
@@ -879,8 +795,7 @@
             sage &amp; du plus Chrestien de tous les hommes, comme le bonheur qui a toûjours
             accompagné ses entreprises guerrieres, la fait l’Arbitre de toute l’Europe, &amp; le
             plus grand Roy qui soit sur la Terre</hi>. M<hi rend="sup">r</hi> Godeau examinant
-          ensuite en détail la nature du mal qu’a souffert Sa Majesté, fit connoistre <hi rend="i"
-            >que toute sa rigueur n’avoit pas esté capable d’arrester le cours de ses occupations
+          ensuite en détail la nature du mal qu’a souffert Sa Majesté, fit connoistre <hi rend="i">que toute sa rigueur n’avoit pas esté capable d’arrester le cours de ses occupations
             royales, ny de suspendre les effets de cette admirable activité qui le fait travailler
             sans cesse à procurer le bien de la Religion &amp; de la Republique Chrestienne ; que
             l’on n’avoit remarqué aucun changement dans sa conduite, si ce n’est qu’il avoit fait de
@@ -903,16 +818,14 @@
             la sagesse &amp; par la valeur du Roy, &amp; nous remplissoit d’une esperance agreable,
             d’en recevoir encore dans la suite de plus precieux &amp; de plus grands ; que Dieu
             n’avoit conservé le Roy dans son âge florissant, qu’afin d’executer par son bras des
-            choses extraordinaires. J’atteste</hi> dit-il en s’adressant à ce Prince, <hi rend="i"
-            >j’atteste l’Ange terrible qui vous a conduit à tant de Conquestes, qui vous a fait le
+            choses extraordinaires. J’atteste</hi> dit-il en s’adressant à ce Prince, <hi rend="i">j’atteste l’Ange terrible qui vous a conduit à tant de Conquestes, qui vous a fait le
             Protecteur de vos Alliez, qui vous a rendu redoutable à vos Ennemis, venerable à vos
             Sujets, aimable à tout le monde, qu’il ne veut pas borner icy vos glorieuses actions.
             Nous esperons voir bien-tost le jour auquel vous rendrez à la Religion Catholique dans
             tout le reste du monde ce que vous luy avez rendu dans vos Estats, c’est à dire ce divin
             éclat qu’elle avoit receu de Clovis, de Charlemagne, &amp; de S. Loüis. Elle attend par
             tout l’effet de vostre pouvoir ; elle respire déja par toute la Terre un air plus doux
-            dans la confiance qu’elle a en vostre courage &amp; en vostre zele</hi>. Il ajoûta <hi
-            rend="i">que sans aller chercher dans l’avenir, nous avions dans le passé d’assez grands
+            dans la confiance qu’elle a en vostre courage &amp; en vostre zele</hi>. Il ajoûta <hi rend="i">que sans aller chercher dans l’avenir, nous avions dans le passé d’assez grands
             sujets de reconnoistre que nous avons esté favorisez particulierement du Ciel, &amp; que
             nous luy sommes infiniment redevables de nous avoir conservé l’auguste LOVIS ; que quand
             mesme nous ne pourrions nous flater dans la suite d’aucun bon succez, quand les faveurs
@@ -932,8 +845,7 @@
       <div type="article" xml:id="MG-1687-03a_107" resp="wordpro">
         <head>[Madrigal]</head>
         <bibl><title>Mercure galant</title>, mars 1687 (première partie) [tome 4], p. 107-108</bibl>
-        <p>Vous en trouverez une tres-ardente, quoy qu’en peu de mots, dans ce Madrigal de M<hi
-            rend="sup">r</hi> Doujat, Doyen de l’Academie Françoise.</p>
+        <p>Vous en trouverez une tres-ardente, quoy qu’en peu de mots, dans ce Madrigal de M<hi rend="sup">r</hi> Doujat, Doyen de l’Academie Françoise.</p>
         <quote>
           <lg>
             <l rend="i"> Arrestons desormais nos larmes,</l>
@@ -1105,8 +1017,7 @@
       <div type="article" xml:id="MG-1687-03a_117" resp="wordpro">
         <head>Sur le retablissement de la Santé du Roy</head>
         <bibl><title>Mercure galant</title>, mars 1687 (première partie) [tome 4], p. 117-128</bibl>
-        <p>Je ne sçaurois mieux finir ce grand Article, que par des Vers libres de M<hi rend="sup"
-            >r</hi> de Fontenelle. Les Ouvrages qu’il a donnez au Public sont si estimez, que son
+        <p>Je ne sçaurois mieux finir ce grand Article, que par des Vers libres de M<hi rend="sup">r</hi> de Fontenelle. Les Ouvrages qu’il a donnez au Public sont si estimez, que son
           nom vous doit répondre des beautez de celuy-cy. Il faut pourtant vous dire que toute la
           gloire ne luy en est pas deuë, puis que c’est une Traduction d’une Ode Latine du Pere
           Comire Jesuite, dont tout le monde connoist le rare talent. Ainsi les pensées ne sont
@@ -1359,8 +1270,7 @@
           </lg>
         </quote>
         <p>Ces Vers estant recitez, deux fort belles Voix, dont une ne fait pas un des petits
-          ornemens de cette Maison, ayant esté une des meilleures Ecolieres du fameux M<hi
-            rend="sup">r</hi> Lambert, chanterent ces autres Vers, mis en Musique par un tres-bon
+          ornemens de cette Maison, ayant esté une des meilleures Ecolieres du fameux M<hi rend="sup">r</hi> Lambert, chanterent ces autres Vers, mis en Musique par un tres-bon
           Maistre.</p>
         <quote>
           <label>I. DESSUS.</label>
@@ -1714,8 +1624,7 @@
         <quote>
           <p><hi rend="i">MONSIEUR,</hi></p>
           <p><hi rend="i">Voicy dequoy reparer le temps que j’ay laissé passer sans vous apprendre
-              des nouvelles extraordinaires concernant les Arts, &amp; les Sciences. M<hi rend="sup"
-                >r</hi> Perrot, Intendant de la Verrerie Royale d’Orleans, m’en fournit la matiere.
+              des nouvelles extraordinaires concernant les Arts, &amp; les Sciences. M<hi rend="sup">r</hi> Perrot, Intendant de la Verrerie Royale d’Orleans, m’en fournit la matiere.
               C’est le mesme dont je vous ay déja parlé lors que les Ambassadeurs de Siam allerent
               voir ses Ouvrages quand ils passerent par Orleans pour venir à Paris. Comme il est
               Artiste tres-expere &amp; grand Philosophe, il a si bien étudié tout ce qui regarde la
@@ -1776,9 +1685,7 @@
         <head>[Pieces de Clavessin]</head>
         <bibl><title>Mercure galant</title>, mars 1687 (première partie) [tome 4], p. 235-239</bibl>
         <p/>
-        <p>Voicy un prodige d'une autre nature. Mademoiselle Jacquet<note resp="editor">Voir aussi <ref target="MG-1677-07_093">cet article</ref>, <ref
-              target="MG-1677-07_101">cet article</ref> et cet <ref target="MG-1677-07_105"
-              >article</ref> de juillet 1677 qui font état des débuts
+        <p>Voicy un prodige d'une autre nature. Mademoiselle Jacquet<note resp="editor">Voir aussi <ref target="MG-1677-07_093">cet article</ref>, <ref target="MG-1677-07_101">cet article</ref> et cet <ref target="MG-1677-07_105">article</ref> de juillet 1677 qui font état des débuts
             d'Élisabeth Jacquet de la Guerre à la cour.</note>, dont je vous ay souvent parlé, &amp;
           dont je vous entretiendray aujourd'huy sous le nom de Mademoiselle de la Guerre, ayant dés
           l'âge de cinq ans donné des marques d'une science infuse pour le Clavessin, le Roy
@@ -1829,10 +1736,8 @@
         <p>Le 1. Février M<hi rend="sup">r</hi> le Prince de Toscane arriva à Livourne, où il fut
           receu par le Gouverneur avec toute la Garnison sous les armes. L'aprésdînée il alla se
           promener sur la Mer. Tous les Bâtimens François qui étoient à la Darse, au Môle, &amp; à
-          la Rade, le salüerent en passant avec toute l'Artillerie, par l'ordre de M<hi rend="sup"
-            >r</hi> Cotolendi, Consul de France, ce qui firent aussi tous les Bâtimens des autres
-          Nations à l'exemple des François. Le soir ce Prince vit l'Opera intitulé, <hi rend="i"
-            >Olimpia Vendicata</hi>, &amp; le lendemain aprés avoir vû faire l'exercice à la plus
+          la Rade, le salüerent en passant avec toute l'Artillerie, par l'ordre de M<hi rend="sup">r</hi> Cotolendi, Consul de France, ce qui firent aussi tous les Bâtimens des autres
+          Nations à l'exemple des François. Le soir ce Prince vit l'Opera intitulé, <hi rend="i">Olimpia Vendicata</hi>, &amp; le lendemain aprés avoir vû faire l'exercice à la plus
           grande partie de la Garnison rangée en Bataille, il eut le divertissement d'un autre Opera
           intitulé <hi rend="i">Il Rodrigo</hi>. Le 3. il visita toutes les nouvelles Fortifications
           qu'on fait autour de la Ville &amp; à la pointe du Môle, &amp; alla le soir au Palais du
@@ -1850,8 +1755,7 @@
           trouverent. [...]</p>
         <p>Le lendemain on fit les Obseques de ce Prince dans la mesme Eglise, où les Compagnies
           assisterent en Corps comme le jour precedent avec des Robes de laine, &amp; des crespes
-          sur les Chapeaux en signe de deüil. M<hi rend="sup">r</hi> le Doyen officia, &amp; M<hi
-            rend="sup">r</hi> Maleteste, Chanoine &amp; Trésorier de la mesme Eglise, prononça
+          sur les Chapeaux en signe de deüil. M<hi rend="sup">r</hi> le Doyen officia, &amp; M<hi rend="sup">r</hi> Maleteste, Chanoine &amp; Trésorier de la mesme Eglise, prononça
           l'Oraison Funebre. [...]</p>
         <p>Le 28. du mesme mois, les Jesuites firent un Service solemnel pour ce mesme Prince. Le
           Choeur de leur Eglise estoit tendu de drap noir avec cinq lez de velours, &amp; deux dans
@@ -1921,8 +1825,7 @@
           touchant, &amp; ce qu’il dit d’obligeant pour Monsieur le Duc, à present Monsieur le
           Prince. Comme on doit croire le témoignage d’un homme mourant, &amp; sur tout d’un grand
           Prince, je ne puis m’empescher de vous marquer ce que j’en ay retenu. Il fit connoistre
-          qu’il sçavoit à fond les sentimens de ce Fils qu’il aimoit si tendrement, &amp; dit <hi
-            rend="i">qu’il n’avoit que faire de luy donner d’instructions ; qu’il connoissoit son
+          qu’il sçavoit à fond les sentimens de ce Fils qu’il aimoit si tendrement, &amp; dit <hi rend="i">qu’il n’avoit que faire de luy donner d’instructions ; qu’il connoissoit son
             cœur, &amp; que quoy qu’on luy pust dire pour l’exciter à la gloire, pour le faire
             souvenir de ne rien faire contre son honneur, &amp; pour l’engager à servir &amp; à
             aimer toûjours le Roy, il sçavoit qu’il feroit encore plus que tout ce qu’on pouroit
@@ -1934,8 +1837,7 @@
           ordres de Dieu, &amp; le desir qu’il avoit de voir face à face sa divine Majesté.</p>
         <p>Voilà tout l’effort que ma memoire a pû faire pour vous entretenir de cette Oraison
           Funebre. Je ne manqueray pas de vous l’envoyer si tost qu’elle sera imprimée.</p>
-        <p>Lors que M<hi rend="sup">r</hi> l’Evesque de Meaux fut sorty de Chaire, M<hi rend="sup"
-            >r</hi> l’Archevesque se remit à l’Autel pour achever la Messe.[...]</p>
+        <p>Lors que M<hi rend="sup">r</hi> l’Evesque de Meaux fut sorty de Chaire, M<hi rend="sup">r</hi> l’Archevesque se remit à l’Autel pour achever la Messe.[...]</p>
       </div>
       <div type="article" xml:id="MG-1687-03a_343" resp="wordpro">
         <head>[Suite du Journal de l’Ambassade de Siam en France]</head>
@@ -1999,8 +1901,7 @@
           qu'une personne de qualité l'amena en France. Peu de temps aprés il entra chez
           Mademoiselle d'Orleans, &amp; ensuite chez le Roy, où sa réputation s'augmenta de jour de
           jour. Jamais homme n'a porté si haut l'Art de joüer du Violon. Cet Instrument estoit plus
-          agreable entre ses mains qu'aucun autre que l'on puisse s'imaginer. L'usage des <hi
-            rend="i">Opera</hi> n'ayant pas encore esté introduit en France, le Roy faisoit faire
+          agreable entre ses mains qu'aucun autre que l'on puisse s'imaginer. L'usage des <hi rend="i">Opera</hi> n'ayant pas encore esté introduit en France, le Roy faisoit faire
           tous les ans de fort grands Spectacles qu'on nommoit Balets. Il y avoit un Corps de sujet
           representé par un grand nombre d'Entrées meslées de recits. M<hi rend="sup">r</hi> de
           Lulli ne fit d'abord les Airs que d'une Partie ; mais comme il avoit un genie merveilleux,
@@ -2026,8 +1927,7 @@
           la feuë Reyne Mere, dans laquelle une personne d'une qualité distinguée, &amp; qui avoit
           fait paroistre sa magnificence dans un spectacle qu'il avoit liberalement donné au Public,
           &amp; dont il avoit fait luy-mesme les machines, se fit un plaisir d'entrer. Cette
-          nouveauté plut au Public &amp; eut assez de succes ; mais enfin ces M<hi rend="sup"
-            >rs</hi> s'estant broüillez, &amp; M<hi rend="sup">r</hi> Perrin croyant avoir juste
+          nouveauté plut au Public &amp; eut assez de succes ; mais enfin ces M<hi rend="sup">rs</hi> s'estant broüillez, &amp; M<hi rend="sup">r</hi> Perrin croyant avoir juste
           sujet de se plaindre, transporta son Privilege à M<hi rend="sup">r</hi> de Lulli avec
           l'agrement du Roy. On voulut l'inquieter ; mais ayant droit de celuy à qui appartenoit
           veritablement le Privilege, la Justice se déclara de son costé. Aprés cela le Roy luy
@@ -2035,8 +1935,7 @@
           Ainsi ceux qui ont cru au préjudice du premier Privilege, le Roy en avoit donné un second
           qui annulloit ce premier, n'ont pas esté bien instruits. Le Roy garde l'équité en toutes
           choses, &amp; si M<hi rend="sup">r</hi> de Lulli ne se fust pas accommodé du Privilege
-          avec celuy à qui il avoit esté d'abord donné, il n'en auroit pas obtenu un autre. L'<hi
-            rend="i">Opera</hi> parut entre ses mains avec de nouvelles beautez, &amp; depuis qu'il
+          avec celuy à qui il avoit esté d'abord donné, il n'en auroit pas obtenu un autre. L'<hi rend="i">Opera</hi> parut entre ses mains avec de nouvelles beautez, &amp; depuis qu'il
           a commencé a y travailler, il a continué jusques à sa mort. Quelque temps avant qu'il
           tombast malade, il fit chanter dans l'Eglise des Feüillans un <hi rend="i">Te Deum</hi>
           pour rendre graces à Dieu du retour de la Santé du Roy. C'est le dernier Ouvrage qu'il ait
@@ -2082,5 +1981,4 @@
         </ref>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

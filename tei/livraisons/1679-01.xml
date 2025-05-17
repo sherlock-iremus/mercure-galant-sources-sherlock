@@ -1,64 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, janvier 1679 [tome 1]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2015"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1679-01/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, janvier [tome 1], <date>1679</date>.</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1679-01"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1679-01_000a" resp="mercure">
         <head>A Monseigneur le Dauphin</head>
@@ -241,8 +181,7 @@
           le Gouvernement de la Province, qu'il avoit sçeu si bien garder au dedans &amp; au dehors.
           La Ville de Grenoble luy estoit déja obligée en particulier des soins de son
           agrandissement &amp; de ses embellissemens. M<hi rend="sup">r</hi> le Mareschal de Créquy
-          son Gendre, Ayeul de M<hi rend="sup">r</hi> le Duc de Lesdiguieres, de M<hi rend="sup"
-            >r</hi> le Duc de Créquy, &amp; de M<hi rend="sup">r</hi> le Mareschal de Créquy,
+          son Gendre, Ayeul de M<hi rend="sup">r</hi> le Duc de Lesdiguieres, de M<hi rend="sup">r</hi> le Duc de Créquy, &amp; de M<hi rend="sup">r</hi> le Mareschal de Créquy,
           seconda cet illusre Connestable par son incomparable bravoure, avec le zele &amp; le
           succés que l'Histoire nous apprend. M<hi rend="sup">r</hi> le Duc de Lesdiguieres son
           Fils, dernier mort, qui a gouverné la mesme Province jusqu'à l'âge de quatre-vingts ans,
@@ -279,8 +218,7 @@
           qui pouvoit faire connoistre l’extréme satisfaction que toute la Ville ressentoit. Le
           lendemain, la plus grande partie de ce qu’il y avoit de Personnes de qualité à Grenoble,
           fut conviée à disner par ces mesmes Officiers. Le Repas fut magnifique, &amp; les santez
-          de M<hi rend="sup">r</hi> le Duc de Lesdiguieres, de Madame la Duchesse, de M<hi
-            rend="sup">r</hi> le Cardinal de Rets, &amp; du jeune Comte de Sault, y furent beuës
+          de M<hi rend="sup">r</hi> le Duc de Lesdiguieres, de Madame la Duchesse, de M<hi rend="sup">r</hi> le Cardinal de Rets, &amp; du jeune Comte de Sault, y furent beuës
           avec de grands cris de réjoüissance. Ce jour-là &amp; les suivans, l’Hôtel fut ouvert à
           tout le monde qui s’empressoit pour apprendre des nouvelles de cette heureuse naissance.
           Pendant plus de trois semaines, personne ne vouloit consentir qu’il fust un jour de
@@ -353,12 +291,10 @@
           Compagnies s’estant mises en ordre, elles vinrent faire leurs décharges devant cet Hôtel,
           &amp; passerent ensuite devant le Logis de M<hi rend="sup">r</hi> le Président de S.
           André, qui a esté Ambassadeur à Venise, &amp; à qui le Roy a commis le Gouvernement de la
-          Province en l’absence de M<hi rend="sup">r</hi> le Duc de Lesdiguieres, &amp; de M<hi
-            rend="sup">r</hi> le Comte de Tallard qui en est Lieutenant General. Ces honneurs
+          Province en l’absence de M<hi rend="sup">r</hi> le Duc de Lesdiguieres, &amp; de M<hi rend="sup">r</hi> le Comte de Tallard qui en est Lieutenant General. Ces honneurs
           rendus, elles allerent se poster dans la Place du Breüil, avec la Compagnie de la
           Jeunesse, commandée par le mesme M<hi rend="sup">r</hi> du Savel dont je vous viens de
-          parler. Il estoit magnifiquement vétu, &amp; fort-bien monté, ainsi que M<hi rend="sup"
-            >r</hi> Pellat Lieutenant de cette Compagnie, &amp; les autres Officiers.</p>
+          parler. Il estoit magnifiquement vétu, &amp; fort-bien monté, ainsi que M<hi rend="sup">r</hi> Pellat Lieutenant de cette Compagnie, &amp; les autres Officiers.</p>
         <p>Le soir on fit joüer un Feu d’artifice, construit par M<hi rend="sup">r</hi> du Clot,
           Ingénieur de la Ville. Le Bâtiment estoit octogone, ouvert par huit endroits, rehaussé par
           un tour de balustrades, &amp; surmonté par un Soleil luisant. L'Inscription qui estoit au
@@ -386,8 +322,7 @@
         <p>Le sixiéme faisoit voir une épaisse Forest, d'où un Créquier sortoit pardessus les autres
           Arbres. On y lisoit ces paroles.</p>
         <l rend="i">Crescent illae, crescentis, honores.</l>
-        <p>Ces Emblemes aussi bien que les Inscriptions, estoient de la composition de M<hi
-            rend="sup">r</hi> l’Horier, Avocat de la Ville. De cette Machine (si l’on peut appeler
+        <p>Ces Emblemes aussi bien que les Inscriptions, estoient de la composition de M<hi rend="sup">r</hi> l’Horier, Avocat de la Ville. De cette Machine (si l’on peut appeler
           ainsi cette maniere de Bâtiment) sortirent plusieurs Fusées en diverses figures au
           commencement de la nuit. Ce Spectacle dura plus d’une heure. La clarté que ces Fusées
           répandirent, dissipa les tenebres des environs, &amp; le bruit qu’elles firent retentir
@@ -567,8 +502,7 @@
           en lieu où celles à qui on les fait ne doivent pas s’attendre de les trouver, il se peut
           que ceux qui en ont inventé la galanterie, ayent fait mettre d’abord quelques Bijoux dans
           les Souliers des Dames à qui ils avoient dessein de plaire, &amp; que les ayant trouvez le
-          matin en se chaussant, elles ayent donné le nom de Sapate à cette Feste, du mot <hi
-            rend="i">çapato</hi>, qui signifie <hi rend="i">Soulier</hi> en Espagnol. Souvenez-vous,
+          matin en se chaussant, elles ayent donné le nom de Sapate à cette Feste, du mot <hi rend="i">çapato</hi>, qui signifie <hi rend="i">Soulier</hi> en Espagnol. Souvenez-vous,
           s’il vous plaist, que ce n’est qu’une simple conjecture que je vous explique. Elle
           obligera peut-estre ceux qui sçavent l’origine de ce que vous me demandez, à me faire part
           de leurs lumieres. Je les recevray avec beaucoup de plaisir, &amp; vous laisse lire, en
@@ -604,8 +538,7 @@
             vous parler que du Sapate de Lundy dernier, cinquième de ce mois. La Feste commença sur
             les six heures du soir, par celuy que S. A. R. donna à son Auguste Mere. Il l’aborda
             dans son Cabinet, &amp; luy presenta un paquet en forme de Lettres, où elle trouva des
-            Sonnets, &amp; des Epigrammes assez galamment tournez sur le sujet. M<hi rend="sup"
-              >r</hi> Pastorel en est l’Autheur ; c’est un ancien Poëte de nostre Cour, dont les
+            Sonnets, &amp; des Epigrammes assez galamment tournez sur le sujet. M<hi rend="sup">r</hi> Pastorel en est l’Autheur ; c’est un ancien Poëte de nostre Cour, dont les
             Ouvrages ont souvent eu l’approbation des M<hi rend="sup">rs</hi> de l’Académie
             Françoise. En lisant ces Poësies, on entra dans la Chambre de M. R. &amp; quoy qu’on ne
             se fust pas étudié à cacher le Sapate, selon la coutume, elle ne laissa pas d’estre
@@ -661,8 +594,7 @@
         <head>Air sur la Paix</head>
         <bibl><title>Mercure galant</title>, janvier 1679 [tome 1], p. 77-78.</bibl>
         <p>L'Air qui suit est sur la Paix. C'est une matiere qui exerce également la Musique &amp;
-          la Poësie. Les Paroles sont de M<hi rend="sup">r</hi> Chesnon de Tours. M<hi rend="sup"
-            >r</hi> Loyseau, Organiste de S. Martin de la mesme Ville, les a notées.</p>
+          la Poësie. Les Paroles sont de M<hi rend="sup">r</hi> Chesnon de Tours. M<hi rend="sup">r</hi> Loyseau, Organiste de S. Martin de la mesme Ville, les a notées.</p>
         <quote>
           <label>AIR SUR LA PAIX.</label><note resp="author" place="margin"><hi rend="i">Avis pour
               placer les Figures</hi> : la Chanson qui commence par <hi rend="i">Canons, Tambours,
@@ -671,16 +603,12 @@
             <l rend="i">Canons, Tambours, Trompetes &amp; Mousquets,</l>
             <l rend="i">Vous refusez de celebrer la Paix,</l>
             <l rend="i">Et vous croyez qu’il est de vostre gloire</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg><seg type="tab">    </seg>D'estre muets,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>D'estre muets,</l>
             <l rend="i">Hors d’un Combat, ou bien d’une Victoire.</l>
             <l rend="i">Canons, Tambours, reprenez vostre employ,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Festez la victoire du Roy,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>LOUIS a terminé la Guerre ;</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Mais c’est vaincre toute la Terre,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Festez la victoire du Roy,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>LOUIS a terminé la Guerre ;</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Mais c’est vaincre toute la Terre,</l>
             <l rend="i">Que la forcer de recevoir sa Loy.</l>
           </lg>
         </quote>
@@ -737,8 +665,7 @@
         <ab type="ornament">***</ab>
         <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Je suis
           tendre, ardent, plein de zele,</l>
-        <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-          >    </seg>Respectueux, sage, fidelle,</l>
+        <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Respectueux, sage, fidelle,</l>
         <l><seg type="tab">    </seg><seg type="tab">    </seg>Prudent, discret, honneste,
           genéreux ;</l>
         <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Et quoy que
@@ -1040,8 +967,7 @@
           les voir a éclaté en diférentes rencontres. Ils ont mangé chez plusieurs Personnes de la
           plus haute Qualité, &amp; M<hi rend="sup">r</hi> le Président de Mesme les a traitez avec
           une tres-grande magnificence. Il y eut quatre Services de neuf Plats chacun. Ceux qui
-          furent invitez à ce Repas, estoient M<hi rend="sup">r</hi> de Strasbourg, M<hi rend="sup"
-            >rs</hi> les Marquis de Soyecourt &amp; de Bouflers, M<hi rend="sup">r</hi> Courtin,
+          furent invitez à ce Repas, estoient M<hi rend="sup">r</hi> de Strasbourg, M<hi rend="sup">rs</hi> les Marquis de Soyecourt &amp; de Bouflers, M<hi rend="sup">r</hi> Courtin,
             M<hi rend="sup">r</hi> le Chevalier Tamboneau, &amp; M<hi rend="sup">r</hi> de
           Vassinard, Gentilhomme Hollandois d’un grand mérite. Il y avoit aussi des Dames, &amp; ce
           furent Mesdames les Marquises de Gouverné &amp; de Doré, &amp; Mesdemoiselles de Poussé
@@ -1126,8 +1052,7 @@
           de choses diférentes à vous apprendre sur cette matiere ; &amp; je ne doute point que la
           diversité de tant de Spectacles qui ont tous eu leurs beautez particulieres dans chaque
           Ville, ne vous remplisse l’esprit d’idées agreables.</p>
-        <p>Je commence par les Habitans du Havre de Grace, qui ayant l’ordre de M<hi rend="sup"
-            >r</hi> le Duc de S. Aignan leur Gouverneur, de rendre cette Publication la plus
+        <p>Je commence par les Habitans du Havre de Grace, qui ayant l’ordre de M<hi rend="sup">r</hi> le Duc de S. Aignan leur Gouverneur, de rendre cette Publication la plus
           solemnelle qu’ils pourroient, n’oublierent rien pour satisfaire dignement à un si juste
           devoir. Le jour qui préceda celuy qu’on avoit choisy pour cette Céremonie, ils firent
           allumer des Feux par tout, &amp; attacher des Flambeaux à toutes les Fenestres, &amp; aux
@@ -1261,15 +1186,13 @@
             estre des mieux faites du Royaume, firent également paroistre leur beauté &amp; leur
             adresse à la Danse. Pendant cette nuit les Ruës furent éclairées d’une infinité de
             Flambeaux, à la clarté desquels tout le Peuple prenoit sa part de la joye publique ;
-            mais comme tous ces divertissemens n’estoient que le prélude du grand Régal que M<hi
-              rend="sup">r</hi> Meliand avoit donné ordre qu’on préparast pour toutes les Personnes
+            mais comme tous ces divertissemens n’estoient que le prélude du grand Régal que M<hi rend="sup">r</hi> Meliand avoit donné ordre qu’on préparast pour toutes les Personnes
             de qualité, &amp; qu’il devoit donner le lendemain au soir, avec un Feu d’artifice des
             plus beaux qui puissent estre inventez, je ne m’arresteray point à vous dire les
             particularitez de toutes les cerémonies que l’on fit pendant ce jour. Je vous diray
             seulement que ce soir on chanta le <hi rend="i">Te-Deum</hi> dans nostre principale
             Eglise, où Monsieur de Bayeux nostre Evesque officia avec sa majesté &amp; sa piété
-            ordinaire, &amp; où tout ce que nous avons de belles Voix se signalerent. Ce <hi
-              rend="i">Te-Deum</hi> estant finy, on alluma le Feu de joye au bruit de nostre Canon,
+            ordinaire, &amp; où tout ce que nous avons de belles Voix se signalerent. Ce <hi rend="i">Te-Deum</hi> estant finy, on alluma le Feu de joye au bruit de nostre Canon,
             &amp; de la Mousqueterie de nos Bourgeois qui estoient sous les armes, au nombre de sept
             à huit mille ; apres quoy on se rendit à l’Hostel preparé pour le Soupé. Quoy que ses
             Apartemens soient d’une grandeur magnifique, on en avoit preparé plusieurs, un seul
@@ -1283,10 +1206,8 @@
           <l>On eust dit que la Paix en suspendant les Armes,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Leur eust
             donné de nouveaux charmes,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg><seg
-              type="tab">    </seg>Et que l’espoir</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg><seg
-              type="tab">    </seg>De revoir</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Et que l’espoir</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>De revoir</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Les
             objets de leurs flâmes,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Avoit
@@ -1355,8 +1276,7 @@
           <l>Voulurent s’aquerir le titre de Vainqueurs.</l>
           <l>Ce bruit fit tant d’éclat, que les Nymphes de l’Orne</l>
           <l>Sortant d’entre les bras de leur Dieu froid &amp; morne,</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-            >    </seg>Quitterent leur lit de cristal</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Quitterent leur lit de cristal</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Pour
             venir voir ce grand Régal,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Et pour
@@ -1407,8 +1327,7 @@
             voler mille Fusées</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Où les
             Chifres du Grand LOUIS</l>
-          <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-            >    </seg>Brilloient avec tant d’adresse,</l>
+          <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Brilloient avec tant d’adresse,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Et mesme
             avecque tant de vîtesse,</l>
           <l><seg type="tab">    </seg><seg type="tab">    </seg>Que tous les yeux en furent
@@ -1496,8 +1415,7 @@
           Theatre, il y avoit une Table fort propre, &amp; qui estoit plus éclairée par les belles
           Personnes qu’on y voyoit, que par les lumieres, quoy qu’il y en eust quantité. Ce fut de
           là que les Dames prirent le divertissement du Feu d’artifice. Ensuite il y eut un Bal qui
-          dura toute la nuit, avec une superbe Mascarade. Madame la Marquise &amp; M<hi rend="sup"
-            >r</hi> le Chevalier de Mailly s’y trouvèrent, avec Madame la Comtesse de Fontenelle,
+          dura toute la nuit, avec une superbe Mascarade. Madame la Marquise &amp; M<hi rend="sup">r</hi> le Chevalier de Mailly s’y trouvèrent, avec Madame la Comtesse de Fontenelle,
             M<hi rend="sup">r</hi> le Marquis de Nel Colonel du Regiment de Condé, &amp;
           Mademoiselle de Nel sa Sœur, dont la grace &amp; l’enjoüement se firent également admirer.
           Sur la fin du Bal on tira encor quelques Fusées volantes qui terminerent la Feste.</p>
@@ -1513,25 +1431,18 @@
               placer les Figures</hi> : l’Air qui commence par <hi rend="i">Quelle Musique
               agreable</hi>, doit regarder la page 225.</note>
           <lg>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Quelle Musique agreable</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg><seg type="tab">    </seg>Retentit dans les airs ?</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Quelle Musique agreable</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Retentit dans les airs ?</l>
             <l rend="i">Je croy que comme nous tout le monde est à table,</l>
             <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Qu'on mange, qu’on boit,
               qu’on fait des Concerts ;</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>L'accord en est admirable.</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>L'accord en est admirable.</l>
             <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg>Ah qu’il est doux !
               qu’il est aimable.</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Chacun y chante comme il doit.</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Homme, Femme, Garçon &amp; Fille,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg><seg type="tab">    </seg>Tout s’égosille</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg><seg type="tab">    </seg>A crier le Roy boit.</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Chacun y chante comme il doit.</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Homme, Femme, Garçon &amp; Fille,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Tout s’égosille</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>A crier le Roy boit.</l>
           </lg>
         </quote>
         <ref target="images/1679-01_225.JPG">
@@ -1556,8 +1467,7 @@
           marchoient quatre à quatre de front. On voyoit en suite trente Officiers à cheval,
           marchant deux à deux, &amp; portant chacun un Drapeau. Trente Sergens venoient encor apres
           eux, dans le mesme ordre que les premiers. Trente autres Tambours les suivoient, &amp;
-          cette Marche estoit fermée par quatre Officiers Garçons Majors, qui sont M<hi rend="sup"
-            >rs</hi> d’Artagnan, Malicy, Cheviré, &amp; Lusancy. Tous les Officiers estoient
+          cette Marche estoit fermée par quatre Officiers Garçons Majors, qui sont M<hi rend="sup">rs</hi> d’Artagnan, Malicy, Cheviré, &amp; Lusancy. Tous les Officiers estoient
           magnifiquement vestus, &amp; avoient des Juste-à-corps si couverts de broderie, qu’à peine
           la couleur de l’Etofe pouvoit-elle estre distinguée. Tous les Tambours estoient vestus de
           bleu. Leurs Habits estoient couverts d’un galon de la Livrée du Roy du premier jour de
@@ -1649,8 +1559,7 @@
         </quote>
         <p>Sous la Devise, c’est à dire au fonds du couvercle de la Boëte, on lisoit ces Vers.</p>
         <l>Je sens que j’aime, Iris ; mais pour pour bien l’exprimer,</l>
-        <l><seg type="tab">    </seg><seg type="tab">    </seg>C'est trop peu que le mot d’<hi
-            rend="i">aimer</hi>.</l>
+        <l><seg type="tab">    </seg><seg type="tab">    </seg>C'est trop peu que le mot d’<hi rend="i">aimer</hi>.</l>
         <p>Dans la Boëte, au dessus des Pierreries, on trouva ces autres Vers.</p>
         <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Pour
           renouveller tous les ans</l>
@@ -1685,8 +1594,7 @@
       <div type="article" xml:id="MG-1679-01_259" resp="mercure">
         <head>[Vers pour M. le Marquis de Chappes &amp; Mademoiselle de Vantadour]</head>
         <bibl><title>Mercure galant</title>, janvier 1679 [tome 1], p. 259-261.</bibl>
-        <p>Le mesme jour M<hi rend="sup">r</hi> le Marquis de Chappes, Fils de M<hi rend="sup"
-            >r</hi> le Duc d’Aumont, fut prié d’assister à la premiere Messe du R. Pere de Mine,
+        <p>Le mesme jour M<hi rend="sup">r</hi> le Marquis de Chappes, Fils de M<hi rend="sup">r</hi> le Duc d’Aumont, fut prié d’assister à la premiere Messe du R. Pere de Mine,
           Augustin du Grand Convent, en qualité de Parrain. Il choisit pour Marraine Mademoiselle de
           Vantadour, Fille du Duc de ce nom ; &amp; comme ils sont presque de mesme âge, &amp; tous
           deux fort accomplis, cela donna occasion à quelqu’un qui estoit dans l’Assemblée, de faire
@@ -1788,8 +1696,7 @@
           prend un air languissant,</l>
         <l><seg type="tab">    </seg><seg type="tab">    </seg>Et l’on explique assez ce que l’on
           sent,</l>
-        <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg><seg
-            type="tab">    </seg>Quand on soûpire.</l>
+        <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Quand on soûpire.</l>
         <p>Enfin apres les Soûpirs, on voyoit les Déclarations, qui marchoient assez lentement.</p>
         <l>Il faut que dans un Coeur un Amant se prépare</l>
         <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Un heureux,
@@ -1906,8 +1813,7 @@
         <head>[Autres réjoüissances faites par les R. P. Capucins de la Ruë S. Honoré]</head>
         <bibl><title>Mercure galant</title>, janvier 1679 [tome 1], p. 293-296.</bibl>
         <p>Tout le monde s’intéresse si fortement à la gloire que nostre auguste Monarque s’est
-          acquise par cette Paix, que les Peres Capucins de la Ruë S. Honoré en ont chanté un <hi
-            rend="i">Te-Deum</hi> avec une magnificence digne de leur zele. Il y avoit un Feu dressé
+          acquise par cette Paix, que les Peres Capucins de la Ruë S. Honoré en ont chanté un <hi rend="i">Te-Deum</hi> avec une magnificence digne de leur zele. Il y avoit un Feu dressé
           dans leur Court, où cinquante Suisses estoient en haye, la méche allumée &amp; le Mousquet
           sur l’épaule. Ils furent quelque temps en cet état, pendant que le bruit des Trompetes
           invitoit ceux qui estoient les plus proches de leur Convent, à venir partager leur joye.
@@ -1917,9 +1823,7 @@
           ce temps, les Capucins firent le tour de leur Court ; apres quoy, l’Officiant environné de
           six grands Flambeaux, alluma le Feu, &amp; entonna le <hi rend="i">Te Deum</hi>. Les
           Suisses firent aussitost une Salve qui tint lieu d’Instrumens pour la reprise. Un nombre
-          infiny de Fuzées volantes parurent en mesme temps dans les airs. Le <hi rend="i"
-            >Te-Deum</hi> finy, les Capucins recommencerent à trois fois les cris de <hi rend="i"
-            >Vive le Roy</hi>, &amp; cette Feste finit par une quatriéme décharge des Suisses, qui
+          infiny de Fuzées volantes parurent en mesme temps dans les airs. Le <hi rend="i">Te-Deum</hi> finy, les Capucins recommencerent à trois fois les cris de <hi rend="i">Vive le Roy</hi>, &amp; cette Feste finit par une quatriéme décharge des Suisses, qui
           s’en retournerent tres-satisfaits de ces bons Peres.</p>
       </div>
       <div type="article" xml:id="MG-1679-01_296" resp="mercure">
@@ -1996,12 +1900,10 @@
           qu’il donne chaque Carnaval à Leurs Altesses Royales ; tout s’y est passé cette année avec
           l’éclat ordinaire. Monsieur &amp; Madame ont esté chez luy accompagnez de Mademoiselle,
           &amp; de plusieurs Personnes de la premiere Qualité, tant à visage découvert que masquées.
-          Leurs Altesses Royales, &amp; Mademoiselle, ont esté aussi au Bal qu’a donné M<hi
-            rend="sup">r</hi> de Pommereüil Capitaine aux Gardes, Frere de M<hi rend="sup">r</hi> de
+          Leurs Altesses Royales, &amp; Mademoiselle, ont esté aussi au Bal qu’a donné M<hi rend="sup">r</hi> de Pommereüil Capitaine aux Gardes, Frere de M<hi rend="sup">r</hi> de
           Pommereüil Prevost des Marchands. Elles avoient avec Elles Madame la Comtesse de Maré,
           Mademoiselle de Grancé, &amp; toutes les Filles d’honneur de Madame. Les Hommes qui les
-          accompagnerent estoient M<hi rend="sup">r</hi> le Chevalier de Lorraine, M<hi rend="sup"
-            >r</hi> de la Trimoüille, &amp; M<hi rend="sup">r</hi> le Chevalier de Chastillon. Les
+          accompagnerent estoient M<hi rend="sup">r</hi> le Chevalier de Lorraine, M<hi rend="sup">r</hi> de la Trimoüille, &amp; M<hi rend="sup">r</hi> le Chevalier de Chastillon. Les
           Dames parées du Bal furent Mesdames les Duchesses de Boüillon, &amp; de Foix, Madame la
           Princesse de Fustemberg, Madame la Marquis de Livry, Mesdames de Villacerre, de S.
           Poüange, de Gargan, &amp; de Verveviete, &amp; Mesdemoiselles Gargan, de Fouqueux, de
@@ -2021,8 +1923,7 @@
           divertissent à expliquer les Enigmes ; mais puis que vous me dites qu’on s’en plaint dans
           vostre Province, il faut faire cesser ce murmure, &amp; laisser joüir les Particuliers du
           plaisir qu’ils prennent à ne se produire que déguisez. M<hi rend="sup">r</hi> de Saurin a
-          trouvé le vray sens de la premiere du dernier Mois, en l’expliquant ainsi sur <hi rend="i"
-            >la Plume</hi>.</p>
+          trouvé le vray sens de la premiere du dernier Mois, en l’expliquant ainsi sur <hi rend="i">la Plume</hi>.</p>
         <l>Ce Corps inanimé qu’il faut soüiller &amp; fendre,</l>
         <l><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Pour s’en
           servir utilement,</l>
@@ -2164,8 +2065,7 @@
         <head>[L'Inconnu, de M. de Corneille le jeune, représenté par la Troupe du Roy au Fauxbourg
           Saint Germain]</head>
         <bibl><title>Mercure galant</title>, janvier 1679 [tome 1], p. 330-331.</bibl>
-        <p>La Troupe du Roy qui joüe au Fauxbourg S. Germain, a reuni pour nouveauté <hi rend="i"
-            >l’Inconnu</hi>, de M<hi rend="sup">r</hi> de Corneille le jeune. Cette galante Piece a
+        <p>La Troupe du Roy qui joüe au Fauxbourg S. Germain, a reuni pour nouveauté <hi rend="i">l’Inconnu</hi>, de M<hi rend="sup">r</hi> de Corneille le jeune. Cette galante Piece a
           des agrémens si particuliers, qu’on commence d’y courir en foule, comme on faisoit il y a
           trois ans. Le cinquième Acte en est changé, &amp; a esté pris d’une autre Piece du mesme
           Autheur, qui n’ayant aucune part à ce changement, ne doit pas répondre du manque de
@@ -2210,8 +2110,7 @@
               Célimene,</l>
             <l rend="i">Devenez aujourd’huy Confidens de ma peine,</l>
             <l rend="i">Partagez avec moy mon amoureux soucy,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Célimene n’est plus icy.</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Célimene n’est plus icy.</l>
           </lg>
         </quote>
         <ref target="images/1679-01_332.JPG">
@@ -2235,53 +2134,38 @@
             à la Paix qu’il donne<lb/>à l’Europe.</label>
           <label>EN VERS LIBRES.</label>
           <lg>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Seigneur, de qui la Providence,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Par tant de miracles divers,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Se répand dans tout l’Univers,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Et fait éclater ta puissance ;</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Seigneur, de qui la Providence,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Par tant de miracles divers,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Se répand dans tout l’Univers,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Et fait éclater ta puissance ;</l>
             <l rend="i">Arbitre Souverain des Couronnes des Roys,</l>
             <l rend="i">Qui maintiens la justice, &amp; la vigueur des Loix ;</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Appuy d’un Trône légitime,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Et qui dans la boüillante ardeur</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Appuy d’un Trône légitime,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Et qui dans la boüillante ardeur</l>
             <l rend="i">Des Peuples soûlevez que la Discorde anime,</l>
             <l rend="i">Affermis son pouvoir, &amp; soûtiens sa grandeur.</l>
           </lg>
           <ab type="ornament">***</ab>
           <lg>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Ecoute d’un Prince équitable</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Ecoute d’un Prince équitable</l>
             <l rend="i">Les vœux reconnoissans, &amp; les justes souhaits ;</l>
             <l rend="i">Soit qu’il fasse la Guerre, ou qu’il donne la Paix,</l>
             <l rend="i">A ses intentions sois toûjours favorable.</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Seigneur, accorde à ses désirs</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Seigneur, accorde à ses désirs</l>
             <l rend="i">Les charmantes douceurs, les solides plaisirs,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Qui font le bonheur d’un Empire ;</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Tous ses desseins sont genéreux,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Qui font le bonheur d’un Empire ;</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Tous ses desseins sont genéreux,</l>
             <l rend="i">La Vertu les fait naistre, &amp; l’honneur les inspire,</l>
             <l rend="i">Fais que par ton concours ils soient toûjours heureux.</l>
           </lg>
           <ab type="ornament">***</ab>
           <lg>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Souviens-toy des purs sacrifices</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Que son cœur te fait tous les jours ;</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Donne-luy ces puissans secours</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Souviens-toy des purs sacrifices</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Que son cœur te fait tous les jours ;</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Donne-luy ces puissans secours</l>
             <l rend="i">Dont tu fais les succés si grands &amp; si propices,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Ne luy refuse point ces visibles faveurs,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Comble-le de tous les honneurs</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Ne luy refuse point ces visibles faveurs,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Comble-le de tous les honneurs</l>
             <l rend="i">Qui consacrent les Roys au Temple de memoire ;</l>
             <l rend="i">Sois son Guide par tout, sois par tout son appuy,</l>
             <l rend="i">Et s’il marche aux Combats, commande à la Victoire,</l>
@@ -2289,16 +2173,12 @@
           </lg>
           <ab type="ornament">***</ab>
           <lg>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Tant que ta Divine sagesse</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Fera réüssir ses projets</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Tant que ta Divine sagesse</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Fera réüssir ses projets</l>
             <l rend="i">Sur le tranquille front de ses heureux Sujets,</l>
             <l rend="i">Tu verras éclater des marques d’alégresse.</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Nos cœurs pleinement satisfaits</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>De tant de signalez bienfaits</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Nos cœurs pleinement satisfaits</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>De tant de signalez bienfaits</l>
             <l rend="i">Qu'il reçoit tous les jours de ta main magnifique,</l>
             <l rend="i">Par des transports de joye, &amp; des ravissemens</l>
             <l rend="i">Où l’extrème plaisir se déploye &amp; s’explique,</l>
@@ -2322,80 +2202,61 @@
             <l rend="i">L'Invincible LOUIS n’en use pas de mesme ;</l>
             <l rend="i">Il est persuadé que les progrés heureux</l>
             <l rend="i">Qui remplissent en foule &amp; ses soins &amp; ses vœux,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Sont deûs à ton pouvoir supréme.</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Il sçait que c’est à ta bonté</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Qu'il doit toute la majesté</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Et tout l’éclat qui l’environne ;</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Sont deûs à ton pouvoir supréme.</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Il sçait que c’est à ta bonté</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Qu'il doit toute la majesté</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Et tout l’éclat qui l’environne ;</l>
             <l rend="i">Et son ressentiment publie à haute voix,</l>
             <l rend="i">Qu'il ne doit qu’à toy seul la plus belle Couronne</l>
             <l rend="i">Qui jamais ait brillé sur la Teste des Roys.</l>
           </lg>
           <ab type="ornament">***</ab>
           <lg>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Il sçait qu’il doit à ta conduite</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Il sçait qu’il doit à ta conduite</l>
             <l rend="i">Les progrés surprenans de tant d’heureux Exploits,</l>
             <l rend="i">Qui chez le Belge ingrat ont fait en moins d’un mois</l>
             <l rend="i">De Triomphes fréquens une incroyable suite.</l>
             <l rend="i">Il sçait que par ton ordre, &amp; la Meuse &amp; le Rhin,</l>
             <l rend="i">Surpris du nouveau poids de ses Barques d’airain,</l>
             <l rend="i">N'oserent soûlever le courant de leurs ondes,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Et que ces Fleuves ennemis,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Et que ces Fleuves ennemis,</l>
             <l rend="i">Loin de s’en irriter, dans leurs Grottes profondes</l>
             <l rend="i">Conçeurent du plaisir de voir leurs flots soûmis.</l>
           </lg>
           <ab type="ornament">***</ab>
           <lg>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Alors que l’amour de la gloire</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Qui regne toûjours dans son sein,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Y forma le hardy dessein</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Alors que l’amour de la gloire</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Qui regne toûjours dans son sein,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Y forma le hardy dessein</l>
             <l rend="i">De tenter sur Mastrich une illustre victoire,</l>
             <l rend="i">Dans les sanglans hazards d’un Siege dangereux</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Où ce Monarque genéreux</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Où ce Monarque genéreux</l>
             <l rend="i">S'exposoit nuit &amp; jour pour haster sa conqueste,</l>
             <l rend="i">Il sçait bien que tes soins ne l’abandonnoient pas,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Et qu’ils écartoient de sa Teste</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Et qu’ils écartoient de sa Teste</l>
             <l rend="i">Les foudroyans Boulets qui portoient le trépas.</l>
           </lg>
           <ab type="ornament">***</ab>
           <lg>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Dans la périlleuse Campagne</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Qu'il fit de la Franche-Comté,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Dans la périlleuse Campagne</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Qu'il fit de la Franche-Comté,</l>
             <l rend="i">Où le Doux fut témoin de sa noble fierté,</l>
             <l rend="i">Qui porta la terreur jusqu’au cœur de l’Espagne,</l>
             <l rend="i">Au Camp de Besançon, où la Parque en fureur</l>
             <l rend="i">Etaloit des portraits de carnage &amp; d’horreur,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Il sçait que tu pris sa défence,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Et que tu soûmis à ses Loix,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Apres beaucoup de resistance,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Il sçait que tu pris sa défence,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Et que tu soûmis à ses Loix,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Apres beaucoup de resistance,</l>
             <l rend="i">Gray, Dole, &amp; Besançon, pour la seconde fois.</l>
           </lg>
           <ab type="ornament">***</ab>
           <lg>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Il connoist que Valencienne,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Il connoist que Valencienne,</l>
             <l rend="i">S. Omer &amp; Cambray pris &amp; rendus François,</l>
             <l rend="i">Sont de tes grands secours éprouvez tant de fois,</l>
             <l rend="i">Et la marque infaillible, &amp; la preuve certaine.</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Il est persuadé que ces évenemens</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Seront d’eternels monumens</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Il est persuadé que ces évenemens</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Seront d’eternels monumens</l>
             <l rend="i">De ton amour qui veille au bien de sa Couronne,</l>
             <l rend="i">Et que pour soútenir son Empire &amp; ses droits,</l>
             <l rend="i">Tu pourveus en naissant son auguste Personne</l>
@@ -2403,16 +2264,14 @@
           </lg>
           <ab type="ornament">***</ab>
           <lg>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Il sçait que les grands avantages</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Il sçait que les grands avantages</l>
             <l rend="i">Qui suivent tous les jours nos Armes &amp; nos Lys</l>
             <l rend="i">Sur les bords effrayez de l’Escant &amp; du Lys,</l>
             <l rend="i">De ton affection sont les visibles gages ;</l>
             <l rend="i">Qu'Ypre &amp; Gand investis, attaquez &amp; rendus,</l>
             <l rend="i">Sont de hardis projets dont les succés sont deus</l>
             <l rend="i">A la protection que ta bonté luy donne,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Et que ses succés glorieux</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Et que ses succés glorieux</l>
             <l rend="i">Sont bien moins les effets de son Canon qui tonne,</l>
             <l rend="i">Que des secours Divins qui luy viennent des Cieux.</l>
           </lg>
@@ -2425,43 +2284,31 @@
             <l rend="i">Il sçait que ce chagrin que suscitoit l’Envie</l>
             <l rend="i">Contre l’éclat brillant d’une si belle vie,</l>
             <l rend="i">Servoit souvent d’obstacle à ces fameux Traitez,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Et que la gloire de ses Armes</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Et que la gloire de ses Armes</l>
             <l rend="i">Que tu comblois d’honneurs &amp; de prosperitez,</l>
             <l rend="i">N'y formoit que des cris, des fureurs &amp; des larmes.</l>
           </lg>
           <ab type="ornament">***</ab>
           <lg>
             <l rend="i">Il sçait que cette Paix tant de fois souhaitée,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Dont les douceurs &amp; les appas</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>S'épanchans en divers Climas,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Dont les douceurs &amp; les appas</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>S'épanchans en divers Climas,</l>
             <l rend="i">Promettent le repos à l’Europe agitée.</l>
             <l rend="i">Il sçait que ce bonheur qui va charmer les sens</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>De tant de Peuples gémissans</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Dans les desordres de la Guerre,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Est un Ouvrage de tes mains,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Qui vont répandre sur la terre</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>De tant de Peuples gémissans</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Dans les desordres de la Guerre,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Est un Ouvrage de tes mains,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Qui vont répandre sur la terre</l>
             <l rend="i">Ce bien dont tu peux seul enrichir les Humains.</l>
           </lg>
           <ab type="ornament">***</ab>
           <lg>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Après tant de reconnoissances,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Tant de preuves de sa vertu,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Seigneur, luy refuseras-tu</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>De répondre à ses espérances ?</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Après tant de reconnoissances,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Tant de preuves de sa vertu,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Seigneur, luy refuseras-tu</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>De répondre à ses espérances ?</l>
             <l rend="i">De ton Trône éclatant qui brille sur les Cieux,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Jette sur luy toújours les yeux,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Jette sur luy toújours les yeux,</l>
             <l rend="i">Par de tendres soúpirs son Peuple t’en convie.</l>
             <l rend="i">S'il avoit moins de zele, il deviendroit ingrat,</l>
             <l rend="i">Puis que tous les momens de son illustre Vie</l>
@@ -2469,17 +2316,13 @@
           </lg>
           <ab type="ornament">***</ab>
           <lg>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>C'est donc à ce Peuple fidelle</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>C'est donc à ce Peuple fidelle</l>
             <l rend="i">A demander pour luy ta grace &amp; ton secours.</l>
             <l rend="i">Seigneur, beny son Sceptre, &amp; conserve ses jours ;</l>
             <l rend="i">Beny tous les travaux où son grand Coeur l’appelle ;</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Fay que son Regne florissant,</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>D'un bonheur toûjours renaissant</l>
-            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab"
-                >    </seg>Eprouve les suites constantes ;</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Fay que son Regne florissant,</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>D'un bonheur toûjours renaissant</l>
+            <l rend="i"><seg type="tab">    </seg><seg type="tab">    </seg><seg type="tab">    </seg>Eprouve les suites constantes ;</l>
             <l rend="i">Et comblant de faveurs ses desseins genéreux,</l>
             <l rend="i">Seigneur, fay réüssir les prieres ardentes</l>
             <l rend="i">Que forment tous les jours nos soúpirs &amp; nos vœux.</l>
@@ -2489,5 +2332,4 @@
         <p rend="center noindent i">A Paris ce 31. Janvier 1679. </p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

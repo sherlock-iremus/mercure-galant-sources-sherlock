@@ -1,69 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1688-10a">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, octobre 1688 (première partie) [tome 14]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1688-10a</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>octobre 1688</date> (première partie) [tome
-          14].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1688-10"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, octobre 1688 (première partie) [tome 14].</head>
       <div type="article" xml:id="MG-1688-10a_007" resp="wordpro">
@@ -147,7 +82,7 @@
           <lg>
             <l rend="i"> Quel spectacle déja sur le bord de la Seine !</l>
             <l><hi rend="i">Je vous vois observer ces Palais <note resp="author">Le Louvre, le College des Quatre-Nations, &amp;c.</note>
-              >orgueilleux,</hi></l>
+              &gt;orgueilleux,</hi></l>
             <l> <hi rend="i">Ces Rivages <note resp="author">La Seine au sortir de Paris est une des plus belles choses du monde.</note></hi> <hi rend="i">&amp; cette Plaine <note resp="author">La Plaine de Grenelle.</note></hi></l>
             <l><hi rend="i">Où Mars <note resp="author">L’Hôtel des Invalides.</note> offre un azile au Soldat
               malheureux.</hi></l>
@@ -296,8 +231,7 @@
         <p>Je vous ay appris il y a déjà longtemps que le jour de Saint Loüis de l'année derniere,
           la Communauté des Marchands de la Ville de Poitiers avoit fait ériger à ses dépens une
           Statuë du Roy, dans la plus grande &amp; plus belle Place de la Ville, qui a quitté le nom
-          de <hi rend="i">Marché vieil</hi>, qu'elle avoit auparavant, pour prendre celuy de <hi
-            rend="i">Place Royale</hi>, à cause du glorieux ornement qu'elle possede. Cette mesme
+          de <hi rend="i">Marché vieil</hi>, qu'elle avoit auparavant, pour prendre celuy de <hi rend="i">Place Royale</hi>, à cause du glorieux ornement qu'elle possede. Cette mesme
           Compagnie des Marchands a donné cette année, au mesme jour de Saint Loüis, de nouvelles
           marques de son zele pour la gloire de cet Auguste Monarque, &amp; de sa juste
           reconnoissance de la protection qu'il daigne accorder à tous les Negocians de ses Etats.
@@ -306,8 +240,7 @@
             Marchands</hi>. Ce Buste a deux autres Figures en relief à ses costez ; l'une est de
           Themis tenant dans sa droite une épée ; &amp; dans sa gauche la balance, symbole de la
           Justice, &amp; l'autre Figure est celle de la Prudence qui presente au Roy une Couronne.
-          Cette erection se fit avec des acclamations extraordinaires ; &amp; aux cris de <hi
-            rend="i">Vive le Roy</hi>, accompagnez d'un concert de Voix &amp; d'Instrumens. La
+          Cette erection se fit avec des acclamations extraordinaires ; &amp; aux cris de <hi rend="i">Vive le Roy</hi>, accompagnez d'un concert de Voix &amp; d'Instrumens. La
           Ceremonie fut suivie d'une Messe chantée en Musique dans la belle Chapelle de la Cour des
           Marchands, qui fut ce jour-là richement ornée. Tous les Marchands s'y trouverent en Corps.
             M<hi rend="sup">r</hi> Foucault, Intendant de la Province, dont le zele ne peut estre
@@ -356,8 +289,7 @@
           avoit pratiqué au dessous, &amp; où le vin regorgeoit pour tout le Peuple qui en vouloit
           boire. Beaucoup de Tableaux &amp; de Figures faisoient connoistre qu'on avoit dédié cette
           journée à la gloire du plus grand Prince du monde. A neuf heures du matin, le Conseil
-          Souverain de ce Pays-là sortit du Palais en robes rouges. A la teste estoit M<hi
-            rend="sup">r</hi> le Comte de Chaseron, Lieutenant General de la Province, au milieu de
+          Souverain de ce Pays-là sortit du Palais en robes rouges. A la teste estoit M<hi rend="sup">r</hi> le Comte de Chaseron, Lieutenant General de la Province, au milieu de
             M<hi rend="sup">rs</hi> les Presidens de Sagarre &amp; de Trobat. Les Conseillers, &amp;
           les autres Officiers marchoient ensuite. Ils estoient suivis de l'Université de la Ville
           dans ses habits de ceremonie, &amp; le College des Avocats fermoit cette marche. Toute
@@ -553,8 +485,7 @@
           estoit encore plus belle qu’on ne la representoit ; que c’estoit une Demoiselle Suedoise,
           aussi estimable par son esprit que par sa naissance, que toutes les Langues luy estoient
           connuës, &amp; qu’elle avoit leu avec grand plaisir les Dialogues des Morts, &amp; les
-          Entretiens sur la pluralité des Mondes. Ce fut sur cette nouvelle peinture, que M<hi
-            rend="sup">r</hi> de Fontenelle forma le dessein de luy écrire. M<hi rend="sup">r</hi>
+          Entretiens sur la pluralité des Mondes. Ce fut sur cette nouvelle peinture, que M<hi rend="sup">r</hi> de Fontenelle forma le dessein de luy écrire. M<hi rend="sup">r</hi>
           l’Envoyé de Suede voulut bien se charger du soin de luy faire tenir sa Lettre. En voicy la
           copie.</p>
         <quote>
@@ -743,8 +674,7 @@
         <p>Nous avons perdu ce mois-cy M<hi rend="sup">r</hi> Perrault, Docteur en Medecine, &amp;
           de l’Academie des Sciences. Il estoit fort habile dans tout ce qui regarde les beaux Arts,
           &amp; le Public luy est obligé de la belle traduction qu’il luy a donnée de Vitruve. Elle
-          est extrémement recherchée, &amp; a fait plaisir à beaucoup d’Architectes M<hi rend="sup"
-            >r</hi> Perrault n’estoit pas seulement sçavant dans la belle Architecture, mais il a
+          est extrémement recherchée, &amp; a fait plaisir à beaucoup d’Architectes M<hi rend="sup">r</hi> Perrault n’estoit pas seulement sçavant dans la belle Architecture, mais il a
           sceu mettre cette science en pratique. L’Arc de Triomphe a esté fait sur son dessein,
           aussi-bien que la façade du Louvre ornée du beau peristille qui l’accompagne. C’est un
           Ouvrage fort estimé de tous ceux qui s’y connoissent, &amp; que les Etrangers regardent
@@ -876,8 +806,7 @@
           pourroit deviner qu’il la connust, sa maison seroit un lieu où personne ne s’aviseroit de
           la chercher, au lieu qu’estant cachée à Paris chez elle, ses Parens qui mettroient par
           tout des espions, pourroient découvrir qu’elle y seroit, &amp; la tireroient d’entre ses
-          mains sans qu’il luy fust possible de la défendre contre eux, comme pourroit faire M<hi
-            rend="sup">r</hi> le Marquis, dont la qualité seroit respectée. Le raisonnement fut
+          mains sans qu’il luy fust possible de la défendre contre eux, comme pourroit faire M<hi rend="sup">r</hi> le Marquis, dont la qualité seroit respectée. Le raisonnement fut
           trouvé bon, &amp; le Marquis l’ayant appuyé avec beaucoup de chaleur, la Belle fut obligée
           de se rendre, à la charge qu’il luy donneroit un Appartement, où elle ne seroit veuë que
           de quelques-uns de ses Domestiques. La condition fut acceptée. On servit le disné, &amp;
@@ -1093,5 +1022,4 @@
         <p><hi rend="i">A Paris, ce 31. Octobre 1688.</hi></p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

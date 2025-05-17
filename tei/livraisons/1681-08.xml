@@ -1,66 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1681-08">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title>Mercure galant, août 1681 [tome 9]</title>
-   </titleStmt>
-   <editionStmt>
-    <edition>OBVIL/IReMuS</edition>
-    <respStmt>
-     <name>Nathalie Berton-Blivet</name>
-     <resp>Responsable éditorial</resp>
-    </respStmt>
-    <respStmt>
-     <name>Anne Piéjus</name>
-     <resp>Responsable éditorial</resp>
-    </respStmt>
-    <respStmt>
-     <name>Frédéric Glorieux</name>
-     <resp>Informatique éditoriale</resp>
-    </respStmt>
-    <respStmt>
-     <name>Vincent Jolivet</name>
-     <resp>Informatique éditoriale</resp>
-    </respStmt>
-   </editionStmt>
-   <publicationStmt>
-    <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-    <date when="2017"/>
-    <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1681-08</idno>
-    <availability status="restricted">
-     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-       Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie
-       littéraire » (ci-après dénommé OBVIL).</p>
-      <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les
-       bases de données (L341-1) est mise à disposition de la communauté scientifique internationale
-       par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas
-       d’Utilisation Commerciale - Pas de Modification 3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-      <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de
-       cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de
-       la ressource.</p>
-      <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-       utilisation commerciale est interdite.</p>
-      <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-       électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de
-       versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl><title>Mercure galant</title>, <date>août 1681</date> [tome 9].</bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <creation>
-    <date when="1681-08"/>
-   </creation>
-   <langUsage>
-    <language ident="fre"/>
-   </langUsage>
-  </profileDesc>
- </teiHeader>
- <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
   <body>
    <head><hi rend="i">Mercure galant</hi>, août 1681 [tome 9].</head>
    <div type="article" xml:id="MG-1681-08_001">
@@ -152,8 +90,7 @@
      <p><hi rend="i">Cette gloire n’est-elle pas assez affermie ? Toute la Terre ne connoist-elle
        pas assez le pouvoir de vostre Bras ? Et d’ailleurs, pourquoy rendre en un moment, ce qui
        vous a cousté si cher ? Avez vous combatu pour vos Ennemis ? C’est un effet, dit-on, de
-       vostre Royale bonté, qui veut triompher aussi-bien que vostre valeur ; mais</hi>, <hi
-       rend="sc">Sire</hi>, <hi rend="i">permettez-moy de croire autrement ;</hi></p>
+       vostre Royale bonté, qui veut triompher aussi-bien que vostre valeur ; mais</hi>, <hi rend="sc">Sire</hi>, <hi rend="i">permettez-moy de croire autrement ;</hi></p>
      <quote>
       <lg>
        <l> C’est plutost une prévoyance,</l>
@@ -283,19 +220,16 @@
      l’Allée, à costé de l’autre, &amp; la fait paroistre dans un grand éloignement. Les Chevaliers,
      dont j’ay commencé de vous parler, estant arrivez devant ce Jardin, montez tous à l’avantage
      avec des Housses, &amp; des Chaperons de Pistolets, remplis de Broderie d’or, &amp; de Dentelle
-     d’argent, marcherent en tres-bon ordre, au milieu de la grande Place d’Armes de la Ville. M<hi
-      rend="sup">r</hi> Aubé qui en est Mayeur, estoit à leur teste, comme Capitaine-Lieutenant de
+     d’argent, marcherent en tres-bon ordre, au milieu de la grande Place d’Armes de la Ville. M<hi rend="sup">r</hi> Aubé qui en est Mayeur, estoit à leur teste, comme Capitaine-Lieutenant de
      la Compagnie. C’est un Gentilhomme de mérite, qui s’acquita dignement de cet Employ. Il estoit
      vétu d’Ecarlate, &amp; avoit son Baudrier, ses Gands, &amp; sa Housse, garnis d’une Frange d’or
-     tres-riche. Le reste des Officiers de la mesme Compagnie ; sçavoir, M<hi rend="sup"
-     >r</hi> Boïtel, ancien Eleu en l’Election, Sous-Lieutenant ; M<hi rend="sup">r</hi> Vinchon,
+     tres-riche. Le reste des Officiers de la mesme Compagnie ; sçavoir, M<hi rend="sup">r</hi> Boïtel, ancien Eleu en l’Election, Sous-Lieutenant ; M<hi rend="sup">r</hi> Vinchon,
      Enseigne ; &amp; M<hi rend="sup">r</hi> Reynard, Cornete, faisoient admirer leur propreté.
      Quarante Chevaliers qui les suivoient, habillez tous de la mesme sorte, avoient chacun une
      Plume blanche, &amp; une tres-grande quantité de Rubans verds sur eux &amp; sur leurs Chevaux.
      C’estoit la Livrée de leur Jardin. Ils traverserent la Ville en cet équipage avec leurs
      Hautbois, &amp; leurs Tambours, &amp; allerent hors les Portes recevoir les Compagnies des
-     Chevaliers Etrangers. Celle de Soissons parut la premiere. On détacha M<hi rend="sup"
-     >r</hi> Cahieu Maréchal des Logis, pour la reconnoistre ; ce qui ayant esté fait, la Compagnie
+     Chevaliers Etrangers. Celle de Soissons parut la premiere. On détacha M<hi rend="sup">r</hi> Cahieu Maréchal des Logis, pour la reconnoistre ; ce qui ayant esté fait, la Compagnie
      de Péronne marcha jusqu’à un demy quart de lieuë de la Ville, où ayant trouvé les Chevaliers de
      Soissons, M<hi rend="sup">r</hi> Aubé mit l’Epée à la main ainsi que ceux de sa Suite, &amp; en
      salüa le Capitaine, luy témoignant l’obligation qu’on leur avoit d’estre venus honorer la
@@ -308,8 +242,7 @@
      sortie, qu’elle découvrit les Chevaliers de la Ville de S. Quentin. Ils estoient au nombre de
      quatre-vingts, tous tres-bien montez, &amp; avoient M<hi rend="sup">r</hi> le Président Vallois
      à leur teste. Ils furent reçeus, conduits, &amp; logez avec les mesmes honneurs que ceux de
-     Soissons. La Compagnie de Montdidier arriva un peu apres, ayant M<hi rend="sup"
-     >r</hi> Dargenlieu pour Capitaine. On luy rendit les mesmes honneurs qu’aux deux premieres,
+     Soissons. La Compagnie de Montdidier arriva un peu apres, ayant M<hi rend="sup">r</hi> Dargenlieu pour Capitaine. On luy rendit les mesmes honneurs qu’aux deux premieres,
      &amp; on en usa de la mesme sorte pour les Chevaliers des autres Villes voisines, la reception
      desquels dura jusqu’à neuf heures du soir. Apres qu’on les eut logez, ceux de Péronne se
      rendirent à leur Jardin, où un superbe Repas servit à les délasser. Le lendemain 29. toutes les
@@ -336,8 +269,7 @@
      devant la Porte de M<hi rend="sup">r</hi> de la Brouë, Lieutenant pour Sa Majesté dans la
      Place, les Officiers de la Compagnie de Péronne, luy allerent reïterer la priere qu’ils luy
      avoient déja faite de tirer le coup du Roy, &amp; d’estre de la Collation préparée en leur
-     Jardin. Il se mit aussi-tost en marche à leur teste, précedé par tous les Gardes de M<hi
-      rend="sup">r</hi> d’Hoquincour, Gouverneur de Péronne, &amp; suivy du Major, &amp; de tous les
+     Jardin. Il se mit aussi-tost en marche à leur teste, précedé par tous les Gardes de M<hi rend="sup">r</hi> d’Hoquincour, Gouverneur de Péronne, &amp; suivy du Major, &amp; de tous les
      Officiers de la Garnison. Ils trouverent une premiere Collation qui leur fut offerte par les
      Echevins lors qu’ils arriverent à l’Hôtel de Ville. On la présenta aussi à toutes les Bandes.
      Je ne vous dis point combien on vuida de Verres à la santé de Sa Majesté. Pendant ce temps, les
@@ -378,8 +310,7 @@
       M<hi rend="sup">r</hi> Aubé donna le Mardy premier du Mois, estoit general pour toutes les
      Dames tant de la Ville que des environs. Mademoiselle Aubé sa Sœur, qui est une Personne bien
      faite &amp; d’un grand mérite, en fit les honneurs, &amp; s’en acquita avec l’entier
-     applaudissement de l’Assemblée. Il fut suivy d’une tres-belle Collation. Le mesme M<hi
-      rend="sup">r</hi> Aubé donna un magnifique Repas à M<hi rend="sup">r</hi> de la Broüe, aux
+     applaudissement de l’Assemblée. Il fut suivy d’une tres-belle Collation. Le mesme M<hi rend="sup">r</hi> Aubé donna un magnifique Repas à M<hi rend="sup">r</hi> de la Broüe, aux
      Officiers de la Garnison, aux Echevins, &amp; aux Officiers des Compagnies Etrangeres. Il fut
      servy à cinq services, de tout ce qu’on peut trouver de rare &amp; d’exquis, &amp; accompagné
      d’une Symphonie admirable de Musique, de Violons, &amp; de Hautbois. Le Jeudy au soir 3. du
@@ -709,8 +640,7 @@
      les disputes de préseance, elles s’en sont rapportées au Sort, qui tour-à-tour leur a fait
      changer de place.</p>
     <p>Le Dimanche 19. (je suis toûjours le vieux stile employé dans mes Mémoires) la Reyne passa
-     tout le jour en devotion selon sa coûtume, &amp; fut complimentée de la part de M<hi rend="sup"
-      >r</hi> l’Electeur de Brandebourg par M<hi rend="sup">r</hi> de Galdebeek son Grand
+     tout le jour en devotion selon sa coûtume, &amp; fut complimentée de la part de M<hi rend="sup">r</hi> l’Electeur de Brandebourg par M<hi rend="sup">r</hi> de Galdebeek son Grand
      Chambellan. Madame l’Electrice de Brandebourg, les deux Princes de cette Maison, &amp;
      plusieurs autres Seigneurs, luy envoyerent aussi faire compliment, &amp; elle reçeut ceux de
       M<hi rend="sup">r</hi> le Comte de Valdek, à qui la Comté de Pyrmont appartient.</p>
@@ -788,13 +718,11 @@
      de cette Suite, n’avoit quelquefois qu’une des dernieres places. Treize Altesses mangeoient
      toûjours avec elle, sçavoir, M<hi rend="sup">r</hi> le Prince Royal de Danemark, Madame
      l’Electrice Palatine, M<hi rend="sup">rs</hi> les Ducs de Zell &amp; de Hanover, Mesdames les
-     Duchesses leurs Femmes ; M<hi rend="sup">rs</hi> les deux Princes de Holstein, M<hi rend="sup"
-      >r</hi> le Prince d’Eysenach, avec M<hi rend="sup">rs</hi> les deux Princes aînez de Hanover,
+     Duchesses leurs Femmes ; M<hi rend="sup">rs</hi> les deux Princes de Holstein, M<hi rend="sup">r</hi> le Prince d’Eysenach, avec M<hi rend="sup">rs</hi> les deux Princes aînez de Hanover,
      &amp; Mesdames les Princesses de Zell, de Hanover, &amp; de Meklebourg. On y a donné trois
      Représentations de l’Opéra Italien d’<hi rend="i">Alceste</hi>, &amp; dancé deux fois le grand
      Balet intitulé <hi rend="i">le Charme de l’Amour</hi>, <note resp="editor">Voir
-       <ref target="MG-1681-04_133">cet article</ref> qui relate la représentation du <hi rend="i"
-       >Charme de l'amour</hi>.</note>que l’on avoit augmenté de quelques Entrées. Je vous en fis la
+       <ref target="MG-1681-04_133">cet article</ref> qui relate la représentation du <hi rend="i">Charme de l'amour</hi>.</note>que l’on avoit augmenté de quelques Entrées. Je vous en fis la
      description dans ma Lettre du Mois d’Avril, &amp; l’accompagnay des Vers qui ont esté faits sur
      cette matiere. La Reyne de Danemark s’est fort divertie à ce Balet. On en prépare un nouveau,
      tout champestre &amp; qui doit estre dancé dans la Campagne à la clarté des Flambeaux. Je vous
@@ -1017,10 +945,8 @@
      cette Action, aussibien qu’un grand nombre de Princes, Ducs &amp; Pairs, Maréchaux de France,
      Ambassadeurs, Conseillers d’Etat, &amp; autres Personnes qualifiées.</p>
     <p>Avant l’ouverture de la Dispute, le Soûtenant fit une belle Harangue en l’honneur du Roy,
-     &amp; la prononça avec une grace qui ne se peut exprimer. Apres avoir fait connoistre <hi
-      rend="i">qu’il pouvoit combatre avec confiance sous les auspices d’un Prince, à qui la
-      Victoire avoit toûjours obey</hi>, il s’étendit fort sur sa modération. Il dit, <hi rend="i"
-      >que cet auguste Monarque avoit mieux aimé se montrer digne de commander à toute la Terre, que
+     &amp; la prononça avec une grace qui ne se peut exprimer. Apres avoir fait connoistre <hi rend="i">qu’il pouvoit combatre avec confiance sous les auspices d’un Prince, à qui la
+      Victoire avoit toûjours obey</hi>, il s’étendit fort sur sa modération. Il dit, <hi rend="i">que cet auguste Monarque avoit mieux aimé se montrer digne de commander à toute la Terre, que
       d’en acquerir l’Empire, &amp; que préferant la gloire de rendre heureux tous les Peuples à
       celle d’en triompher, il avoit sans peine interrompu des Conquestes, dont la suite auroit pû
       mettre en quelque péril la Justice, l’Innocence, la Religion, &amp; les beaux Arts, qu’il
@@ -1229,8 +1155,7 @@
    <div type="article" xml:id="MG-1681-08_144">
     <head>[Divertissemens à la Cour de Hanover, avec le Balet champestre qu’on y a dancé pour le divertissement de la Reyne de Danemark, &amp; les Vers du Balet]</head>
     <bibl><title>Mercure galant</title>, août 1681 [tome 9], p. 144-187.</bibl>
-    <p>J’ay eu des nouvelles de la Cour de Hanover plutost qu’on ne m’en faisoit attendre<note resp="editor"><ref target="MG-1681-09_013">Cet article</ref> et <ref
-     target="MG-1681-09_331">celui-ci</ref> relatent ces mêmes divertissements de
+    <p>J’ay eu des nouvelles de la Cour de Hanover plutost qu’on ne m’en faisoit attendre<note resp="editor"><ref target="MG-1681-09_013">Cet article</ref> et <ref target="MG-1681-09_331">celui-ci</ref> relatent ces mêmes divertissements de
      Hanovre.</note>. Le Balet
      champestre que je vous ay dit qu’on y préparoit, a déja esté dancé, &amp; la Reyne Mere de
      Danemark s’y est extrémement divertie. Vous voyez par là que M<hi rend="sup">r</hi> le Duc de
@@ -1238,8 +1163,7 @@
      envie qu’on ait de réüssir, la grande dépense ne fait pas toûjours le succés des choses. Il
      faut qu’il y ait de l’invention, &amp; de l’esprit dans les Divertissemens, &amp; que
      l’exécution en soit aussi juste, que le dessein en est bien conçeu. Tout cela s’est rencontré
-     dans <hi rend="i">la Chasse de Diane</hi>. C’est le nom qu’a eu ce Balet champestre. M<hi
-      rend="sup">r</hi> la Barre-Matéi, qui l’a composé entierement, à l’exception de la Musique,
+     dans <hi rend="i">la Chasse de Diane</hi>. C’est le nom qu’a eu ce Balet champestre. M<hi rend="sup">r</hi> la Barre-Matéi, qui l’a composé entierement, à l’exception de la Musique,
      l’a tenu prest en si peu de temps, qu’on ne peut trop estimer la facilité de son génie. On
      m’apprend qu’il est l’Autheur de l’autre Balet qui a pour titre, <hi rend="i">le Charme de
       l’Amour</hi>, &amp; qui a tant plû à la mesme Reyne de Danemark. Aussi a-t-elle dit plusieurs
@@ -1258,8 +1182,7 @@
      poussées par quelque Puissance secrete, &amp; plus forte qu’elles. Ce n’estoit rien autre chose
      que les Ombres de la Nuit qui fuyoient devant l’Aurore. <hi rend="i">M<hi rend="sup">r</hi> le
       Prince de Holstein estoit l’une de ces Ombres, avec M<hi rend="sup">r</hi> le Comte de
-      Montalban ; M<hi rend="sup">r</hi> Oefner, Fils du General Major de ce nom ; &amp; M<hi
-       rend="sup">r</hi> de Wobeser, Capitaine-Lieutenant. Le S<hi rend="sup">r</hi> Jemmes, Maistre
+      Montalban ; M<hi rend="sup">r</hi> Oefner, Fils du General Major de ce nom ; &amp; M<hi rend="sup">r</hi> de Wobeser, Capitaine-Lieutenant. Le S<hi rend="sup">r</hi> Jemmes, Maistre
       du Balet</hi>, représentoit le grand Fantôme volant. Un nombre incroyable de lumieres, dont on
      vit la Plaine éclairée en un moment, dissipa d’abord ces Spectres, qui se perdirent à mesure
      que l’Aurore &amp; le Point-du-jour, brillans de leurs propres feux, s’éleverent peu à peu
@@ -1341,16 +1264,14 @@
      <quote>
       <lg>
        <label>Pour M<hi rend="sup">r</hi>
-        <hi rend="sc">le Prince Frederic-Auguste de Brunsvick</hi>, représentant un <hi rend="sc"
-         >Berger.</hi></label>
+        <hi rend="sc">le Prince Frederic-Auguste de Brunsvick</hi>, représentant un <hi rend="sc">Berger.</hi></label>
        <l><hi rend="i">Chacun luy rend respect, à la Cour, en Province,</hi></l>
        <l><hi rend="i">Il se déguise en vain sous l’Habit de Berger ;</hi></l>
        <l> <hi rend="i">Et le Sujet, &amp; l’Etranger,</hi></l>
        <l> <hi rend="i">Le prennent toûjours pour un Prince.</hi></l>
       </lg>
       <lg>
-       <label>Pour <hi rend="sc">Madame la Princesse de Meklebourg</hi>, représentant une <hi
-         rend="sc">Bergere.</hi></label>
+       <label>Pour <hi rend="sc">Madame la Princesse de Meklebourg</hi>, représentant une <hi rend="sc">Bergere.</hi></label>
        <l><hi rend="i">Si cette jeune &amp; charmante Bergere</hi></l>
        <l> <hi rend="i">Avoit dessein de s’engager,</hi></l>
        <l><hi rend="i">Elle pourroit icy se choisir un Berger ;</hi></l>
@@ -1360,8 +1281,7 @@
       </lg>
       <lg>
        <label>Pour M<hi rend="sup">r</hi>
-        <hi rend="sc">le Prince de Saxe-Eysenach</hi>, représentant un <hi rend="sc"
-        >Berger.</hi></label>
+        <hi rend="sc">le Prince de Saxe-Eysenach</hi>, représentant un <hi rend="sc">Berger.</hi></label>
        <l><hi rend="i">Il a bon air, de l’esprit, du courage.</hi></l>
        <l><hi rend="i">Peut-on trouver dans tout le voisinage</hi></l>
        <l><hi rend="i">Un Berger plus galant, plus aimable, &amp; mieux fait ?</hi></l>
@@ -1378,8 +1298,7 @@
      <quote>
       <lg>
        <label>Pour M<hi rend="sup">r</hi>
-        <hi rend="sc">le Prince George-Loüis de Brunsvick</hi>, représentant <hi rend="sc"
-         >Endimion.</hi></label>
+        <hi rend="sc">le Prince George-Loüis de Brunsvick</hi>, représentant <hi rend="sc">Endimion.</hi></label>
        <l> <hi rend="i">À faire l’amour &amp; la guerre,</hi></l>
        <l><hi rend="i">Ce jeune Endimion n’est jamais endormy.</hi></l>
        <l><hi rend="i">Sans-doute on le verroit remuer Ciel &amp; Terre,</hi></l>
@@ -1397,8 +1316,7 @@
     <quote>
      <label>IV. ENTREE.</label>
      <p>Trois Voleurs, qui estoient <hi rend="i">M<hi rend="sup">r</hi> de Grote Gentilhomme de la
-       Cour, M<hi rend="sup">r</hi> le Baron de Mellin Enseigne</hi>, &amp; <hi rend="i">M<hi
-        rend="sup">r</hi> de Pluviane Capitaine d’Infanterie</hi>, arresterent ces deux Passans, les
+       Cour, M<hi rend="sup">r</hi> le Baron de Mellin Enseigne</hi>, &amp; <hi rend="i">M<hi rend="sup">r</hi> de Pluviane Capitaine d’Infanterie</hi>, arresterent ces deux Passans, les
       volerent, &amp; partagerent le Butin entr’eux.</p>
     </quote>
     <quote>
@@ -1408,9 +1326,7 @@
       qu’ils venoient de partager. <hi rend="i">M<hi rend="sup">r</hi> Bulau Capitaine-Lieutenant
        des Gardes du Palais, M<hi rend="sup">r</hi> Ohr Enseigne des Gardes du Palais</hi>, &amp;
        <hi rend="i">M<hi rend="sup">r</hi> de Roden Capitaine d’Infanterie</hi>, représentoient les
-      Sauvages ; &amp; <hi rend="i">M<hi rend="sup">r</hi> du Mont Capitaine d’Infanterie, M<hi
-        rend="sup">r</hi> de Wizendorff Gentilhomme à la Cour</hi>, &amp; <hi rend="i">M<hi
-        rend="sup">r</hi> Brugen Lieutenant</hi>, les Satyres.</p>
+      Sauvages ; &amp; <hi rend="i">M<hi rend="sup">r</hi> du Mont Capitaine d’Infanterie, M<hi rend="sup">r</hi> de Wizendorff Gentilhomme à la Cour</hi>, &amp; <hi rend="i">M<hi rend="sup">r</hi> Brugen Lieutenant</hi>, les Satyres.</p>
     </quote>
     <quote>
      <label>VI. ENTREE.</label>
@@ -1423,9 +1339,7 @@
      <label>VII. ENTREE.</label>
      <p>Deux Gueux &amp; deux Gueuses l’ayant apperçeu dans cet état, s’approcherent de cet Arbre.
       Le Singe, qui leur vit tendre la main, leur jetta de cet argent, &amp; témoigna prendre grand
-      plaisir à l’empressement qu’ils eurent de le ramasser. <hi rend="i">M<hi rend="sup"
-       >rs</hi> Rekau</hi> &amp; <hi rend="i">d’Elts</hi>, estoient déguisez en Gueux ; &amp; <hi
-       rend="i">M<hi rend="sup">rs</hi> de Grote</hi> &amp; <hi rend="i">de Chazeron</hi>, en
+      plaisir à l’empressement qu’ils eurent de le ramasser. <hi rend="i">M<hi rend="sup">rs</hi> Rekau</hi> &amp; <hi rend="i">d’Elts</hi>, estoient déguisez en Gueux ; &amp; <hi rend="i">M<hi rend="sup">rs</hi> de Grote</hi> &amp; <hi rend="i">de Chazeron</hi>, en
       Gueuses. Ce sont Gentils-hommes du Païs.</p>
     </quote>
     <quote>
@@ -1436,8 +1350,7 @@
       qu’animer les Ours, qui allerent droit à un Bucheron que le hazard amena. Le Bucheron se mit à
       couvert de leur fureur, en se couchant devant eux, &amp; faisant le Mort. Les Ours luy
       mangerent des Rayons de Miel qu’il apportoit, &amp; vinrent tendre l’oreille aupres de sa
-      bouche, pour écouter s’il ne respiroit point encore. <hi rend="i">M<hi rend="sup"
-       >rs</hi> Dragoni</hi> &amp; <hi rend="i">Rhemen, Gentilhommes</hi>, les représentoient.</p>
+      bouche, pour écouter s’il ne respiroit point encore. <hi rend="i">M<hi rend="sup">rs</hi> Dragoni</hi> &amp; <hi rend="i">Rhemen, Gentilhommes</hi>, les représentoient.</p>
     </quote>
     <quote>
      <label>IX. ENTREE.</label>
@@ -1496,8 +1409,7 @@
      <quote>
       <lg>
        <label>Pour M<hi rend="sup">r</hi>
-        <hi rend="sc">le Prince Maximilien de Brunsvick</hi>, représentant un <hi rend="sc"
-         >Chasseur.</hi></label>
+        <hi rend="sc">le Prince Maximilien de Brunsvick</hi>, représentant un <hi rend="sc">Chasseur.</hi></label>
        <l><hi rend="i">Ny tant d’ardeur, ny tant de promptitude,</hi></l>
        <l> <hi rend="i">Ne rendent parfait un Chasseur.</hi></l>
        <l> <hi rend="i">Je fais beaucoup par mon étude,</hi></l>
@@ -1505,8 +1417,7 @@
       </lg>
       <lg>
        <label>Pour M<hi rend="sup">r</hi>
-        <hi rend="sc">le Prince Charles de Brunsvick</hi>, représentant un autre <hi rend="sc"
-         >Chasseur.</hi></label>
+        <hi rend="sc">le Prince Charles de Brunsvick</hi>, représentant un autre <hi rend="sc">Chasseur.</hi></label>
        <l><hi rend="i">À la Chasse en amour, quoy qu’on ait du talent,</hi></l>
        <l><hi rend="i">On ne fait pas toûjours tout ce qu’on se propose ;</hi></l>
        <l><hi rend="i">Mais un jeune Chasseur comme moy vigilant,</hi></l>
@@ -1521,8 +1432,7 @@
       leurs Demeures solitaires. Ces six Dryades estoient, <hi rend="i">Mademoiselle Gehle l’aînée,
        premiere Fille d’honneur de Madame la Duchesse de Hanover ; Mademoiselle de Zersen, Fille
        d’honneur de cette mesme Princesse ; Mademoiselle Gehle la jeune, Fille d’honneur de Madame
-       la Princesse de Hanover ; Mademoiselle d’Asseburg, Mademoiselle d’Alvensleven</hi>, &amp; <hi
-       rend="i">Mademoiselle de Flemming, Fille de M<hi rend="sup">r</hi> le General Major
+       la Princesse de Hanover ; Mademoiselle d’Asseburg, Mademoiselle d’Alvensleven</hi>, &amp; <hi rend="i">Mademoiselle de Flemming, Fille de M<hi rend="sup">r</hi> le General Major
        Flemming</hi>. Plusieurs Cors, &amp; autres divers Instrumens de Vénerie, ayant marqué
       l’endroit de la Chasse, les Trompetes &amp; Timbales firent entendre leurs bruits de
       réjoüissance qui annonçoient la prise du Cerf. Les Dryades averties par là de l’arrivée de
@@ -1642,8 +1552,7 @@
       les Hautbois.</p>
      <quote>
       <lg>
-       <label>Pour <hi rend="sc">Madame la Princesse de Hanover</hi>, représentant <hi rend="sc"
-         >Diane.</hi></label>
+       <label>Pour <hi rend="sc">Madame la Princesse de Hanover</hi>, représentant <hi rend="sc">Diane.</hi></label>
        <l><hi rend="i">Est-ce Diane, ou bien la Reyne des Amours,</hi></l>
        <l><hi rend="i">Que l’on voit triompher au milieu des plus belles ?</hi></l>
        <l><hi rend="i">C’est quelque chose encor de plus ravissant qu’elles,</hi></l>
@@ -2043,8 +1952,7 @@
      d’où s’estant rendus à la Rade de Marseille le 26. du mesme mois, apres la quarantaine moderée
      à quinze jours, ils eurent permission d’entrer dans la Ville, &amp; dans celles de Toulon,
      &amp; d’Aix Capitale de Provence. Ils firent des Processions dans cette derniere avec beaucoup
-     de solemnité. M<hi rend="sup">r</hi> le Cardinal de Grimaldi qui en est Archevesque, &amp; M<hi
-      rend="sup">r</hi> le Premier Président du Parlement de cette Province, furent fort édifiez de
+     de solemnité. M<hi rend="sup">r</hi> le Cardinal de Grimaldi qui en est Archevesque, &amp; M<hi rend="sup">r</hi> le Premier Président du Parlement de cette Province, furent fort édifiez de
      voir cette Troupe de zélez Chrestiens rendre mille graces aux Religieux qui leur avoient
      procuré la liberté. Apres que ce Cardinal leur eut donné sa Benédiction, ils allerent tous à
      Avignon, où ceux qui estoient de Languedoc, de Guyenne, &amp; de Xaintonge, prirent la route de
@@ -2060,8 +1968,7 @@
     <p>Depuis que cet Ordre a esté fondé, on compte pres de trente mille Esclaves rachetez par les
      Peres de la Mercy François &amp; Espagnols, sans vingt-six Voyages que ces mesmes Peres ont
      fait inutilement, par le malheur qu’ils ont eu d’estre volez en chemin. C’est un péril que va
-     épargner à beaucoup de Gens l’heureuse commodité du Canal de Languedoc. M<hi rend="sup"
-     >r</hi> Pech, dont vous avez déja veu un Sonnet, sur ce merveilleux Ouvrage, a fait encor
+     épargner à beaucoup de Gens l’heureuse commodité du Canal de Languedoc. M<hi rend="sup">r</hi> Pech, dont vous avez déja veu un Sonnet, sur ce merveilleux Ouvrage, a fait encor
      celuy-cy.</p>
     <quote>
      <label>AU ROY,<lb/>Sur la Jonction des Mers.</label>
@@ -2174,13 +2081,11 @@
      Germain de l’Auxerrois, Paroisse de la Mariée. Vous jugez-bien que l’Assemblée fut illustre.
      Voicy les noms de ceux qui la composoient. Monsieur le Prince &amp; Madame la Princesse de
      Conty, Cousine-germaine de Mademoiselle de la Valliere ; Madame de S. Remy, sa Grand’mere ;
-     Madame la Duchesse de Duras ; Madame la Duchesse de Noüailles, Marquise de Lavardin ; M<hi
-      rend="sup">r</hi> de Béthune, Chevalier des Ordres du Roy ; M<hi rend="sup">r</hi> le
+     Madame la Duchesse de Duras ; Madame la Duchesse de Noüailles, Marquise de Lavardin ; M<hi rend="sup">r</hi> de Béthune, Chevalier des Ordres du Roy ; M<hi rend="sup">r</hi> le
      Chevalier de Beuvron, Capitaine des Gardes de Son Altesse Royale ; M<hi rend="sup">r</hi> de
      Choiseüil, Marquis de Praslin, Lieutenant General des Armées du Roy, &amp; son Lieutenant
      General en Champagne ; M<hi rend="sup">r</hi> le Marquis de Valsemé, Capitaine des
-     Chevaux-Legers de Monsieur, tous deux Cousins germains du Marié ; M<hi rend="sup"
-     >r</hi> Hotteman, Intendant des Finances de France ; M<hi rend="sup">r</hi> de Pertuis,
+     Chevaux-Legers de Monsieur, tous deux Cousins germains du Marié ; M<hi rend="sup">r</hi> Hotteman, Intendant des Finances de France ; M<hi rend="sup">r</hi> de Pertuis,
      Gouverneur pour Sa Majesté de la Ville de Menin en Flandres, &amp; Lieutenant General de ses
      Armées ; &amp; M<hi rend="sup">r</hi> de Valentiné, Controlleur General de la Maison du Roy Les
      Mariez estoient dans une fort grande parure. Avant qu’on allast à la Chapelle pour cette
@@ -2197,15 +2102,12 @@
      qualifiez de la Ville. L’Habit avec lequel il parut dans cette Cerémonie, estoit des mieux
      entendus, &amp; aussi galant que magnifique ; mais la galanterie de ce Maréchal n’en demeura
      pas à l’ajustement. Il envoya un Bouquet à sa Commere, dans une Corbeille fort propre, avec une
-     Toilete tres riche. Madame de Mirabeau est de la Maison de Rochemore. M<hi rend="sup"
-     >r</hi> Brodard, Intendant des Galeres, l’un des cinq Parrains, avoit avec luy, pour Marraine
-     de dix Négres, Madame du Puget, Sœur de M<hi rend="sup">r</hi> de Mirabeau ; &amp; M<hi
-      rend="sup">r</hi> de Manse Intendant, avoit Madame de Pontévez. Elle est de la Maison
+     Toilete tres riche. Madame de Mirabeau est de la Maison de Rochemore. M<hi rend="sup">r</hi> Brodard, Intendant des Galeres, l’un des cinq Parrains, avoit avec luy, pour Marraine
+     de dix Négres, Madame du Puget, Sœur de M<hi rend="sup">r</hi> de Mirabeau ; &amp; M<hi rend="sup">r</hi> de Manse Intendant, avoit Madame de Pontévez. Elle est de la Maison
      d’Agoust, l’une des plus anciennes &amp; des plus illustres de l’Europe. M<hi rend="sup">r</hi>
      d’Oppede servit de Compere avec Madame de Montaulieu, Fille de M<hi rend="sup">r</hi> de Manse.
      La Maison de Montaulieu est d’une noblesse tres-considérable M<hi rend="sup">r</hi> de la
-     Bréteche devoit estre aussi Compere ; mais ne l’ayant pû, faute de santé, M<hi rend="sup"
-      >r</hi> de Bréteüil le fut en sa place, avec Mademoiselle de Mirabeau, Fille de Madame de
+     Bréteche devoit estre aussi Compere ; mais ne l’ayant pû, faute de santé, M<hi rend="sup">r</hi> de Bréteüil le fut en sa place, avec Mademoiselle de Mirabeau, Fille de Madame de
      Mirabeau dont je viens de vous parler. Elle est de tres-belle taille, &amp; a beaucoup de
      jeunesse. La Cerémonie fut solemnelle, &amp; se passa presque entiere dans la grande Place de
      l’Eglise Cathédrale, où l’on avoit dressé une Tente, sous laquelle on fit abjurer le Culte du
@@ -2404,12 +2306,10 @@
     <p>Ce mesme Mot a esté trouvé par Messieurs Gardien Secretaire du Roy ; De Plémont, de la Forest
      de Lyons en Normandie.</p>
     <p>Ceux qui l’ont expliquée en Vers sont, Fanchon le Fevre, de Magny ; Janneton de Lépine, de la
-     Ruë Neuve des Petits-Champs. Les autres Sens qu’on a trouvez sur la mesme Enigme sont, <hi
-      rend="i">l’Eau, le Livre, le Canal de Languedoc, une Gruë à lever des Pierres, le Parasol,
+     Ruë Neuve des Petits-Champs. Les autres Sens qu’on a trouvez sur la mesme Enigme sont, <hi rend="i">l’Eau, le Livre, le Canal de Languedoc, une Gruë à lever des Pierres, le Parasol,
       l’Ocean, un Moulin, un Chandelier à plusieurs branches, la Riviere, un Arbre, une Plume, une
       Fourchete, &amp; un Bateau.</hi></p>
-    <p>Il me reste à vous nommer ceux qui ont expliqué les deux dans leur vray sens. M<hi rend="sup"
-      >r</hi> le Chevalier Chabans ; &amp; le Pensionnaire de la Ruë Aubry-Boucher. En Vers,
+    <p>Il me reste à vous nommer ceux qui ont expliqué les deux dans leur vray sens. M<hi rend="sup">r</hi> le Chevalier Chabans ; &amp; le Pensionnaire de la Ruë Aubry-Boucher. En Vers,
      Messieurs Allard, du Véxin ; Regnier ; F. Ha… du Mesnil, de Chambrais en Normandie ; Le
      Procureur du Roy de Conches en Normandie ; Hutuge, d’Orleans, demeurant à Mets ; Daubaine ;
      Rault, de Roüen ; &amp; Bardou, de Poitiers.</p>
@@ -2492,5 +2392,4 @@
     <p><hi rend="i">À Paris ce</hi> 31. <hi rend="i">Aoust</hi> 1681.</p>
    </div>
   </body>
- </text>
-</TEI>
+ </text></TEI>

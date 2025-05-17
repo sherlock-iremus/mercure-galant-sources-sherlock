@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1691-03">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, mars 1691 [tome 3]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1691-03</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>mars 1691</date> [tome 3].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1691-03"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, mars 1691 [tome 3].</head>
       <div type="article" xml:id="MG-1691-03_000" resp="wordpro">
@@ -254,8 +190,7 @@
             <l><hi rend="i">Et le plus grand des Rois voudra bien m’écouter.</hi></l>
           </lg>
         </quote>
-        <p>Cette Paraphrase qu’il ne faut que lire pour en connoistre les beautez, est de M<hi
-            rend="sup">r</hi> l’Abbé de Viani, Commandeur &amp; Prieur de Saint Jean d’Aix, Frere du
+        <p>Cette Paraphrase qu’il ne faut que lire pour en connoistre les beautez, est de M<hi rend="sup">r</hi> l’Abbé de Viani, Commandeur &amp; Prieur de Saint Jean d’Aix, Frere du
           Prieur de Saint Jean de Malthe, Prelature si considerable dans l’Ordre de ce mesme
           nom.</p>
       </div>
@@ -263,8 +198,7 @@
         <head resp="editor">Des ouvrages de l’abbé de Viani, auteur de la Paraphrase allegorique</head>
         <bibl><title>Mercure galant</title>, mars 1691 [tome 3], p. 21-23.</bibl>
         <p/>
-        <p>Vous avez déja veu un Ouvrage de mesme nature de cet excellent homme. C’est <hi rend="i"
-            >la Paraphrase</hi> allegorique aux Victoires de Monseigneur, du Pseaume 71. que David
+        <p>Vous avez déja veu un Ouvrage de mesme nature de cet excellent homme. C’est <hi rend="i">la Paraphrase</hi> allegorique aux Victoires de Monseigneur, du Pseaume 71. que David
           composa pour souhaitter les vertus necessaires à son Fils Salomon, pour bien regner. Cet
           Ouvrage, fut leu en ce temps-là à l’Academie Françoise, &amp; il y receut un
           applaudissement general. M<hi rend="sup">r</hi> l’Abbé de Viani n’est pas seulement un
@@ -282,8 +216,7 @@
           Prix, qui n’ait rendu justice aux Ouvrages de M<hi rend="sup">r</hi> l’Abbé Maumenet. Il
           en a remporté dans toutes, &amp; il eut celuy de Poësie la derniere fois que l’Academie
           Françoise en donna. Je me souviens que je vous ay mandé dans quelqu’une de mes Lettres,
-          que l’Academie Royale d’Arles en avoit proposé un pour celuy qui réussiroit le mieux <hi
-            rend="i">sur la satisfaction que le Roy a d’avoir un Fils digne de luy, &amp; sur les
+          que l’Academie Royale d’Arles en avoit proposé un pour celuy qui réussiroit le mieux <hi rend="i">sur la satisfaction que le Roy a d’avoir un Fils digne de luy, &amp; sur les
             premieres Conquestes de ce jeune Heros</hi>. M<hi rend="sup">r</hi> l’Abbé Maumenet a
           encore remporté ce Prix depuis peu de temps. C’est un Tableau representant Monseigneur,
           &amp; il a esté donné par M<hi rend="sup">r</hi> de Roubias d’Estoublon, si distingué dans
@@ -477,8 +410,7 @@
           pour répondre, autant qu’ils ont pû, à l’honneur que ce Prince leur a fait. Leurs Majestez
           Britanniques, dont la pieté est connuë, en ont donné des marques, en allant faire leurs
           devotions en l’Eglise de Saint Germain en Laye, où estoient les Prieres de Quarante heures
-          pendant les trois derniers jours du Carnaval. Elles assisterent le Lundy au Sermon de M<hi
-            rend="sup">r</hi> l’Abbé de Moré, Docteur de Sorbonne &amp; Chapelain du Roy, &amp;
+          pendant les trois derniers jours du Carnaval. Elles assisterent le Lundy au Sermon de M<hi rend="sup">r</hi> l’Abbé de Moré, Docteur de Sorbonne &amp; Chapelain du Roy, &amp;
           ensuite à la benediction qu’il donna au Salut. Le jour suivant, Elles entendirent la
           Predication de M<hi rend="sup">r</hi> l’Abbé de Converset, Docteur de Sorbonne, Prieur
           &amp; Curé de la mesme Eglise, &amp; furent tres-satisfaites de ces deux actions.</p>
@@ -519,8 +451,7 @@
         <bibl><title>Mercure galant</title>, mars 1691 [tome 3], p. 95-110.</bibl>
         <p/>
         <p>La Lettre qui suit combat agreablement le trop de pouvoir que quelques-uns donnent à
-          l’Opinion. Je ne doute point que sa lecture ne vous divertisse. Elle est de M<hi
-            rend="sup">r</hi> Cipiere de Bordeaux, &amp; sert de réponse à une autre Lettre qui
+          l’Opinion. Je ne doute point que sa lecture ne vous divertisse. Elle est de M<hi rend="sup">r</hi> Cipiere de Bordeaux, &amp; sert de réponse à une autre Lettre qui
           avoit esté écrite sur la Beauté.</p>
         <quote>
           <label>A MONSIEUR B.</label>
@@ -760,14 +691,12 @@
           Theologien &amp; habile Predicateur, fit l’ouverture par un excellent discours. Ensuite
             M<hi rend="sup">r</hi> de Marsolier, Auteur de plusieurs beaux Ouvrages, Chanoine en la
           Cathedrale d’Uzez, &amp; Frere d’un Conseiller au Grand Conseil, qui porte ce mesme nom,
-            M<hi rend="sup">r</hi> Mesnard, Conseiller au Presidial de Nismes, &amp; M<hi rend="sup"
-            >r</hi> de Travenol, l’un des plus fameux Avocats du Presidial de la même Ville, firent
+            M<hi rend="sup">r</hi> Mesnard, Conseiller au Presidial de Nismes, &amp; M<hi rend="sup">r</hi> de Travenol, l’un des plus fameux Avocats du Presidial de la même Ville, firent
           leurs complimens à la Compagnie, &amp; la remercierent de l’honneur qu’elle leur avoit
           fait de les y aggreger. M<hi rend="sup">r</hi> Demerés, qui est maintenant Directeur de
           l’Academie, leur fit une réponse courte, éloquente &amp; tres-agreable au nom de la
           Compagnie : aprés quoy M<hi rend="sup">r</hi> Dayglun, Docteur de Sorbonne, Chanoine,
-          Grand Official, &amp; Grand-Vicaire de Nismes, fameux Predicateur &amp; Frere de M<hi
-            rend="sup">r</hi> de Trimond, Conseiller au Parlement de Provence, fit l’Oraison Funebre
+          Grand Official, &amp; Grand-Vicaire de Nismes, fameux Predicateur &amp; Frere de M<hi rend="sup">r</hi> de Trimond, Conseiller au Parlement de Provence, fit l’Oraison Funebre
           de M<hi rend="sup">r</hi> Seguier, le dernier Evêque de Nismes, &amp; qui avoit esté le
           premier Protecteur de l’Academie. On aplaudit fort à cette Piece, &amp; à celles qu’on lut
           ensuite dans l’Assemblée. M<hi rend="sup">r</hi> Demerés qui avoit fait admirer son
@@ -780,8 +709,7 @@
           est l’Auteur, &amp; qui la doit publier au premier jour, tâche de prouver que Nismes n’a
           jamais esté une Colonie Romaine. On verra aussi bien-tost l’Histoire du Cardinal Ximenes,
           par M<hi rend="sup">r</hi> l’Abbé de Marsolier, Parisien de naissance, dont je viens de
-          vous parler, l’un des Academiciens externes de l’Academie de Nismes. Le sçavant M<hi
-            rend="sup">r</hi> Graverol, qui en est l’un des principaux ornemens, a esté depuis peu
+          vous parler, l’un des Academiciens externes de l’Academie de Nismes. Le sçavant M<hi rend="sup">r</hi> Graverol, qui en est l’un des principaux ornemens, a esté depuis peu
           receu dans celle <hi rend="i">de Ricovrati</hi> de Padouë.</p>
       </div>
       <div type="article" xml:id="MG-1691-03_136" resp="wordpro">
@@ -970,8 +898,7 @@
           Belebat épousa la Fille heritiere de Michel de Lhopital, Chancelier de France. Le Défunt a
           fait M<hi rend="sup">r</hi> le Comte de Belebat, son Neveu, son Legataire universel, &amp;
           il y a quelques années qu’il resigna à M<hi rend="sup">r</hi> l’Abbé de Choisi, aussi son
-          Neveu, le Prieuré de S. Benoist, qui vaut cinq ou six mille livres de rente. M<hi
-            rend="sup">r</hi> l’Abbé de Choisi vous est connu par plusieurs Ouvrages qui ont tous
+          Neveu, le Prieuré de S. Benoist, qui vaut cinq ou six mille livres de rente. M<hi rend="sup">r</hi> l’Abbé de Choisi vous est connu par plusieurs Ouvrages qui ont tous
           receu l’approbation du Public, &amp; sur tout, par l’agreable Relation qu’il nous a donnée
           de son Voyage de Siam, où il devoit demeurer en qualité d’Ambassadeur aprés le départ de
             M<hi rend="sup">r</hi> le Chevalier de Chaumont, si l’on eust trouvé dans Sa Majesté
@@ -1387,5 +1314,4 @@
           attendre le bouleversement de la Ville.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

@@ -1,75 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, juin 1680 [tome 8]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2015"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1680-06/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, juin <date>1680</date> [tome 8].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1680-06"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1680-06_057" copyOf="JLB-MG-1680-06_034" resp="mercure">
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, juin 1680 [tome 8], p. 57-58.</bibl>
         <p>On a travaillé sur les Paroles de Mademoiselle Castille que je vous envoyay dans ma
-          Lettre du mois d’Avril <note resp="editor" >Les paroles de cet air avaient été publiées en avril précédent (cf. <ref target="MG-1680-04_242">cet article</ref>). Elles ont fait l'objet de deux mises en musique : celle-ci et <ref target="MG-1680-06_209">celle de Charpentier</ref>.</note>. Il me souvient qu’elles vous parurent agreablement tournées, &amp;
+          Lettre du mois d’Avril <note resp="editor">Les paroles de cet air avaient été publiées en avril précédent (cf. <ref target="MG-1680-04_242">cet article</ref>). Elles ont fait l'objet de deux mises en musique : celle-ci et <ref target="MG-1680-06_209">celle de Charpentier</ref>.</note>. Il me souvient qu’elles vous parurent agreablement tournées, &amp;
           cela m’oblige à vous les donner aujourd’huy en Air. La Note est de M<hi rend="sup">r</hi>
           Besson de Lyon.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note
-            resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air le
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air le
             plus petit, doit regarder la page 58.</note>
           <lg>
             <l rend="i">
@@ -119,8 +58,7 @@
           Tritons, les Nymphes de la Seine, &amp; les autres Divinitez des Eaux, composerent un
           agreable Concert qui termina cette Scene. Pendant que ce petit Opéra satisfaisoit les
           oreilles, on avoit pris soin du plaisir des yeux, en faisant paroistre une Peinture qui
-          représentoit un Dauphin attiré par le chant d’une Sirene, avec ces paroles, <hi rend="i"
-            >Trahitur dulcedine cantus</hi>. Voicy ce qui a esté fait sur cette idée.</p>
+          représentoit un Dauphin attiré par le chant d’une Sirene, avec ces paroles, <hi rend="i">Trahitur dulcedine cantus</hi>. Voicy ce qui a esté fait sur cette idée.</p>
         <p>[suit une fable, <hi rend="i">Le dauphin et la sirène</hi>, p. 72-77 ]</p>
         <p>Les Amours qui avoient pris la Dance pour leur party, firent la derniere Scene de la
           premiere Partie dont j’ay commencé de vous parler, &amp; représenterent le Balet des
@@ -129,8 +67,7 @@
           peine eut il prononcé en sa faveur, qu’on fut étonné de ne voir plus que des Lys, qui
           formerent une espece de Couronne en dançant. Une nouvelle Peinture augmenta en mesme temps
           les ornemens du Theatre. Elle fit paroistre un Lys élevé au dessus des autres Fleurs, qui
-          sembloient se pancher pour luy rendre leurs hommages, avec cette Inscription, <hi rend="i"
-            >Plebeii cedite Flores.</hi></p>
+          sembloient se pancher pour luy rendre leurs hommages, avec cette Inscription, <hi rend="i">Plebeii cedite Flores.</hi></p>
         <p>Les Amours de la seconde Partie avoient pris les Sciences pour leur partage ; &amp;
           l’explication de ces paroles qui se lisoient, <hi rend="i">Cessit Parnassus Amorii</hi>,
           fut aisée à faire, quand on vit Apollon &amp; les Muses quiter le Parnasse pour les en
@@ -221,13 +158,11 @@
         <head resp="editor">Autre air sur les paroles de Mademoiselle de Castille</head>
         <bibl><title>Mercure galant</title>, juin 1680 [tome 8], p. 209-210.</bibl>
         <p>Vous aurez tout lieu d’estre contente de moy sur les Vers de Mademoiselle Castille qui
-          vous ont tant plû <note resp="editor">Les paroles de cet air avaient été publiées en avril précédent (cf. <ref target= "MG-1680-04_242">cet article</ref>. Elles ont fait l'objet de deux mises en musique : celle de Bellon (cf. <ref target= "MG-1680-06_057">cet article</ref>) et celle-ci.</note>, &amp; que vous aurez déjà veus notez au commencement de cette Lettre. Je vous les donne
-          encor une fois avec d’autres Notes, afin que vous les puissiez chanter diféremment. M<hi
-            rend="sup">r</hi> Charpentier qui vient de les mettre en Air, en a fait une façon de
+          vous ont tant plû <note resp="editor">Les paroles de cet air avaient été publiées en avril précédent (cf. <ref target="MG-1680-04_242">cet article</ref>. Elles ont fait l'objet de deux mises en musique : celle de Bellon (cf. <ref target="MG-1680-06_057">cet article</ref>) et celle-ci.</note>, &amp; que vous aurez déjà veus notez au commencement de cette Lettre. Je vous les donne
+          encor une fois avec d’autres Notes, afin que vous les puissiez chanter diféremment. M<hi rend="sup">r</hi> Charpentier qui vient de les mettre en Air, en a fait une façon de
           Rondeau. Vous y trouverez ce caractere aisé &amp; particulier qui vous fait aimer tous ces
           Ouvrages. Examinez celuy-cy ; mais en chantant,</p>
-        <quote><hi rend="i">Ah qu’ils sont courts les beaux jours, &amp;c.</hi><note resp="author"
-            place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air le plus grand,
+        <quote><hi rend="i">Ah qu’ils sont courts les beaux jours, &amp;c.</hi><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air le plus grand,
             doit regarder la page 209.</note></quote>
         <p>n’oubliez pas que vous devez profiter de la moralité de ces Vers.</p>
         <ref target="images/1680-06_209.JPG">
@@ -299,8 +234,7 @@
           qui a eu le premier cette qualité, estant mort depuis peu de temps, M<hi rend="sup">r</hi>
           le Duc de Saint Aignan a nommé le S<hi rend="sup">r</hi> de Beauchamp, l’un des anciens
           Académistes, pour remplir sa place. Vous sçavez qu’il est le Compositeur des Balets du
-          Roy, &amp; le Chef de ses Danseurs. Les autres qui composent L’Académie, dont le S<hi
-            rend="sup">r</hi> Renauld, qui en est le Secretaire, &amp; les S<hi rend="sup">rs</hi>
+          Roy, &amp; le Chef de ses Danseurs. Les autres qui composent L’Académie, dont le S<hi rend="sup">r</hi> Renauld, qui en est le Secretaire, &amp; les S<hi rend="sup">rs</hi>
           Desert Fils du defunt Chancelier, Queru, de Manthe, Raynal l’aîné, Desert l’aîné, Piquet
           l’aîné, Desert l’aîné, Reynal cadet, Desert cadet, Dégan, le Chantre, &amp; S. André.</p>
       </div>
@@ -326,11 +260,9 @@
         <p>M<hi rend="sup">r</hi> Feuret, Seigneur d’Aubigny, Conseiller au Parlement de Bourgogne,
           Petit-Fils de l’illustre M<hi rend="sup">r</hi> Feuret, qui a donné au Public le fameux
             <hi rend="i">Traité de l’Abus</hi>, s’est marié depuis peu avec Madame Doriau, Veuve
-          d’un Capitaine de Cavalerie qui portoit ce nom. Elle est Fille de feu M<hi rend="sup"
-            >r</hi> Enin-Lietar, Comte de Roche, Lieutenant pour le Roy aux Ville &amp; Citadelle de
+          d’un Capitaine de Cavalerie qui portoit ce nom. Elle est Fille de feu M<hi rend="sup">r</hi> Enin-Lietar, Comte de Roche, Lieutenant pour le Roy aux Ville &amp; Citadelle de
           Châlons, &amp; Sœur de M<hi rend="sup">r</hi> le Comte de Roche Lieutenant aux Gardes. Ce
-          Mariage s’est fait à Châlons sur Saône, où s’estoient rendus les Parens des Mariez. M<hi
-            rend="sup">r</hi> Feuret Conseiller d’Eglise dans le mesme Parlement, &amp; Chanoine de
+          Mariage s’est fait à Châlons sur Saône, où s’estoient rendus les Parens des Mariez. M<hi rend="sup">r</hi> Feuret Conseiller d’Eglise dans le mesme Parlement, &amp; Chanoine de
           la Sainte Chapelle de Dijon, leur donna la Benédiction Nuptiale. Toute l’Assemblée, apres
           avoir passé huit jours à Châlons en diverses Festes, s’embarqua dans un Bateau tout doré,
           &amp; orné de plusieurs belles Peintures qui représentoient le Mariage de Psyché &amp; de
@@ -348,5 +280,4 @@
           ses honnestetez, s’est acquis une estime genérale.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

@@ -1,66 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Extraordinaire du Mercure galant, quartier de janvier 1679 [tome V]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2015"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1679-03e/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier <date>1679</date>
-          [tome V]. <hi rend="i"
-            >Achevé d’imprimer le 31 mars 1679</hi>.</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1679-03"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1679-03e_276" resp="mercure">
         <head>[Nouvelle notation musicale en chiffres de Mr Chaudel]</head>
@@ -298,8 +236,7 @@
         <p>Che non conosce errori un pié reale.</p>
         <p/>
         <p>Ces deux derniers vers n’auront rien d’obscur pour vous, quand je vous auray dit que son
-          Altesse Royale estoit la premiere de ces cinq Egyptiennes. Les quatre autres estoient M<hi
-            rend="sup">r</hi> le Prince d’Ostfrise, Comte d’Embden, qui s’attache depuis plus d’un
+          Altesse Royale estoit la premiere de ces cinq Egyptiennes. Les quatre autres estoient M<hi rend="sup">r</hi> le Prince d’Ostfrise, Comte d’Embden, qui s’attache depuis plus d’un
           an à faire la cour à ce jeune Souverain ; M<hi rend="sup">r</hi> le Marquis de Palavicin,
           dont la Maison est aussi illustre qu’ancienne ; M<hi rend="sup">r</hi> le Comte de Verruë,
           Neveu de M<hi rend="sup">r</hi> l’Abbé Scaglia, Ambassadeur de Savoye en France. Ce jeune
@@ -323,5 +260,4 @@
           moins de joye de tout ce qu’elle avoit veu.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

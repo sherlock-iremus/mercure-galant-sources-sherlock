@@ -1,67 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1681-12e">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title>Extraordinaire du Mercure galant, quartier d'octobre 1681 [tome XVI]</title>
-   </titleStmt>
-   <editionStmt>
-    <edition>OBVIL/IReMuS</edition>
-    <respStmt>
-     <name>Nathalie Berton-Blivet</name>
-     <resp>Responsable éditorial</resp>
-    </respStmt>
-    <respStmt>
-     <name>Anne Piéjus</name>
-     <resp>Responsable éditorial</resp>
-    </respStmt>
-    <respStmt>
-     <name>Frédéric Glorieux</name>
-     <resp>Informatique éditoriale</resp>
-    </respStmt>
-    <respStmt>
-     <name>Vincent Jolivet</name>
-     <resp>Informatique éditoriale</resp>
-    </respStmt>
-   </editionStmt>
-   <publicationStmt>
-    <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-    <date when="2017"/>
-    <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1681-12e</idno>
-    <availability status="restricted">
-     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-       Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie
-       littéraire » (ci-après dénommé OBVIL).</p>
-      <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les
-       bases de données (L341-1) est mise à disposition de la communauté scientifique internationale
-       par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas
-       d’Utilisation Commerciale - Pas de Modification 3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-      <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de
-       cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de
-       la ressource.</p>
-      <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-       utilisation commerciale est interdite.</p>
-      <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-       électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de
-       versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl><title>Extraordinaire du Mercure galant</title>, quartier d'<date>octobre 1681</date>
-     [tome XVI].</bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <creation>
-    <date when="1681-12"/>
-   </creation>
-   <langUsage>
-    <language ident="fre"/>
-   </langUsage>
-  </profileDesc>
- </teiHeader>
- <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
   <body>
    <head><hi rend="i">Extraordinaire du Mercure galant</hi>, quartier d'octobre 1681 (tome
     XVI).</head>
@@ -235,8 +172,7 @@
       dans ces Préceptes de Mariage, parle bien de la deférence qu’une Femme doit avoir pour son
       Mary, mais il ne dit pas un mot en faveur du prétendu droit de Maîtrise des Femmes. Jule-César
       dans le sixiéme Livre de ses Commentaires, dit que par l’ancienne Coútume des Gaulois, les
-      Femmes estoient en la puissance des Marys ; toutes les Loix mettent les Femmes, <hi rend="i"
-       >in tutela Mariti</hi>, &amp; la plúpart de nos Coustumes, veulent qu’elles soient sous la
+      Femmes estoient en la puissance des Marys ; toutes les Loix mettent les Femmes, <hi rend="i">in tutela Mariti</hi>, &amp; la plúpart de nos Coustumes, veulent qu’elles soient sous la
       puissance des Marys, avec cette diférence, que ce n’est point à cause de l’imbécilité du Sexe,
       comme les Romains l’avoient déclaré ; mais bien pour l’intérest, &amp; pour l’autorité du
       Mary. J’aurois bien lieu de conclure pour la puissance maritale apres tant de raisons, mais
@@ -1244,8 +1180,7 @@
      <p>Je fais consister la Politesse du monde dans la complaisance envers les Dames, dans la
       propreté sur sa personne, &amp; dans celle de son équipage. À la Cour parler peu ; à la Ville,
       ny flateur ny opiniâtre, mais sincere.</p>
-     <p>Des Billets galans, il y en a de plusieurs sortes. Si vostre Maîtresse est avare, M<hi
-       rend="sup">r</hi> de Bussy en a donné un original inimitable. Si vous agissez par amour, il
+     <p>Des Billets galans, il y en a de plusieurs sortes. Si vostre Maîtresse est avare, M<hi rend="sup">r</hi> de Bussy en a donné un original inimitable. Si vous agissez par amour, il
       faut à peu prés parler ainsi. <hi rend="i">Je n’ay, Madame, ny joye ny plaisir qu’auprés de
        vous.</hi> Si c’est belle amitié, dont il se faut défier un peu. <hi rend="i">Madame</hi>,
       luy dirois-je ; <hi rend="i">ma fortune, mes biens, tout est à vous ; neanmoins</hi>
@@ -1425,8 +1360,7 @@
       faisoient de grandes réjoüissances &amp; qu’ils y invitoient leurs Serviteurs &amp; leurs
       Esclaves, ausquels ils donnoient eux-mesmes à boire. Plutarque ajoûte qu’ils avoient de
       coustume en beuvant de prier les Dieux de leur rendre la Medecine salutaire, tout de mesme que
-      les Latins disoient ordinairement la premiere fois, qu’ils beuvoient du Vin nouveau, <hi
-       rend="i">Vetus novum vinum bibo, veteri novo medeor</hi>. En Allemagne celuy qui boit dit
+      les Latins disoient ordinairement la premiere fois, qu’ils beuvoient du Vin nouveau, <hi rend="i">Vetus novum vinum bibo, veteri novo medeor</hi>. En Allemagne celuy qui boit dit
       auparavant, <hi rend="i">salut à moy, salut à vous, salut à ma Maistresse, salut à toute la
        Compagnie, salut à celuy qui ne me porte point envie &amp; qui se réjoüit comme nous,
        &amp;c.</hi> C’est ce qu’on appelle boire à l’Allemande. Les Payens dans leurs Sacrifices
@@ -1434,8 +1368,7 @@
       Pline l. 18. c. 29. &amp; Ovide l. 4. Fast. en parlent. Arnobe l. 7. dit que les Anciens
       faisoient des Sacrifices au Dieu de la Medecine, le premier jour qu’ils goútoient leur Vin
       nouveau. Noé planta la Vigne, comme tout le Monde sçait, &amp; but le premier de cette liqueur
-      délicieuse qui luy fit donner le nom de Janus au rapport de Genebrard du mot Hebreu <hi
-       rend="i">Jaün</hi> qui signifie du Vin. Ce Patriarche conformément à son nom, donna le repos
+      délicieuse qui luy fit donner le nom de Janus au rapport de Genebrard du mot Hebreu <hi rend="i">Jaün</hi> qui signifie du Vin. Ce Patriarche conformément à son nom, donna le repos
       à tout le genre humain. Le Neveu d’Abraham que les mœurs des Pentapolites n’avoient jamais pû
       corrompre, tomba dans le piege, que ses Filles luy dresserent, en luy faisant boire du Vin. S.
       Augustin neanmoins l. 22. cont. Faust. c. 44. tom. 6. excuse son inceste, parce qu’il estoit
@@ -1452,8 +1385,7 @@
       vint heureusement surgir au Port de l’Isle de Negrepont, où elle accoucha d’un Fils qu’elle
       nomma Oenius, que son Pere Appollon maria avec Dorippe dans l’Isle de Delos, où il eut trois
       enfans, Oeno, Spermo, &amp; Elaida, qui furent si favorisez de Bacchus, qu’il leur donna la
-      permission de changer tout ce qu’ils toucheroient en Vin, Bled &amp; Huile. <hi rend="i"
-       >Apollodorus in Theolog.</hi> écrit que les Athéniens ont esté les premiers Inventeurs du
+      permission de changer tout ce qu’ils toucheroient en Vin, Bled &amp; Huile. <hi rend="i">Apollodorus in Theolog.</hi> écrit que les Athéniens ont esté les premiers Inventeurs du
       Vin, de l’Huile &amp; de la maniere de cultiver la Terre. Aussi leur Roy Amphiction, selon le
       sentiment de Prochorus, apprit de Bacchus mesme à mesler l’Eau avec le Vin. Quelques Autheurs
       neanmoins pretendent que c’est Melampus, ce fameux Medecin des Filles de Prœtus, duquel Homere
@@ -1698,8 +1630,7 @@
       reçeu des Dieux la vertu de guerir, ou par leur souffle, ou par leur attouchement, quelques
       maladies, sans y employer les remedes humains ; ou que la trop credule populace s’imagine
       résider dans quelques particuliers, sans aucun témoignage autentique de l’Eglise, ny sans
-      aucun merite particulier de leur part ; puis que, selon le sentiment du Cardinal Caïetan <hi
-       rend="i">in Summa. V. in cant.</hi> &amp; du Docteur Navarre <hi rend="i">in Manual.
+      aucun merite particulier de leur part ; puis que, selon le sentiment du Cardinal Caïetan <hi rend="i">in Summa. V. in cant.</hi> &amp; du Docteur Navarre <hi rend="i">in Manual.
        cap. 11.</hi> toutes leurs pretenduës guerisons (s’il est vray qu’ils en operent
       quelques-unes) sont pour la pluspart, sinon pleines de fourberies &amp; d’impostures, du moins
       fort sujettes à l’erreur &amp; à la superstition, n’estant à vray dire autre chose que les
@@ -1772,8 +1703,7 @@
       dernier en parle dans son Etat present de l’Angleterre chap. 4. L’on peut mettre, dit-il, au
       nombre des prérogatives du Roy d’Angleterre, comme Roy, une que l’on peut appeller grande par
       excellence, ou plutost miraculeuse, premierement octroyée à ce bon &amp; pieux Roy Edoüard le
-      Confesseur ; c’est de guerir les Ecroüelles, ce mal obstiné, que l’on appelle, <hi rend="i"
-       >The Kings Evil</hi> ; c’est-à-dire le mal du Roy, &amp;c. Car il est constant que ces trois
+      Confesseur ; c’est de guerir les Ecroüelles, ce mal obstiné, que l’on appelle, <hi rend="i">The Kings Evil</hi> ; c’est-à-dire le mal du Roy, &amp;c. Car il est constant que ces trois
       Autheurs, quoy que peut-estre veritables par tout ailleurs, n’ont pas laissé cependant de se
       tromper en ce point ; puis que s’il est vray que saint Edoüard ait eu ce privilege, il ne s’en
       est servy qu’une seule fois, &amp; à l’égard d’une seule Femme, comme l’Histoire de sa vie en
@@ -1808,8 +1738,7 @@
       plusieurs autres Autheurs étrangers ; &amp; parmy ceux de nôtre France, M<hi rend="sup">r</hi>
       du Laurent dans le beau Traité qu’il en a fait intitulé, <hi rend="i">De mirabili strumas
        sanandi vi, solis Galliæ Regibus Christianissimis concessâ</hi>, &amp; le sçavant Livre qu’en
-      a fait M<hi rend="sup">r</hi> de Priezac, Conseiller d’Estat ordinaire, qui a pour titre, <hi
-       rend="i">Vindiciæ Gallicæ adversus Alex. Patric. Archamanum Theologum,</hi></p>
+      a fait M<hi rend="sup">r</hi> de Priezac, Conseiller d’Estat ordinaire, qui a pour titre, <hi rend="i">Vindiciæ Gallicæ adversus Alex. Patric. Archamanum Theologum,</hi></p>
      <p>Pour la Medecine naturelle, avant que d’en venir à sa division &amp; à ses especes, il est
       bon de dire quelque chose de son origine sur la foy des plus anciens Autheurs qui en ont
       parlé, aucun desquels ne la fait monter plus haut que Clement Alexandrin, qui veut que cette
@@ -1850,8 +1779,7 @@
       les dents. Cela fait connoistre que cet Esculape n’est pas proprement l’inventeur de cet Art,
       comme l’ont pensé Virgile dans le 7. de son Eneïde, Tertullien dans son Apologetique c. 23.
       dont voicy les paroles : <hi rend="i">Iste est Æsculapius Medicinarum demonstrator</hi> ;
-      &amp; Arnobe, qui en parle ainsi dans son premier Livre contre les Gentils : <hi rend="i"
-       >Æsculapium Medicaminum repertorem, post pœnas &amp; suplicia fulminis, custodem
+      &amp; Arnobe, qui en parle ainsi dans son premier Livre contre les Gentils : <hi rend="i">Æsculapium Medicaminum repertorem, post pœnas &amp; suplicia fulminis, custodem
        nuncupavistis, &amp; præsidem sanitatis, valetudinis, &amp; salutis</hi> ; mais bien ce
       Chiron, au moins parmy les Grecs, comme l’asseure Pindare contre Homere, qui dit que c’est
       Peon :</p>
@@ -1926,8 +1854,7 @@
       Temples d’Apollon, &amp; d’Esculape les Medecines qui avoient eu quelque bon succés, afin d’y
       avoir recours, &amp; de s’en servir en cas pareil, ce sage Personnage prit le soin de
       recüeillir toutes ces differentes receptes, dont il composa ; plusieurs excellens Livres ;
-      entre lesquels on fait mention particulierement de ceux-cy, sçavoir, d’un intitulé, <hi
-       rend="i">Jusjurandum</hi>, ou le Jurement ; de ses Pronostics, ou présages pris de la
+      entre lesquels on fait mention particulierement de ceux-cy, sçavoir, d’un intitulé, <hi rend="i">Jusjurandum</hi>, ou le Jurement ; de ses Pronostics, ou présages pris de la
       disposition des Malades ; de ses Aphorismes ; &amp; d’un admirable Traité, ou l’on tient qu’il
       a renfermé en soixante Livres, tout ce qui se peut dire de plus curieux &amp; de plus sçavant
       sur la Medecine ; ce qui fait qu’avec raison on luy donne la gloire d’avoir mis au jour cette
@@ -1954,8 +1881,7 @@
       leur avoit laissez, se perfectionnerent toûjours de plus en plus dans la connoissance, &amp;
       dans la pratique de cette Science, &amp; se mirent en vogue dans le monde, particulierement
       certain Prodicus, Thracien de Nation, &amp; Disciple du mesme Hypocrate, lequel, au rapport de
-      Pline, mit en avant cette pratique de Medecine, que les Grecs appelloient <hi rend="i"
-       >Jatraleptice</hi>, qui consistoit à donner les Bains &amp; les Etuves aux Malades.</p>
+      Pline, mit en avant cette pratique de Medecine, que les Grecs appelloient <hi rend="i">Jatraleptice</hi>, qui consistoit à donner les Bains &amp; les Etuves aux Malades.</p>
      <p>Chrysippe vint en suite, qui renversa toute la Theorie d’Hypocrate, &amp; de Prodicus ;
       &amp; apres celuy-cy, Erasistrate, petit-fils d’Aristote du costé de sa fille, qui changea
       aussi beaucoup de choses que Chrysippe avoit établies, quoy qu’il eust esté son Disciple. On
@@ -1980,8 +1906,7 @@
       donner pour Femme celle qu’il voudroit choisir des quatre, &amp; pour dot la troisiéme partie
       de son Royaume. Melampus fit si bien qu’il les rétablit en leur bon sens, appaisant d’un costé
       la Déesse à force de Prieres &amp; de Sacrifices, &amp; leur purgeant d’ailleurs le cerveau,
-      selon Galien, avec de l’Hellebore noir, que l’on a depuis appellé de son nom, <hi rend="i"
-       >Melampodion</hi>. Elian dit, qu’il les guerit, en leur donnant du lait de Chevre ; &amp;
+      selon Galien, avec de l’Hellebore noir, que l’on a depuis appellé de son nom, <hi rend="i">Melampodion</hi>. Elian dit, qu’il les guerit, en leur donnant du lait de Chevre ; &amp;
       Ovide, en les faisant baigner dans la Fontaine Clytoire, à laquelle on donnoit entr’autres
       proprietez la vertu de rendre chaste, &amp; de faire haïr le Vin. Proethus s’acquita de sa
       promesse envers Melampus, &amp; luy fist épouser la premiere de ses filles. C’est assez parlé
@@ -2204,8 +2129,7 @@
       corps vivans, Herophile, que Tertullien a raison d’appeller un Bourreau inhumain, plutost
       qu’un salutaire Medecin ; puis qu’il eut la cruauté de faire la dissection de six cens Hommes
       tous vivans, pour connoistre mieux la Nature, &amp; la disposition des parties du corps
-      humain, &amp; estre ensuite plus utile à ceux qui l’appelleroient en leurs maladies : <hi
-       rend="i">Berophilus ille Medicus, aut Lanius, qui sexcentos exsecuit, ut naturam unius
+      humain, &amp; estre ensuite plus utile à ceux qui l’appelleroient en leurs maladies : <hi rend="i">Berophilus ille Medicus, aut Lanius, qui sexcentos exsecuit, ut naturam unius
        scrutaretur, qui hominem fodit, ut nosset. Tertull. lib. de Anima. cap. 10.</hi> On attribuë
       cette mesme cruauté à Erasistrate, &amp; depuis eux à Carpus, &amp; Vesalus, &amp; à quelques
       autres. On en fait aussi le reproche à certains Medecins de Paris, lesquels, au raport de
@@ -2311,15 +2235,13 @@
       tienne à present dans le monde, n’estoit autrefois exercée que par des Esclaves, &amp; par des
       gens de servile condition. Ce qui se justifie par le témoignage des saintes Lettres, qui nous
       apprennent dans le cinquantiéme chapitre de la Genese, que le Patriarche Jacob estant mort,
-      son fils Joseph fit embaumer son Corps par ses Esclaves, qui luy servoient de Medecins, <hi
-       rend="i">præcepit servis suis Medicis, ut aromatibus condirent Ratrem</hi>, suivant la
+      son fils Joseph fit embaumer son Corps par ses Esclaves, qui luy servoient de Medecins, <hi rend="i">præcepit servis suis Medicis, ut aromatibus condirent Ratrem</hi>, suivant la
       coutume de ce temps-là : Et par le raport de Pline, qui dit en son Histoire, que les Romains
       eussent crû se ravaler, s’ils se fussent addonnez à la Medecine, la jugeant indigne de la
       Noblesse d’un Citoyen Romain ; voila pourquoy, ils vouloient qu’elle ne fust exercée chez eux
       que par des Esclaves Grecs ; &amp; non point par des Gens de libres condition. Ce qui est
       encor confirmé par plusieurs autres témoignages, tant de Ciceron. <hi rend="i">in orat. pro
-       Rege Dejotaro</hi>, que de Seneque, <hi rend="i">l. 3. de Benef. c. 24</hi>. Suetone <hi
-       rend="i">in Caligul. c. 8</hi>. &amp; autres.</p>
+       Rege Dejotaro</hi>, que de Seneque, <hi rend="i">l. 3. de Benef. c. 24</hi>. Suetone <hi rend="i">in Caligul. c. 8</hi>. &amp; autres.</p>
      <p>6. Qu’enfin une bonne partie de ceux qui se meslent de cette profession, sont si peu versez
       dans l’intelligence de ce qui regarde leur Art, qu’ils ne connoissent que superficiellement
       les choses qu’ils devroient sçavoir le plus à fond, comme la nature &amp; la qualité des
@@ -2426,8 +2348,7 @@
       regardent comme des Anges descendus du Ciel ; de sorte que non seulement ils ne leur refusent
       rien de tout ce qu’ils leur demandent, mais ils s’empressent encor à l’envy de leur faire le
       plus de bien, &amp; de leur rendre le plus d’honneur qu’ils peuvent, chacun d’eux tenant pour
-      une singuliere faveur &amp; benediction de les loger &amp; régaler en sa maison. <hi rend="i"
-       >Nemo rogatus illis non irrogat, nemo hospitio non libenter suscipit. Strabo.
+      une singuliere faveur &amp; benediction de les loger &amp; régaler en sa maison. <hi rend="i">Nemo rogatus illis non irrogat, nemo hospitio non libenter suscipit. Strabo.
       lib. 15.</hi></p>
      <p>3° De plus, tant-s’en-faut que la profession de Medecin soit vile, abjecte &amp; méprisable,
       comme ses Ennemis le veulent persuader, il faut dire qu’elle est tout au contraire infiniment
@@ -2528,8 +2449,7 @@
       continuer la fonction de plusieurs opérations de Medecine, (la saignée, la dissection, &amp;
       l’ustion exceptées,) que ceux de cette Faculté luy vouloient faire entierement interdire.
       C’est ce que rapporte le Sieur Botterey Avocat au Grand Conseil, dans les Commentaires Latins
-      qu’il a faits sur l’Histoire de son temps, L. 10. au Titre qui porte : <hi rend="i"
-       >Senatusconsultum Prætorianum quo Sacerdoti Medicinam incruentè profiteri permissum.</hi></p>
+      qu’il a faits sur l’Histoire de son temps, L. 10. au Titre qui porte : <hi rend="i">Senatusconsultum Prætorianum quo Sacerdoti Medicinam incruentè profiteri permissum.</hi></p>
      <p>Il paroist encor que les Souverains Pontifes n’ont pas entendu rendre cette interdiction si
       rigoureuse &amp; si absoluë, puis qu’ils n’ont pas fait de difficulté d’y déroger eux-mesmes,
       comme il se justifie tant par l’exemple de Jean XXI. 189<hi rend="sup">e</hi> Pape, lequel, au
@@ -2769,8 +2689,7 @@
       <l><hi rend="i">Mais sur ma foy je n’en suis pas jaloux,</hi></l>
       <l><hi rend="i">Non, son bonheur ne me fait point d’envie ;</hi></l>
       <l><hi rend="i">Il aura comme moy peu de contentement,</hi></l>
-      <l><hi rend="i">S’il vous fait les</hi> Yeux <hi rend="i">doux en</hi> Sucre <hi rend="i"
-        >seulement.</hi></l>
+      <l><hi rend="i">S’il vous fait les</hi> Yeux <hi rend="i">doux en</hi> Sucre <hi rend="i">seulement.</hi></l>
      </lg>
      <p><hi rend="sc">Daubaine.</hi></p>
     </quote>
@@ -2918,8 +2837,7 @@
       ses inflections, de ses aspirations, de ses accens, &amp; de ses autres changemens, par le
       moyen dequoy elle prononce une mesme parole de plusieurs façons, dont chacune a une
       signification differente. Ainsi <hi rend="i">ya</hi> signifie <hi rend="i">Dieu, étonnement,
-       Oyson, excellent</hi> ou <hi rend="i">muet</hi>, suivant la maniere dont il est prononcé. <hi
-       rend="i">Ciu’</hi> signifie de mesme <hi rend="i">Monsieur, pied d’escabelle, pourceau</hi>,
+       Oyson, excellent</hi> ou <hi rend="i">muet</hi>, suivant la maniere dont il est prononcé. <hi rend="i">Ciu’</hi> signifie de mesme <hi rend="i">Monsieur, pied d’escabelle, pourceau</hi>,
       ou <hi rend="i">cuisine</hi> ; &amp; ne signifie rien s’il est prononcé simplement, comme nous
       le prononcerions. J’ay donc imité cette Langue dans la conduite de mon Ecriture. Je ne me sers
       que de peu de mots, ou pour mieux dire, de peu de nombre, bien que j’aye le champ libre pour
@@ -2927,8 +2845,7 @@
       n’y mets les verbes qu’à l’infinitif ; &amp; je fais consister toute sa force dans de certains
       signes, que je joints à ces nombres, par où je leur donne aussi diverses sortes de
       significations, avec celles qui leur sont necessaires pour une parfaite construction. La suite
-      expliquera clairement ce que je dis icy en abregé ; &amp; vous ne desaprouverez pas M<hi
-       rend="sup">r</hi> s’il vous plaist qu’avant que d’en venir là, je donne quelques principes de
+      expliquera clairement ce que je dis icy en abregé ; &amp; vous ne desaprouverez pas M<hi rend="sup">r</hi> s’il vous plaist qu’avant que d’en venir là, je donne quelques principes de
       Grammaire, mais de Grammaire Universelle, tels que je juge devoir estre ceux d’une Ecriture
       &amp; d’une Langue qui seroient propres au commerce de toutes les Nations.</p>
     </quote>
@@ -2943,29 +2860,19 @@
       diversité des Langues &amp; celle des Ecritures.</p>
      <p>On divise les lettres en voyelles &amp; en consones ; &amp; la pluspart des Nations
       expriment differemment les unes &amp; les autres. On ne peut mieux appeller les voyelles que
-      nous les appellons ; à l’exemple des Latins, lors que nous les nommons simplement <hi rend="i"
-       >a</hi>, <hi rend="i">e</hi>, <hi rend="i">i</hi>, <hi rend="i">o</hi>, <hi rend="i">u</hi>.
-      Ce qui est beaucoup mieux que de les appeller <hi rend="i">Alpha</hi>, <hi rend="i"
-       >Epsilon</hi>, <hi rend="i">Iota</hi>, <hi rend="i">&amp;c.</hi> comme font les Grecs, puis
+      nous les appellons ; à l’exemple des Latins, lors que nous les nommons simplement <hi rend="i">a</hi>, <hi rend="i">e</hi>, <hi rend="i">i</hi>, <hi rend="i">o</hi>, <hi rend="i">u</hi>.
+      Ce qui est beaucoup mieux que de les appeller <hi rend="i">Alpha</hi>, <hi rend="i">Epsilon</hi>, <hi rend="i">Iota</hi>, <hi rend="i">&amp;c.</hi> comme font les Grecs, puis
       que nous imitons en cela la Nature qui rejette le superflu, &amp; qu’une impression sans
       mélange est toûjours plus forte, plus juste, plus claire, &amp; enfin plus propre à
       retenir.</p>
      <p>Si les voyelles se peuvent prononcer toutes seules, il n’en est pas de mesme des consones ;
       elles demandent compagnie ; mais il seroit à souhaiter pour les raisons que je viens de dire,
-      que nostre Langue leur en donnast moins qu’elle ne fait, &amp; sur tout aux consones <hi
-       rend="i">f</hi>, <hi rend="i">l</hi>, <hi rend="i">m</hi>, <hi rend="i">n</hi>, <hi rend="i"
-       >r</hi>, <hi rend="i">s</hi>, <hi rend="i">h</hi>, <hi rend="i">z</hi>, ausquelles nostre
+      que nostre Langue leur en donnast moins qu’elle ne fait, &amp; sur tout aux consones <hi rend="i">f</hi>, <hi rend="i">l</hi>, <hi rend="i">m</hi>, <hi rend="i">n</hi>, <hi rend="i">r</hi>, <hi rend="i">s</hi>, <hi rend="i">h</hi>, <hi rend="i">z</hi>, ausquelles nostre
       prononciation joint quatre ou cinq autres lettres, comme les Hebreux &amp; les Grecs, d’une
       maniere tout-à-fait sur-abondante. Je sçay bien qu’on peut répondre que nous apprenons par là
       à prononcer doublement les six premieres de ces consones, &amp; comme si elles estoient à la
-      fin d’une sillabe, &amp; au commencement d’une autre ; en disant par exemple <hi rend="i"
-       >ef</hi>, <hi rend="i">fe</hi>, <hi rend="i">el</hi>, <hi rend="i">le</hi>, <hi rend="i"
-       >em</hi>, <hi rend="i">me</hi>, &amp;c. mais il suffiroit qu’elles se prononçassent de la
-      seconde maniere, &amp; qu’on dist seulement <hi rend="i">fe</hi>, <hi rend="i">he</hi>, <hi
-       rend="i">le</hi>, <hi rend="i">me</hi>, <hi rend="i">ne</hi>, &amp;c. avec l’<hi rend="i"
-       >e</hi> feminin ou François que les Hebreux nomment <hi rend="i">sceva</hi> ou <hi rend="i"
-       >scheva</hi>, sinon avec l’<hi rend="i">é</hi> masle ou Latin, comme nous disons <hi rend="i"
-       >bé</hi>, <hi rend="i">cé</hi>, <hi rend="i">dé</hi>, &amp;c. supposé qu’on trouve trop
+      fin d’une sillabe, &amp; au commencement d’une autre ; en disant par exemple <hi rend="i">ef</hi>, <hi rend="i">fe</hi>, <hi rend="i">el</hi>, <hi rend="i">le</hi>, <hi rend="i">em</hi>, <hi rend="i">me</hi>, &amp;c. mais il suffiroit qu’elles se prononçassent de la
+      seconde maniere, &amp; qu’on dist seulement <hi rend="i">fe</hi>, <hi rend="i">he</hi>, <hi rend="i">le</hi>, <hi rend="i">me</hi>, <hi rend="i">ne</hi>, &amp;c. avec l’<hi rend="i">e</hi> feminin ou François que les Hebreux nomment <hi rend="i">sceva</hi> ou <hi rend="i">scheva</hi>, sinon avec l’<hi rend="i">é</hi> masle ou Latin, comme nous disons <hi rend="i">bé</hi>, <hi rend="i">cé</hi>, <hi rend="i">dé</hi>, &amp;c. supposé qu’on trouve trop
       foible l’union de l’<hi rend="i">e</hi> feminin. Et c’est aussi de l’une ou de l’autre
       maniere, dont je juge qu’il faut appeller &amp; écrire l’Alphabet de la Grammaire Universelle,
       pour les raisons que j’ay dites dans l’article precedent.</p>
@@ -2976,28 +2883,20 @@
       autant qu’il leur plaist, &amp; cela arrive par des unions de lettres que chacun fait à sa
       fantaisie : ainsi la nôtre associe <hi rend="i">c</hi>, &amp; <hi rend="i">s</hi>, dans son
       caractere <hi rend="i">x</hi> ; <hi rend="i">e</hi>, &amp; <hi rend="i">t</hi>, dans son
-      caractere <hi rend="i">&amp;</hi>. Les Grecs joignant aussi <hi rend="i">p</hi>, &amp; <hi
-       rend="i">s</hi>, dans un mesme ; les Hebreux <hi rend="i">t</hi> &amp; <hi rend="i">s</hi>,
-       <hi rend="i">s</hi> &amp; <hi rend="i">c</hi>, &amp; l’une &amp; l’autre langue <hi rend="i"
-       >c</hi> &amp; <hi rend="i">h</hi>, <hi rend="i">p</hi> &amp; <hi rend="i">h</hi> ; derniere
+      caractere <hi rend="i">&amp;</hi>. Les Grecs joignant aussi <hi rend="i">p</hi>, &amp; <hi rend="i">s</hi>, dans un mesme ; les Hebreux <hi rend="i">t</hi> &amp; <hi rend="i">s</hi>,
+       <hi rend="i">s</hi> &amp; <hi rend="i">c</hi>, &amp; l’une &amp; l’autre langue <hi rend="i">c</hi> &amp; <hi rend="i">h</hi>, <hi rend="i">p</hi> &amp; <hi rend="i">h</hi> ; derniere
       union que nous pouvons exprimer par nostre <hi rend="i">f</hi> ; ces unions sont utiles, &amp;
       il seroit à souhaitter que Messieurs de l’Académie augmentassent les nostres pour marquer
       diversement les prononciations differentes des mesmes lettres, telles que sont celles des deux
-       <hi rend="i">l</hi>, dans ces mots <hi rend="i">fille</hi>, <hi rend="i">famille</hi>, <hi
-       rend="i">grille</hi>, &amp;c. &amp; dans ceux-cy <hi rend="i">mille</hi>, <hi rend="i"
-       >ville</hi>, <hi rend="i">tranquille</hi>, &amp;c. &amp; autres semblables. Il est donc
+       <hi rend="i">l</hi>, dans ces mots <hi rend="i">fille</hi>, <hi rend="i">famille</hi>, <hi rend="i">grille</hi>, &amp;c. &amp; dans ceux-cy <hi rend="i">mille</hi>, <hi rend="i">ville</hi>, <hi rend="i">tranquille</hi>, &amp;c. &amp; autres semblables. Il est donc
       permis à la Grammaire Universelle d’alonger son Alphabet par des associations de lettres, puis
       que cette augmentation peut ôter les équivoques de la prononciation, &amp; abrege d’ailleurs
       l’écriture.</p>
      <p>L’abus de prononcer d’une façon, &amp; d’écrire d’une autre, est si grand, qu’on juge bien
       qu’il doit estre extrémement retranché de cette Grammaire ; &amp; Messieurs de l’Académie ne
-      manqueront pas de reformer nostre ortographe qui nous fait écrire <hi rend="i">faim</hi>, <hi
-       rend="i">parfum</hi>, <hi rend="i">affection</hi>, <hi rend="i">dixiéme</hi>, <hi rend="i"
-       >raison</hi>, <hi rend="i">sentiment</hi>, <hi rend="i">fer</hi>, <hi rend="i">assigner</hi>,
+      manqueront pas de reformer nostre ortographe qui nous fait écrire <hi rend="i">faim</hi>, <hi rend="i">parfum</hi>, <hi rend="i">affection</hi>, <hi rend="i">dixiéme</hi>, <hi rend="i">raison</hi>, <hi rend="i">sentiment</hi>, <hi rend="i">fer</hi>, <hi rend="i">assigner</hi>,
        <hi rend="i">fol</hi>, <hi rend="i">Paon</hi>, <hi rend="i">&amp;c.</hi> tandis que nostre
-      Langue nous fait prononcer <hi rend="i">fain</hi>, <hi rend="i">parfun</hi>, <hi rend="i"
-       >affecsion</hi>, <hi rend="i">diziéme</hi>, <hi rend="i">raizon</hi>, <hi rend="i"
-       >santimant</hi>, <hi rend="i">fair</hi>, <hi rend="i">assiner</hi>, <hi rend="i">fou</hi>,
+      Langue nous fait prononcer <hi rend="i">fain</hi>, <hi rend="i">parfun</hi>, <hi rend="i">affecsion</hi>, <hi rend="i">diziéme</hi>, <hi rend="i">raizon</hi>, <hi rend="i">santimant</hi>, <hi rend="i">fair</hi>, <hi rend="i">assiner</hi>, <hi rend="i">fou</hi>,
        <hi rend="i">Pan</hi>, <hi rend="i">&amp;c.</hi> L’Ecriture &amp; la prononciation se devant
       accorder comme deux cordes à l’unisson, puis qu’elles n’aboutissent qu’à une mesme fin, qui
       est l’harmonieuse intelligence ; &amp; il y a longtemps que les Etrangers, qui sont curieux
@@ -3038,8 +2937,7 @@
       sortes, qu’on nomme vulgairement les <hi rend="i">parties de l’Oraison ou du Discours</hi>.
       Quatre ne changent jamais de terminaison ; on sçait que ce sont, <hi rend="i">la
        conjonction</hi>, <hi rend="i">la préposition</hi>, <hi rend="i">l’interjection</hi>, &amp;
-       <hi rend="i">l’adverbe</hi> ; &amp; les cinq autres en changent, qu’on appelle <hi rend="i"
-       >l’article</hi>, <hi rend="i">le nom</hi>, <hi rend="i">le pronom</hi>, <hi rend="i">le
+       <hi rend="i">l’adverbe</hi> ; &amp; les cinq autres en changent, qu’on appelle <hi rend="i">l’article</hi>, <hi rend="i">le nom</hi>, <hi rend="i">le pronom</hi>, <hi rend="i">le
        participe</hi>, &amp; <hi rend="i">le verbe</hi>. Quoy que la Langue Hébraïque &amp; la
       Latine ne mettent pas l’article parmy les parties du Discours, la Latine ne laisse pas de s’en
       servir pour marquer le genre des noms ; &amp; l’Hébraïque ; pour exprimer la variation de
@@ -3050,12 +2948,9 @@
       les Langues, s’attribuëra toutes ces parties, &amp; mettra l’article en usage avec celles qui
       s’en servent, sans en embarasser pourtant celles qui ne s’en servent pas.</p>
      <p>Le nom, le pronom, &amp; le participe, varient ou changent leurs terminaisons par trois
-      sortes de moyens, qu’on appelle <hi rend="i">nombre</hi>, <hi rend="i">genre</hi>, &amp; <hi
-       rend="i">cas</hi> ; &amp; déduire ces changemens par ordre, c’est ce qu’on nomme <hi rend="i"
-       >décliner</hi>. Le verbe varie aussi par l’un de ces moyens, c’est par <hi rend="i">le
+      sortes de moyens, qu’on appelle <hi rend="i">nombre</hi>, <hi rend="i">genre</hi>, &amp; <hi rend="i">cas</hi> ; &amp; déduire ces changemens par ordre, c’est ce qu’on nomme <hi rend="i">décliner</hi>. Le verbe varie aussi par l’un de ces moyens, c’est par <hi rend="i">le
        nombre</hi>, &amp; encore par d’autres qui se diront bientost.</p>
-     <p>Le nom est ainsi commun au nom &amp; au verbe, &amp; est <hi rend="i">singulier</hi>, ou <hi
-       rend="i">pluriel</hi>. Toutefois les Grecs qui sont délicats, ne veulent pas que deux passent
+     <p>Le nom est ainsi commun au nom &amp; au verbe, &amp; est <hi rend="i">singulier</hi>, ou <hi rend="i">pluriel</hi>. Toutefois les Grecs qui sont délicats, ne veulent pas que deux passent
       pour plusieurs ; &amp; comptent trois nombres, tant dans leurs verbes que dans leurs noms. Le
       singulier qui ne parle que d’un, <hi rend="i">le duel</hi> qui parle de deux, &amp; le pluriel
       qui parle de trois &amp; au dela. On trouve aussi un duel dans la Langue Hébraïque, mais ce
@@ -3068,22 +2963,18 @@
      <p>Le genre est naturellement masculin, feminin, ou neutre, puis que toutes choses sont masle,
       comme <hi rend="i">Homme</hi>, <hi rend="i">Lion</hi>, <hi rend="i">&amp;c.</hi> ou femelle,
       comme <hi rend="i">Femme</hi>, <hi rend="i">Lionne</hi>, <hi rend="i">&amp;c.</hi> ou ne sont
-      ny masle ny femelle, comme <hi rend="i">Ciel</hi>, <hi rend="i">Terre</hi>, <hi rend="i"
-       >Trône</hi>, <hi rend="i">Couronne</hi>, <hi rend="i">Ville</hi>, <hi rend="i">Village</hi>,
+      ny masle ny femelle, comme <hi rend="i">Ciel</hi>, <hi rend="i">Terre</hi>, <hi rend="i">Trône</hi>, <hi rend="i">Couronne</hi>, <hi rend="i">Ville</hi>, <hi rend="i">Village</hi>,
        <hi rend="i">&amp;c.</hi> Neantmoins quelques Langues comme la nostre &amp; ses voisines,
       n’ont que deux genres ; le masculin, qui se marque par l’article définy <hi rend="i">le</hi>,
       ou par l’article indéfiny <hi rend="i">un</hi> ; &amp; le feminin, qui s’exprime par les
       articles <hi rend="i">la</hi>, ou <hi rend="i">une</hi>. Ainsi nous disons <hi rend="i">le
-       Royaume</hi> &amp; <hi rend="i">la Royauté</hi>, <hi rend="i">un Trône</hi> &amp; <hi
-       rend="i">une Couronne</hi>, de mesme que nous disons le Lion &amp; une Lionne, bien que
+       Royaume</hi> &amp; <hi rend="i">la Royauté</hi>, <hi rend="i">un Trône</hi> &amp; <hi rend="i">une Couronne</hi>, de mesme que nous disons le Lion &amp; une Lionne, bien que
       Royaume &amp; Trône ne soient non plus masles, que Royauté &amp; Couronne femelles. La
       Grammaire Universelle qui doit toûjours suivre l’ordre le plus naturel, puis que la Nature est
       sa regle, employera les trois genres, &amp; assignera le masculin à tout ce qui est masle,
-      &amp; à tous les noms qui le représentent, comme à ceux <hi rend="i">de Roy</hi>, <hi rend="i"
-       >de Seigneur</hi>, <hi rend="i">de Pere</hi>, <hi rend="i">&amp;c.</hi> &amp; mesme aux
+      &amp; à tous les noms qui le représentent, comme à ceux <hi rend="i">de Roy</hi>, <hi rend="i">de Seigneur</hi>, <hi rend="i">de Pere</hi>, <hi rend="i">&amp;c.</hi> &amp; mesme aux
       Esprits, comme <hi rend="i">à Dieu</hi>, <hi rend="i">aux Anges</hi>, <hi rend="i">aux
-       Chérubins</hi>, <hi rend="i">aux Dominations</hi>, <hi rend="i">aux Puissances</hi>, <hi
-       rend="i">&amp;c.</hi> Elle attribuëra le feminin à tout ce qui est femelle, &amp; à tous les
+       Chérubins</hi>, <hi rend="i">aux Dominations</hi>, <hi rend="i">aux Puissances</hi>, <hi rend="i">&amp;c.</hi> Elle attribuëra le feminin à tout ce qui est femelle, &amp; à tous les
       noms qui luy conviennent, comme à ceux <hi rend="i">de Revue</hi>, <hi rend="i">de Dame</hi>,
        <hi rend="i">de Mere</hi>, <hi rend="i">&amp;c.</hi> &amp; mettra au neutre tout ce qui n’est
       masle, femelle, ny esprit, par nature, ny par raport ; mais le genre neutre sera encor genre
@@ -3096,9 +2987,7 @@
       genre libre.</p>
      <p>Le cas est ce qui fait la principale variation des noms dans les Langues qui n’employent
       point l’article à le marquer. Il est de six sortes, &amp; l’on tire le nombre des diférentes
-      manieres dont le verbe peut influer sur le nom. On sçait qu’ils sont appellez <hi rend="i"
-       >nominatif</hi>, <hi rend="i">genitif</hi>, <hi rend="i">datif</hi>, <hi rend="i"
-       >accusatif</hi>, <hi rend="i">vocatif</hi>, &amp; <hi rend="i">ablatif</hi>. Neanmoins la
+      manieres dont le verbe peut influer sur le nom. On sçait qu’ils sont appellez <hi rend="i">nominatif</hi>, <hi rend="i">genitif</hi>, <hi rend="i">datif</hi>, <hi rend="i">accusatif</hi>, <hi rend="i">vocatif</hi>, &amp; <hi rend="i">ablatif</hi>. Neanmoins la
       plûpart des Langues ne les expriment pas tous diversement ; l’Hébraïque &amp; la Françoise
       n’ont que quatre articles pour les distinguer ; &amp; la Langue Latine mesme qui varie pour
       cela, la terminaison de ses noms finit souvent le datif comme le genitif, l’ablatif comme le
@@ -3114,20 +3003,13 @@
       sous-entendu avec luy, pour produire un semblable effet.</p>
      <p>Le substantif est absolu ou relatif. L’absolu qu’on nomme aussi primitif, est ou esprit,
       comme <hi rend="i">Dieu</hi>, <hi rend="i">Ange</hi>, <hi rend="i">&amp;c.</hi> ou masle ou
-      femelle, comme <hi rend="i">Homme</hi>, <hi rend="i">Femme</hi>, <hi rend="i">Lion</hi>, <hi
-       rend="i">Lionne</hi>, <hi rend="i">&amp;c.</hi> ou matiere naturelle, comme <hi rend="i"
-       >Ciel</hi>, <hi rend="i">Terre</hi>, <hi rend="i">pierre</hi>, <hi rend="i">&amp;c.</hi> ou
-      matiere artificielle, comme <hi rend="i">Trône</hi>, <hi rend="i">Couronne</hi>, <hi rend="i"
-       >Ville</hi>, <hi rend="i">Village</hi>, <hi rend="i">&amp;c.</hi> ou forme accidentelle,
-      comme <hi rend="i">grandeur</hi>, <hi rend="i">generosité</hi>, <hi rend="i">sagesse</hi>, <hi
-       rend="i">&amp;c.</hi> Le substantif relatif dérive du verbe, ou n’en dérive pas, &amp; est
-      toûjours antécedent ou subséquent. L’antécedent qui dérive du verbe, est comme <hi rend="i"
-       >Createur</hi> ; &amp; le subséquent, comme <hi rend="i">Creature</hi>. L’antécedent qui n’en
+      femelle, comme <hi rend="i">Homme</hi>, <hi rend="i">Femme</hi>, <hi rend="i">Lion</hi>, <hi rend="i">Lionne</hi>, <hi rend="i">&amp;c.</hi> ou matiere naturelle, comme <hi rend="i">Ciel</hi>, <hi rend="i">Terre</hi>, <hi rend="i">pierre</hi>, <hi rend="i">&amp;c.</hi> ou
+      matiere artificielle, comme <hi rend="i">Trône</hi>, <hi rend="i">Couronne</hi>, <hi rend="i">Ville</hi>, <hi rend="i">Village</hi>, <hi rend="i">&amp;c.</hi> ou forme accidentelle,
+      comme <hi rend="i">grandeur</hi>, <hi rend="i">generosité</hi>, <hi rend="i">sagesse</hi>, <hi rend="i">&amp;c.</hi> Le substantif relatif dérive du verbe, ou n’en dérive pas, &amp; est
+      toûjours antécedent ou subséquent. L’antécedent qui dérive du verbe, est comme <hi rend="i">Createur</hi> ; &amp; le subséquent, comme <hi rend="i">Creature</hi>. L’antécedent qui n’en
       dérive pas, est comme <hi rend="i">Reyne</hi>, <hi rend="i">Pere</hi>, <hi rend="i">Mere</hi>,
-       <hi rend="i">&amp;c.</hi> &amp; le subséquent comme <hi rend="i">Sujet</hi>, <hi rend="i"
-       >Sujette</hi>, <hi rend="i">Fils</hi>, <hi rend="i">Fille</hi>, <hi rend="i">&amp;c.</hi>
-      L’antécedent qui dérive du verbe, a son subséquent direct ou indirect. Le direct est comme <hi
-       rend="i">Creature</hi> à l’égard <hi rend="i">du Createur</hi> ; &amp; l’indirect est comme
+       <hi rend="i">&amp;c.</hi> &amp; le subséquent comme <hi rend="i">Sujet</hi>, <hi rend="i">Sujette</hi>, <hi rend="i">Fils</hi>, <hi rend="i">Fille</hi>, <hi rend="i">&amp;c.</hi>
+      L’antécedent qui dérive du verbe, a son subséquent direct ou indirect. Le direct est comme <hi rend="i">Creature</hi> à l’égard <hi rend="i">du Createur</hi> ; &amp; l’indirect est comme
        <hi rend="i">Donataire</hi> à l’égard <hi rend="i">de Donateur.</hi></p>
      <p>Je croy qu’on dispensera volontiers la, Grammaire Universelle de rapporter tous les noms
       particuliers des Hommes, &amp; ceux de leurs Villes, de leurs Villages, &amp; de leurs autres
@@ -3138,17 +3020,11 @@
       autres, les dix premiers exceptez.</p>
      <p>L’adjectif se divise diversement comme le substantif. Il y a l’adjectif du nom, &amp; celuy
       du verbe. Le premier vient de la personne ou de la chose. Celuy qui vient de la personne est
-      comme <hi rend="i">Royal</hi>, <hi rend="i">paternel</hi>, <hi rend="i">maternel</hi>, <hi
-       rend="i">&amp;c.</hi> Celuy qui vient de la chose est comme <hi rend="i">celeste</hi>, <hi
-       rend="i">terrestre</hi>, <hi rend="i">leger</hi>, <hi rend="i">&amp;c.</hi> L’adjectif qui
-      vient du verbe est comme <hi rend="i">adorable</hi>, <hi rend="i">faisable</hi>, <hi rend="i"
-       >redoutable</hi>, qui signifient ce qui est digne d’estre adoré ; ce qui est possible à
+      comme <hi rend="i">Royal</hi>, <hi rend="i">paternel</hi>, <hi rend="i">maternel</hi>, <hi rend="i">&amp;c.</hi> Celuy qui vient de la chose est comme <hi rend="i">celeste</hi>, <hi rend="i">terrestre</hi>, <hi rend="i">leger</hi>, <hi rend="i">&amp;c.</hi> L’adjectif qui
+      vient du verbe est comme <hi rend="i">adorable</hi>, <hi rend="i">faisable</hi>, <hi rend="i">redoutable</hi>, qui signifient ce qui est digne d’estre adoré ; ce qui est possible à
       faire, &amp; ce qu’on doit redouter. Trois degrez de comparaison suivent encore la nature de
-      l’adjectif, comme quand on dit par exemple, en parlant de nostre auguste Monarque, <hi
-       rend="i">il est aussi grand qu’Alexandre, il est plus grand qu’Aléxandre, c’est le plus grand
-       des Roys</hi>. Ces trois degrez de comparaison font donner à l’adjectif les noms de <hi
-       rend="i">positif</hi>, de <hi rend="i">comparatif</hi>, &amp; de <hi rend="i"
-      >superlatif</hi>. Le premier marque l’égalité, en bien ou en mal ; le second éleve ou
+      l’adjectif, comme quand on dit par exemple, en parlant de nostre auguste Monarque, <hi rend="i">il est aussi grand qu’Alexandre, il est plus grand qu’Aléxandre, c’est le plus grand
+       des Roys</hi>. Ces trois degrez de comparaison font donner à l’adjectif les noms de <hi rend="i">positif</hi>, de <hi rend="i">comparatif</hi>, &amp; de <hi rend="i">superlatif</hi>. Le premier marque l’égalité, en bien ou en mal ; le second éleve ou
       abaisse ; &amp; le troisiéme porte la comparaison au plus haut point de loüange ou de blâme.
       Dans nostre Langue &amp; dans ses voisines, la diférence de ces degrez ne change point les
       adjectifs, on ne fait que leur joindre quelques adverbes ; mais il n’en est pas de mesme de la
@@ -3161,25 +3037,19 @@
      <p>Les pronoms sont des especes d’adjectifs qui se mettent en la place des noms devant les
       verbes, &amp; qui en marquent les personnes ; &amp; comme il y a trois sortes de personnes,
       qu’on appelle simplement la premiere personne, la seconde, &amp; la troisiéme, il y a trois
-      sortes de pronoms, <hi rend="i">je</hi> ou <hi rend="i">moy</hi>, <hi rend="i">tu</hi> ou <hi
-       rend="i">toy</hi>, &amp; <hi rend="i">il</hi>, <hi rend="i">elle</hi>, ou <hi rend="i"
-       >luy</hi>, <hi rend="i">celuy-cy</hi>, <hi rend="i">celuy-là</hi>, <hi rend="i">&amp;c.</hi>
+      sortes de pronoms, <hi rend="i">je</hi> ou <hi rend="i">moy</hi>, <hi rend="i">tu</hi> ou <hi rend="i">toy</hi>, &amp; <hi rend="i">il</hi>, <hi rend="i">elle</hi>, ou <hi rend="i">luy</hi>, <hi rend="i">celuy-cy</hi>, <hi rend="i">celuy-là</hi>, <hi rend="i">&amp;c.</hi>
       La Grammaire Universelle doit mettre les pronoms au genre libre, afin qu’on les puisse
       accorder en genre avec tous les estres ausquels on les joindra ; ce privilege ne pouvant
       aboutir qu’à la perfection des expressions, &amp; à une plus parfaite intelligence.</p>
      <p>Les participes sont des adjectifs qui dérivent des verbes, comme ceux que j’ay déja
       rapportez ; mais ceux-là ne désignent point de temps, &amp; ceux-cy en marquent, comme on le
-      connoist par les exemples <hi rend="i">aymant</hi>, <hi rend="i">aymé</hi>, qui <hi rend="i"
-       >aymera</hi>, où l’on trouve le temps present, le passé &amp; l’avenir. À la verité ils ne
+      connoist par les exemples <hi rend="i">aymant</hi>, <hi rend="i">aymé</hi>, qui <hi rend="i">aymera</hi>, où l’on trouve le temps present, le passé &amp; l’avenir. À la verité ils ne
       tiennent pas tant de la nature &amp; de la simplicité des adjectifs dans nostre langue que
       dans les autres ; mais quand l’usage general ne prévaudroit pas, la briéveté &amp; la
       commodité de leurs expressions le devroit emporter sur nous. Les adjectifs sont de tout genre
       en toutes sortes de langues ; il en sera donc de mesme des participes.</p>
-     <p>J’ay dit que le verbe estoit susceptible de changement, par le nombre. Il l’est encore <hi
-       rend="i">par les personnes</hi>, dont il exprime les actions ou les passions ; <hi rend="i"
-       >par les temps</hi>, ausquels ces actions &amp; ces passions se font, ont esté faites ou se
-      feront ; &amp; <hi rend="i">par les meuds</hi>, <hi rend="i">modes</hi> ou <hi rend="i"
-       >moyens</hi>, qui sont les manieres dont elles arrivent. Déduire ces changemens par ordre,
+     <p>J’ay dit que le verbe estoit susceptible de changement, par le nombre. Il l’est encore <hi rend="i">par les personnes</hi>, dont il exprime les actions ou les passions ; <hi rend="i">par les temps</hi>, ausquels ces actions &amp; ces passions se font, ont esté faites ou se
+      feront ; &amp; <hi rend="i">par les meuds</hi>, <hi rend="i">modes</hi> ou <hi rend="i">moyens</hi>, qui sont les manieres dont elles arrivent. Déduire ces changemens par ordre,
       c’est ce qu’on appelle <hi rend="i">conjuguer.</hi></p>
      <p>La langue Hebraïque a dans ses verbes, deux nombres, trois personnes &amp; trois temps, de
       mesme que toutes les autres langues ; mais elle commence à conjuguer par la troisiéme
@@ -3197,14 +3067,12 @@
       amplement par la langue Greque &amp; par la nôtre, que par la Latine. Mais comme elle doit
       suivre aussi la construction la plus exacte &amp; la plus parfaite, elle donnera des genres
       aux verbes, comme la langue Hebraïque.</p>
-     <p>Le verbe est de plusieurs sortes aussi bien que le nom ; il est substantif, comme <hi
-       rend="i">estre</hi> ou <hi rend="i">exister</hi> ; actif comme <hi rend="i">aymer</hi>, &amp;
+     <p>Le verbe est de plusieurs sortes aussi bien que le nom ; il est substantif, comme <hi rend="i">estre</hi> ou <hi rend="i">exister</hi> ; actif comme <hi rend="i">aymer</hi>, &amp;
       passif comme <hi rend="i">estre aymé</hi>. Les langues en ont d’autres encore, mais ce sont
       plutost des effets de leur caprice, que de la necessité ; ils se peuvent tous reduire sous ces
       trois chefs. La Grammaire Universelle pourroit pourtant leur en ajoûter une quatriéme sorte
       assez à propos ; c’est ceux ausquels on joint volontairement un pronom personnel pour la
-      construction, comme <hi rend="i">se regarder</hi>, <hi rend="i">s’estimer</hi>, <hi rend="i"
-       >s’élever</hi>, <hi rend="i">&amp;c.</hi> qui ont aprés cela de certains temps communs avec
+      construction, comme <hi rend="i">se regarder</hi>, <hi rend="i">s’estimer</hi>, <hi rend="i">s’élever</hi>, <hi rend="i">&amp;c.</hi> qui ont aprés cela de certains temps communs avec
       le verbe actif, &amp; d’autres communs avec le passif. Et la raison est qu’elle abbregeroit
       par ce moyen les repétitions importunes des pronoms, comme <hi rend="i">je me regarde</hi>,
        <hi rend="i">tu te regarde</hi>, <hi rend="i">nous nous regardons</hi>, <hi rend="i">je me
@@ -3252,13 +3120,10 @@
       de mesme du regime du nominatif avec le verbe, sans avoir égard au <hi rend="i">30a Troki</hi>
       des Grecs, ny à cette façon de parler de nostre langue, <hi rend="i">une infinité d’animaux
        courrent</hi>. Les deux substantifs qui signifient une mesme chose, &amp; qui sont mis sans
-      conjonction ou avec conjonction, s’accorderont encore de la mesme sorte ; &amp; l’on dira <hi
-       rend="i">le Roy Louis</hi>, <hi rend="i">la Reyne Therese</hi>, <hi rend="i">&amp; le Roy
+      conjonction ou avec conjonction, s’accorderont encore de la mesme sorte ; &amp; l’on dira <hi rend="i">le Roy Louis</hi>, <hi rend="i">la Reyne Therese</hi>, <hi rend="i">&amp; le Roy
        &amp; la Reyne</hi>, <hi rend="i">&amp;c.</hi> Mais s’ils signifient des choses diverses,
       &amp; qu’ils se rencontrent sans conjonction, le second dans l’ordre de la construction
-      naturelle sera mis au genitif, &amp; l’on dira <hi rend="i">le Royaume &amp; France</hi>, <hi
-       rend="i">la Ville de Paris</hi>, <hi rend="i">&amp;c.</hi> sans avoir égard à <hi rend="i"
-       >l’urbs Roma</hi> des Latins. S’ils sont mis au nominatif singulier &amp; avec conjonction,
+      naturelle sera mis au genitif, &amp; l’on dira <hi rend="i">le Royaume &amp; France</hi>, <hi rend="i">la Ville de Paris</hi>, <hi rend="i">&amp;c.</hi> sans avoir égard à <hi rend="i">l’urbs Roma</hi> des Latins. S’ils sont mis au nominatif singulier &amp; avec conjonction,
       &amp; qu’ils regissent un verbe aprés eux, il faut faire prendre le pluriel au verbe, &amp; à
       l’adjectif qui les suivra ; &amp; l’on dira <hi rend="i">le Roy &amp; la Reyne se promenent,
        sont admirables, &amp;c.</hi> Et parce qu’entre les personnes, la premiere passe pour la plus
@@ -3401,8 +3266,7 @@
     <head>[Madrigaux sur les Enigmes de Novembre, dont le Mot estoit La Palatine]</head>
     <bibl><title>Extraordinaire du Mercure galant</title>, quartier d'octobre 1681 [tome XVI],
      p. 335-351.</bibl>
-    <p><hi rend="i">Les Enigmes de Novembre estoient toutes deux sur</hi> la Palatine. <hi rend="i"
-      >Je vous fais part des diférentes Explications que j’en ay reçeües.</hi></p>
+    <p><hi rend="i">Les Enigmes de Novembre estoient toutes deux sur</hi> la Palatine. <hi rend="i">Je vous fais part des diférentes Explications que j’en ay reçeües.</hi></p>
     <quote>
      <label>I.</label>
      <lg>
@@ -3841,5 +3705,4 @@
     </quote>
    </div>
   </body>
- </text>
-</TEI>
+ </text></TEI>

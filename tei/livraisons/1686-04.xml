@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1686-04">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, avril 1686 [tome 5]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1686-04</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>avril 1686</date> [tome 5].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1686-04"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, avril 1686 [tome 5].</head>
       <div type="article" xml:id="MG-1686-04_001" resp="wordpro">
@@ -231,18 +167,13 @@
               aimer Dieu, &amp; qu’ils en soient aimez, le reconnoissant pour leur veritable Roy.
               Plusieurs Papes ont appellé les Rois</hi>, Apostoliques, <hi rend="i">&amp; ont dit
               qu’ils avoient sur ce sujet</hi> un Esprit Sacerdotal. <hi rend="i">La fausse Epitre
-              attribuée au Pape Eleuthere appelle un Roy</hi>, Vicaire de Dieu dans la Religion. <hi
-              rend="i">On trouve dans le Concile de Calcedoine plusieurs acclamations faites à
-              l’Empereur en ces termes</hi>, à l’Empereur Pontife, au vray Prêtre. <hi rend="i"
-              >C’est pour cela que les noms</hi> d’Autheurs &amp; Défenseurs de la Foy <hi rend="i"
-              >leur ont esté aussi donnez, comme celuy de</hi> Pasteurs des Pasteurs, <hi rend="i"
-              >&amp; un Pape Leon dans un Chapitre inseré au Décret de Gratian appelle les Empereurs
+              attribuée au Pape Eleuthere appelle un Roy</hi>, Vicaire de Dieu dans la Religion. <hi rend="i">On trouve dans le Concile de Calcedoine plusieurs acclamations faites à
+              l’Empereur en ces termes</hi>, à l’Empereur Pontife, au vray Prêtre. <hi rend="i">C’est pour cela que les noms</hi> d’Autheurs &amp; Défenseurs de la Foy <hi rend="i">leur ont esté aussi donnez, comme celuy de</hi> Pasteurs des Pasteurs, <hi rend="i">&amp; un Pape Leon dans un Chapitre inseré au Décret de Gratian appelle les Empereurs
               François de la seconde race</hi>, Pontifes. S. <hi rend="i">Remy parlant de Clovis
               l’appelle</hi> Evesque des Evesques, <hi rend="i">à l’occasion d’un Prêtre qu’il avoit
               fait par son ordre ; &amp; Gregoire de Tours parlant aussi à un Roy de la Race de
               Clovis luy dit</hi> ; Si nous manquons, vous nous pouvez corriger ; mais si vous
-            manquez, vous ne pouvez estre corrigé que par celuy, qui est la Justice mesme ; <hi
-              rend="i">&amp; il est à remarquer que les Evesques de France avoient de coûtume pour
+            manquez, vous ne pouvez estre corrigé que par celuy, qui est la Justice mesme ; <hi rend="i">&amp; il est à remarquer que les Evesques de France avoient de coûtume pour
               lors de rendre la Communion à ceux qu’ils en avoient retranchez, quand ils estoient
               assez heureux que d’estre admis à la Table, &amp; à la presence des Rois. Les Conciles
               ne se tenoient dans le Royaume que par leur ordre, &amp; mesme les Decrets portoient
@@ -299,8 +230,7 @@
               l’équité de saint Pierre, c’est à dire selon la justesse de son esprit, &amp; la
               droiture de son cœur, charmez de la découverte de la Charité d’un Dieu, qui luy
               inspirerent cette Confession ; qu’ainsi, bien que Iesus-Christ parlât singulierement à
-              S. Pierre pour estre la forme &amp; le modelle des autres Ministres</hi> (<hi rend="i"
-              >en quoy les Papes sont singulierement ses Successeurs</hi>) <hi rend="i">le droit de
+              S. Pierre pour estre la forme &amp; le modelle des autres Ministres</hi> (<hi rend="i">en quoy les Papes sont singulierement ses Successeurs</hi>) <hi rend="i">le droit de
               Pierre Fondamentale passa à tous les autres, qui sont à cét égard ses Successeurs,
               lors qu’ils agissent par son Esprit, &amp; que la mesme Charité les anime.</hi></p>
           <p><hi rend="i">Mais enfin la force &amp; l’efficace de tout ce Ministere exterieur, qui
@@ -355,8 +285,7 @@
               Darius donna pouvoir à Daniel de rompre l’Idole, &amp; condamna aux Lyons ses Ennemis,
               &amp; Nabuchodonosor défendit dans ses Etats de blasphemer le vray Dieu. Saint Pierre
               &amp; S. Iean, dans les Actes des Apostres, ne recusent point le Savedrin, lors qu’ils
-              disent</hi>, Nous sommes jugez pour avoir donné la santé à un Malade, <hi rend="i"
-              >&amp; quand ce Tribunal leur défend de prescher Iesus-Christ pour Messie, ils
+              disent</hi>, Nous sommes jugez pour avoir donné la santé à un Malade, <hi rend="i">&amp; quand ce Tribunal leur défend de prescher Iesus-Christ pour Messie, ils
               alleguent l’ordre de Dieu, en luy disant</hi>, Jugez vous-mesmes, si nous devons
             plûtost obeïr à Dieu qu’aux hommes. <hi rend="i">S. Paul gagna Sergius son Juge, qui
               estoit assis sur le Tribunal, pour juger entre luy &amp; Elymas le Magicien. Le mesme
@@ -679,8 +608,7 @@
           20. du mois passé. Comme pour ces sortes d’Actions qui sont d’un fort grand éclat, on
           choisit toûjours quelque personne distinguée dans le Barreau, pour faire l’Eloge de ceux
           que le Roy éleve à cette premiere Dignité de la Robe, M<hi rend="sup">r</hi> de Tessé,
-          fameux Avocat du Parlement, fut chargé de requerir l’enregistrement des Lettres de M<hi
-            rend="sup">r</hi> de Boucherat. Il est Fils du Doyen des Conseillers du Presidial de la
+          fameux Avocat du Parlement, fut chargé de requerir l’enregistrement des Lettres de M<hi rend="sup">r</hi> de Boucherat. Il est Fils du Doyen des Conseillers du Presidial de la
           Fléche, &amp; proche Parent du docte M<hi rend="sup">r</hi> Ménage. Il y a long-temps que
           l’on n’a fait un Discours public qui ait esté plus generalement applaudy, que celuy qu’il
           prononça. Chacun fut charmé de son éloquence, &amp; tant de personnes s’attacherent
@@ -771,8 +699,7 @@
           licence reprimée, les abus reformez, les malversations punies, l’ordre retably, &amp; la
           felicité répanduë par tout. Il s’estendit sur l’ardeur avec laquelle il avoit couru dans
           la haute Guyenne, dans le Comté de Foix, &amp; dans les Sevenes, au secours des
-          Catholiques contre les Pretendus Reformez. <hi rend="i">L’Heresie</hi>, dit-il, <hi
-            rend="i">qui graces au Ciel &amp; à la pieté de nostre grand Monarque, est presque
+          Catholiques contre les Pretendus Reformez. <hi rend="i">L’Heresie</hi>, dit-il, <hi rend="i">qui graces au Ciel &amp; à la pieté de nostre grand Monarque, est presque
             entierement détruite aujourd’huy, troubloit alors le repos de nos Freres dans toute
             l’etenduë de ces Provinces. Ce cruel Monstre avoit rompu les chaisnes qui luy avoient
             esté données par les Edits de nos Roys. Il commençoit déja à paroître en campagne, il
@@ -785,8 +712,7 @@
             le sien, vienne comme un autre Moyse, le delivrer pour toûjours de la
           servitude.</hi></p>
         <p>M<hi rend="sup">r</hi> de Tessé passa de là aux Emplois qu’a eus M<hi rend="sup">r</hi>
-          de Boucherat depuis la Majorité du Roy. Voicy à peu prés les termes dont il se servit. <hi
-            rend="i">Aprés l’avoir consideré comme une de ces Rivieres qui ayant arrosé plusieurs
+          de Boucherat depuis la Majorité du Roy. Voicy à peu prés les termes dont il se servit. <hi rend="i">Aprés l’avoir consideré comme une de ces Rivieres qui ayant arrosé plusieurs
             Plaines, roulé ses flots avec majesté pendant un long cours, &amp; laissé par tout les
             fertiles impressions de sa fecondité, porte enfin ses eaux &amp; ses richesses dans une
             profonde Mer ; admirons le maintenant dans les Conseils du plus grand, du plus sage, du
@@ -797,8 +723,7 @@
             davantage sur la surface de la terre. Que dis-je, le contempler auprés de ce Monarque !
             Eh de qui peut-on contempler les Vertus auprés de ce Prince Incomparable.</hi></p>
         <p>Il prit là-dessus occasion de faire l’Eloge du Roy, &amp; il le fit avec une force
-          d’éloquence que tout le monde admira. <hi rend="i">C’est icy</hi>, poursuit-il, <hi
-            rend="i">c’est icy où je ne connois plus mon sujet. Surpris, étonné, éblouy de tant de
+          d’éloquence que tout le monde admira. <hi rend="i">C’est icy</hi>, poursuit-il, <hi rend="i">c’est icy où je ne connois plus mon sujet. Surpris, étonné, éblouy de tant de
             lumieres, de tant de grandeurs, de tant de miracles qui viennent à la fois fraper mes
             yeux, de quelque costé que je les tourne, ou sur la Personne, ou sur les actions de ce
             grand Prince, je ne sçay plus si je parle, ou si je tombe dans le silence. Mon
@@ -876,8 +801,7 @@
             que tout autre que luy n’auroit jamais pû soûtenir l’éclat d’une vertu si vive &amp; si
             agissante.</hi></p>
         <p>M<hi rend="sup">r</hi> de Tessé fit connoistre ensuite que depuis vingt-cinq ans il ne
-          s’estoit presenté aucune Affaire importante dans le Royaume, où le Roy n’eust honoré M<hi
-            rend="sup">r</hi> le Chancelier de sa confiance. Il fit voir la gloire qu’il s’estoit
+          s’estoit presenté aucune Affaire importante dans le Royaume, où le Roy n’eust honoré M<hi rend="sup">r</hi> le Chancelier de sa confiance. Il fit voir la gloire qu’il s’estoit
           acquise dans ces differens Emplois, &amp; le bien que la France avoit receu de sa
           vigilance &amp; de son zele. Il parla de cette funeste Constellation qui avoit paru au
           milieu de nos Victoires, de cette Peste engendrée des noires vapeurs de l’Amour, de
@@ -969,9 +893,7 @@
           <p><hi rend="i">J’ay une petite Maison de Campagne, où pour tout ornement j’ay fait
               peindre les sept plus grands Personnages qui ayent jamais esté chacun en leur genre,
               &amp; que je regarde comme les sept miracles du Monde ; Monsieur le Prince pour la
-              Guerre ; M<hi rend="sup">r</hi> Descartes pour la Physique ; M<hi rend="sup"
-              >r</hi> Arnauld pour la Science de la Religion &amp; la Polemique ; M<hi rend="sup"
-                >r</hi> de Corneille pour la Tragedie ; M<hi rend="sup">r</hi> de Lully pour la
+              Guerre ; M<hi rend="sup">r</hi> Descartes pour la Physique ; M<hi rend="sup">r</hi> Arnauld pour la Science de la Religion &amp; la Polemique ; M<hi rend="sup">r</hi> de Corneille pour la Tragedie ; M<hi rend="sup">r</hi> de Lully pour la
               Musique ; M<hi rend="sup">r</hi> le Brun pour la Peinture ; &amp; vous, Monseigneur,
               pour l’Eloquence. Le Roy est au dessus de tous vous autres, qui répand ses rayons pour
               vous éclairer &amp; vous échauffer au travail.</hi></p>
@@ -1510,8 +1432,7 @@
         <p/>
         <p>Sur la fin du dernier mois, M<hi rend="sup">r</hi> le Marquis de Dangeau Chevalier
           d’honneur de Madame la Dauphine, épousa Madame la Comtesse de Levestein, Fille d’honneur
-          de cette Princesse. Comme elle estoit Chanoinesse, on la traitoit de <hi rend="i"
-            >Madame</hi>, quoy que Fille, &amp; il suffit qu’elle possedast cette qualité pour faire
+          de cette Princesse. Comme elle estoit Chanoinesse, on la traitoit de <hi rend="i">Madame</hi>, quoy que Fille, &amp; il suffit qu’elle possedast cette qualité pour faire
           connoistre les avantages qu’elle a du costé de sa Naissance. Elle est Fille de Federic
           Charles, Comte de Levestein, qui épousa en 1651. Anne-Marie, Fille d’Egon Comte de
           Furstemberg, &amp; d’Anne-Marie, Princesse née de Hohen Zolern. Elle a l’air doux, l’ame
@@ -1559,8 +1480,7 @@
           d’Anne de Mornay, dont le nom est aussi noble qu’il est celebre dans l’Histoire du dernier
           Siecle. Elle estoit Fille de Philippes de Mornay Seigneur du Plessis Marly, &amp;
           Gouverneur de Saumur ; grand’ Tante de René du Bec, Marquis de Vardes, Capitaine des Cent
-          Suisses de la Garde, &amp; Commandeur des Ordres de Sa Majesté, Beau-pere de M<hi
-            rend="sup">r</hi> le Duc de Rohan, &amp; petite Fille de Françoise du Bec, dont le Pere
+          Suisses de la Garde, &amp; Commandeur des Ordres de Sa Majesté, Beau-pere de M<hi rend="sup">r</hi> le Duc de Rohan, &amp; petite Fille de Françoise du Bec, dont le Pere
           Charles du Bec Vice-Amiral de France, avoit épousé Magdelaine de Beauvilliers, grand’
           Tante de M<hi rend="sup">r</hi> le Duc de S. Aignan. Elle avoit pour ses Oncles, Pierre de
           Mornay Baron de Buhi, Maréchal General des Camps &amp; Armées du Roy, Chevalier de ses
@@ -1584,8 +1504,7 @@
           qui entend &amp; parle sept sortes de Langues. M<hi rend="sup">r</hi> Cency Vice-Légat
           d'Avignon, ayant seu qu'il estoit party de Paris, dépêcha son Secrétaire jusqu'à
           Pont-Saint-Esprit, pour luy faire compliment de sa part, &amp; luy offrir tout ce qui
-          pouvoit dépendre de luy dans son Gouvernement ; &amp; sur l'avis qu'il receut que M<hi
-            rend="sup">r</hi> l'Ambassadeur arriveroit à Avignon le soir du Dimanche 24 de Mars.
+          pouvoit dépendre de luy dans son Gouvernement ; &amp; sur l'avis qu'il receut que M<hi rend="sup">r</hi> l'Ambassadeur arriveroit à Avignon le soir du Dimanche 24 de Mars.
           [L'arrivée en ville de l'ambassadeur fut saluée, à la lueur de flambeaux par un long
           cortège constitué par tous les corps de la ville, ainsi que par des batteries
           d'infanterie. Il fut accueilli à la table du vice-légat d'Avignon qui] estoit de vingt
@@ -1611,8 +1530,7 @@
           d’allegresse publique. Il faut remonter plus haut, &amp; vous parler presque de tous les
           Siecles, avant que de venir à cette grande journée, qui doit estre glorieuse à la France,
           sensible à tous ses Peuples, utile à tous les Monarques qu’une noble &amp; loüable
-          émulation excitera à marcher sur les traces du Roy, &amp; qui immortalisera le nom de M<hi
-            rend="sup">r</hi> de la Feüillade, &amp; l’ardeur d’un zele aussi grand que nouveau pour
+          émulation excitera à marcher sur les traces du Roy, &amp; qui immortalisera le nom de M<hi rend="sup">r</hi> de la Feüillade, &amp; l’ardeur d’un zele aussi grand que nouveau pour
           la gloire de Sa Majesté. Les Statuës &amp; les Arcs de Triomphe estoient autrefois dédiez
           aux Empereurs &amp; aux grands Conquerans, par le Senat, par le Peuple Romain, &amp;
           quelquefois mesme par un Particulier, lors qu’il avoit receu de grands bien faits de
@@ -1700,8 +1618,7 @@
           celuy que M<hi rend="sup">r</hi> des Jardins vient d’achever, devroit ennoblir tout l’Art
           de la Sculpture, non seulement à cause de sa beauté, mais à cause du Prince qu’il
           represente. Que la posterité l’admire, &amp; que nos Neveux s’entretiennent en le
-          regardant, des exploits miraculeux du grand Monarque dont nous voyons la Statuë, que M<hi
-            rend="sup">r</hi> le Duc de la Feüillade a fait élever avec des soins incroyables, &amp;
+          regardant, des exploits miraculeux du grand Monarque dont nous voyons la Statuë, que M<hi rend="sup">r</hi> le Duc de la Feüillade a fait élever avec des soins incroyables, &amp;
           une dépense digne d’un zele aussi ardent que le sien. Cét ouvrage qui pour sa grandeur
           &amp; pour sa magnificence surpasse tous ceux de cette nature dont l’antiquité se vante,
           surprend d’abord les yeux par une Statuë de Bronze de treize pieds de hauteur, où le Roy
@@ -1839,8 +1756,7 @@
             Ouvrage n’estant pas achevé, le grand nombre des Actions du Roy peut en faire changer
             quelques-uns. Je vous diray seulement qu’au dessus des quatre Groupes de Colomnes
             ausquels ils sont attachez, il y a quatre grands Fanaux de Bronze doré d’or moulu, qui
-            doivent éclairer la Place toute la nuit, par le moyen des feux dont M<hi rend="sup"
-              >r</hi> le Duc de la Feüillade a fondé l’entretien pour toûjours. On voit par là que
+            doivent éclairer la Place toute la nuit, par le moyen des feux dont M<hi rend="sup">r</hi> le Duc de la Feüillade a fondé l’entretien pour toûjours. On voit par là que
             ce Duc n’a rien épargné de ce qu’il a crû capable de servir en quelque maniere à
             éterniser la gloire du Roy.</p>
           <p>Aprés vous avoir parlé du sujet de la grande Feste dont tout Paris fut témoin le 28. de
@@ -1896,8 +1812,7 @@
             aussi fraper un fort grand nombre d’argent &amp; de cuivre pour le peuple. J’en ay fait
             graver une que je vous envoye.</p>
           <p>Pendant que Monseigneur distribuoit ces Medailles, les Violons &amp; les autres
-            Instrumens se faisoient entendre alternativement, &amp; quelquefois tous ensemble. M<hi
-              rend="sup">r</hi> l’Abbé Regnier presenta ensuite à Monseigneur le Dauphin, &amp; aux
+            Instrumens se faisoient entendre alternativement, &amp; quelquefois tous ensemble. M<hi rend="sup">r</hi> l’Abbé Regnier presenta ensuite à Monseigneur le Dauphin, &amp; aux
             Princes &amp; Princesses qui l’accompagnoient, des Livres, où la description de la
             Figure du Roy, &amp; de tout l’Ouvrage, estoit contenuë ; &amp; dans le mesme temps, des
             Suisses de M<hi rend="sup">r</hi> de la Feüillade portoient de ces mesmes Livres aux
@@ -1966,8 +1881,7 @@
             prés de la ruë des Fossez-Montmartre. Les trente Trompettes qui suivoient les Sergens,
             aprés avoir fait comme eux le demy tour de la Figure, firent une demie conversion,
             passerent entre le rang des Sergens &amp; des Troupes, en sonnant toûjours, &amp;
-            allerent se poster en face de la Statuë, le dos tourné contre l’Hostel de M<hi
-              rend="sup">r</hi> le Duc de la Feüillade. Ce Duc avec tous les Capitaines, fit le tour
+            allerent se poster en face de la Statuë, le dos tourné contre l’Hostel de M<hi rend="sup">r</hi> le Duc de la Feüillade. Ce Duc avec tous les Capitaines, fit le tour
             entier de la Statuë, auprés de laquelle il alla se poster à droit, tenant toûjours la
             Pique à la main, &amp; faisant face comme la Statuë. Le Lieutenant Colonel se posta à
             trois pas derriere luy, le premier Capitaine à deux pas derriere le Lieutenant Colonel,
@@ -2015,8 +1929,7 @@
             passerent aussi devant la Statuë, tournerent à droit, &amp; se joignirent à leurs
             Camarades. Les cinquante Sergens qui fermoient la Marche allerent former un rang
             derriere les Officiers, entre les deux Fanaux qui sont du côté de Petits Peres. Voila
-            dans que ordre le Regiment se posta. Ainsi il ne resta dans la Place que M<hi rend="sup"
-              >r</hi> le Colonel, le Lieutenant Colonel, les Capitaines &amp; le Drapeau Colonel,
+            dans que ordre le Regiment se posta. Ainsi il ne resta dans la Place que M<hi rend="sup">r</hi> le Colonel, le Lieutenant Colonel, les Capitaines &amp; le Drapeau Colonel,
             qui entourant la balustrade, tandis que les autres Officiers étoient postez autour de la
             Place au pied des Balcons, faisoient un rond, &amp; laissoient la plus grande partie de
             la Place libre pour la Ceremonie &amp; la Marche de M<hi rend="sup">rs</hi> de Ville.
@@ -2058,8 +1971,7 @@
             Gardes à pied, &amp; M<hi rend="sup">rs</hi> de Ville deux à deux, bien montez, &amp;
             dans l’ordre que je viens de vous marquer, firent le tour de la Statuë, passant entre
             les Capitaines qui environnoient la balustrade, &amp; le rang des Officiers &amp;
-            Drapeaux. Ce premier tour fait, M<hi rend="sup">r</hi> le Gouverneur &amp; M<hi
-              rend="sup">r</hi> le Prevost des Marchands s’arresterent devant la Statuë, &amp; aprés
+            Drapeaux. Ce premier tour fait, M<hi rend="sup">r</hi> le Gouverneur &amp; M<hi rend="sup">r</hi> le Prevost des Marchands s’arresterent devant la Statuë, &amp; aprés
             s’être découverts &amp; avoir fait une profonde inclination, ils firent faire une
             Chamade par leurs Tambours &amp; trompettes, &amp; sur un signal que fit le Major du
             Regiment des Gardes, les autres Tambours, Trompettes, Fifres, Hautbois &amp; Musettes
@@ -2120,8 +2032,7 @@
             Ainsi l’on ne voyoit que des Feux, &amp; l’on n’entendoit par tout que des acclamations
             &amp; des cris de joye. Monseigneur fut receu à la porte de l’Hostel de Ville à la
             descente de son Carosse par M<hi rend="sup">r</hi> le Gouverneur de Paris, &amp; par
-              M<hi rend="sup">r</hi> le Prevost des Marchands. Ils monterent à ses costez, M<hi
-              rend="sup">r</hi> le Duc de Crequi à la droite, &amp; M<hi rend="sup">r</hi> le
+              M<hi rend="sup">r</hi> le Prevost des Marchands. Ils monterent à ses costez, M<hi rend="sup">r</hi> le Duc de Crequi à la droite, &amp; M<hi rend="sup">r</hi> le
             President de Fourcy à la gauche, suivis de M<hi rend="sup">rs</hi> les Echevins, &amp;
             des Officiers du Bureau de la Ville. L’Escalier estoit éclairé des deux costez depuis le
             bas jusqu’en haut, par un grand nombre de Flambeaux de Cire blanche, &amp; la Salle
@@ -2206,8 +2117,7 @@
           dans ce nouveau Carrousel, &amp; donnez au Concierge de son Hostel par deux inconnus, qui
           n’ont point voulu dire de quelle part ils les apportoient. Ils avoient pour Titre.</p>
         <quote>
-          <label>LA DAME INCONNUE,<lb/>Aux Illustres Dames<lb/>du Carrousel.<lb/><hi rend="i"
-              >MADRIGAL.</hi></label>
+          <label>LA DAME INCONNUE,<lb/>Aux Illustres Dames<lb/>du Carrousel.<lb/><hi rend="i">MADRIGAL.</hi></label>
           <lg>
             <l rend="i"> Beautez qu’on ne peut trop aimer,</l>
             <l rend="i"> Pour vos vertus, vostre adresse &amp; vos charmes,</l>
@@ -2305,5 +2215,4 @@
           Court-Neuve du Palais, au Dauphin. Je suis, Madame, vôtre, &amp;c.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

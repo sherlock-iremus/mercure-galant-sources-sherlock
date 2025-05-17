@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1683-04">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, avril 1683 [tome 4]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1683-04</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>avril 1683</date> [tome 4].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1683-04"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, avril 1683 [tome 4].</head>
       <div type="article" xml:id="MG-1683-04_005" resp="nbb">
@@ -90,8 +26,7 @@
         <head>[Prix remporté par M. de la Monaye]</head>
         <bibl><title>Mercure galant</title>, avril 1683 [tome 4], p. 8-9</bibl>
         <p>Il est diverses manieres de gagner des Prix ; &amp; si le Roy ne les donne pas toûjours,
-          il en est souvent le sujet. Je vous ay parlé plusieurs fois des Bouts-rimez de <hi
-            rend="i">Pan &amp; Guenuche</hi>, qui avoient esté donnez à remplir à la gloire de ce
+          il en est souvent le sujet. Je vous ay parlé plusieurs fois des Bouts-rimez de <hi rend="i">Pan &amp; Guenuche</hi>, qui avoient esté donnez à remplir à la gloire de ce
           Monarque. On a fait plus de quatre mille Sonnets sur ce sujet. Comme il s’agissoit du Roy,
           chacun écrivoit. M<hi rend="sup">r</hi> de la Monoye, né sous une Etoile qui fait
           remporter des Prix, puis qu’il a merité deux ou trois fois celuy de Vers, que l’Académie
@@ -106,8 +41,7 @@
         <p>Toute l’Europe a les yeux ouverts sur les divers Camps que Sa Majesté doit établir. C’est
           une matiere bien ample aux raisonnemens des Politiques ; mais que sert de raisonner ? Les
           desseins du Roy ont toûjours esté impenétrables, &amp; c’est avec beaucoup de justesse
-          qu’on a fait cette Devise, le Soleil pour corps, &amp; ces mots pour ame, <hi rend="i"
-            >Proprio se lumine condit.</hi> Vos Amies en trouveront l’explication dans ce
+          qu’on a fait cette Devise, le Soleil pour corps, &amp; ces mots pour ame, <hi rend="i">Proprio se lumine condit.</hi> Vos Amies en trouveront l’explication dans ce
           Sonnet.</p>
         <quote>
           <label>SUR LE SECRET DU ROY.<lb/><hi rend="sc">Sonnet.</hi></label>
@@ -201,8 +135,7 @@
         <bibl><title>Mercure galant</title>, avril 1683 [tome 4], p. 20-89.</bibl>
         <p>J’avois eu raison de croire que la description des onze Opéra de Vénise, dont je vous ay
           fait part dans ma Lettre du mois de Mars, vous divertiroit<note resp="editor">Cet article constitue la suite de la Lettre de M<hi rend="sup">r</hi> de
-            Cramailles (voir depuis le début de la <ref target="MG-1683-03_228">Lettre de Venise </ref> jusqu'à <ref
-              target="MG-1683-03_301">cet article</ref>).</note>. Je vous envoye une Relation de
+            Cramailles (voir depuis le début de la <ref target="MG-1683-03_228">Lettre de Venise </ref> jusqu'à <ref target="MG-1683-03_301">cet article</ref>).</note>. Je vous envoye une Relation de
           la mesme Ville, que vous ne trouverez pas moins curieuse. On la commence par le douziéme
           Opéra, dont on avoit promis des nouvelles. Il s’est glissé quelque fautes dans ce que je
           vous ay envoyé des onze premiers. On a mis Baracols pour Barcarols, &amp; Pales pour
@@ -218,8 +151,7 @@
             Venise.</label>
         </quote>
         <p><hi rend="i">Pour finir l’Article des Opéra, il me reste encor, Madame, à vous parler du
-            second &amp; dernier de Canareggio. Il est intitulé</hi>, Macedone continente. <hi
-            rend="i">En voicy le Sujet. Tanaïs, une des plus fameuses Courtisanes de son temps,
+            second &amp; dernier de Canareggio. Il est intitulé</hi>, Macedone continente. <hi rend="i">En voicy le Sujet. Tanaïs, une des plus fameuses Courtisanes de son temps,
             gasta tellement l’esprit d’Eumenes, Roy de Sidon, qu’il en devint comme fou, maltraitant
             Eusonia son Epouse, &amp; negligeant de prendre aucun soin du gouvernement de son
             Royaume, en sorte que s’estant rendu odieux à ses Peuples, ils se révolterent contre
@@ -284,8 +216,7 @@
             plus ordinaires qu’on y voit.</hi></p>
         <p><hi rend="i">Pour les Hommes, ils ont quasi tous la Bahute, qui se met sur un Habit &amp;
             Manteau ordinaire, ou sur une Robe de Noble, ou sur une Zanberloque, ou sur une Robe de
-            Chambre. Cette Bahute</hi>, (<hi rend="i">qu’on doit prononcer</hi> Bahoute, <hi
-            rend="i">à cause de l’</hi>u <hi rend="i">Italien</hi>) <hi rend="i">est particuliere en
+            Chambre. Cette Bahute</hi>, (<hi rend="i">qu’on doit prononcer</hi> Bahoute, <hi rend="i">à cause de l’</hi>u <hi rend="i">Italien</hi>) <hi rend="i">est particuliere en
             cette Ville, &amp; on ne s’en sert point en aucune autre que je sçache ; &amp; comme de
             trente Personnes qui se masquent, il y en a toûjours vingt-huit en Bahute, vous ne serez
             pas fâchée, Madame, que je vous en fasse la description. C’est une maniere de petit
@@ -304,8 +235,7 @@
             peu prés comme celles des Robes de Chambre de Paris, mais beaucoup plus amples. Elles
             sont toutes doublées de petit-gris, qui déborde de cinq à six travers de doigt tout du
             long d’un des côtez de devant, &amp; d’autant sur le bout des Manches, mais d’un travers
-            de doigt seulement en bas. On met la Stole sur l’épaule, en forme de Chaperon</hi> (<hi
-            rend="i">c’est un morceau de Drap noir mis en double, long d’une aune, &amp; large d’un
+            de doigt seulement en bas. On met la Stole sur l’épaule, en forme de Chaperon</hi> (<hi rend="i">c’est un morceau de Drap noir mis en double, long d’une aune, &amp; large d’un
             quartier ou environ</hi> ;) <hi rend="i">une large Ceinture de Velours noir bordée d’une
             petite Frange de soye, avec plusieurs grosses Plaques d’argent massif sur le devant ; la
             Barrete ou Bonnet de laine noire tricoté, faite comme un Bonnet de nuit, mais pas si
@@ -633,8 +563,7 @@
             corrects. En voicy les Paroles.</hi></p>
         <quote>
           <label>PREMIER AIR<lb/><hi rend="i">Chanté par la Margarita,
-              représentant<lb/>Sestilia.</hi></label><note resp="author" place="margin"><hi rend="i"
-              >Avis pour placer les Figures</hi> : les Airs Italiens doivent regarder la page
+              représentant<lb/>Sestilia.</hi></label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : les Airs Italiens doivent regarder la page
             83.</note>
           <lg>
             <l>Si Baccia, stringi, e godi</l>
@@ -686,8 +615,7 @@
             Voicy comme je l’ay voulu expliquer. Le Théatre des Acteurs a treize toises, &amp; trois
             pieds de longueur, &amp;c. Il est ouvert par une grande Arcade, aussi haute que la
             Salle, dans l’épaisseur de laquelle il y a encor quatre Palcs de chaque côté les uns sur
-            les autres</hi> (<hi rend="i">je veux dire qu’il n’y en a qu’un à chaque rang</hi>) <hi
-            rend="i">qui sont de la mesme symétrie que ceux de la Salle, mais beaucoup plus ornez
+            les autres</hi> (<hi rend="i">je veux dire qu’il n’y en a qu’un à chaque rang</hi>) <hi rend="i">qui sont de la mesme symétrie que ceux de la Salle, mais beaucoup plus ornez
             &amp; enrichis ; &amp; dans la voûte de cette Arcade, deux Renommées, avec leurs
             Trompetes, sont aussi en relief, &amp; paroissent suspenduës en l’air ; &amp; au milieu,
             à l’endroit de la Clef, est un Tableau d’une Vénus qu’un petit Amour carresse.</hi></p>
@@ -1413,13 +1341,11 @@
           <p><hi rend="i">Je m’acquite de ma promesse, en vous envoyant la description de nostre
               Voyage de l’Amérique, pour lequel vous vous souvenez qu’on avoit armé à Rochefort
               trois Navires du quatriéme rang, qui ont esté commandez par M<hi rend="sup">r</hi> de
-              Cabaret, Chef d’Escadre. Il avoit sous luy sur</hi> le Faucon <hi rend="i">M<hi
-                rend="sup">r</hi> le Chelier d’Arbouville pour Capitaine ; M<hi rend="sup">r</hi> de
+              Cabaret, Chef d’Escadre. Il avoit sous luy sur</hi> le Faucon <hi rend="i">M<hi rend="sup">r</hi> le Chelier d’Arbouville pour Capitaine ; M<hi rend="sup">r</hi> de
               Courcelles, &amp; M<hi rend="sup">r</hi> le Chevalier de Valbelle, pour Lieutenans ;
               &amp; M<hi rend="sup">rs</hi> d’Angoulain, de Timbrune &amp; Maret, pour
               Enseignes.</hi></p>
-          <p><hi rend="i">Le second Vaisseau estoit</hi> la Perle, <hi rend="i">monté par M<hi
-                rend="sup">r</hi> d’Amblimont, ayant M<hi rend="sup">r</hi> de Perrinet pour second
+          <p><hi rend="i">Le second Vaisseau estoit</hi> la Perle, <hi rend="i">monté par M<hi rend="sup">r</hi> d’Amblimont, ayant M<hi rend="sup">r</hi> de Perrinet pour second
               Capitaine ; M<hi rend="sup">rs</hi> des Roches, &amp; du Tast, pour Lieutenans ; &amp;
               pour Enseignes, M<hi rend="sup">rs</hi> de Consolain, de Noré, &amp; de
             Granery.</hi></p>
@@ -1492,8 +1418,7 @@
               ordinaires ; &amp; quand ils ont froid, ils reviennent occuper leur premier Terroir.
               Ces Pigmées vivent de gros Mil, dont ils font du Pain, &amp; boivent d’une boisson
               qu’ils font avec le mesme Pain. Ils l’appellent</hi> Oüicou. <hi rend="i">On fait
-              encor de cette boisson avec la racine d’un Arbrisseau appellé</hi> Magure, <hi
-              rend="i">c’est à dire apres qu’on en a tiré le suc, qui autrement empoisonneroit au
+              encor de cette boisson avec la racine d’un Arbrisseau appellé</hi> Magure, <hi rend="i">c’est à dire apres qu’on en a tiré le suc, qui autrement empoisonneroit au
               lieu de nourrir. Quant à la Religion de ce petit Peuple, je n’ay pû en estre
               informé.</hi></p>
           <p><hi rend="i">Le 26. nous demeurâmes en pane devant Cartagene une heure ou deux hors la
@@ -1531,8 +1456,7 @@
               racourcy ce que c’est que Portobelo. On prétend le fortifier d’une Citadelle à six
               Bastions, qu’on doit situer entre deux Rivieres à demy portée de Canon des Forts. Nous
               moüillames aupres de celuy qui défend l’entrée du Port. On y fait garde en tout temps,
-              &amp; nous ne doutâmes point qu’elle n’y fust redoublée tant que nous y fumes. M<hi
-                rend="sup">r</hi> de Gabaret voulant découvrir la disposition des esprits, députa
+              &amp; nous ne doutâmes point qu’elle n’y fust redoublée tant que nous y fumes. M<hi rend="sup">r</hi> de Gabaret voulant découvrir la disposition des esprits, députa
               aussi-tost M<hi rend="sup">r</hi> de Septen, Major de l’Escadre, qui s’estant mis en
               Canot avec le Pavillon déployé, eut un pour-parler avec le Commandant du Fort de
               l’entrée, apres quoy il fut renvoyé au Gouverneur. Comme il approchoit de la Ville, il
@@ -1554,8 +1478,7 @@
               équipage, maigres &amp; defigurez. Cet incident ne nous broüilla point ; au contraire
               tout se passa de côté &amp; d’autre le plus doucement du monde, en visites, civilitez,
               &amp; présens. Le Gouverneur commença par des rafraîchissemens de deux Bœufs gras, de
-              Vin d’Espagne, de Confitures, d’Oranges &amp; de Citrons, qu’il envoya à M<hi
-                rend="sup">r</hi> de Gabaret ; &amp; il reçeut de luy une paire de Pistolets, un
+              Vin d’Espagne, de Confitures, d’Oranges &amp; de Citrons, qu’il envoya à M<hi rend="sup">r</hi> de Gabaret ; &amp; il reçeut de luy une paire de Pistolets, un
               Castor, &amp; d’autres choses de cette nature. Il régala à terre les Deputez de
               l’Escadre, &amp; les siens furent aussi traitez dans le Bord du Commandant. Ils y
               burent souvent la santé des deux Roys de France &amp; d’Espagne avec les cerèmonies
@@ -1702,8 +1625,7 @@
               Canon, qui fut parfaitement bien servy.</hi></p>
           <p><hi rend="i">Quelques jours apres nous allâmes à la Guadeloupe, appellée
               communément</hi> Gardeloupe. <hi rend="i">Nous y estions attendus pour les
-              Réjoüissances qu’on y avoit préparées dans l’occasion de cette mesme Naissance. M<hi
-                rend="sup">r</hi> Insselin en voulus faire les frais, par reconnoissance de la
+              Réjoüissances qu’on y avoit préparées dans l’occasion de cette mesme Naissance. M<hi rend="sup">r</hi> Insselin en voulus faire les frais, par reconnoissance de la
               gratification qu’il a receuë de Sa Majesté. Nos Officiers ne furent pas plûtost
               descendus à terre, qu’apres les civilitez accoûtumées, on les fit entrer dans la Salle
               de M<hi rend="sup">r</hi> le Gouverneur, où il y avoit Table ouverte pour toutes les
@@ -1713,8 +1635,7 @@
               quoy on se rendit à l’Eglise au milieu de la Mousqueterie rangée en haye de côté &amp;
               d’autre. Le Pere Imbert Superieur celebra la grande Messe, &amp; fit ensuite un
               Discours fort éloquent à la loüange du Roy, &amp; de toute la Famille Royale. Ce
-              Discours fut suivy du</hi> Te Deum, <hi rend="i">lequel estant achevé, M<hi rend="sup"
-                >r</hi> le Gouverneur, M<hi rend="sup">r</hi> de Gabaret, &amp; tous les Officiers
+              Discours fut suivy du</hi> Te Deum, <hi rend="i">lequel estant achevé, M<hi rend="sup">r</hi> le Gouverneur, M<hi rend="sup">r</hi> de Gabaret, &amp; tous les Officiers
               de nos Bords, marcherent au son des Tambours &amp; des Trompetes, &amp; allerent à la
               Place où estoit un Feu d’artifice, disposé en Pavillon cantonné de quatre grands Pots
               de feu. De ce Pavillon couloit une Fontaine de Vin à laquelle ils burent tous les
@@ -1764,8 +1685,7 @@
         <head>[Mariage de M. le Comte de Gondrin]</head>
         <bibl><title>Mercure galant</title>, avril 1683 [tome 4], p. 220-225</bibl>
         <p>On a eu avis que M<hi rend="sup">r</hi> le Comte de Gondrin épousa Mademoiselle de
-          Pochonne sur la fin du Carnaval. Le Mariage s'est fait dans la Ville d'Aqs, dont M<hi
-            rend="sup">r</hi> le Marquis de Pochonne, Frere de la Mariée, est Gouverneur, aussi-bien
+          Pochonne sur la fin du Carnaval. Le Mariage s'est fait dans la Ville d'Aqs, dont M<hi rend="sup">r</hi> le Marquis de Pochonne, Frere de la Mariée, est Gouverneur, aussi-bien
           que du Chasteau. Ils sont si connus l'un &amp; l'autre, tant par leur naissance que par
           les divers employs dont nos Roys ont honoré leurs Ancestres, que ce seroit inutilement que
           je parlerois de leurs services. L'Histoire de France en rend de glorieux témoignages. La
@@ -1940,8 +1860,7 @@
         <p>Nivers.</p>
         <p/>
         <p>Le Sieur Charpentier estoit fort malade, dans le temps qu'on a enfermé ces quinze
-          Musiciens. Il n'y a eu jusqu'icy que deux Maistres de Musique de la Chapelle du Roy. M<hi
-            rend="sup">r</hi> du Mont, &amp; M<hi rend="sup">r</hi> Robert, tous deux tres-habiles,
+          Musiciens. Il n'y a eu jusqu'icy que deux Maistres de Musique de la Chapelle du Roy. M<hi rend="sup">r</hi> du Mont, &amp; M<hi rend="sup">r</hi> Robert, tous deux tres-habiles,
           &amp; tres-estimez, remplissoient ces places ; &amp; comme leur âge les oblige de quitter,
           Sa Majesté en veut choisir quatre pour le mesme employ <note resp="editor"><ref target="MG-1683-05_230">Cet article</ref> donne le nom des quatre
             sous-maîtres retenus.</note>. Depuis que les quinze sur qui doit
@@ -1974,8 +1893,7 @@
         <p>Vous vous souvenez de toutes les Festes qui ont esté faites à Toulouse pour cette mesme
           Naissance. On a bien connu qu'elles se faisoient par zele, encor plus que par devoir, puis
           qu'elles ont esté renouvellées dans la mesme Ville à la fin de Fevrier. On y représenta
-          chez les Peres Jesuites une Comédie ornée d'une Allégorie en forme d'Opéra. C'estoit <hi
-            rend="i">La naissance de Mercure</hi>, par rapport aux avantages que tire la France de
+          chez les Peres Jesuites une Comédie ornée d'une Allégorie en forme d'Opéra. C'estoit <hi rend="i">La naissance de Mercure</hi>, par rapport aux avantages que tire la France de
           celle de Monseigneur le Duc de Bourgogne. La Comédie avoit pour titre <hi rend="i">Le
             philosophe à la Mode,</hi> &amp; l'on y joüoit les Cartésiens. [...]</p>
       </div>
@@ -1987,5 +1905,4 @@
           en entretiendray dans ma premiere Lettre.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

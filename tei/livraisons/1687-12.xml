@@ -1,66 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1687-12">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, décembre 1687 [tome 17]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1687-12</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
-    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
-    sur les bases de données (L341-1) est mise à disposition de la communauté
-    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
-    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
-    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-<p>Attribution : afin de référencer la source, toute utilisation ou publication
-    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
-    l’adresse Internet de la ressource.</p>
-<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
-    toute utilisation commerciale est interdite.</p>
-<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-    électronique, notamment en intégrant toutes les contributions extérieures, la
-    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>décembre 1687</date> [tome 17].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1687-12"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, décembre 1687 [tome 17].</head>
       <div type="article" xml:id="MG-1687-12_007" resp="wordpro">
@@ -183,8 +121,7 @@
               de petits brillans, tout aussi belle que si elle venoit de sortir de la carriere ;
               &amp; quoy qu’elle soit assez tendre, elle n’a pas esté unie par l’Ouvrier, mais
               seulement ébauchée au marteau. Les Connoisseurs disent que c’est de la pierre de
-              Ricey, qui n’est éloigné de là que d’une bonne lieuë ; &amp; le mot de</hi> Ricey, <hi
-              rend="i">Madame, comprend ordinairement les trois gros Bourgs de mesme nom, dont la
+              Ricey, qui n’est éloigné de là que d’une bonne lieuë ; &amp; le mot de</hi> Ricey, <hi rend="i">Madame, comprend ordinairement les trois gros Bourgs de mesme nom, dont la
               reputation merite l’éclaircissement que je vous donneray, quand j’auray finy l’article
               des Cercueils. Ils estoient tous de mesme grandeur &amp; de mesme figure, &amp; ont
               dans œuvre cinq pieds &amp; demy de long, un pied &amp; demy de large, avec un pied de
@@ -210,10 +147,7 @@
               preuve, se contentent de l’attribuer à</hi> Mithra, <hi rend="i">Dieu ou Déesse des
               Gaulois, comme ils attribuent celuy de</hi> Baleno, <hi rend="i">Village voisin,
               à</hi> Belenus, <hi rend="i">autre Dieu de nos Ancestres ; &amp; ceux de</hi> Polisi,
-              <hi rend="i">appellé Choiseuil depuis quelques années, &amp; de</hi> Poliso, <hi
-              rend="i">Terres du mesme voisinage, à</hi> Isis, <hi rend="i">&amp; à</hi> Osiris, <hi
-              rend="i">en joignant les noms de ces deux Divinitez au mot</hi> Pol, <hi rend="i"
-              >ou</hi> Polus, <hi rend="i">qui signifie</hi> Ciel <hi rend="i">ou</hi> residence.
+              <hi rend="i">appellé Choiseuil depuis quelques années, &amp; de</hi> Poliso, <hi rend="i">Terres du mesme voisinage, à</hi> Isis, <hi rend="i">&amp; à</hi> Osiris, <hi rend="i">en joignant les noms de ces deux Divinitez au mot</hi> Pol, <hi rend="i">ou</hi> Polus, <hi rend="i">qui signifie</hi> Ciel <hi rend="i">ou</hi> residence.
               <hi rend="i">À quoy ils ajoûtent que</hi> Devoye <hi rend="i">s’exprimant en Latin
               par</hi> Deorum via, <hi rend="i">ou</hi> vicus, <hi rend="i">ce qui signifie en
               nostre Langue</hi>, la voye, le chemin, la Bourgade, <hi rend="i">ou</hi> la demeure
@@ -271,8 +205,7 @@
           vous voulussiez le condamner. Je vous laisse lire, &amp; aprés cette lecture vous
           m’apprendrez quels seront vos sentimens.</p>
         <quote>
-          <label><hi rend="i">LE PORTRAIT</hi><lb/><hi rend="i">DU PUR AMOUR</hi>,<lb/><hi rend="i"
-              >À l’insensible Amarillis.</hi></label>
+          <label><hi rend="i">LE PORTRAIT</hi><lb/><hi rend="i">DU PUR AMOUR</hi>,<lb/><hi rend="i">À l’insensible Amarillis.</hi></label>
           <p>Le pur Amour est bien rare, belle Amarillis. Le moyen de vous en donner le portrait que
             vous demandez ? Ne sçavez-vous pas qu’on a passé en maxime, qu’il en est comme de
             l’apparition des Esprits ; tout le monde en parle, personne n’en voit. Si vostre cœur
@@ -925,5 +858,4 @@
           Madame, vostre, &amp;c.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

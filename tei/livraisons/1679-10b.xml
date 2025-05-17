@@ -1,65 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, octobre 1679 (deuxième partie) [tome 11]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2015"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1679-10b/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, octobre <date>1679</date> (deuxième partie) [tome
-          11].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1679-10"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1679-10b_043" resp="mercure">
         <head>[Cérémonie du mariage de Mademoiselle]</head>
@@ -232,8 +171,7 @@
           la Croix de dessus de Diamans, &amp; la forme de la Couronne d'Espagne. Si-tost que
           Mademoiselle fut entrée dans l'Apartement du Roy, on luy attacha cette Couronne sur la
           teste. La Reyne &amp; les Princesses s'y rendirent dans le mesme temps, ainsi que Monsieur
-          le Prince de Conty &amp; M<hi rend="sup">r</hi> le Marquis de los Balbasés. M<hi
-            rend="sup">r</hi> le Comte de Brionne, accompagné de M<hi rend="sup">r</hi> de Bonneüil,
+          le Prince de Conty &amp; M<hi rend="sup">r</hi> le Marquis de los Balbasés. M<hi rend="sup">r</hi> le Comte de Brionne, accompagné de M<hi rend="sup">r</hi> de Bonneüil,
           estoit allé prendre cet Ambassadeur en la place de M<hi rend="sup">r</hi> le Chevalier de
           Lorraine, auquel il estoit survenu quelque indisposition la nuit précedente. Il l'avoit
           fait entrer dans l'un des Carrosses de Leurs Majestez, avec M<hi rend="sup">r</hi> le Duc
@@ -268,14 +206,10 @@
           semées de Fleurs de Lys d'or, aux extrémitez desquelles on voyoit écrit en lettres d'or le
           nom des Provinces dont ils portent le titre. M<hi rend="sup">r</hi> le Président de Mesme
           Prévost des Ordres de Sa Majesté, marchoit en suite à la teste de dix Chevaliers en Habits
-          noirs &amp; Manteaux, revestus de leurs Colliers. Ces dix Chevaliers estoient M<hi
-            rend="sup">r</hi> de S. Simon, M<hi rend="sup">r</hi> de Créquy, M<hi rend="sup">r</hi>
+          noirs &amp; Manteaux, revestus de leurs Colliers. Ces dix Chevaliers estoient M<hi rend="sup">r</hi> de S. Simon, M<hi rend="sup">r</hi> de Créquy, M<hi rend="sup">r</hi>
           de Roquelaure, M<hi rend="sup">r</hi> de Gordes, &amp; M<hi rend="sup">r</hi> de Vaillac,
-          tenant la droite. M<hi rend="sup">r</hi> le Maréchal Duc de Villeroy, M<hi rend="sup"
-            >r</hi> le Duc de Villeroy, M<hi rend="sup">r</hi> le Duc de S. Aignan, M<hi rend="sup"
-            >r</hi> du Lude, M<hi rend="sup">r</hi> de Beringhen, &amp; M<hi rend="sup">r</hi> le
-          Maréchal d'Estrades, estoient à la gauche. M<hi rend="sup">r</hi> de Hautfort, &amp; M<hi
-            rend="sup">r</hi> le Duc de Montaufier, n'y tinrent point de rang comme Chevaliers, le
+          tenant la droite. M<hi rend="sup">r</hi> le Maréchal Duc de Villeroy, M<hi rend="sup">r</hi> le Duc de Villeroy, M<hi rend="sup">r</hi> le Duc de S. Aignan, M<hi rend="sup">r</hi> du Lude, M<hi rend="sup">r</hi> de Beringhen, &amp; M<hi rend="sup">r</hi> le
+          Maréchal d'Estrades, estoient à la gauche. M<hi rend="sup">r</hi> de Hautfort, &amp; M<hi rend="sup">r</hi> le Duc de Montaufier, n'y tinrent point de rang comme Chevaliers, le
           premier estant aupres de la Reyne, &amp; l'autre aupres de Monseigneur le Dauphin.</p>
         <p>M<hi rend="sup">r</hi> le Duc de Crussol choisy &amp; nommé par Sa Majesté pour porter
           les Honneurs pour le Roy d'Espagne, alloit apres ces dix Chevaliers. Il avoit un Habit
@@ -299,8 +233,7 @@
         <p>Apres venoient Monsieur le Grand Prieur de France &amp; Monsieur le Duc de Vendosme son
           Frere. Monsieur le Duc de Verneüil les suivoit avec Monsieur le Duc du Maine, Monsieur le
           Comte de Vermandois, &amp; Monsieur le Prince de la Roche-sur-Yon. M<hi rend="sup">r</hi>
-          le Marquis de los Balbasés ne l'éloigna point de Sa Majesté, toûjours accompagné de M<hi
-            rend="sup">r</hi> le Comte de Brionne, reçeu en survivance à la Charge de Grand Ecuyer
+          le Marquis de los Balbasés ne l'éloigna point de Sa Majesté, toûjours accompagné de M<hi rend="sup">r</hi> le Comte de Brionne, reçeu en survivance à la Charge de Grand Ecuyer
           de France. Monsieur le Prince de Conty marchoit immédiatement devant le Roy. Cet auguste
           &amp; redoutable Monarque estoit précedé de deux Huissiers de la Chambre, avec leurs
           Masses de vermeil doré, &amp; environné de M<hi rend="sup">r</hi> le Maréchal Duc de
@@ -335,8 +268,7 @@
           de Diamans d'une grosseur extraordinaire. Sa Mante de Point-d'Espagne d'or, &amp; qui
           avoit neuf aunes de long, estoit portée par Madame la Duchesse de Richelieu sa Dame
           d'Honneur.</p>
-        <p>Mademoiselle suivoit la Reyne, menée par Monseigneur le Dauphin, ayant derriere luy M<hi
-            rend="sup">r</hi> le Duc de Montauher avec son Collier de l'Ordre, &amp; par Monsieur,
+        <p>Mademoiselle suivoit la Reyne, menée par Monseigneur le Dauphin, ayant derriere luy M<hi rend="sup">r</hi> le Duc de Montauher avec son Collier de l'Ordre, &amp; par Monsieur,
           derriere lequel estoit M<hi rend="sup">r</hi> le Chevalier de Chastillon, Capitaine de ses
           Gardes. La beauté de cette Princesse, &amp; une douceur assi charmante que majestueuse
           qu'on voyoit répanduë sur tout son visage, marquoient tellement ce qu'elle alloit devenir,
@@ -357,15 +289,13 @@
           peu d'argent. Sa Garniture &amp; ses Plumes estoient gris de lin. Il avoit des Boutons de
           Pierreries, &amp; rien n'égaloit la beauté de celles qui formoient son Cordon de
           Chapeau.</p>
-        <p>Madame marchoit en suite. M<hi rend="sup">r</hi> le Comte de Vaillac, &amp; M<hi
-            rend="sup">r</hi> le Marquis de Bron, luy donnoient la main. Ce premier s'estoit tiré de
+        <p>Madame marchoit en suite. M<hi rend="sup">r</hi> le Comte de Vaillac, &amp; M<hi rend="sup">r</hi> le Marquis de Bron, luy donnoient la main. Ce premier s'estoit tiré de
           la marche des Chevaliers, pour avoir l'honneur de la mener. L'Habit de S. Altesse Royale
           estoit d'un fond violet plein de broderie d'or. Elle avoit quantité de grosses Perles
           &amp; de Diamans à sa Coëfure, sur le Corps de sa Robe, &amp; en tous les lieux où l'on en
           met. Sa Mante de Point-d'Espagne or &amp; argent, longue de sept aunes, estoit portée par
           Madame la Maréchale Duchesse du Plessis.</p>
-        <p>Elle esoit suivie de Mademoiselle de Valois, à présent Mademoiselle. M<hi rend="sup"
-            >r</hi> le Marquis d'Effiat Premier Ecuyer de Monsieur, la menoit. Elle avoit une Mante
+        <p>Elle esoit suivie de Mademoiselle de Valois, à présent Mademoiselle. M<hi rend="sup">r</hi> le Marquis d'Effiat Premier Ecuyer de Monsieur, la menoit. Elle avoit une Mante
           de Gaze blanche à Fleurs naturelle de couleurs vives, avec un grand Point or &amp; argent
           par le milieu &amp; tout à l'entour. La queuë en estoit portée par M<hi rend="sup">r</hi>
           le Comte de Flamarin. Sa parure estoit de Topases &amp; de Diamans.</p>
@@ -420,8 +350,7 @@
           Maine. Il formoient une ligne dont ils tenoient le milieu, &amp; avoient à leurs costez
           Mademoiselle de Blois &amp; Mademoiselle de Nantes, &amp; aux deux bouts Monsieur le Duc
           &amp; Madame la Duchesse de Verneüil. Les Duchesses qui avoient suivy la Reyne, se mirent
-          sur la premiere marche du haut Dais, &amp; eurent chacune un Carreau. M<hi rend="sup"
-            >r</hi> de Luxembourg, M<hi rend="sup">r</hi> de Gesvres, M<hi rend="sup">r</hi> de
+          sur la premiere marche du haut Dais, &amp; eurent chacune un Carreau. M<hi rend="sup">r</hi> de Luxembourg, M<hi rend="sup">r</hi> de Gesvres, M<hi rend="sup">r</hi> de
           Marsillac, M<hi rend="sup">r</hi> le Duc de Montausier, M<hi rend="sup">r</hi> de
           Tilladet, M<hi rend="sup">r</hi> le Duc de la Viéville, M<hi rend="sup">r</hi> le Marquis
           de Hautefort, &amp; les hauts Officiers de Monsieur &amp; de Madame, se mirent aussi sur
@@ -429,10 +358,8 @@
           proche de l'Estrade, M<hi rend="sup">r</hi> le Cardinal de Bonzi Grand Aumônier de cette
           Princesse, sur un Siege de Velours cramoisy. Il avoit sa Chape de Cardinal. Elle estoit
           rouge, doublée d'Hermine. C'est ainsi que la portent les Cardinaux dans les fonctions de
-          cerémonie. La queuë en est ordinairement longue de huit ou neuf aunes. M<hi rend="sup"
-            >r</hi> l'Archevesque de Rheims, Grand-Maistre de la Chapelle, se mit à costé de
-          celuy-cy, &amp; à la droite du Prie-Dieu, du costé où estoit le Roy, M<hi rend="sup"
-            >r</hi> l'Evesque d'Orleans, Premier Aumònier de Sa Majesté, M<hi rend="sup">r</hi>
+          cerémonie. La queuë en est ordinairement longue de huit ou neuf aunes. M<hi rend="sup">r</hi> l'Archevesque de Rheims, Grand-Maistre de la Chapelle, se mit à costé de
+          celuy-cy, &amp; à la droite du Prie-Dieu, du costé où estoit le Roy, M<hi rend="sup">r</hi> l'Evesque d'Orleans, Premier Aumònier de Sa Majesté, M<hi rend="sup">r</hi>
           l'Abbé de Lyonne, Fils de feu M<hi rend="sup">r</hi> de Lyonne Ministre &amp; Secretaire
           d'Etat, M<hi rend="sup">r</hi> l'Evesque d'Alet, M<hi rend="sup">r</hi> l'Abbé de S. Luc,
             M<hi rend="sup">r</hi> l'Abbé de Brou, &amp; M<hi rend="sup">r</hi> l'Abbé de S.
@@ -470,17 +397,13 @@
           à Fleurs de Lys d'or, &amp; fut placé en deçà du costé du Prie-Dieu du Roy ; car vous
           remarquerez, Madame, que la place d'honneur n'est pas celle qui est la plus proche de
           l'Autel, mais celle qui est la moins éloignée de Sa Majesté. Au dessus de ces trois Bancs,
-          plus pres de l'Autel, il y en avoit trois autres qui furent remplis par le Clergé. M<hi
-            rend="sup">r</hi> de Saintot avoit pris son temps pour le faire entrer. M<hi rend="sup"
-            >rs</hi> les Archevesques d'Ambrun, &amp; d'Auch, &amp; M<hi rend="sup">rs</hi> les
+          plus pres de l'Autel, il y en avoit trois autres qui furent remplis par le Clergé. M<hi rend="sup">r</hi> de Saintot avoit pris son temps pour le faire entrer. M<hi rend="sup">rs</hi> les Archevesques d'Ambrun, &amp; d'Auch, &amp; M<hi rend="sup">rs</hi> les
           Evesques de Beauvais, Vence &amp; Senlis, marcherent précedez de M<hi rend="sup">r</hi>
           l'Evesque d'Alet &amp; de M<hi rend="sup">r</hi> l'Abbé de Grignan, Agens Genéraux du
           Clergé. Il pouvoit y en avoir d'autres dont on ne m'a point dit les noms. Vis-à-vis des
           trois Bancs qui estoient pour eux, il y en avoit trois autres pour M<hi rend="sup">rs</hi>
           les Ambassadeurs. M<hi rend="sup">r</hi> le Comte de Morstein Ambassadeur Extraordinaire
-          de Pologne, M<hi rend="sup">r</hi> l'Abbé Scaglie de Veruë Ambassadeur de Savoye, M<hi
-            rend="sup">r</hi> Taborda Envoyé Extraordinaire de Portugal, &amp; M<hi rend="sup"
-            >r</hi> Bagliani Résident du Duc de Mantouë, y furent placez. Ils avoient esté conduits
+          de Pologne, M<hi rend="sup">r</hi> l'Abbé Scaglie de Veruë Ambassadeur de Savoye, M<hi rend="sup">r</hi> Taborda Envoyé Extraordinaire de Portugal, &amp; M<hi rend="sup">r</hi> Bagliani Résident du Duc de Mantouë, y furent placez. Ils avoient esté conduits
           dans la Chapelle par M<hi rend="sup">r</hi> de Bonneüil le Fils, Introducteur des
           Ambassadeurs. Tous ces Bancs estoient couverts de Velours violet, semé de Fleurs de Lys
           d'or. On en avoit préparé un pour M<hi rend="sup">r</hi> le Marquis de los Balbasés,
@@ -488,8 +411,7 @@
             M<hi rend="sup">r</hi> de Brionne &amp; M<hi rend="sup">r</hi> de Bonneüil. Tous les
           Ministres des Princes Protestans furent hors de rang, &amp; n'eurent place que dans les
           Balcons. Vis-à-vis des Bancs destinez pour le Conseil, c'est à dire du costé de
-          l'Evangile, il y en avoit trois pour M<hi rend="sup">rs</hi> les Secretaires d'Etat. M<hi
-            rend="sup">r</hi> le Marquis de Seignelay, M<hi rend="sup">r</hi> le Marquis de
+          l'Evangile, il y en avoit trois pour M<hi rend="sup">rs</hi> les Secretaires d'Etat. M<hi rend="sup">r</hi> le Marquis de Seignelay, M<hi rend="sup">r</hi> le Marquis de
           Châteauneuf, &amp; M<hi rend="sup">r</hi> de Pompone, qui estoient entrez avant le Roy, y
           prirent place ; &amp; à leur droite, sur un autre Banc, M<hi rend="sup">r</hi> le Duc de
           Crussol, M<hi rend="sup">r</hi> le Grand Prieur de France, &amp;M<hi rend="sup">r</hi> le
@@ -502,8 +424,7 @@
           la Couronne de Pologne. On avoit retranché un endroit dans la Tribune, en forme de petite
           Loge, pour placer Madame la Marquise de los Balbasés, Madame la Duchesse de S. Pierre sa
           Fille, &amp; M<hi rend="sup">r</hi> le Duc de Pastrane Ambassadeur d'Espagne, qui pour
-          n'avoir point encor fait son Entrée publique, ne pût se trouver qu'<hi rend="i"
-            >incognito</hi> à cette Solemnité. M<hi rend="sup">rs</hi> les Chevaliers de l'Ordre
+          n'avoir point encor fait son Entrée publique, ne pût se trouver qu'<hi rend="i">incognito</hi> à cette Solemnité. M<hi rend="sup">rs</hi> les Chevaliers de l'Ordre
           furent placez sur deux Bancs qu'on leut avoit préparez le long de la muraille, des deux
           costez du haut Dais. Il y avoit des Gardes depuis ce haut Dais jusqu'aux Portes de la
           Chapelle, qui furent ouvertes pendant toute la Cerémonie, sans que personne y entrast,
@@ -529,11 +450,9 @@
         <p>Tout estant dans cette disposition, M<hi rend="sup">r</hi> le Cardinal de Boüillon sortit
           de la Sacristie. Il se servit dans cette importante fonction des Ornemens de la Chapelle
           du Roy, qui sont tres-beaux. Les Ecclesiastiques officians le précedoient, &amp; il avoit
-            M<hi rend="sup">r</hi> l'Evesque de Tulle pour Diacre d'honneur, &amp; M<hi rend="sup"
-            >r</hi> l'Evesque de Sées pour Sousdiacre d'honneur ; qui l'accompagnoient. On les
+            M<hi rend="sup">r</hi> l'Evesque de Tulle pour Diacre d'honneur, &amp; M<hi rend="sup">r</hi> l'Evesque de Sées pour Sousdiacre d'honneur ; qui l'accompagnoient. On les
           appelloit ainsi, à cause qu'il y avoit d'autres Prestres qui servoient de Diacre &amp; de
-          Sousdiacre. Vous sçavez, Madame, dans quelle estime le mérite extraordinaire de M<hi
-            rend="sup">r</hi> l'Evesque de Tulle l'a mis aupres de Sa Majesté. Elle ne s'est pas
+          Sousdiacre. Vous sçavez, Madame, dans quelle estime le mérite extraordinaire de M<hi rend="sup">r</hi> l'Evesque de Tulle l'a mis aupres de Sa Majesté. Elle ne s'est pas
           contentée de l'avoir nommé il y a environ six mois à l'Evesché d'Agen qui est tres
           considérable, Elle l'a gratifié en mesme temps de la joüissance des deux Eveschez, sans
           vouloir nommer à celuy de Tulle qu'apres que les Bulles de translation seront arrivées.
@@ -571,9 +490,7 @@
           Mademoiselle jusqu'aupres de M<hi rend="sup">r</hi> le Cardinal de Boüillon, &amp; luy
           quiterent la main. M<hi rend="sup">r</hi> le Marquis de los Balbasés, toûjours accompagné
           de M<hi rend="sup">r</hi> le Comte de Brionne, conduisit Monsieur le Prince de Conty au
-          pied de l'Autel ; &amp; ce Prince s'estant mis à la droite de Mademoiselle, M<hi
-            rend="sup">r</hi> le Cardinal de Boüillon commença les Cerémonies du Mariage. M<hi
-            rend="sup">r</hi> de los Balbasés luy avoit présenté dans un Bassin treize Pieces d'or
+          pied de l'Autel ; &amp; ce Prince s'estant mis à la droite de Mademoiselle, M<hi rend="sup">r</hi> le Cardinal de Boüillon commença les Cerémonies du Mariage. M<hi rend="sup">r</hi> de los Balbasés luy avoit présenté dans un Bassin treize Pieces d'or
           &amp; un Anneau d'or &amp; d'argent meslez ensemble. Ce Cardinal les benit, &amp; apres
           cette benediction, Monsieur le Prince de Conty mit l'Anneau au quatriéme doigt de la main
           gauche de Mademoiselle, &amp; luy donna les treize Pieces d'or en foy de mariage pour le
@@ -609,10 +526,8 @@
           firent une ligne particuliere derriere ces quatre Princesses, &amp; eurent comme elles
           chacun un Carreau. On en donna aussi à Monsieur le Comte de Vermandois, à Monsieur le Duc
           du Maine, à Mademoiselle de Blois, à Mademoiselle de Nantes, à Monsieur le Duc &amp; à
-          Madame la Duchesse de Verneüil. Ces six derniers s'estant mis derriere M<hi rend="sup"
-            >r</hi> le Prince de Conty, &amp; M<hi rend="sup">r</hi> le Prince de la Roche-sur-Yon,
-          formerent la mesme ligne qu'ils avoient faite avant qu'on eust esté à l'Autel. M<hi
-            rend="sup">r</hi> l'Evesque de Condom qui faisoit la fonction de Premier Aumônier de
+          Madame la Duchesse de Verneüil. Ces six derniers s'estant mis derriere M<hi rend="sup">r</hi> le Prince de Conty, &amp; M<hi rend="sup">r</hi> le Prince de la Roche-sur-Yon,
+          formerent la mesme ligne qu'ils avoient faite avant qu'on eust esté à l'Autel. M<hi rend="sup">r</hi> l'Evesque de Condom qui faisoit la fonction de Premier Aumônier de
           Monseigneur le Dauphin, M<hi rend="sup">r</hi> l'Evesque du Mans Premier Aumonier de
           Monsieur, &amp; M<hi rend="sup">r</hi> l'Abbé Tallemand Premier Aumonier de Madame, se
           mirent sur les degrez du haut Dais, &amp; y demeurerent debout, avec les hauts Officiers
@@ -655,8 +570,7 @@
         <l>Le 20. Celle de Monsieur le Chancelier.</l>
         <l>Le 21. le Banc de Monsieur le Marquis de los Balbases, de M<hi rend="sup">r</hi> le Comte
           de Brionne, &amp; de M<hi rend="sup">r</hi> de Bonneüil.</l>
-        <l>Le 22. le Banc de Monsieur le Duc de Vendosme, de Monsieur le Grand-Prieur, &amp; de M<hi
-            rend="sup">r</hi> le Duc de Crussol.</l>
+        <l>Le 22. le Banc de Monsieur le Duc de Vendosme, de Monsieur le Grand-Prieur, &amp; de M<hi rend="sup">r</hi> le Duc de Crussol.</l>
         <l>Le 23. Degrez de L'Estrade, où plusieurs Duchesses, haut Officiers, &amp; autres
           Personnes qui avoient porté les queuës des Princesses furent placées.</l>
         <p>Les huit quarrez qui sont de chaque costé, sont les Chapelles, dans deux desquelles il y
@@ -667,10 +581,8 @@
         <p>Leurs Majestez ayant repris leurs premieres places, MM<hi rend="sup">r</hi> le Cardinal
           de Bouïllon quita sa Chape, prit un Chasuble, &amp; apres estre venu donner de l'Eau
           benite à la Reyne d'Espagne, au Roy, &amp; à la Reyne, accompagné des deux Evesques
-          assistans, il commença la Messe, qui fut chantée solemnellement par la Musique. MM<hi
-            rend="sup">r</hi> l'Evesque de Sées chanta l'Epistre, &amp; MM<hi rend="sup">r</hi>
-          l'Evesque de Tulle l'Evangile. Apres quoy ce dernier porta le Livre à M<hi rend="sup"
-            >r</hi> le Cardinal de Boüillon, qui le baisa ; &amp; comme en suite il s'approchoit du
+          assistans, il commença la Messe, qui fut chantée solemnellement par la Musique. MM<hi rend="sup">r</hi> l'Evesque de Sées chanta l'Epistre, &amp; MM<hi rend="sup">r</hi>
+          l'Evesque de Tulle l'Evangile. Apres quoy ce dernier porta le Livre à M<hi rend="sup">r</hi> le Cardinal de Boüillon, qui le baisa ; &amp; comme en suite il s'approchoit du
           haut Dais, M<hi rend="sup">r</hi> l'Evesque d'Orleans alla quelques pas vers luy, soûtint
           le Livre d'une main, en qualité de Premier Aumônier du Roy, &amp; ils le donnerent
           ensemble à baiser à la Reyne d'Espagne, au Roy, &amp; à la Reyne.</p>
@@ -688,22 +600,19 @@
           l'Autel. Elle s'y mit à genous devant M<hi rend="sup">r</hi> le Cardinal de Boüillon,
           &amp; baisa la Bague qu'il avoit au doigt. Il estoit dans un Fauteüil, ayant à ses costez
             M<hi rend="sup">r</hi> l'Evesque de Tulle &amp; M<hi rend="sup">r</hi> l'Evesque de
-          Sées, Diacre &amp; Sousdiacre d'honneur, qui avoient aussi chacun un Fauteüil. Alors M<hi
-            rend="sup">r</hi> le Marquis de Rhodes prit le Cierge des mains du Roy d'Armes, &amp; le
+          Sées, Diacre &amp; Sousdiacre d'honneur, qui avoient aussi chacun un Fauteüil. Alors M<hi rend="sup">r</hi> le Marquis de Rhodes prit le Cierge des mains du Roy d'Armes, &amp; le
           donna à Mademoiselle de Valois. La Reyne d'Espagne l'ayant pris de celles de cette
           Princesse, le présenta à M<hi rend="sup">r</hi> le Cardinal de Boüillon, &amp; fut remenée
           en suite sur le haut Dais, où elle se mit comme auparavant entre le Roy &amp; la
           Reyne.</p>
         <p>Les mesmes cerémonies furent faites un moment apres. Un des Hérauts qui accompagnoient le
           Roy d'Armes, apres avoir salüé l'Autel, salüa la Reyne d'Espagne, le Roy, la Reyne,
-          Monseigneur le Dauphin, Monsieur, Monsieur le Prince de Conty, &amp; M<hi rend="sup"
-            >r</hi> le Duc de Crussol, qui devoit porter les Honneurs pour le Roy d'Espagne. Vous
+          Monseigneur le Dauphin, Monsieur, Monsieur le Prince de Conty, &amp; M<hi rend="sup">r</hi> le Duc de Crussol, qui devoit porter les Honneurs pour le Roy d'Espagne. Vous
           pouvez juger, Madame, de l'estime que ce Duc s'est acquise aupres de Sa Majesté, puis
           qu'Elle luy a fait l'honneur de le choisir, pour figurer (si on peut parler de cette
           sorte) avec la premiere Princesse du Sang. Les saluts de ce Héraut, qui alla en suite se
           mettre à genoux aupres de l'Autel avec un Cierge chargé du mesme nombre de Pieces d'or que
-          le premier, furent suivis de ceux de M<hi rend="sup">r</hi> le Marquis de Rhodes. M<hi
-            rend="sup">r</hi> le Duc de Crussol s'approcha en mesme temps de l'Autel, &amp; Monsieur
+          le premier, furent suivis de ceux de M<hi rend="sup">r</hi> le Marquis de Rhodes. M<hi rend="sup">r</hi> le Duc de Crussol s'approcha en mesme temps de l'Autel, &amp; Monsieur
           le Prince de Conty fit la mesme chose que venoit de faire la Reyne d'Espagne. Il descendit
           du haut Dais, s'avança vers M<hi rend="sup">r</hi> le Cardinal de Boüillon, se mit à
           genoux devant luy sur un Carreau, &amp; apres avoir baisé sa Bague, il luy présenta le
@@ -722,10 +631,8 @@
           Monsieur le Marquis de Rhodes, &amp; alors la Reyne d'Espagne descendit une seconde fois
           du haut Dais, &amp; alla se mettre à genoux sur les degrez de l'Autel. Deux Carreaux y
           avoient esté préparez sur un Drap de pied de Velours rouge cramoisy. Monsieur le Prince de
-          Conty se mit à genoux sur l'un à la droite de cette Reyne. Aussitost M<hi rend="sup"
-            >r</hi> l'Evesque d'Orleans d'un costé, &amp; M<hi rend="sup">r</hi> l'Abbé de Lyonne de
-          l'autre, étendirent un Poësle de brocard d'argent sur la teste de tous les deux. M<hi
-            rend="sup">r</hi> le Cardinal de Boüillon se tourna, &amp; dit quelques Oraisons, apres
+          Conty se mit à genoux sur l'un à la droite de cette Reyne. Aussitost M<hi rend="sup">r</hi> l'Evesque d'Orleans d'un costé, &amp; M<hi rend="sup">r</hi> l'Abbé de Lyonne de
+          l'autre, étendirent un Poësle de brocard d'argent sur la teste de tous les deux. M<hi rend="sup">r</hi> le Cardinal de Boüillon se tourna, &amp; dit quelques Oraisons, apres
           lesquelles on osta le Poësle. La Reyne d'Espagne, &amp; Monsieur le Prince de Contu,
           demeurerent à genoux sur leurs Carreaux jusqu'à la fin de la Messe. M<hi rend="sup">r</hi>
           l'Evesque d'Orleans, &amp; M<hi rend="sup">r</hi> l'Evesque de Sées, donnerent ensemble la
@@ -752,8 +659,7 @@
           que jura le Roy à Fontainebleau, fut juré le mesme jour &amp; à la mesme heure à Madrid
           par le Roy d'Espagne, en présence de M<hi rend="sup">r</hi> le Marquis de Villars,
           Ambassadeur Extraordinaire de France.</p>
-        <p>Apres que M<hi rend="sup">r</hi> de los Balbasés eut remercié le Roy, M<hi rend="sup"
-            >r</hi> le Curé de Fontainebleau, qui avoit assisté à la Messe avec l'Etole, apporta le
+        <p>Apres que M<hi rend="sup">r</hi> de los Balbasés eut remercié le Roy, M<hi rend="sup">r</hi> le Curé de Fontainebleau, qui avoit assisté à la Messe avec l'Etole, apporta le
           Registre ordinaire des Mariages de la Paroisse, &amp; le donna à M<hi rend="sup">r</hi> de
           Pompone. Ce Ministre le présenta aussitost au Roy avec une plume, pour signer l'Acte de
           témoignage selon la coûtume Leurs Majestez, &amp; apres Elles Monseigneur le Dauphin,
@@ -766,5 +672,4 @@
           n'entendit rien de plus charmant.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

@@ -1,66 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1681-06">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title>Mercure galant, juin 1681 [tome 6]</title>
-   </titleStmt>
-   <editionStmt>
-    <edition>OBVIL/IReMuS</edition>
-    <respStmt>
-     <name>Nathalie Berton-Blivet</name>
-     <resp>Responsable éditorial</resp>
-    </respStmt>
-    <respStmt>
-     <name>Anne Piéjus</name>
-     <resp>Responsable éditorial</resp>
-    </respStmt>
-    <respStmt>
-     <name>Frédéric Glorieux</name>
-     <resp>Informatique éditoriale</resp>
-    </respStmt>
-    <respStmt>
-     <name>Vincent Jolivet</name>
-     <resp>Informatique éditoriale</resp>
-    </respStmt>
-   </editionStmt>
-   <publicationStmt>
-    <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-    <date when="2017"/>
-    <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1681-06</idno>
-    <availability status="restricted">
-     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-       Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie
-       littéraire » (ci-après dénommé OBVIL).</p>
-      <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les
-       bases de données (L341-1) est mise à disposition de la communauté scientifique internationale
-       par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas
-       d’Utilisation Commerciale - Pas de Modification 3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-      <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de
-       cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de
-       la ressource.</p>
-      <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-       utilisation commerciale est interdite.</p>
-      <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-       électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de
-       versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl><title>Mercure galant</title>, <date>juin 1681</date> [tome 6].</bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <creation>
-    <date when="1681-06"/>
-   </creation>
-   <langUsage>
-    <language ident="fre"/>
-   </langUsage>
-  </profileDesc>
- </teiHeader>
- <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
   <body>
    <head><hi rend="i">Mercure galant</hi>, juin 1681 [tome 6].</head>
    <div type="article" xml:id="MG-1681-06_003">
@@ -132,8 +70,7 @@
      qu’ils demandoient leur fut accordé. On résolut de faire une Procession par toute la Ville,
      dans laquelle la Sainte Larme seroit portée avec les cerémonies &amp; précautions accoûtumées
      pour sa seûreté ; &amp; le Dimanche suivant, Feste de la Trinité, ayant esté choisy pour cela,
-     les Religieux jeûnerent au pain &amp; à l’eau jusques à ce jour, pendant que M<hi rend="sup"
-      >r</hi> de Remilly Bailly du Vendômois, &amp; Maire perpétuel de la Ville, donna tous les
+     les Religieux jeûnerent au pain &amp; à l’eau jusques à ce jour, pendant que M<hi rend="sup">r</hi> de Remilly Bailly du Vendômois, &amp; Maire perpétuel de la Ville, donna tous les
      ordres necessaires pour cette Solemnité. Il manda les Curez de quatre-vingts seize Paroisses de
      la Campagne, fit avertir les Compagnies des Corps de la Ville, disposa les Bourgeois à prendre
      les armes, &amp; n’oublia rien de ce qui pouvoit contribuer à la pompe de la Feste. Le jour en
@@ -274,8 +211,7 @@
      ayant laissez jusqu’à ce qu’on eut servy, il les revint prendre pour le Dîné qui les attendoit.
      Il y eut vingt-quatre Personnes à table, sans aucun Chanoine, parce que le Grand Maréchal de la
      Cour de Hanover vouloit estre assis au dessus du Doyen, qui ne veut céder le pas à aucun Comte.
-     Ceux qui prirent place, estoient M<hi rend="sup">r</hi> Fauger Envoyé de France, M<hi
-      rend="sup">r</hi> le Comte de Holac, &amp; les Seigneurs &amp; Dames du Duc &amp; de la
+     Ceux qui prirent place, estoient M<hi rend="sup">r</hi> Fauger Envoyé de France, M<hi rend="sup">r</hi> le Comte de Holac, &amp; les Seigneurs &amp; Dames du Duc &amp; de la
      Duchesse. Ce Régal fut de quatre Services, chacun de quarante Plats. La Musique tant de Voix
      que d’Instrumens, ne cessa point pendant le Dîné, non plus que les Timbales &amp; les
      Trompetes, &amp; on tira trois coups de Canon à chaque santé qu’on but. Sur les sept heures du
@@ -300,8 +236,7 @@
      autres n’ont pour but que de réjoüir les Spéctateurs par les grotesques Figures qu’on y fait
      paroître. Celle que font tous les ans les Arquebusiers de Rheims, est de ce genre. Ils vont
      tirer un Oyseau, où tous à l’envy font voir leur adresse ; &amp; le lendemain ils se
-     divertissent publiquement par quelque Marche plaisante, qu’ils appellent <hi rend="i"
-      >Farce</hi>. Voicy ce qui s’est passé dans la derniere. Elle fut faite le 3. de ce mois. Un
+     divertissent publiquement par quelque Marche plaisante, qu’ils appellent <hi rend="i">Farce</hi>. Voicy ce qui s’est passé dans la derniere. Elle fut faite le 3. de ce mois. Un
      Trompete de la Ville faisoit à cheval l’ouverture de cette Marche. Il estoit suivy de deux
      Connestables de la Compagnie des Arquebusiers, &amp; ceux-cy, de quatre Hommes montez sur des
      Asnes, &amp; vestus en Païsans. Apres eux venoient dix ou douze des mesmes Arquebusiers, ayant
@@ -545,8 +480,7 @@
      bruit des Cloches, du Canon, des Trompetes, des Tambours, &amp; des acclamations de tout un
      grand Peuple. S’estant rendu à la Porte de la Cathédrale dans le mesme ordre que je viens de
      vous marquer, il y fut harangué en Latin par M<hi rend="sup">r</hi> de Bar, Doyen du Chapitre.
-     Il entra en suite dans l’Eglise, qui estoit tres-bien parée. La Musique y chanta le <hi
-      rend="i">Te Deum</hi>, apres qu’il l’eut entonné. Ces Cerémonies estant achevées, il quitta
+     Il entra en suite dans l’Eglise, qui estoit tres-bien parée. La Musique y chanta le <hi rend="i">Te Deum</hi>, apres qu’il l’eut entonné. Ces Cerémonies estant achevées, il quitta
      ses Habits Pontificaux, &amp; fut conduit au Palais Episcopal. Il y en a peu en France d’aussi
      étendus pour le logement. Vous en serez convaincuë, quand je vous diray que le Roy, la Reyne,
      Monseigneur le Dauphin, &amp; Madame la Dauphine, y avoient chacun de tres-grands Apartemens,
@@ -592,8 +526,7 @@
     <p>Avoüez, Madame, que peu de Personnes se hazarderoient à une entreprise de cette nature, &amp;
      que pour ne pas s’applaudir soy-mesme quand on y a réüssy, il faut avoir une extréme modestie.
      Celle de M<hi rend="sup">r</hi> le Duc de S. Aignan vous a privée d’une lecture agreable, en
-     luy faisant suprimer quelques Vers inpromptu fort galans, en Réponse à d’autres de M<hi
-      rend="sup">r</hi> le Marquis de Dangeau, tantost sur le sujet du Ballet, tantost sur la
+     luy faisant suprimer quelques Vers inpromptu fort galans, en Réponse à d’autres de M<hi rend="sup">r</hi> le Marquis de Dangeau, tantost sur le sujet du Ballet, tantost sur la
      Loterie du Roy. La mesme chose seroit arrivée cette fois sur le sujet de la Course de Bague
      &amp; des Testes, si malgré le soin qu’il a pris d’empescher qu’il n’en courust des Copies, il
      n’estoit tombé entre mes mains une Requeste que ce Duc fit sur le champ, pour suplier
@@ -786,8 +719,7 @@
    <div type="article" xml:id="MG-1681-06_141">
     <head>[Nouvelle Lettre en Proverbes]</head>
     <bibl><title>Mercure galant</title>, juin 1681 [tome 6], p. 141-147.</bibl>
-    <p>L’aimable Inconnuë qui a montré tant d’esprit dans sa Lettre en Proverbes à M<hi rend="sup"
-      >r</hi> Guyonnet de Vertron, s’est fait un Adorateur, qui cherche par moy à luy rendre
+    <p>L’aimable Inconnuë qui a montré tant d’esprit dans sa Lettre en Proverbes à M<hi rend="sup">r</hi> Guyonnet de Vertron, s’est fait un Adorateur, qui cherche par moy à luy rendre
      hommage. Je vous fais part de la Déclaration d’amour qu’il luy envoye. Il s’est servy du mesme
      langage qui luy a fait admirer la facilité de son génie.</p>
     <quote>
@@ -847,10 +779,8 @@
      avoit exposées publiquement depuis deux jours, selon la coûtume de ce College.</p>
     <p>Le Tableau de Rhétorique, peint par M<hi rend="sup">r</hi> Hallé, représentoit Mercure qui
      apportoit à Enée l’ordre de quiter Carthage, &amp; de s’embarquer pour l’Italie. Apres deux
-     Sens diférens qui furent donnez à cette Enigme (ce qui arriva aussi pour les deux autres) M<hi
-      rend="sup">r</hi> de Vermont, second Fils de M<hi rend="sup">r</hi> Lambert de Torigny,
-     Président de la Chambre des Comptes, fit connoistre à l’Assemblée que le veritable estoit <hi
-      rend="i">la Gazete</hi>. La maniere noble &amp; dégagée dont il dit les choses, luy attira
+     Sens diférens qui furent donnez à cette Enigme (ce qui arriva aussi pour les deux autres) M<hi rend="sup">r</hi> de Vermont, second Fils de M<hi rend="sup">r</hi> Lambert de Torigny,
+     Président de la Chambre des Comptes, fit connoistre à l’Assemblée que le veritable estoit <hi rend="i">la Gazete</hi>. La maniere noble &amp; dégagée dont il dit les choses, luy attira
      l’admiration generale. Son Sens estoit beau, grand, &amp; agreable.</p>
     <p>M<hi rend="sup">r</hi> Corneille avoit peint le Tableau de la Seconde. L’Histoire d’Esculape
      lors qu’on l’apporta d’Epidaure à Rome sous la forme d’un Serpent, y estoit représentée. Aupres
@@ -866,8 +796,7 @@
      Chancelier.</p>
     <p>Le Tableau de la Troisiéme, peint par M<hi rend="sup">r</hi> Sevin, représentoit le petit
      Moise, que deux Dames de la Suite de la Fille de Pharaon tiroient hors du Nil pour le présenter
-     à la Princesse dont le Palais paroissoit dans le Tableau. Cette Enigme fut expliquée sur <hi
-      rend="i">l’Imprimerie Royale</hi>, qui estoit son veritable Sens, par M<hi rend="sup">r</hi>
+     à la Princesse dont le Palais paroissoit dans le Tableau. Cette Enigme fut expliquée sur <hi rend="i">l’Imprimerie Royale</hi>, qui estoit son veritable Sens, par M<hi rend="sup">r</hi>
      de Bartillat, Fils aîné de M<hi rend="sup">r</hi> Jehannot de Bartillat, Brigadier des Armées
      du Roy, &amp; Colonel d’un Regiment de Cavalerie, &amp; Petit-Fils de M<hi rend="sup">r</hi> de
      Bartillat, Garde du Trésor Royal. Un agrément qui luy est particulier, joint à une maniere vive
@@ -1004,8 +933,7 @@
      en feroit descendre les eaux jusqu’à l’Eminence de Naurouse, qu’il regarda comme le Point de
      partage, où l’eau se distribuëroit pour aller à droit &amp; à gauche (c’est à dire vers l’Ocean
      &amp; vers la Mer Méditerranée) remplir les Canaux qu’on auroit faits pour la Navigation.
-     Toutes ces épreuves ayant convaincu M<hi rend="sup">r</hi> Ricquet, il fit à M<hi rend="sup"
-      >r</hi> Colbert la proposition de l’Entreprise. Ce zelé Ministre en parla au Roy ; &amp; pour
+     Toutes ces épreuves ayant convaincu M<hi rend="sup">r</hi> Ricquet, il fit à M<hi rend="sup">r</hi> Colbert la proposition de l’Entreprise. Ce zelé Ministre en parla au Roy ; &amp; pour
      connoistre si elle pouvoit réüssir, il fut jugé à propos de faire une tentative par le moyen
      d’une petite Rigolle. On la commença dans la Montagne noire, au dessus de la Ville de Revel,
      &amp; elle fut conduite si heureusement, qu’elle porta à Naurouse l’eau de ces Rivieres.</p>
@@ -1166,8 +1094,7 @@
      chose à faire pour les voir parfaits, il avoit lieu d’espérer que le premier Essay du Canal ne
      se feroit point sans qu’il y reçeust les justes loüanges qu’on luy préparoit de toutes parts.
      Cependant, quelque digne qu’il en fust, sa mort l’a privé du plaisir de les entendre. Elle est
-     arrivée au commencement d’Octobre de l’année derniere, &amp; c’est là-dessus que M<hi
-      rend="sup">r</hi> de Cassan a dit dans son Epitaphe,</p>
+     arrivée au commencement d’Octobre de l’année derniere, &amp; c’est là-dessus que M<hi rend="sup">r</hi> de Cassan a dit dans son Epitaphe,</p>
     <quote>
      <lg>
       <l><hi rend="i">Cy gist qui vint à bout de ce hardy Dessein</hi></l>
@@ -1187,19 +1114,16 @@
      jusques à l’Etang de Thau. Mais si l’on navigeoit dans ces deux espaces, il restoit encor le
      plus grand à faire, depuis Castelnaudary jusques à Beziers. C’estoit celuy qui en liant les
      deux autres, devoit perfectionner toute l’Entreprise. Il fut enfin achevé au mois d’Avril
-     dernier ; &amp; le Roy en ayant eu la nouvelle, envoya ses ordres à M<hi rend="sup"
-     >r</hi> Daguesseau Intendant de Languedoc, pour visiter le Canal à sec, &amp; y faire mettre
+     dernier ; &amp; le Roy en ayant eu la nouvelle, envoya ses ordres à M<hi rend="sup">r</hi> Daguesseau Intendant de Languedoc, pour visiter le Canal à sec, &amp; y faire mettre
      l’eau en suite. C’est ce qu’il a fait depuis Cette jusqu’à Toulouse, avec tous les soins qu’on
      pouvoit attendre de sa vigilance. D’abord qu’il estoit passé par quelque endroit, on
      travailloit à fermer les Bréches, &amp; à arrester le cours des Rivieres qui devoient fournir
      de l’eau pour le remplissage du Canal. Il estoit accompagné dans cette Visite du Pere de
      Mourgues Jesuite, Recteur du College de Roanne, grand Mathématicien ; de M<hi rend="sup">r</hi>
      de Bonrepos Maistre des Requestes, &amp; de M<hi rend="sup">r</hi> le Comte de Carmain
-     Capitaine aux Gardes, l’un &amp; l’autre Fils de feu M<hi rend="sup">r</hi> Riquet ; de M<hi
-      rend="sup">r</hi> de Lanta Baron des Etats de Languedoc, &amp; de M<hi rend="sup">r</hi> de
+     Capitaine aux Gardes, l’un &amp; l’autre Fils de feu M<hi rend="sup">r</hi> Riquet ; de M<hi rend="sup">r</hi> de Lanta Baron des Etats de Languedoc, &amp; de M<hi rend="sup">r</hi> de
      Lombrail Trésorier de France, tous deux Gendres du mesme M<hi rend="sup">r</hi> Riquet ; de
-      M<hi rend="sup">r</hi> de la Fueille, Inspecteur du Canal ; &amp; de M<hi rend="sup"
-     >rs</hi> Andréossy, Gillade, &amp; de Contigny, Controlleurs genéraux, &amp; Conducteurs des
+      M<hi rend="sup">r</hi> de la Fueille, Inspecteur du Canal ; &amp; de M<hi rend="sup">rs</hi> Andréossy, Gillade, &amp; de Contigny, Controlleurs genéraux, &amp; Conducteurs des
      Ouvrages. Le Remplissage ayant esté fait, il partit le 15. de May de l’Embouchure de la
      Garonne, sur une Barque préparée exprés, &amp; le 17. il arriva à Castelnaudary. Cet heureux
      Essay causa grande joye aux Habitans de cette Province, au nom desquels les Vers que vous allez
@@ -1275,12 +1199,10 @@
      Castelnaudary, M<hi rend="sup">r</hi> le Cardinal Bonzi, Président né des Etats de Languedoc à
      cause de son Archevesché de Narbonne, se rendit à S. Papoul avec M<hi rend="sup">rs</hi> les
      Evesques de Beziers &amp; d’Alet, M<hi rend="sup">r</hi> le Marquis de Villeneuve Baron des
-     Etats, M<hi rend="sup">r</hi> de la Maransane Lieutenant de Roy de Narbonne, M<hi rend="sup"
-      >r</hi> de Monbel Syndic genéral de la Province, M<hi rend="sup">r</hi> de Pujols Secretaire
+     Etats, M<hi rend="sup">r</hi> de la Maransane Lieutenant de Roy de Narbonne, M<hi rend="sup">r</hi> de Monbel Syndic genéral de la Province, M<hi rend="sup">r</hi> de Pujols Secretaire
      du Roy aux Etats de Languedoc, &amp; M<hi rend="sup">r</hi> Mariotte Greffier des mesmes Etats.
      Ils furent traitez splendidement par M<hi rend="sup">r</hi> l’Evesque de S. Papoul, avec lequel
-     ils se rendirent à Castelnaudary le Lundy 19. du mesme mois à huit heures du matin. M<hi
-      rend="sup">r</hi> le Cardinal Bonzi ayant mis pied à terre hors les Portes de la Ville, du
+     ils se rendirent à Castelnaudary le Lundy 19. du mesme mois à huit heures du matin. M<hi rend="sup">r</hi> le Cardinal Bonzi ayant mis pied à terre hors les Portes de la Ville, du
      côté du Canal, y reçeut les Harangues du Présidial, des Consuls, &amp; des autres Corps de
      Ville &amp; Communautez Religieuses. Il alla en suite visiter le grand Bassin du Canal avec
       M<hi rend="sup">r</hi> Daguesseau, qui estoit sorty à sa rencontre ; apres quoy, il vint
@@ -1294,8 +1216,7 @@
      son Diocese. Il estoit précedé de tous les Ordres Séculiers &amp; Réguliers, &amp; suivy des
      Officiers du Présidial, des Consuls, &amp; des autres Corps de Ville. M<hi rend="sup">r</hi> de
      Bonzi, &amp; ceux qui l’accompagnoient, ayant rencontré la Procession, se mirent à la teste du
-     Présidial, &amp; la suivirent jusques au Lieu de l’Embarquement. Ce fut là que M<hi rend="sup"
-      >r</hi> de S. Papoul donna la Benédiction aux Eaux du Canal, à la Barque Royale, aux autres
+     Présidial, &amp; la suivirent jusques au Lieu de l’Embarquement. Ce fut là que M<hi rend="sup">r</hi> de S. Papoul donna la Benédiction aux Eaux du Canal, à la Barque Royale, aux autres
      Barques qui devoient la suivre, &amp; à tout le Peuple tant de la Ville que des environs,
      accouru en foule pour joüir de ce Spéctacle. La Procession s’en retourna dans le mesme ordre
      qu’elle estoit venuë, en chantant le <hi rend="i">Te Deum</hi>. Elle entra dans la Chapelle S.
@@ -1390,8 +1311,7 @@
      d’autres Plaines, &amp; sur quelque objet qu’on jette la veuë, elle a toûjours lieu d’estre
      satisfaite.</p>
     <p>La Barque Royale arriva à la veuë de Beziers à dix heures du matin, au milieu d’un grand
-     Peuple, qui remplissant les bords du Canal, faisoit retentir de toutes parts des cris de <hi
-      rend="i">Vive le Roy</hi>. Elle fut salüée d’abord par le Corps des Marchands à cheval, qui
+     Peuple, qui remplissant les bords du Canal, faisoit retentir de toutes parts des cris de <hi rend="i">Vive le Roy</hi>. Elle fut salüée d’abord par le Corps des Marchands à cheval, qui
      firent leur décharge les premiers ; apres quoy on entendit celle de quatre cens Fantassins que
      les Consuls &amp; Gouverneurs de Beziers avoient fait poster des deux côtez. Ils accompagnerent
      la Barque jusqu’à la plus haute Ecluse de celles qui se présentent à la veuë de la Ville du
@@ -1406,7 +1326,7 @@
      deux des plus belles Voix de la Province, dont l’un représentoit le Dieu du Canal, &amp;
      l’autre, la Nymphe d’Orb. Les Vers sont de M<hi rend="sup">r</hi> Lepul, premier Consul de la
      Ville<note resp="editor">D'après P. Chauveau (<hi rend="italic">Dictionnaire des lettres françaises. XVIIe siècle</hi> (Paris,
-      Fayard et Librairie générale Française, 1996, p. 750), >le premier consul de Castelnauday est Charles Le Pul.</note>. Je vous envoye les premiers notez.</p>
+      Fayard et Librairie générale Française, 1996, p. 750), &gt;le premier consul de Castelnauday est Charles Le Pul.</note>. Je vous envoye les premiers notez.</p>
     <quote>
      <label>DIALOGUE DU DIEU DU CANAL,<lb/>ET<lb/><hi rend="i">DE LA NYMPHE D’ORB.</hi></label>
      <lg>
@@ -1523,14 +1443,12 @@
      Ecluse, trouva une espece de Galere armée de Canons &amp; de Forçats, que les Marchands
      Epiciers, qui ont un grand interest à la commodité du Commerce, avoient préparée pour la
      recevoir. Ils firent une fort belle décharge, accompagnée de celle du Corps des Marchands à
-     cheval, des Fantassins, &amp; du Canon de la Ville, &amp; apres avoir fait leurs Présens à M<hi
-      rend="sup">r</hi> le Cardinal Bonzi &amp; à M<hi rend="sup">r</hi> Daguesseau, qu’ils
+     cheval, des Fantassins, &amp; du Canon de la Ville, &amp; apres avoir fait leurs Présens à M<hi rend="sup">r</hi> le Cardinal Bonzi &amp; à M<hi rend="sup">r</hi> Daguesseau, qu’ils
      salüerent à leur passage de plusieurs coups de Canon, ils les suivirent dans le lit de la
      Riviere. Les Consuls de Beziers les y attendoient en Robes rouges, dans un Bateau, avec les
      Violons, &amp; une agreable Simphonie. Leur Bateau, tout tapissé au dedans, &amp; semé de
      Fleurs de Lys, estoit orné au dehors des Chifres du Roy, avec ses Armes à l’endroit le plus
-     élevé, &amp; au dessous, celles de la Ville. Ils approcherent la Barque de M<hi rend="sup"
-      >r</hi> le Cardinal Bonzi, où estant entrez, M<hi rend="sup">r</hi> Lepul, portant la parole
+     élevé, &amp; au dessous, celles de la Ville. Ils approcherent la Barque de M<hi rend="sup">r</hi> le Cardinal Bonzi, où estant entrez, M<hi rend="sup">r</hi> Lepul, portant la parole
      en qualité de premier Consul, le complimenta en ces termes.</p>
     <quote>
      <p><hi rend="i">Vostre Eminence vient de voir un Ouvrage que les Romains, nos anciens Maistres,
@@ -1552,8 +1470,7 @@
      bord de la Riviere, où M<hi rend="sup">r</hi> l’Evesque de Beziers leur avoit fait préparer un
      magnifique Repas. Apres le Dîné ils se séparerent. M<hi rend="sup">r</hi> le Cardinal Bonzi se
      rendit le soir à son Abbaye de Valmagne ; &amp; M<hi rend="sup">rs</hi> les Evesques d’Alet
-     &amp; de S. Papoul, à leurs Eveschez, où la Feste de la Pentecoste les rappelloit. M<hi
-      rend="sup">r</hi> Daguesseau, avec ceux qui l’avoient accompagné depuis Toulouse, se remit sur
+     &amp; de S. Papoul, à leurs Eveschez, où la Feste de la Pentecoste les rappelloit. M<hi rend="sup">r</hi> Daguesseau, avec ceux qui l’avoient accompagné depuis Toulouse, se remit sur
      le Canal, descendit dans la Riviere d’Heraut pour l’Ecluse ronde, &amp; alla coucher à Agde.
      L’Ecluse ronde a esté bâtie exprés pour servir à trois Routes diférentes. Ainsi on luy a donné
      trois ouvertures. L’une fait aller à l’Ocean ; &amp; les deux autres à la Méditerranée, par le
@@ -1563,8 +1480,7 @@
      ayant remonté par la mesme Ecluse d’où il reprit le Canal, traversa l’Etang de Thau, séparé de
      la Mer par une Plage de Sable, &amp; alla moüiller au Port de Cette au bruit des Petards &amp;
      Canonnades des Barques &amp; Bâtimens qui s’y rencontrerent en fort grand nombre, &amp; de la
-     nouvelle Bourgeoisie rangée sous les armes, parmy les acclamations ordinaires de <hi rend="i"
-      >Vive le Roy</hi>. Il est impossible de marquer la joye des Peuples pour les avantages que Sa
+     nouvelle Bourgeoisie rangée sous les armes, parmy les acclamations ordinaires de <hi rend="i">Vive le Roy</hi>. Il est impossible de marquer la joye des Peuples pour les avantages que Sa
      Majesté leur a procurez.</p>
     <p>Ce que l’Epreuve qui vient d’estre faite a de tres-considérable, c’est que l’on n’a employé
      que sept jours depuis Castelnaudary jusqu’au Port de Cette. Si l’on en joint deux pour la
@@ -1615,8 +1531,7 @@
    <div type="article" xml:id="MG-1681-06_268">
     <head resp="editor">Traduction en latin de l’Imitation d’Akempis</head>
     <bibl><title>Mercure galant</title>, juin 1681 [tome 6], p. 268-269.</bibl>
-    <p>Les Gens pieux, à qui la Poësie Latine sert de divertissement, sont fort obligez à M<hi
-      rend="sup">r</hi> Varadier de S. Andriol, Docteur en Theologie, &amp; Archidiacre de l’Eglise
+    <p>Les Gens pieux, à qui la Poësie Latine sert de divertissement, sont fort obligez à M<hi rend="sup">r</hi> Varadier de S. Andriol, Docteur en Theologie, &amp; Archidiacre de l’Eglise
      d’Arles, qui a mis en Vers Latins <hi rend="i">l’Imitation d’Akempis,</hi> sur les Vers
      François de M<hi rend="sup">r</hi> de Corneille l’aîné. Cet illustre Aveugle les doit bien-tost
      donner au Public. Je vous ay déja parlé de luy dans quelqu’une de mes Lettres. C’est un Homme
@@ -1769,8 +1684,7 @@
     <p>La Feste de S. Quentin, Patron de la Ville de ce nom, y fut celebrée le 2. de l’autre mois
      avec les cerémonies dont je vous fis part la derniere année. Ainsi je laisse tout ce qui
      regarde la Procession, pour vous dire qu’apres le Service de l’Eglise, les plus distinguez de
-     la Jeunesse, tous tres-bien montez, &amp; dans un leste équipage, se rendirent au Lieu que M<hi
-      rend="sup">rs</hi> de Ville avoient choisy pour la Course hors la Porte de Cambray. Il estoit
+     la Jeunesse, tous tres-bien montez, &amp; dans un leste équipage, se rendirent au Lieu que M<hi rend="sup">rs</hi> de Ville avoient choisy pour la Course hors la Porte de Cambray. Il estoit
      environné de tout ce qu’il y avoit alors de beau monde de l’un &amp; de l’autre Sexe, &amp; à
      Saint Quentin, &amp; aux environs, chacun estant accouru pour joüir de ce Spéctacle. Si-tost
      que M<hi rend="sup">r</hi> de Chalvoix, qui fait cette année l’exercice de la Charge de Mayeur,
@@ -1880,8 +1794,7 @@
       autant de perdu. Est-il au monde une plus belle Personne que moy ? Je vous fait l’honneur de
       vous considerer. Je suis bien aise de vous voir quand vous estes à Paris. Je reçois volontiers
       de vos nouvelles. Je vous écris quelquefois. Est-il possible, mon pauvre Amy, que cela ne vous
-      tienne pas plus au cœur que tout ce que vous pouvez trouver d’agreable en Province ? <hi
-       rend="i">Vous ne dites que trop vray, &amp; c’est dont je suis d’avis de me
+      tienne pas plus au cœur que tout ce que vous pouvez trouver d’agreable en Province ? <hi rend="i">Vous ne dites que trop vray, &amp; c’est dont je suis d’avis de me
       plaindre.</hi></p>
      <quote>
       <lg>
@@ -1900,5 +1813,4 @@
     </quote>
    </div>
   </body>
- </text>
-</TEI>
+ </text></TEI>

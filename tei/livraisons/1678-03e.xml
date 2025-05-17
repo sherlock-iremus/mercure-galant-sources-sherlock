@@ -1,74 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1678-03e" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Extraordinaire du Mercure galant, quartier de janvier 1678 [tome I]<note resp="editor">Achevé d'imprimer daté du 15 mai 1678.</note></title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Alexandre De Craim</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name ref="mailto:frederic.glorieux@fictif.org">Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2014"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1678-03e/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Extraordinaire du Mercure galant</title>, <publisher>Claude
-            Blageart</publisher>, quartier de <date>janvier 1678</date> [tome I].<hi rend="i">Achevé
-            d’imprimer le 15 mai 1678</hi>.</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1678"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Extraordinaire du Mercure galant</hi>, quartier de janvier 1678 (tome
         I).</head>
@@ -77,8 +7,7 @@
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1678 [tome I],
           non-paginé.</bibl>
         <label rend="center">Aux Dames.</label>
-        <p>CE n’est point vous faire un Présent, Mesdames, que de vous donner <hi rend="i"
-            >l’Extraordinaire</hi>, c’est vous rendre un Ouvrage qui vient de vous. Il est tout
+        <p>CE n’est point vous faire un Présent, Mesdames, que de vous donner <hi rend="i">l’Extraordinaire</hi>, c’est vous rendre un Ouvrage qui vient de vous. Il est tout
           plein, ou de ce que vous avez produit vous mêmes, ou de ce que vous avez fait produire aux
           autres. Quelle joye ne ressent pas <hi rend="i">le Mercure</hi> de voir que vos Plumes
           ayent travaillé à l’embellir ! Il n’a pû se taire de ce bonheur ; &amp; si aprés s’estre
@@ -91,8 +20,7 @@
           éternellement indiscret. Il n’y en a aucune entre vous qui ne sçache par l’expérience
           qu’elle en a veu faire à ses Amans, que quand on aime, il est fort naturel de ne pouvoir
           s’empescher de le publier, &amp; que ceux dont le cœur est bien engagé, croiroient
-          beaucoup perdre, s’ils perdoient le plaisir de dire que leur cœur est engagé. Le <hi
-            rend="i">Mercure</hi> a suivy cet exemple. Il n’a pû estre aussi remply d’estime pour le
+          beaucoup perdre, s’ils perdoient le plaisir de dire que leur cœur est engagé. Le <hi rend="i">Mercure</hi> a suivy cet exemple. Il n’a pû estre aussi remply d’estime pour le
           beau Sexe qu’il l’estoit, sans en instruire le Public ; &amp; cette passion qui est de la
           nature de celles que vous inspirez, c’est à dire, tres-forte &amp; tres-agreable, n’a pû
           se taire ny se renfermer. Si vous soufrez que <hi rend="i">le Mercure Galant</hi> vous
@@ -484,8 +412,7 @@
             s’agit ? <hi rend="i">Cœli</hi> du Vers de Virgile estoit le Genitif du nom de Cœlius.
             Il l’est aussi de celuy qui signifie le Ciel. Voila le jeu du Poëte le plus sérieux
             &amp; le plus sage qui ait jamais esté ; mais un jeu que l’on ne sçauroit joüer
-            également en nostre Langue ; car il n’est pas ordinaire qu’un Homme s’y appelle <hi
-              rend="i">du Ciel</hi>, comme en nomme tous les jours <hi rend="i">de la Riviere, du
+            également en nostre Langue ; car il n’est pas ordinaire qu’un Homme s’y appelle <hi rend="i">du Ciel</hi>, comme en nomme tous les jours <hi rend="i">de la Riviere, du
               Pré, de la Haye</hi>. Cependant vous entendez bien, Monsieur, que c’estoit un
             Divertissement pour Virgile, comme il l’avoüa luy-mesme à un de ses Amis, de voir que
             cette espace du Ciel, qu’il disoit n’estre que de trois aunes, estoit pris par les uns
@@ -752,8 +679,7 @@
           si grand Maistre ne pouvoit estre mieux reparée que par un si habile Ecolier. Voicy les
           Paroles sur lesquelles il a fait ce que vous verrez noté en suite.</p>
         <quote>
-          <l rend="i"><space/><space/>        Ah, le beau temps,</l><note resp="author"
-            place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : la Chanson qui commence
+          <l rend="i"><space/><space/>        Ah, le beau temps,</l><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : la Chanson qui commence
             par <hi rend="i">Ah le beau temps</hi>, doit regarder la page 61.</note>
           <l rend="i"><space/><space/>            Bergere !</l>
           <l rend="i"><space/><space/>        Ah, le beau temps !</l>
@@ -804,8 +730,7 @@
             elle dit de son air ordinaire ; <hi rend="i">Voila un grand affront &amp; j’en devrois
               mourir comme celuy qui se noya pour n’avoir pû comprendre un Secret de la
             Nature</hi> ; &amp; en mesme temps pour se conbler, elle chercha l’Enigme du Mois
-            dernier. Elle la leut deux ou trois fois, &amp; nous assura que c’estoit <hi rend="i"
-              >L’Académie Françoise</hi>. Je la voulus aussi lire, &amp; je fus convaincuë qu’elle
+            dernier. Elle la leut deux ou trois fois, &amp; nous assura que c’estoit <hi rend="i">L’Académie Françoise</hi>. Je la voulus aussi lire, &amp; je fus convaincuë qu’elle
             en avoit trouvé le vray sens. C‘est avoir bien viste réparé son malheur à l’égard de
             l’autre Enigme. Cette petite disgrace n’empescha pas que le talent qu’elle a d’éclaircir
             les choses les plus embarassées, ne reçeust force loüanges d’un excellent Homme qui
@@ -865,8 +790,7 @@
             Cependant il n’y a rien de plus vray, &amp; il m’a esté impossible de n’en pas accepter
             la commission. Ces Dames se plaignent de ce que vous avez parlé presque de tous les
             environs de cette Ville, sans avoir pensé à elles. Vous ne sçavez peut-estre pas,
-            Monsieur, que Thoüars est une ancienne Ville, arrosée par une Riviere qui s’appelle <hi
-              rend="i">Thoüe</hi>, dont elle tire son nom, &amp; qu’elle est embellie par un
+            Monsieur, que Thoüars est une ancienne Ville, arrosée par une Riviere qui s’appelle <hi rend="i">Thoüe</hi>, dont elle tire son nom, &amp; qu’elle est embellie par un
             magnifique Chasteau que le Seigneur de la Trimoüille y ont fait bastir. Mais pour vous
             faire concevoir une plus forte idée de cette Ville vous sçaurez qu’on y a envoyé sept
             Compagnies du Regiment d’Anjou en Quartier d’Hyver. Voyez s’il ne faut pas que la Ville
@@ -885,8 +809,7 @@
             grande vertu de la Comtesse du Mois de Janvier, &amp; qui luy auroient conseillé la
             vangeance. Elles se sont mises en peine pour deviner vos Enigmes ; mais en verité,
             Monsieur, elles ne veulent point passer pour Sorcieres. Il n’y en a qu’une d’elles qui
-            s’est mis dans l’esprit de trouver celle des quatre Vers, qui commence par <hi rend="i"
-              >Jamais par moy lieux bas ne furent habitez</hi>, &amp; elle veut que ce soit une
+            s’est mis dans l’esprit de trouver celle des quatre Vers, qui commence par <hi rend="i">Jamais par moy lieux bas ne furent habitez</hi>, &amp; elle veut que ce soit une
             Etoille. Voila, Monsieur, un peu plus que m’acquiter de ma Commission. Je souhaite que
             nos Dames donnent bientost lieu à quelque Histoire veritable, afin de vous en faire
             part, &amp; vous assurer encor une fois que quoy qu’Inconnu, je suis,
@@ -904,9 +827,7 @@
             Enigmes de vostre Mercure de Frevrier, il s’en poura trouver une bonne, il ne m’est pas
             possible de ne vous les pas envoyer. Les voicy donc. Il me semble assez juste de dire de
             la premiere en Vers, que c’est le <hi rend="i">Baston de Mareschal de France</hi>. Ce
-            que la seconde nous marque paroît convenir au <hi rend="i">Papier</hi>, ou <hi rend="i"
-              >à la Lettre missive</hi> ; &amp; je crois avoir trouvé le sens de <hi rend="i"
-              >Pandore</hi> &amp; d’<hi rend="i">Epimethée</hi>, quand je dis que ce n’est autre
+            que la seconde nous marque paroît convenir au <hi rend="i">Papier</hi>, ou <hi rend="i">à la Lettre missive</hi> ; &amp; je crois avoir trouvé le sens de <hi rend="i">Pandore</hi> &amp; d’<hi rend="i">Epimethée</hi>, quand je dis que ce n’est autre
             chose <hi rend="i">que le Depart du Roy, &amp; l’Ouverture de la Campagne</hi> ; ce qui
             à mon sens est tout-à-fait exprimé par l’ouverture de la Boëste &amp; la sortie de
             toutes sortes de maux, qui figurent ceux dont nous voyons aujourd’huy la Flandre
@@ -995,8 +916,7 @@
             dans tous les autres. C’est que vous nommez tous ceux qui ont eu des avantures
             guerrieres, &amp; vous estre fort reservé sur les amoureuses. Tout ce que vous dites de
             galant est par Enigmes. Tout de bon, Monsieur, cela n’est pas bien, &amp; il seroit
-            juste que la Balance fust égale entre Mars &amp; l’Amour. Si vous osez dire, <hi
-              rend="i">Monsieur un tel a vaincu tel Ennemy</hi>, pourquoy ne dites-vous pas avec la
+            juste que la Balance fust égale entre Mars &amp; l’Amour. Si vous osez dire, <hi rend="i">Monsieur un tel a vaincu tel Ennemy</hi>, pourquoy ne dites-vous pas avec la
             mesme liberté, <hi rend="i">Monsieur un tel a eu une galanterie avec Mademoiselle une
               telle</hi> ? Je trouverois cela fort raisonnable. Je crains que vous ne le trouviez
             pas de mesme, &amp; je doute si ma remontrance aura effet. Je vous imiteray donc
@@ -1476,16 +1396,14 @@
             ses Fleches brisées, marque la ruine &amp; la destruction de toutes choses, qui est
             causée par le Temps. Il n’est rien plus fort que l’Amour, &amp; neantmoins le Temps ne
             laisse pas d’en venir à bout, à plus forte raison de toute autre chose. La seconde Femme
-            qui est au costé gauche de la premiere, &amp; qui la suit, c’est <hi rend="i"
-              >l’Ombre</hi> qui suit chaque Heure, ou bien encor une autre <hi rend="i">Heure</hi>.
+            qui est au costé gauche de la premiere, &amp; qui la suit, c’est <hi rend="i">l’Ombre</hi> qui suit chaque Heure, ou bien encor une autre <hi rend="i">Heure</hi>.
             Elle montre avec sa main Minerve, le symbole de la Sagesse, qui est derriere tous ces
             diférens Personnages, &amp; qui semble les suivre &amp; venir apres eux, pour marquer
             que le Temps amene la Sagesse &amp; la Prudence avec luy. Mais, Monsieur, au lieu du
             Temps qui amene la Sagesse, ne seroit-ce point <hi rend="i">la Sagesse</hi> elle mesme ?
             Voicy comment. Ses trois grands Ennemis sont la Beauté, la Jeunesse, &amp; l’Amour, qui
             font faire tous les jours mille folies. Le Vieillard qui tient en main un Marteau élevé,
-            &amp; qui est en posture d’homme qui menace &amp; qui veut fraper, represente <hi
-              rend="i">Saturne</hi> ou <hi rend="i">le Temps</hi>, qui détruit ces choses en la
+            &amp; qui est en posture d’homme qui menace &amp; qui veut fraper, represente <hi rend="i">Saturne</hi> ou <hi rend="i">le Temps</hi>, qui détruit ces choses en la
             personne de cette jeune Belle éplorée &amp; de Cupidon desarmé &amp; comme tout éperdu,
             qui est à ses pieds. La seconde Femme qui en montre une troisiéme derriere elle, sçavoir
             Minerve, figure <hi rend="i">la Vieillesse</hi>, qui semble dire aux jeunes &amp; belles
@@ -1706,8 +1624,7 @@
           <p>IL y a deux jours, Monsieur, que je pris la liberté de vous écrire un Billet, où je
             vous disois ma pensée sur l’Enigme en taille douce de vostre dernier Mercure. Depuis ce
             temps-là j’ay lû une seconde fois celles que vous y proposez en Vers, &amp; si je ne me
-            trompe, plus heureusement que la premiere, puis que j’en ay trouvé les Mots. Ce sont <hi
-              rend="i">l’académie</hi> &amp; <hi rend="i">le Coq d’un Clocher</hi>. Elles sont si
+            trompe, plus heureusement que la premiere, puis que j’en ay trouvé les Mots. Ce sont <hi rend="i">l’académie</hi> &amp; <hi rend="i">le Coq d’un Clocher</hi>. Elles sont si
             justes &amp; si claires, qu’elles n’ont pas besoin d’explication, &amp; je m’étonne
             comment elles ne m’ont point sauté d’abord aux yeux. Il faut pourtant que vous
             permettiez à ma Muse familiere de s’égayer un peu, &amp; de vous dire à sa façon ce
@@ -1878,8 +1795,7 @@
           cette magnifique Ville ont deviné les Enigmes de l’Académie Françoise &amp; du Coq. Voicy
           ce qui suit &amp; ce que cette Lettre en dit.</p>
         <quote>
-          <p>POur l’Estampe, on luy donne icy plusieurs sens. Les uns veulent que ce soit <hi
-              rend="i">la Triple Alliance étonnée</hi> ; les autres, <hi rend="i">la Jalousie</hi> ;
+          <p>POur l’Estampe, on luy donne icy plusieurs sens. Les uns veulent que ce soit <hi rend="i">la Triple Alliance étonnée</hi> ; les autres, <hi rend="i">la Jalousie</hi> ;
             &amp; les autres, <hi rend="i">la Paix</hi>. Mais pour moy,</p>
           <lg>
             <l><space/><space/>        Quand le tout en un point j’assemble,</l>
@@ -1938,8 +1854,7 @@
             Quand on le tient, on le lit tout d’une haleine ; on le relit cinq ou six fois ; on ne
             saute pas une ligne ; tout y plaist, &amp; sur tout vos Enigmes. Elles attachent
             extrémement, &amp; moy qui m’y applique avec plaisir, je suis bien aise de vous en dire
-            ma pensée. Je suis bien trompé si la premiere est autre chose que <hi rend="i"
-              >l’Académie Françoise</hi>. La seconde est une <hi rend="i">Giroüette</hi> ; Et pour
+            ma pensée. Je suis bien trompé si la premiere est autre chose que <hi rend="i">l’Académie Françoise</hi>. La seconde est une <hi rend="i">Giroüette</hi> ; Et pour
             la troisiéme en figure, je vous avouë que je ne l’ay pas devinée. Mais ce bel endroit de
             vostre Lettre n’est pas le seul qui aye plû à nostre belle Assemblée. <hi rend="i">Le
               Ruisseau &amp; les Prairies</hi> ont touché particulierement une jeune Personne tout
@@ -2111,8 +2026,7 @@
             insensiblement le goust en examinant les beautez des Pieces choisies que l’on y trouve ;
             &amp; les Esprits se subtilisent par les divers tours qu’ils sont obligez de se donner
             pour trouver le Mot d’une Enigme. Le mien ne s’est pas employé inutilement à cette
-            recherche. Plusieurs de mes Amis me sont témoins que je devinay le <hi rend="i"
-              >Trictrac</hi> &amp; la <hi rend="i">lettre V</hi> ; &amp; le dixiéme Tome du Mercure
+            recherche. Plusieurs de mes Amis me sont témoins que je devinay le <hi rend="i">Trictrac</hi> &amp; la <hi rend="i">lettre V</hi> ; &amp; le dixiéme Tome du Mercure
             que nostre Libraire reçeut seulement hyer vient de m’apprendre que j’avois aussi trouvé
             le Mot de l’Enigme du neuviéme, en disant que c’estoit <hi rend="i">l’Armée
             Ennemie</hi>. Ceux en présence de qui j’avois trouvé ce Mot vers le milieu du Mois
@@ -2183,8 +2097,7 @@
             à ces Enimes, chacun tâchy à deviner. Le gran Rubart diset commeça, <hi rend="i">C’est
               un Sapire</hi>. Piarre Malet diset, <hi rend="i">Noufra sn’est pas un Sapire, c’est
               bian putost la Patuisane d’un Gard’ Manche</hi> ; Et à la fin la grosse Margo
-            s’approchy afin de deviner à son tour. <hi rend="i">Pargué</hi>, dit-elle, <hi rend="i"
-              >les vela bien ampesché, &amp; c’est un Baston de Marichal de France ; parguenne y
+            s’approchy afin de deviner à son tour. <hi rend="i">Pargué</hi>, dit-elle, <hi rend="i">les vela bien ampesché, &amp; c’est un Baston de Marichal de France ; parguenne y
               vous creve les yeux. Lé grans Seigneux t-achons-y pas de l’avoir ? &amp; faisons-ty
               pas trambler quan c’est qui sont Marichaux à l’Armée</hi> ? Je disme tant de choses
             sur l’autre que rian pus. Je disme de la Toille à pointure, je disme une grande feüille
@@ -2510,8 +2423,7 @@
             fameux Dictionnaire auquel on travaille depuis si longtemps, &amp; que l’on attend avec
             beaucoup d’impatience. Quant à vostre petite Enigme de Vernon, elle a esté déchiffrée
             sans aucune peine par la mesme Femme de qualité qui avoit déja déchiffré si aisément
-            l’Enigme du Trictrac, &amp; elle soûtient que l’on veut parler de ces petits <hi
-              rend="i">Coqs</hi> que l’on met ordinairement sur nos Clochers en forme de Giroüettes.
+            l’Enigme du Trictrac, &amp; elle soûtient que l’on veut parler de ces petits <hi rend="i">Coqs</hi> que l’on met ordinairement sur nos Clochers en forme de Giroüettes.
             Dites-nous, s’il vous plaist, Monsieur, avons-nous bien deviné elle &amp; moy, &amp;
             pouvons-nus nous vanter d’entendre passablement le François ? Nous ne prendrons pas la
             mesme vanité au sujet de vostre Enigme en figure, car nous avoüons de bonne-foy que nous
@@ -2810,8 +2722,7 @@
             resister, je me suis mis en chemin pur chercher le Mot de la seconde. Je l’ay je croy
             trouvé par celuy de l’<hi rend="i">Enseigne</hi>.</p>
           <p>Dans la premiere, Monsieur, il me semble que j’y vois briller l’éclat des Fleurs de
-            Lis, &amp; que ce Baston de couleur bleuë qui en est tout parsemé, doit estre <hi
-              rend="i">un Baston de Mareschal de France</hi>, l’objet des vœux de tous les Braves de
+            Lis, &amp; que ce Baston de couleur bleuë qui en est tout parsemé, doit estre <hi rend="i">un Baston de Mareschal de France</hi>, l’objet des vœux de tous les Braves de
             nos Armées. Le sort de ce Baston est sans doute bien éclatant, puis qu’il est destiné
             pour estre le prix glorieux des nobles fatigues de nos Héros. Ce Baston est comme un
             foudre qui donne la Paix à l’Etat, &amp; porte la Guerre aux Etrangers, qui rassure le
@@ -3035,8 +2946,7 @@
           p. 319-321.</bibl>
         <quote>
           <label rend="center">Lettre LI.</label>
-          <p>VOus sçavez, Monsieur, que Mars &amp; les Muses n’ont jamais bien vescu ensemble. <hi
-              rend="sc">Loüis le Grand</hi> à qui rien n’est d’impossible, accommode aujourd’huy les
+          <p>VOus sçavez, Monsieur, que Mars &amp; les Muses n’ont jamais bien vescu ensemble. <hi rend="sc">Loüis le Grand</hi> à qui rien n’est d’impossible, accommode aujourd’huy les
             fatigues &amp; la fierté de l’un avec le repos &amp; la douceur des autres. Jamais
             Guerre n’a esté si avantageuse que celle-cy ; Mars &amp; Apollon y trouvent également
             leur compte, puis qu’elle fait autant de Sçavans que de bons Capitaines. Aussi est-il
@@ -3269,8 +3179,7 @@
             appresté, me l’a fait trouver fort à mon goust.</p>
           <p>Je ne m’accommode pas si bien de ce qu’il nous présente dans celuy-cy. La premiere
             Enigme, si je ne me trompe, est <hi rend="i">la Feüille de Papier</hi>, qui figure la
-            maigreur, la pâleur, &amp; la secheresse des Visages de ce temps-cy. La seconde est <hi
-              rend="i">la Pique</hi>, qui sert d’autant plus utilement le Roy dans ses Armées,
+            maigreur, la pâleur, &amp; la secheresse des Visages de ce temps-cy. La seconde est <hi rend="i">la Pique</hi>, qui sert d’autant plus utilement le Roy dans ses Armées,
             qu’elle tombe en de meilleures mains, &amp; qui porte cette marque de l’Empire de
             France, que le fer est taillé en Fleur de Lys. Cette armure ne convient-elle pas encor
             fort bien au commencement de cette glorieuse Campagne ? Pour ce qui est de l’Enigme en
@@ -3361,17 +3270,13 @@
             vous en parlez, nous engage à ne vous pas laisser ignorer quelles sortes de Personnes la
             composent. Je vay vous en dire seulement les noms : M<hi rend="sup">r</hi> le Président
             de Pierreville ; M<hi rend="sup">r</hi> l’Abbé de la Mothe, Chanoine &amp; Archidiacre
-            du Cotantin ; M<hi rend="sup">r</hi> l’Abbé des Viviers, Aumônier du Roy ; M<hi
-              rend="sup">r</hi> Corbet, Chanoine &amp; principal du College, (M<hi rend="sup">r</hi>
+            du Cotantin ; M<hi rend="sup">r</hi> l’Abbé des Viviers, Aumônier du Roy ; M<hi rend="sup">r</hi> Corbet, Chanoine &amp; principal du College, (M<hi rend="sup">r</hi>
             le Président de l’Isle qui est mort depuis un mois, avoit sa place apres ces Messieurs,
             comme ils m’ont fait la grace de me la donner apres ;) M<hi rend="sup">r</hi> de Vandôme
-            Conseiller du Roy au Présidial ; M<hi rend="sup">r</hi> de la Fevrerie ; M<hi rend="sup"
-              >r</hi> Langevin, Professeur de Philosophie ; M<hi rend="sup">r</hi> de S. André,
+            Conseiller du Roy au Présidial ; M<hi rend="sup">r</hi> de la Fevrerie ; M<hi rend="sup">r</hi> Langevin, Professeur de Philosophie ; M<hi rend="sup">r</hi> de S. André,
             Docteur en Medecine, Autheur <hi rend="i">des Entretiens sur l’Acide &amp; sur
-              l’Alkali</hi>, M<hi rend="sup">r</hi> le Vavasseur, Prestre ; &amp; M<hi rend="sup"
-              >r</hi> du Bosc, Professeur. Ce seroit trop à dérober à vos continuelles occupations,
-            que de vous faire le portrait de ces Messieurs. Je vous diray seulement que M<hi
-              rend="sup">r</hi> de la Ferrerie, dont le bel esprit est icy estimé, fit ces jours
+              l’Alkali</hi>, M<hi rend="sup">r</hi> le Vavasseur, Prestre ; &amp; M<hi rend="sup">r</hi> du Bosc, Professeur. Ce seroit trop à dérober à vos continuelles occupations,
+            que de vous faire le portrait de ces Messieurs. Je vous diray seulement que M<hi rend="sup">r</hi> de la Ferrerie, dont le bel esprit est icy estimé, fit ces jours
             passez les trois Pieces que je vous envoye. Si vous les trouvez dignes d’entrer dans le
             Mercure, il vous en envoyera de semblables de temps en temps, sans parler de celles que
             ces autres Messieurs vous préparent. J’y joints une Fable que je viens de faire à
@@ -3509,8 +3414,7 @@
             rencontrées dans leur immense Lecteur. L’un avoit oublié l’étymologie de l’Obelisque,
             &amp; la diférence de la Pyramide, &amp; sa destination originaire. Il ne songeoit à
             rien moins qu’à chercher tout cela dans ses Livres, lors que vous luy en avez épargné la
-            necessité. Un autre n’avoit jamais bien sçeu ce que c’est que l’Acte de <hi rend="i"
-              >Resumpte</hi>, ny les Ceremonies de la Reception d’un Duc &amp; Pair au Parlement. Un
+            necessité. Un autre n’avoit jamais bien sçeu ce que c’est que l’Acte de <hi rend="i">Resumpte</hi>, ny les Ceremonies de la Reception d’un Duc &amp; Pair au Parlement. Un
             troisiéme n’avoit pas le loisir de lire la longue Dissertation du P. Bouhours sur la
             Devise, &amp; moins encor le gros Livre du P. le Moine sur le mesme sujet. Il a pû
             neantmoins apprendre en lisant trois de vos Pages ce qu’il y a de plus essentiel dans
@@ -3615,9 +3519,7 @@
             faite, &amp; que tout cela se peut dire d’elle sans qu’on se rende suspect de flaterie.
             Les Vers qui suivent dont ceux qu’elle a choisis pour faire son coup d’essay.</p>
           <lg>
-            <l rend="i"><space/>    L’Aimable Flore est de retour,<note resp="author" place="margin"
-                  ><hi rend="i">Avis pour placer les Figures</hi><lb/> : la Chanson qui commence par, <hi
-                  rend="i">L’aimable Flore est de retour</hi>, doit regarder la page 391.</note></l>
+            <l rend="i"><space/>    L’Aimable Flore est de retour,<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : la Chanson qui commence par, <hi rend="i">L’aimable Flore est de retour</hi>, doit regarder la page 391.</note></l>
             <l rend="i"><space/>    Les Jeux, les Zephirs &amp; l’Amour</l>
             <l rend="i">Annoncent les douceurs de la Saison nouvelle.</l>
             <l rend="i"><space/>    Le Printemps regne dans ces lieux,</l>
@@ -3727,8 +3629,7 @@
             amplement un de ces jours, en vous envoyant quelques pensées qui ont esté conçeuës sur
             les bords d’une Mer sauvage, &amp; je me contente aujourd’huy de vous faire part de
             celles qui me sont venuës sur les deux Enigmes du Mois de Février, dont l’une, si je ne
-            me trompe, est <hi rend="i">le Baston de Mareschal de France</hi>, &amp; l’autre, <hi
-              rend="i">l’Enseigne</hi> d’une Maison. Voicy, Monsieur, comme j’explique la
+            me trompe, est <hi rend="i">le Baston de Mareschal de France</hi>, &amp; l’autre, <hi rend="i">l’Enseigne</hi> d’une Maison. Voicy, Monsieur, comme j’explique la
             premiere.</p>
           <lg>
             <l>C’est un baston, n’en doutez pas,</l>
@@ -3932,8 +3833,7 @@
             plus capable des beautez de nostre Langue. Il m’en a confié une Copie dont je vous fais
             part, sans l’en consulter ; car il n’est jamais content de luy-mesme, &amp; il est
             toûjours le dernier à estre persuadé du merite de ses Ouvrages. Outre ceux de cette
-            nature, que nous avons déja veus de luy, il a donné au Public une premiere Partie de <hi
-              rend="i">l’Esope du temps</hi>, &amp; nous en promet une seconde. Ce sont des Fables
+            nature, que nous avons déja veus de luy, il a donné au Public une premiere Partie de <hi rend="i">l’Esope du temps</hi>, &amp; nous en promet une seconde. Ce sont des Fables
             fort agreablement moralisées, &amp; enrichies de Figures selon leur divers sujets. Je ne
             vous dis rien de la maniere aisée dont il sçait tourner les Vers. Vous n’avez qu’à lire
             pour le connoistre.</p>
@@ -4093,8 +3993,7 @@
             <l>Si Doris est moins belle, elle est moins inhumaine,</l>
             <l>Et Doris de t’aimer fera tout son plaisir.</l>
           </lg>
-          <p>Je croy, Monsieur, que la lecture de cette Eglogue suffira pour vous persuader que M<hi
-              rend="sup">r</hi> Desmay ne fait rien qui ne soit digne d’estre veu par tout. Je vous
+          <p>Je croy, Monsieur, que la lecture de cette Eglogue suffira pour vous persuader que M<hi rend="sup">r</hi> Desmay ne fait rien qui ne soit digne d’estre veu par tout. Je vous
             l’abandonne pour la placer où vous le jugerez à propos, &amp; suis vostre, &amp;c.</p>
         </quote>
       </div>
@@ -4130,8 +4029,7 @@
             ne doute point que la premiere ne signifie <hi rend="i">un Baston de Mareschal de
               France</hi>. Un peu de resverie me l’a fait aisément trouver. Il n’en a pas esté de
             mesme de la seconde. Elle m’a paru tres-obscure, &amp; je croy qu’il y a peu de Gens qui
-            ayent sçeu découvrir le veritable sens qu’elle renferme. Celuy d’<hi rend="i"
-              >Enseigne</hi> que je luy donne, a semblé fort raisonnable à des Personnes dont le
+            ayent sçeu découvrir le veritable sens qu’elle renferme. Celuy d’<hi rend="i">Enseigne</hi> que je luy donne, a semblé fort raisonnable à des Personnes dont le
             discernement me persuade que j’auray bien deviné : car des deux costez d’une Enseigne
             l’on peut representer toutes les choses dont il est parlé aux huit permiers Vers ; &amp;
             pour les suivans, ils conviennent si bien à cette Explication, qu’il n’est pas besoin de
@@ -4236,8 +4134,7 @@
             Mois-cy achevera de vous en convaincre aussi-bien que de sa civilité, puis qu’elle m’a
             ordonné de vous envoyer pour marque de sa reconnoissance, <hi rend="i">le Baston de
               Mareschal de France</hi>. Je voudrois avoir un aussi beau présent à vous faire, pour
-            vous témoigner la mienne ; &amp; je me repens à présent de ne vous avoir pas offert <hi
-              rend="i">la Pierre Philosophale</hi>. Je suis vostre tres, &amp;c.</p>
+            vous témoigner la mienne ; &amp; je me repens à présent de ne vous avoir pas offert <hi rend="i">la Pierre Philosophale</hi>. Je suis vostre tres, &amp;c.</p>
           <p><hi rend="sc">Des Bois</hi>,</p>
           <p rend="i">Avocat au Parlement. </p>
         </quote>
@@ -4313,8 +4210,7 @@
             des Maistres pour apprendre à chanter les Chansons notées. D’autres se préparent à
             deviner les Enigmes en figures ; &amp; je ne voy guére de Dame jolie &amp; spirituelle,
             qui ne s’attache à expliquer celles que vous nous donnez en Vers, &amp; qui n’y devienne
-            de mois en mois plus habile. Nous croyons icy qu’un <hi rend="i">Navire</hi> &amp; <hi
-              rend="i">la Monnoye</hi> sont les Mots des deux dernieres. Cela devient si commun
+            de mois en mois plus habile. Nous croyons icy qu’un <hi rend="i">Navire</hi> &amp; <hi rend="i">la Monnoye</hi> sont les Mots des deux dernieres. Cela devient si commun
             &amp; mesme si facile à quelques uns, que la jeune Demoiselle qu’on vous a si bien
             peinte, &amp; qui s’en mesloit le plus, y renonce presentement, parce qu’elle ne se
             divertit qu’à ce qui est rare &amp; difficile : mais cette bizarrerie n’oste rien des
@@ -4846,8 +4742,7 @@
           de l’un &amp; l’autre Sexe. La voicy. </p>
         <quote>
           <label rend="center">Question proposée</label>
-          <p><hi rend="i">Sçavoir</hi>, Qui l’on croyoit qui fit le plus souffrir un Amant, <hi
-              rend="i">Ou</hi> une Maistresse dont il connoist l’infidelité, &amp; qui ne voulant
+          <p><hi rend="i">Sçavoir</hi>, Qui l’on croyoit qui fit le plus souffrir un Amant, <hi rend="i">Ou</hi> une Maistresse dont il connoist l’infidelité, &amp; qui ne voulant
             point rompre avec luy, tâche de le retenir par des flateries &amp; par de fausses
             protestations ; <hi rend="i">Ou</hi> Une Maistresse qui le quite sans ménagement, &amp;
             qui ne luy cache point qu’elle l’abandonne pour un Rival ?</p>
@@ -4868,9 +4763,7 @@
           stile ordinaire des Amans qui croyent avoir toûjours sujet de se plaindre.</p>
         <quote>
           <lg>
-            <l rend="i">Cruel Printemps, peux-tu paroistre<note resp="author" place="margin"><hi
-                  rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par, <hi
-                  rend="i">Cruel Printemps peux-tu paroistre</hi>, doit regarder la page
+            <l rend="i">Cruel Printemps, peux-tu paroistre<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par, <hi rend="i">Cruel Printemps peux-tu paroistre</hi>, doit regarder la page
               512.</note></l>
             <l rend="i">Où Climene ne paroist pas ?</l>
             <l rend="i"><space/>    Qui t’engage à renaistre</l>
@@ -5181,5 +5074,4 @@
           proposée.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

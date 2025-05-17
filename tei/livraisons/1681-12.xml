@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1681-12">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, décembre 1681 [tome 13]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1681-12</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>décembre 1681</date> [tome 13].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1681-12"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, décembre 1681 [tome 13].</head>
       <div type="article" xml:id="MG-1681-12_016">
@@ -105,21 +41,15 @@
           &amp; la Subdélégation de M<hi rend="sup">s</hi> le Chancelier à M<hi rend="sup">r</hi> le
           Premier Président de Tournay. Il estoit accompagné de M<hi rend="sup">rs</hi> Huez, le
           Noir, Cazier, de la Chapelle, Perrette, &amp; Héron, tous en Robe de Cérémonie de satin
-          noir, ayant un Cordon d’or, &amp; des Gands à frange de mesme matiere ; &amp; de M<hi
-            rend="sup">rs</hi> de l’Isle &amp; le Sage en Robe d’Avocats. Le S<hi rend="sup"
-          >r</hi> Longchamp Chauffecire les suivoit en habit gris avec l’épée au côté. M<hi
-            rend="sup">r</hi> Huez Secrétaire du Roy, &amp; Controlleur en la Chancellerie de Paris,
+          noir, ayant un Cordon d’or, &amp; des Gands à frange de mesme matiere ; &amp; de M<hi rend="sup">rs</hi> de l’Isle &amp; le Sage en Robe d’Avocats. Le S<hi rend="sup">r</hi> Longchamp Chauffecire les suivoit en habit gris avec l’épée au côté. M<hi rend="sup">r</hi> Huez Secrétaire du Roy, &amp; Controlleur en la Chancellerie de Paris,
           &amp; M<hi rend="sup">re</hi> le Noir, Cazier, &amp; Héron, aussi Secretaires du Roy, ont
           esté choisis par Sa Majesté, qui les a tous honorez de Commissions signées de sa main,
           pour exercer les Chargés de cette Chancelliere, jusqu’à ce qu’il y en ait assez de venduës
-          pour tenir le Sceau. M<hi rend="sup">r</hi> Huez y fait la Charge d’Audiencier ; M<hi
-            rend="sup">r</hi> de la Chapelle, Frere de M<hi rend="sup">r</hi> de l’Isle, Secretaire
+          pour tenir le Sceau. M<hi rend="sup">r</hi> Huez y fait la Charge d’Audiencier ; M<hi rend="sup">r</hi> de la Chapelle, Frere de M<hi rend="sup">r</hi> de l’Isle, Secretaire
           du Roy, celle de Controlleur ; &amp; M<hi rend="sup">r</hi> de l’Isle Fils du mesme
           Secrétaire du Roy, &amp; M<hi rend="sup">r</hi> le Sage, tous deux Avocats au Parlement, y
           sont en qualité de Référendaires. M<hi rend="sup">r</hi> Perrette est le premier qui ait
-          traité de l’une des Charges de cette nouvelle Création. En arrivant chez M<hi rend="sup"
-            >r</hi> le Premier Président, ils le trouvérent en Robe de Velours noir. Aprés que M<hi
-            rend="sup">r</hi> Maqueron luy eut presenté les Sceaux dans un petit Coffre cacheté des
+          traité de l’une des Charges de cette nouvelle Création. En arrivant chez M<hi rend="sup">r</hi> le Premier Président, ils le trouvérent en Robe de Velours noir. Aprés que M<hi rend="sup">r</hi> Maqueron luy eut presenté les Sceaux dans un petit Coffre cacheté des
           Armes de M<hi rend="sup">r</hi> le Chancelier, avec la Lettre de ce digne Chef de la
           Justice, &amp; la Subdélégation qu’il luy envoyoit, on leut l’une &amp; l’autre, &amp; le
           Coffre fut ouvert. On le referma en suite ; ce qui estant fait, le Chauffecire le prit
@@ -185,8 +115,7 @@
           lumiere de ce grand Astre. L’Eglise Catholique, que l’Ecriture &amp; les Péres ont
           comparée à la Lune, comme le Sauveur du Monde au Soleil ; avoit souffert dans Strasbourg
           une malheureuse &amp; longue Eclipse par l’Hérésie ; mais enfin Sa Majesté l’a dissipée,
-          en y rétablissant l’éxercice de la veritable Religion. Ces cinq Devises sont de M<hi
-            rend="sup">r</hi> de Sinprou.</p>
+          en y rétablissant l’éxercice de la veritable Religion. Ces cinq Devises sont de M<hi rend="sup">r</hi> de Sinprou.</p>
       </div>
       <div type="article" xml:id="MG-1681-12_043">
         <head>La Poule, aux Œufs d’or. Fable</head>
@@ -284,8 +213,7 @@
           suivoient quatre Sergens. M<hi rend="sup">r</hi> la Lande principal Ingenieur, portoit un
           Bassin, dans lequel estoient trois Clefs dorées, attachées ensemble par un Ruban bleu.
           Quatre autres Sergens marchoient aprés les Ingénieurs, suivis de quelques Soldats, &amp;
-          d’une foule incroyable de Peuple Ils entrérent par la Porte Royale, où M<hi rend="sup"
-            >r</hi> le Chevalier Durban, Cadet dans la Compagnie Colonelle du Régiment de
+          d’une foule incroyable de Peuple Ils entrérent par la Porte Royale, où M<hi rend="sup">r</hi> le Chevalier Durban, Cadet dans la Compagnie Colonelle du Régiment de
           Furstemberg, estoit en Faction d’un costé, &amp; M<hi rend="sup">r</hi> Marçau, Cadet dans
           celuy d’Estoppa, de l’autre. Ils s’arrestérent proche la Chapelle, jusqu’à l’heure de
           l’Offrande. Quand cette heure fut venuë, les Ingénieurs marchérent jusques à la porte, où
@@ -296,11 +224,9 @@
           finie, M<hi rend="sup">r</hi> Trobat présenta le Bassin à M<hi rend="sup">r</hi> de
           Chazeron, qui prenant les Clefs, les délivra à M<hi rend="sup">r</hi> Durban. Ce dernier
           les remit entre les mains de M<hi rend="sup">r</hi> de Longpré Lieutenant de Roy, d’où
-          elles passérent entre celles de M<hi rend="sup">r</hi> de S. Martin Major, de M<hi
-            rend="sup">r</hi> Creté Aide-Major, &amp; enfin de M<hi rend="sup">r</hi> de S. Laurens
+          elles passérent entre celles de M<hi rend="sup">r</hi> de S. Martin Major, de M<hi rend="sup">r</hi> Creté Aide-Major, &amp; enfin de M<hi rend="sup">r</hi> de S. Laurens
           Capitaine des Portes, qui les garda jusqu’à la fin de la Messe. Tout cela se fit au bruit
-          des Trompetes, Hautbois &amp; Tambours, avec les acclamations publiques de <hi rend="i"
-            >Vive le Roy</hi>. La premiére Salve de toute la Mousqueterie s’estant faite en ce
+          des Trompetes, Hautbois &amp; Tambours, avec les acclamations publiques de <hi rend="i">Vive le Roy</hi>. La premiére Salve de toute la Mousqueterie s’estant faite en ce
           moment, fut suivie de celle du Canon, &amp; l’une &amp; l’autre réïtérée pendant
           l’Elevation. La Messe estant achevée, on chanta les Priéres pour le Roy, apres lesquelles
           on alla benir la Citadelle, &amp; porter les Clefs au Logis du Gouverneur. Quand on y fut
@@ -314,8 +240,7 @@
           Maistre de la Nature, c’est à dire, d’une Reyne à laquelle tous les Hommes sont soûmis ?
           Il m’en est tombé entre les mains un Panégyrique qui mérite bien que vous le voyiez. Je
           parle de la Nature, dont M<hi rend="sup">r</hi> Thiot Conseiller &amp; Avocat du Roy au
-          Présidial de la Fléche, releva merveilleusement les avantages le Jeudy <hi rend="i"
-            >13.</hi> de l’autre mois, à l’ouverture du Palais. Quoy que ce Panégyrique soit un peu
+          Présidial de la Fléche, releva merveilleusement les avantages le Jeudy <hi rend="i">13.</hi> de l’autre mois, à l’ouverture du Palais. Quoy que ce Panégyrique soit un peu
           long, la solidité du raisonnement, &amp; la profonde érudition y sont si bien jointes avec
           le brillant, que tout dénué qu’il est des graces que luy presta son Autheur en le
           prononçant, je ne doute point qu’il ne vous donne le mesme plaisir qu’en ont reçeu ceux
@@ -805,8 +730,7 @@
           laissa persuader. Il feignit de faire ses devotions, &amp; garda l’Hostie. La chose ayant
           esté sçeuë six mois apres, on se saisit de l’un &amp; de l’autre, &amp; on retrouva
           l’Hostie aussi blanche &amp; aussi entiere, que si elle eust esté consacrée de ce mesme
-          jour. Le Roy ayant esté informé de ce sacrilege, envoya soudain ses ordres à M<hi
-            rend="sup">r</hi> Brodard Intendant de ses Galeres, pour faire punir les deux Coupables,
+          jour. Le Roy ayant esté informé de ce sacrilege, envoya soudain ses ordres à M<hi rend="sup">r</hi> Brodard Intendant de ses Galeres, pour faire punir les deux Coupables,
           &amp; prendre le soin de faire faire une Procession generale, dans laquelle on portast
           cette S<hi rend="sup">e</hi> Hostie en triomphe par toute la Ville. Cela fut executé. Le
           feu expia le crime du Bohémien &amp; du Forçat, &amp; six jours apres, la Procession se
@@ -888,8 +812,7 @@
           admirables. Aussi avoüent-ils qu’on ne peut rien faire de plus beau, tant pour le grand
           goust du dessein, que pour les belles expressions, l’agreable contraste, la noblesse,
           &amp; la varieté. Tout est étudié dans ce grand Ouvrage, &amp; fait avec un soin
-          merveilleux, &amp; d’une maniere aussi belle qu’elle est particuliere à M<hi rend="sup"
-            >r</hi> Desjardins. C’est le nom du Sculpteur, à qui seul, apres Monsieur de la
+          merveilleux, &amp; d’une maniere aussi belle qu’elle est particuliere à M<hi rend="sup">r</hi> Desjardins. C’est le nom du Sculpteur, à qui seul, apres Monsieur de la
           Feüillade, la France doit ce grand Monument. Sur la Face de devant, au dessus du
           Bas-Relief, on lit ces deux Vers Latins.</p>
         <quote>
@@ -954,8 +877,7 @@
         <p>Le Roy estant entré dans le Jardin où ce Monument estoit élevé, dit d’abord, apres le
           premier coup d’œil, <hi rend="i">qu’il avoit bien du Grand</hi>. Il s’approcha en suite,
           examina tout en particulier, lût les Inscriptions, &amp; dit à M<hi rend="sup">r</hi> de
-          la Feüillade qu’elles estoient fort obligeantes ; puis se retournant du costé de M<hi
-            rend="sup">r</hi> Desjardins, il luy dit, <hi rend="i">qu’il s’estoit fait une grande
+          la Feüillade qu’elles estoient fort obligeantes ; puis se retournant du costé de M<hi rend="sup">r</hi> Desjardins, il luy dit, <hi rend="i">qu’il s’estoit fait une grande
             idée de cet Ouvrage sur le recit qu’on luy en avoit fait, mais que ce qu’il voyoit
             surpassoit tout ce qu’il s’en estoit imaginé.</hi></p>
       </div>
@@ -1218,8 +1140,7 @@
           témoigner qu’ils estoient prests à donner leur sang pour la defence de la Foy. Apres
           qu’ils eurent esté à l’Offrande, un des Religieux du Convent monta en Chaire, &amp; prit
           pour texte ce Passage des Macabées. <hi rend="i">Refulsit Sol in clipeos aureos &amp;
-            resplenduerunt montes ab eis</hi>, ausquelles paroles il adjoûta celles de l’Eglise, <hi
-            rend="i">&amp; fortitudo gentium dissipata est</hi>. Il s’étendit avec beaucoup
+            resplenduerunt montes ab eis</hi>, ausquelles paroles il adjoûta celles de l’Eglise, <hi rend="i">&amp; fortitudo gentium dissipata est</hi>. Il s’étendit avec beaucoup
           d’éloquence sur les loüanges du Saint, sur les Eloges de l’Ordre, le plus ancien de toute
           la Chevalerie, &amp; sur la gloire du Roy qui avoit pris soin de le relever. La Messe
           estant achevée, tous les Commandeurs &amp; Chevaliers allerent chez M<hi rend="sup">r</hi>
@@ -1281,8 +1202,7 @@
           Chapelle, Autheur de la Cléopatre, s’est acquis beaucoup de gloire en réüssissant dans un
           Sujet traité autrefois avec beaucoup de succés par M<hi rend="sup">r</hi> de Benserade,
           &amp; par feu M<hi rend="sup">r</hi> Mairet<note resp="editor">Le rédacteur
-            du <hi rend="i">Mercure galant</hi> se trompe car Jean Mairet, auteur de la tragédie <hi
-              rend="i">Le Marc-Antoine, ou La Cléopâtre</hi> parue en 1635 n'était pas encore
+            du <hi rend="i">Mercure galant</hi> se trompe car Jean Mairet, auteur de la tragédie <hi rend="i">Le Marc-Antoine, ou La Cléopâtre</hi> parue en 1635 n'était pas encore
             décédé.</note>. Je vous envoyeray sa Piece si-tost qu’elle sera imprimée, afin que vous
           ayez le plaisir de voir ce qui a tiré des larmes de quantité de beaux yeux.</p>
       </div>
@@ -1329,8 +1249,7 @@
         <p>Je vous ay déja marqué qu’au retour du Voyage du Roy on a joüé à la Cour <hi rend="i">le
             Bourgeois Gentilhomme</hi> alternativement avec <hi rend="i">le Pourceaugnac</hi><note resp="editor">Voir <ref target="MG-1681-11_041">cet article</ref>.</note>. Apres
           quelques Représentations, Monseigneur le Dauphin voulut se donner le plaisir de dancer
-          dans l’une des Entrées qui font l’ornement de chacune de ces Pieces. Il choisit dans <hi
-            rend="i">le Bourgeois Gentilhomme</hi> l’Entrée des Espagnols &amp; Espagnoletes, &amp;
+          dans l’une des Entrées qui font l’ornement de chacune de ces Pieces. Il choisit dans <hi rend="i">le Bourgeois Gentilhomme</hi> l’Entrée des Espagnols &amp; Espagnoletes, &amp;
           nomma pour dancer avec luy Monsieur le Prince de la Roche-sur-Yon, M<hi rend="sup">r</hi>
           le Comte de Brionne, Madame la Princesse de Conty, Madame de Seignelay, &amp; Mademoiselle
           de Laval. M<hi rend="sup">r</hi> de Beauchamp dançoit seul par intervales dans le milieu
@@ -1339,16 +1258,14 @@
           Monseigneur le Dauphin une Entrée de Biscayens &amp; de Biscayennes, dans <hi rend="i">le
             Pourceaugnac</hi>. La maniere aisée avec laquelle Mademoiselle de Nantes fait tout ce
           qu’elle entreprend, jointe à la disposition &amp; à la grande justesse qu’elle a pour la
-          Dance, la fit souhaiter dans cette Entrée. Elle en apprit aussitost les Pas, &amp; M<hi
-            rend="sup">r</hi> le Comte de Guiche fut choisy pour dancer avec cette Princesse. Ils
+          Dance, la fit souhaiter dans cette Entrée. Elle en apprit aussitost les Pas, &amp; M<hi rend="sup">r</hi> le Comte de Guiche fut choisy pour dancer avec cette Princesse. Ils
           furent accompagnez de quatre jeunes Personnes, deux Garçons, &amp; deux Filles.
           L’enjouëment de cette Entrée fut d’autant plus agreable, qu’on y batoit du Tambour de
           Basque, &amp; que les Pas estoient un peu élevez, &amp; par conséquent extraordinaires.
           Tout cela demande de la bonne grace, du sçavoir, &amp; de l’adresse ; &amp; comme toutes
           ces choses sont naturelles à Mademoiselle de Nantes, elle se distingua d’une maniere qui
           luy attira les voix &amp; les cœurs de tout le monde. Sa Majesté s’est tellement divertie
-          à voir ces Entrées, que toutes les deux ont esté dancées dans chaque Piece. M<hi
-            rend="sup">r</hi> de Lully a représenté le Personnage du Mufty dans <hi rend="i">le
+          à voir ces Entrées, que toutes les deux ont esté dancées dans chaque Piece. M<hi rend="sup">r</hi> de Lully a représenté le Personnage du Mufty dans <hi rend="i">le
             Bourgeois Gentilhomme</hi>. C’estoit luy qui le joüoit dans les premieres
           Représentations de cette Piece qui fut faite pour le Roy dans un Voyage qu’il fit à
           Chambord, &amp; il a crû le devoir continuer pour donner plus de plaisir à Sa Majesté,
@@ -1400,5 +1317,4 @@
         </ref>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

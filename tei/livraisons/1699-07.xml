@@ -1,65 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1699-07">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, juillet 1699 [tome 7]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1699-07</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
-    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
-    sur les bases de données (L341-1) est mise à disposition de la communauté
-    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
-    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
-    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-<p>Attribution : afin de référencer la source, toute utilisation ou publication
-    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
-    l’adresse Internet de la ressource.</p>
-<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
-    toute utilisation commerciale est interdite.</p>
-<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-    électronique, notamment en intégrant toutes les contributions extérieures, la
-    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>juillet 1699</date> [tome 7].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1699-07"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
         <head><hi rend="i">Mercure galant</hi>, juillet 1699 [tome 7].</head>
         <div type="article" xml:id="MG-1699-07_005" resp="wordpro">
@@ -642,5 +581,4 @@
           <p>M<hi rend="sup">r</hi> l'Evêque de Chartre ayant commis le Pere Mespolier Missionnaire Dominiquain de la Province de Toulouse qui se trouvoit sur les lieux, pour regler l'ordre de cette ceremonie, les Paroisses furent convoquées au 5. de ce mois, &amp; on vit venir à Moussonvilliers jusqu'à vingt-huit Processions avec une foule incroiable de peuple. Les Officiers de Justice des terres de M<hi rend="sup">r</hi> le Duc de S. Simon, s'y trouverent avec les Gardes pour empêcher que la confusion ne causast quelque desordre. Le Pere Mespolier porta le S. Sacrement à la Procession, la corde au col &amp;les pieds nuds, &amp; prêcha au milieu d'un champ à cause de la grande foule, aprés quoy il fit amande honorable la torche au poing en presence S. Sacrement. Le Clergé cria plusieurs fois <hi rend="i">Misericorde</hi> avec une voix entre-coupée de sanglots, &amp; la ferveur du peuple fut telle que l'on jugea à propos de faire durer la Ceremonie huit jours que l'on employa en chants lugubres &amp; en prieres publiques, la pluspart ayant la face prosternée contre terre. Le Pere Mespolier prêchoit deux fois chaque jour, &amp; quantité de Paroisses y ont fait des Processions pendant l'octave. On chantoit une Messe solemnelle si tôt qu'elle estoient arrivées, &amp; le matin &amp; le soir on portoit le S. Sacrement en Procession autour de l'Eglise. À une heure on chantoit les Pseaumes Penitentiaux, &amp; à deux les Vespres &amp; les Complies. La devotion y estoit si grande, qu'il n'y avoit point d'heure dans tout le tour, où il n'y eust des Communions. [...]</p>
         </div>
       </body>
-  </text>
-</TEI>
+  </text></TEI>

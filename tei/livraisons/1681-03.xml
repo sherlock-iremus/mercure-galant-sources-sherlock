@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1681-03">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, mars 1681 [tome 3]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1681-03</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>mars 1681</date> [tome 3].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1681-03"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, mars 1681 [tome 3].</head>
       <div type="article" xml:id="MG-1681-03_006">
@@ -76,8 +12,7 @@
           Gentilshommes des plus riches &amp; des plus qualifiez de Marseille, ayant résolu de faire
           les honneurs de leur Ville par de superbes Régals donnez au beau Sexe, choisirent une
           Maison de campagne, à un quart de lieuë des Murailles, pour y étaler toutes les
-          magnificences qu’ils avoient dessein de faire ; &amp; le lendemain des Roys, M<hi
-            rend="sup">r</hi> le Marquis d’Alain, que le Sort avoit désigné le premier Roy, y mena
+          magnificences qu’ils avoient dessein de faire ; &amp; le lendemain des Roys, M<hi rend="sup">r</hi> le Marquis d’Alain, que le Sort avoit désigné le premier Roy, y mena
           sa Reyne, accompagnée de neuf ou dix Femmes de qualité. Cette Reyne estoit Mademoiselle de
           Foresta. Elle a de l’esprit, chante, dance, &amp; joüe du Theorbe admirablement. Si-tost
           que ces Dames furent descenduës de Carrosse à la porte de cette agreable Maison qu’on
@@ -149,8 +84,7 @@
           galantes Parties. C’est un jeune Gentilhomme d’une des meilleures Maisons de Provence,
           dont l’esprit vous est connu par plusieurs Ouvrages que vous avez veus de luy, sous le nom
           du Solitaire de Carpiagne. Le Conte qui suit est de sa façon. On l’a tiré d’une Lettre
-          qu’il écrivoit à un de ses Amis, qui s’estant trouvé dans la Galere de M<hi rend="sup"
-            >r</hi> le Comte du Luc, dans le temps de son naufrage, avoit fait des Vœux qu’il ne
+          qu’il écrivoit à un de ses Amis, qui s’estant trouvé dans la Galere de M<hi rend="sup">r</hi> le Comte du Luc, dans le temps de son naufrage, avoit fait des Vœux qu’il ne
           songeoit point à executer.</p>
         <quote>
           <label>L’AVOCAT CONGELÉ.</label>
@@ -286,8 +220,7 @@
           qu’on la plaigne de ce qu’elle est sans Amans. Vous sçavez qu’elle a prié le Public, par
           le Billet que vous vistes d’elle il y a deux mois, de luy vouloir enseigner quelques
           moyens d’adoucir son infortune. Si ses chagrins la laissent capable d’entendre raison,
-          elle n’a qu’à écouter ce que dit le Papillon à la Tubéreuse dans la Fable que voicy. M<hi
-            rend="sup">r</hi> Pelegrin en est l’Autheur.</p>
+          elle n’a qu’à écouter ce que dit le Papillon à la Tubéreuse dans la Fable que voicy. M<hi rend="sup">r</hi> Pelegrin en est l’Autheur.</p>
         <quote>
           <label>LA TUBEREUSE, ET LE PAPILLON.<lb/>FABLE.</label>
           <lg>
@@ -367,8 +300,7 @@
           fermer tous les endroits par où le jour auroit pû entrer. La Reyne joüa beaucoup de
           Bijoux, &amp; ne les joüa que pour en faire autant de Présens. C’est un effet de cette
           noble inclination, qui la portant à donner, soûtient avec tant de gloire les sentimens de
-          grandeur que sa Naissance luy a inspirez. Cette Princesse alla voir ensuite l’Opéra de <hi
-            rend="i">Proserpine</hi>. Il ne devoit pas luy estre nouveau, puis qu’il a servy tout un
+          grandeur que sa Naissance luy a inspirez. Cette Princesse alla voir ensuite l’Opéra de <hi rend="i">Proserpine</hi>. Il ne devoit pas luy estre nouveau, puis qu’il a servy tout un
           Hyver de Divertissement à Saint Germain. Cependant cet Opéra n’estant représenté ny par
           les mesmes Acteurs, ny avec les mesmes Décorations, Elle y trouva quantité de choses qui
           eurent pour elle toute la grace de la nouveauté. Le Theatre des Champs Elisées parut
@@ -511,14 +443,11 @@
           <p><hi rend="i">On réduisit enfin tous ces Jeux à trois especes fort diférentes. Les uns
               se faisoient à cheval, &amp; pour cela estoient appellez</hi> Ludi Equestres &amp;
             Curules, <hi rend="i">ou</hi> Decursio. <hi rend="i">Les Espagnols les appellent</hi>
-            Carozels. <hi rend="i">Les Allemans leur ont donné le nom de</hi> Tournois, <hi rend="i"
-              >qu’on croit venir de</hi> Torneamentum, <hi rend="i">&amp; peut-estre de</hi> Troïa,
+            Carozels. <hi rend="i">Les Allemans leur ont donné le nom de</hi> Tournois, <hi rend="i">qu’on croit venir de</hi> Torneamentum, <hi rend="i">&amp; peut-estre de</hi> Troïa,
               <hi rend="i">à cause des Troyens qui en porterent l’exercice en Italie, comme Virgile
-              le marque. D’autres Peuples les ont appellez</hi> Barrieres, <hi rend="i"
-              >principalement quand on y joint quelque espece de combat. Les François &amp; les
+              le marque. D’autres Peuples les ont appellez</hi> Barrieres, <hi rend="i">principalement quand on y joint quelque espece de combat. Les François &amp; les
               Anglois les nomment</hi> Courses.</p>
-          <p><hi rend="i">Les autres Jeux s’appelloient</hi> Agonales &amp; Gymnici. <hi rend="i"
-              >C’estoient des Combats, des Luttes, &amp; des Joustes de bien des manieres. On les
+          <p><hi rend="i">Les autres Jeux s’appelloient</hi> Agonales &amp; Gymnici. <hi rend="i">C’estoient des Combats, des Luttes, &amp; des Joustes de bien des manieres. On les
               faisoit ordinairement dans le Cirque &amp; dans l’Amphitheatre, qu’on dédioit exprés
               au Soleil, à Neptune, à Mars, &amp; à Diane. La Politique des Romains estoit si fort
               attachée à la Religion, que leurs grands desseins rouloient presque également sur
@@ -546,8 +475,7 @@
               d’exemples, &amp; on n’oubliera jamais le superbe Carozel qu’on vit à Paris en 1662.
               &amp; que les sçavantes Graveures de Chauveau ont rendu public. Le Roy y estoit Chef
               de la Quadrille des Romains ; Monsieur l’estoit de celle des Persans ; Monsieur le
-              Prince, de celle des Turcs ; Monsieur le Duc, de celle des Moscovites ; &amp; M<hi
-                rend="sup">r</hi> le Duc de Guise, de celle des Mores. Il ne s’est jamais rien veu
+              Prince, de celle des Turcs ; Monsieur le Duc, de celle des Moscovites ; &amp; M<hi rend="sup">r</hi> le Duc de Guise, de celle des Mores. Il ne s’est jamais rien veu
               qui égalast la magnificence de cette Journée. Aussi fut-elle ordonnée par le plus
               Grand Roy du monde, qui outre une application singuliere, y fit une dépense
               incroyable.</hi></p>
@@ -612,8 +540,7 @@
               prescrite par la Loy, il n’est aucune sorte de magnificence qu’ils ne se
               permettent.</hi></p>
           <p><hi rend="i">L’heure de commencer le Spéctacle estant arrivée, on vit aussitost
-              paroistre un superbe Char de Triomphe, dans lequel estoit Medée sous la figure du S<hi
-                rend="sup">r</hi> Ballarin, Musicien de Monsieur le Duc de Mantouë. Ce Char estoit
+              paroistre un superbe Char de Triomphe, dans lequel estoit Medée sous la figure du S<hi rend="sup">r</hi> Ballarin, Musicien de Monsieur le Duc de Mantouë. Ce Char estoit
               précedé de huit Trompetes, dont les Habits &amp; les ornemens sembloient n’estre qu’or
               &amp; pierreries. D’autres Trompetes suivoient avec plusieurs Estafiers fort lestes.
               Ceux-cy avoient des Livrées tres-éclatantes, qui pourtant arresterent peu les yeux des
@@ -631,8 +558,7 @@
               Figures</hi> : La Planche dans laquelle il y a un Char, doit regarder la page
             85.</note>
           <p><hi rend="i">L’Excellentissime Seigneur Benedetto Capello, Capitaine Grand, &amp; qui
-              pour ne pas commettre la Majesté publique, paroissoit là comme</hi> incognito, <hi
-              rend="i">c’est-à-dire, avec un petit Masque sur le nez ; estoit Chef de la premiere
+              pour ne pas commettre la Majesté publique, paroissoit là comme</hi> incognito, <hi rend="i">c’est-à-dire, avec un petit Masque sur le nez ; estoit Chef de la premiere
               Quadrille. Quatre autres Seigneurs l’accompagnoient, sçavoir, M<hi rend="sup">rs</hi>
               les Comtes Maximilien Goddi, Loüis Valle, Coriolan Porto, &amp; Boniface Poiama. Leur
               Quadrille avoit le blanc &amp; le gris-de-lin pour sa couleur. La seconde qui avoit
@@ -640,11 +566,9 @@
               Antonio-Maria Porto, Antonio Trento, Vicenzo Scroffa, Scipion Porto, &amp; Ottavio
               Trento. Ceux qui formoient la troisiéme, estoient M<hi rend="sup">rs</hi> les Comtes
               Leonardo Tressino, Thomaso Piovene, le S<hi rend="sup">r</hi> Jacques Cavalerizzo, qui
-              tenoit la place de M<hi rend="sup">r</hi> le Comte Camillo Trento, &amp; M<hi
-                rend="sup">rs</hi> les Comtes Loüis Caldagno, &amp; Leonardo Porto. Leur couleur
+              tenoit la place de M<hi rend="sup">r</hi> le Comte Camillo Trento, &amp; M<hi rend="sup">rs</hi> les Comtes Loüis Caldagno, &amp; Leonardo Porto. Leur couleur
               estoit le bleu. La quatriéme Quadrille parut en couleur de feu, &amp; avoit en teste
-                M<hi rend="sup">r</hi> le Comte Jean-Baptiste Porto, suivy de M<hi rend="sup"
-                >rs</hi> les Comtes Leonida Porto, Francesco Volpe, Ottaviano Garzadore, &amp;
+                M<hi rend="sup">r</hi> le Comte Jean-Baptiste Porto, suivy de M<hi rend="sup">rs</hi> les Comtes Leonida Porto, Francesco Volpe, Ottaviano Garzadore, &amp;
               Antonio Porto.</hi></p>
           <p><hi rend="i">Ces quatre Quadrilles firent quelques tours dans le Parterre, tant pour
               voir commodement tous les Spéctateurs, que pour se montrer à eux sans aucun tumulte ;
@@ -692,9 +616,7 @@
               de Gens qui soient informez des quatre sortes d’Airs ausquels on a réduit toutes leurs
               cadences. Ce sont</hi> l’Air de terre à terre, <hi rend="i">quand le Cheval ne s’éleve
               point, mais qu’il se porte en avant, en arriere, à volte sur la droite &amp; sur la
-              gauche, &amp; à demy-volte en mouvemens égaux ;</hi> l’Air des Courbetes, <hi rend="i"
-              >qui sont des mouvemens courbes &amp; à demy élevez ;</hi> l’Air des Caprioles, <hi
-              rend="i">qui sont des sauts hauts &amp; élevez, tout d’un temps ; &amp; enfin
+              gauche, &amp; à demy-volte en mouvemens égaux ;</hi> l’Air des Courbetes, <hi rend="i">qui sont des mouvemens courbes &amp; à demy élevez ;</hi> l’Air des Caprioles, <hi rend="i">qui sont des sauts hauts &amp; élevez, tout d’un temps ; &amp; enfin
               celuy</hi> d’un Pas &amp; d’un Saut, <hi rend="i">quand cet Air est composé d’une
               Capriole &amp; d’une Courbete fort basse. Toutes ces manieres ont leurs passades, qui
               sont comme les temps de la Musique, dans lesquels il ne parut point que les Chevaux de
@@ -729,8 +651,7 @@
               laquelle on les avoit veus combatre. Ce fut par cette harmonie que finit le
               Divertissement de cette Journée. Les Curieux pourront se représenter, en jettant les
               yeux sur cette seconde Planche, de quelle maniere ces galans Avanturiers se firent
-              voir au milieu des Monstres.</hi></p><note resp="author" place="margin"><hi rend="i"
-              >Avis pour placer les Figures</hi> : La Planche qui est remplie de Monstres, doit
+              voir au milieu des Monstres.</hi></p><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : La Planche qui est remplie de Monstres, doit
             regarder la page 100.</note>
           <p><hi rend="i">Le lendemain, il y eut trois Festes assez diférentes. Elles se firent dans
               les trois plus grands Edifices de la Ville, &amp; pourtant ils parurent fort petits à
@@ -1001,8 +922,7 @@
           réjoüissantes. Ce ne furent que Menüets de Poitou, où Madame d’Aubigny excella, meslant
           avec le bon air de Paris la justesse &amp; l’agrément de Xaintonge. Mademoiselle Chabot,
           Sœur de M<hi rend="sup">r</hi> le Comte de Jarnac, parut beaucoup dans cette Assemblée,
-          soit par sa bonne mine &amp; son air de qualité, soit par la maniere dont elle dança. M<hi
-            rend="sup">r</hi> le Chevalier Chabot son Frere, ne se distingua pas moins ; mais rien
+          soit par sa bonne mine &amp; son air de qualité, soit par la maniere dont elle dança. M<hi rend="sup">r</hi> le Chevalier Chabot son Frere, ne se distingua pas moins ; mais rien
           n’approcha du petit Comte de Chabot, Fils aîné de M<hi rend="sup">r</hi> le Comte de
           Jarnac. Ce jeune Enfant, quoy que seulement âgé de cinq ans, ne laisse pas de dancer le
           plus agreablement du monde ; &amp; si la force de ses jambes répondoit à la justesse de
@@ -1010,15 +930,13 @@
           taille qu’on peut dire surprenante.</p>
         <p>Parmy les Personnes de qualité qui faisoient le plus bel ornement de ce Bal, celles qui
           tenoient les premieres places, estoient Madame la Comtesse de Miossens, Madame d’Aubigny,
-          Madame la Présidente d’Angoulesme, &amp; deux de ses Sœurs, Filles de M<hi rend="sup"
-            >r</hi> le Comte de Branac, &amp; Petites-Niéces de feu M<hi rend="sup">r</hi> le Comte
+          Madame la Présidente d’Angoulesme, &amp; deux de ses Sœurs, Filles de M<hi rend="sup">r</hi> le Comte de Branac, &amp; Petites-Niéces de feu M<hi rend="sup">r</hi> le Comte
           de Branac, Gouverneur de Xaintonge &amp; d’Angoulmois, dont la Femme estoit Premiere Dame
           d’Honneur de la Reyne Mere, &amp; Tante de M<hi rend="sup">r</hi> le Duc de Montausier ;
           Madame de Chalu, &amp; Mademoiselle sa Fille. Du costé des Hommes qui se firent
           particulierement remarquer à cette Feste, furent M<hi rend="sup">rs</hi> les Marquis d’Ars
           &amp; de Mayac, Petit-Fils du feu Seigneur d’Ars, qui autrefois fut Chef, &amp; conduisit
-          le Ban de la Noblesse en Lorraine ; M<hi rend="sup">r</hi> le Marquis d’Argeanson, M<hi
-            rend="sup">r</hi> le Président d’Angoulesme, &amp; M<hi rend="sup">r</hi> de Marcillac.
+          le Ban de la Noblesse en Lorraine ; M<hi rend="sup">r</hi> le Marquis d’Argeanson, M<hi rend="sup">r</hi> le Président d’Angoulesme, &amp; M<hi rend="sup">r</hi> de Marcillac.
           Tout cela faisoit une tres-illustre, ou si vous voulez que je me serve du mot à la mode,
           une fort grosse Assemblée.</p>
       </div>
@@ -1032,8 +950,7 @@
           l’application que l’on en fait. C’est ce qui donne beaucoup d’embarras aux Etrangers, qui
           ayant appris la Langue avec soin, n’ont jamais veu ce mot employé que pour une chose qui a
           véritablement de la grosseur. En parlant d’un Homme riche, on dit aujourd’huy qu’il a un
-          gros Bien. On dit de la mesme sorte un gros Seigneur, comme si le mot de <hi rend="i"
-            >grand</hi> estoit condamné, &amp; on ne fait pas de refléxion que ceux à qui cette mode
+          gros Bien. On dit de la mesme sorte un gros Seigneur, comme si le mot de <hi rend="i">grand</hi> estoit condamné, &amp; on ne fait pas de refléxion que ceux à qui cette mode
           peut estre inconnuë, sont persuadez que c’est d’un gros Homme qu’on veut leur parler. Ce
           que cette mode a d’insuportable, c’est que dans le dessein de paroistre du bel air, on a
           si souvent le mot de gros à la bouche, qu’on l’applique mesme à tout ce qui est petit.
@@ -1063,8 +980,7 @@
           sont proprement que des manieres de parler nouvelles. Un mot nouveau est un mot dont on ne
           s’est point encor servy dans la Langue, qui est nouveau &amp; par luy-mesme, &amp; pour
           l’usage auquel on le fait servir, &amp; qui exprimant une chose en une seule parole,
-          épargne la peine de recourir au détour. <hi rend="i">Destination</hi> &amp; <hi rend="i"
-            >impraticable</hi>, sont de ce genre. Ce n’est point à moy à décider si ces mots sont
+          épargne la peine de recourir au détour. <hi rend="i">Destination</hi> &amp; <hi rend="i">impraticable</hi>, sont de ce genre. Ce n’est point à moy à décider si ces mots sont
           bons, &amp; s’ils expliquent assez ce que l’on veut qu’ils fassent entendre ; mais je croy
           en genéral, que le plus méchant mot nouveau qui expliquera en une seule parole, ce qui
           sans luy ne pourroit estre entendu que par plusieurs, sera toûjours préferable aux
@@ -1442,8 +1358,7 @@
             Charlemagne</hi>. Ce n’est qu’une premiere Partie. Je ne prétens point vous en faire le
           détail. Je le laisse à d’autres qui s’en acquiteront mieux que je ne ferois ; mais vous
           pouvez juger par son Titre de ce qu’il contient, &amp; combien peut estre utile une chose
-          d’une aussi grande étenduë, traitée par un aussi habile Homme que l’est M<hi rend="sup"
-            >r</hi> de Condom. Je croy vous devoir seulement dire apres luy, <hi rend="i">Que cette
+          d’une aussi grande étenduë, traitée par un aussi habile Homme que l’est M<hi rend="sup">r</hi> de Condom. Je croy vous devoir seulement dire apres luy, <hi rend="i">Que cette
             maniere d’Histoire Universelle est à l’égard des Histoires de chaque Païs &amp; de
             chaque Peuple, ce qu’est une Carte genérale à l’égard des Cartes particulieres. Dans les
             Cartes particulieres vous voyez tout le détail d’un Royaume, ou d’une Province en
@@ -1453,9 +1368,7 @@
         <p>Ce Livre se vend chez Sebastien Mabre-Cramoisy Imprimeur du Roy, &amp; Directeur de
           l’Imprimerie Royale du Louvre, établie par les soins de M<hi rend="sup">r</hi> le Cardinal
           de Richelieu en l’année 1640. Le feu Roy en donna d’abord la Direction au Sieur Sebastien
-          Cramoisy son Imprimeur ordinaire, auquel a succedé dans le mesme Employ le S<hi rend="sup"
-            >r</hi> Sebastien Mabre-Cramoisy son Petit-Fils, qui travaille sous les ordres de M<hi
-            rend="sup">r</hi> Colbert, ce grand Ministre prenant soin de ce qui regarde cette
+          Cramoisy son Imprimeur ordinaire, auquel a succedé dans le mesme Employ le S<hi rend="sup">r</hi> Sebastien Mabre-Cramoisy son Petit-Fils, qui travaille sous les ordres de M<hi rend="sup">r</hi> Colbert, ce grand Ministre prenant soin de ce qui regarde cette
           Imprimerie, comme Surintendant des Bâtimens, &amp; Protecteur des Arts. C’est là qu’on a
           imprimé tous ces beaux Ouvrages qui font l’ornement des Bibliotheques, les Conciles, la
           Bible, l’Histoire Bizantine, &amp; tant d’autres, &amp; nouvellement tous ces grands
@@ -1753,8 +1666,7 @@
         <bibl><title>Mercure galant</title>, mars 1681 [tome 3], p. 306-307.</bibl>
         <p>Voicy encor une suite de ce que M<hi rend="sup">r</hi> Charpentier a commencé.</p>
         <quote>
-          <label>TROISIEME COUPLET DES STANCES DU CID,<lb/>mis en Air.</label><note resp="author"
-            place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par
+          <label>TROISIEME COUPLET DES STANCES DU CID,<lb/>mis en Air.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par
               <hi rend="i">Pere, Maistresse, honneur, amour</hi>, doit regarder la page 306.</note>
           <lg>
             <l> <hi rend="i">Pere, Maîtresse, honneur, amour,</hi></l>
@@ -1818,8 +1730,7 @@
           envoyées sur ces Enigmes, ausquelles je ne manqueray pas d’adjoûter les noms de tous ceux
           qui en ont trouvé le sens. Je remets aussi jusque-là ce que j’ay à vous dire des deux
           Geans &amp; du Nain qui font l’Enigme en figure. Vous vous attacherez, s’il vous plaist, à
-          chercher le Mot des deux nouvelles en Vers que je vous envoye. M<hi rend="sup"
-          >r</hi> Grillon D.M. a fait la premiere.</p>
+          chercher le Mot des deux nouvelles en Vers que je vous envoye. M<hi rend="sup">r</hi> Grillon D.M. a fait la premiere.</p>
         <quote>
           <label>ENIGME.</label>
           <lg>
@@ -1919,8 +1830,7 @@
           ce Train, qu’autant qu’il falloit pour en faire éclater l’or. Les Harnois faits d’un cuir
           verd bordé d’aurore, &amp; conformes au dedans du Carrosse &amp; du Siege du Cocher, qui
           estoit d’un Velours à fond d’or &amp; fleurs vertes, estoient semez de quantité de Clous
-          &amp; de Plaques de cuivre doré tres-bien façonnées, avec les Armes de M<hi rend="sup"
-            >r</hi> l’Ambassadeur. Il n’y avoit pas moins de propreté dans les Brides, qui estoient
+          &amp; de Plaques de cuivre doré tres-bien façonnées, avec les Armes de M<hi rend="sup">r</hi> l’Ambassadeur. Il n’y avoit pas moins de propreté dans les Brides, qui estoient
           garnies d’Aigretes aurore &amp; verd, &amp; à trois tuyaux, &amp; de plusieurs grosses
           Houpes de soye verte &amp; or, ainsi que les Guides, toutes les Rênes, &amp; le reste de
           la Garniture. Enfin on peut dire que ce Carrosse estoit des mieux entendus, &amp; aussi
@@ -1945,8 +1855,7 @@
           Bron son Premier Ecuyer ; &amp; comme les dernieres Visites se firent de nuit, toute la
           Maison estoit éclairée, à l’entrée, sur l’Escalier, &amp; dans les Chambres, par une fort
           grande quantité de Bougies dans des Lustres, des Plaques, &amp; des Girandoles. Ces
-          Cerémonies estant achevées, on servit un magnifique Soupé pour tout le Cortege de M<hi
-            rend="sup">r</hi> l’Ambassadeur, ainsi qu’on avoit déja servy le Dîné.</p>
+          Cerémonies estant achevées, on servit un magnifique Soupé pour tout le Cortege de M<hi rend="sup">r</hi> l’Ambassadeur, ainsi qu’on avoit déja servy le Dîné.</p>
         <p>Le Roy ayant destiné le jour suivant pour l’Audience de Cerémonie, M<hi rend="sup">r</hi>
           le Maréchal de Créquy le vint prendre de nouveau dans les Carrosses de Leurs Majestez,
           avec M<hi rend="sup">r</hi> de Bonneüil, &amp; le conduisit à S. Germain. Sa Suite estoit
@@ -1960,8 +1869,7 @@
           un accueil fort obligeant, &amp; luy donna de tres-fortes marques de son estime pour la
           Maison Royale de Savoye, &amp; de sa considération en particulier pour sa personne. Il eut
           aussi Audience de la Reyne, de Monseigneur le Dauphin, &amp; de Monsieur ; &amp; les
-          témoignages de bonté qu’il reçeut par tout, eurent tout lieu de le satisfaire. M<hi
-            rend="sup">r</hi> le Maréchal de Créquy le mena en suite, avec tous ses Gentilshommes,
+          témoignages de bonté qu’il reçeut par tout, eurent tout lieu de le satisfaire. M<hi rend="sup">r</hi> le Maréchal de Créquy le mena en suite, avec tous ses Gentilshommes,
           dans un Appartement où il y avoit deux Tables, chacune de vingt Couverts. L’une &amp;
           l’autre fut servie en mesme temps avec une égale magnificence. Tout y estoit digne de la
           grandeur de celuy qui en avoit donné l’ordre. C’est vous dire assez que rien n’y manquoit
@@ -2004,11 +1912,9 @@
         <head resp="editor">Annonce des prochains volumes</head>
         <bibl><title>Mercure galant</title>, mars 1681 [tome 3], p. 349-350.</bibl>
         <p>Je suis si pressé de finir ma Lettre, que je ne puis vous parler ny de la Reception de
-            M<hi rend="sup">r</hi> le Premier Président à l’Académie Françoise, ny de M<hi
-            rend="sup">r</hi> le Comte d’Estrées nommé par le Roy Maréchal de France. Sa Majesté a
+            M<hi rend="sup">r</hi> le Premier Président à l’Académie Françoise, ny de M<hi rend="sup">r</hi> le Comte d’Estrées nommé par le Roy Maréchal de France. Sa Majesté a
           aussi donné plusieurs Benéfices. Je remets le tout jusqu’au Mois prochain, &amp; vous
-          envoyeray dans ce mesme temps une Planche qui regarde ce Monarque. Elle a pour titre, <hi
-            rend="i">Sisteme Royal</hi>. Il ne se peut rien de plus curieux, ny de plus utile pour
+          envoyeray dans ce mesme temps une Planche qui regarde ce Monarque. Elle a pour titre, <hi rend="i">Sisteme Royal</hi>. Il ne se peut rien de plus curieux, ny de plus utile pour
           l’Histoire. Je n’en connoy point l’Autheur. S’il s’obstine à se cacher, il m’obligeroit de
           me donner les moyens de luy écrire. Les Modes nouvelles n’ont point encor commencé, à
           cause du froid. Ma Lettre Extraordinaire que je vous envoyeray dans quinze jours vous les
@@ -2016,5 +1922,4 @@
         <p><hi rend="i">A Paris ce 31. Mars 1681.</hi></p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

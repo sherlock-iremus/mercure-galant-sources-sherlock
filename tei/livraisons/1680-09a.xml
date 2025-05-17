@@ -1,73 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, septembre 1680 (première partie) [tome 11]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2015"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1680-09a/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, septembre <date>1680</date> (première partie) [tome
-          11].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1680-09"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1680-09a_151" resp="mercure">
         <head>[Tout ce qui s’est passé à Rome touchant la Reception faite à M. le Prince de
           Radzevill Ambassadeur d’Obedience de Pologne]</head>
         <bibl><title>Mercure galant</title>, septembre 1680 (première partie) [tome 11], p.
           151-182.</bibl>
-        <p>Le Dimanche 4. de l’autre Mois, M<hi rend="sup">r</hi> le Prince Radzevill, arrivé <hi
-            rend="i">incognito</hi> à Rome dés la fin de May, y fit sa Cavalcade publique, en
+        <p>Le Dimanche 4. de l’autre Mois, M<hi rend="sup">r</hi> le Prince Radzevill, arrivé <hi rend="i">incognito</hi> à Rome dés la fin de May, y fit sa Cavalcade publique, en
           qualité d’Ambassadeur d’Obédience de Pologne. Les Roys ont accoûtumé d’envoyer de
           pareilles Ambassades une fois pendant leur Regne, pour témoigner au S. Siege une
           obeïssance filiale au nom du Roy &amp; du Royaume, &amp; ce fut une fonction que fit
@@ -107,8 +45,7 @@
           que la plus grande partie se détacha, au profit de ceux qui les pûrent ramasser. Il faut
           observer que les Chevaux Polonois n'ont que de petites Selles, sans croupiere ny poitrail,
           une Bride extrémement déliée, &amp; que les Etriers sont fort courts. En suite on voyoit
-          paroistre douze Tambours du Peuple Romain, portant chacun l'Etendard de M<hi rend="sup"
-            >r</hi> l'Ambassadeur ; &amp; derriere eux, la Chambre du Pape, composée de Gens à
+          paroistre douze Tambours du Peuple Romain, portant chacun l'Etendard de M<hi rend="sup">r</hi> l'Ambassadeur ; &amp; derriere eux, la Chambre du Pape, composée de Gens à
           Soutanes rouges. Ils estoient suivis d'une Troupe de Polonois, qui faisoit trois files ;
           les uns vestus richement, selon l'usage de la Nation, avec des Echarpes de soye tissuë
           d'or, le Sabre au costé, &amp; le Casque en teste ; leurs Chevaux couverts de Housses de
@@ -134,16 +71,14 @@
           Capitaine des Suisses marchoit apres, avec la Garde du Pape, divisée en deux aisles, qui
           prenoient au milieu la Personne de M<hi rend="sup">r</hi> l'Ambassadeur ; puis deux
           Massiers de Sa Sainteté, avec les Maistres des Cerémonies dans leur Habit violet &amp;
-          noir ; &amp; enfin M<hi rend="sup">r</hi> le Prince Radzevill, au milieu de M<hi
-            rend="sup">r</hi> Matei &amp; de M<hi rend="sup">r</hi> Brancacci, qui sont les plus
+          noir ; &amp; enfin M<hi rend="sup">r</hi> le Prince Radzevill, au milieu de M<hi rend="sup">r</hi> Matei &amp; de M<hi rend="sup">r</hi> Brancacci, qui sont les plus
           anciens d'entre les Prélats. Il estoit sur un Cheval Polonois richement enharnaché, avec
           une Selle à la Françoise, couverte d'or &amp; de Pierreries meslées sur une fine broderie,
           &amp; une Housse de brocard d'or enrichy de Diamans. Tout le Harnois estoit de mesme
           parure. Des Emeraudes &amp; d'autres Pierres prétieuses, tenoient dans la Bride la place
           des Boucles, le reste estant d'or massif, travaillé à l'Arabesque. Les Etriers &amp; les
           Fers du Cheval, estoient aussi d'or ; &amp; afin qu'il ne manquast rien à ce superbe
-          Animal, une grande Rose de Diamans qui attachoit des Aigretes luy couvroit le front. M<hi
-            rend="sup">r</hi> l'Ambassadeur estoit en Manteau, vétu d'un brocard à grandes Fleurs or
+          Animal, une grande Rose de Diamans qui attachoit des Aigretes luy couvroit le front. M<hi rend="sup">r</hi> l'Ambassadeur estoit en Manteau, vétu d'un brocard à grandes Fleurs or
           &amp; argent, le fond couleur de gris de musc, tout couvert de Broderie d'or enrichie de
           Perles, avec des Boutonnieres de gros Diamans, une Garniture de Rubans couleur de Rose, un
           Chapeau gris retroussé d'une riche Agrafe, une Plume blanche, &amp; du Ruban de la couleur
@@ -161,8 +96,7 @@
           orné de grandes Figures dorées d'une tres-belle Sculpture, doublé d'un Brocard à fond
           d'or, semé de fleur d'argent, &amp; d'un fort beau rouge-cramoisy. Le second estoit de
           l'Etofe de la doublure de ce premier, &amp; aussi riche en dorure &amp; en sculpture. Il
-          n'y avoit rien de si beau que les Chevaux qui estoient Frisons, Polonois, ou Turcs. M<hi
-            rend="sup">r</hi> le Prince Radzevill estant arrivé à la Porte de son Palais, s’y
+          n'y avoit rien de si beau que les Chevaux qui estoient Frisons, Polonois, ou Turcs. M<hi rend="sup">r</hi> le Prince Radzevill estant arrivé à la Porte de son Palais, s’y
           arresta quelque temps, jusqu’à ce que M<hi rend="sup">r</hi> Mateï, &amp; tous les autres
           Prélats qui l’avoient accompagné, eussent pris congé de luy. Le concours du Peuple estoit
           si grand, qu’on fut obligé de luy permettre l’entrée des Apartemens dont il admira les
@@ -172,13 +106,11 @@
           l’Audience publique, où M<hi rend="sup">r</hi> l’Ambassadeur devoit estre admis, les
           Cardinaux se rendirent au Palais sur les neuf heures du matin. [Description de la
           cérémonie, p. 170-177]</p>
-        <p>Le Consistoire ayant duré environ une heure, &amp; toutes la Suite de M<hi rend="sup"
-            >r</hi> l’Ambassadeur ayant esté reçeuë à baiser les pieds de Sa Sainteté, il fut mené
+        <p>Le Consistoire ayant duré environ une heure, &amp; toutes la Suite de M<hi rend="sup">r</hi> l’Ambassadeur ayant esté reçeuë à baiser les pieds de Sa Sainteté, il fut mené
           par le Majordome à l’Apartement où on l’estoit venu prendre, &amp; reconduit de la mesme
           sorte quelque temps apres à celuy du Pape. Il y trouva deux Tables dressées. L'une estoit
           pour le S.Pere, au fond de la Chambre, sur une Estrade couverte d'un Tapis de Velours
-          rouge, avec un Dais, &amp; un Fauteüil de mesme parure. L'autre estoit pour M<hi
-            rend="sup">r</hi> l'Ambassadeur, dressée à costé, plus basse d'un pied que l'autre, avec
+          rouge, avec un Dais, &amp; un Fauteüil de mesme parure. L'autre estoit pour M<hi rend="sup">r</hi> l'Ambassadeur, dressée à costé, plus basse d'un pied que l'autre, avec
           une Chaise à dos de bois peint. Chaque Table fut servie à quatre Services, avec cette
           diférence, que celle du Pape estoit couverte de dix Plats, &amp; l'autre de neuf, toutes
           deux pleines de Triomphes &amp; d'Ornemens de toiles tres-fines, qui dans la maniere
@@ -223,8 +155,7 @@
           blanches, &amp; assortissantes au reste. Les Soldats en ont de bleuës. Les deux Tambours,
           les quatre Hautbois &amp; les Fifres, sont si bien choisis, qu’à l’exception de ceux du
           Roy, il n’y en a point de plus habiles. Ils sont vestus de veritable Ecarlate doublée de
-          bleu, &amp; un gros Galon d’argent par tout. Ce fut dans cet équipage que M<hi rend="sup"
-            >r</hi> le Chevalier de Levy passa dernierement en reveuë devant M<hi rend="sup">r</hi>
+          bleu, &amp; un gros Galon d’argent par tout. Ce fut dans cet équipage que M<hi rend="sup">r</hi> le Chevalier de Levy passa dernierement en reveuë devant M<hi rend="sup">r</hi>
           de Vauvray Intendant de la Marine à Toulon. Il estoit à la teste de sa Compagnie, à
           laquelle il fit faire l’Exercice au bruit du Tambour. Il reçeut l’approbation qui luy
           estoit deuë, &amp; tous ceux qui s’y trouverent tomberent d’accord que Sa Majesté n’avoit
@@ -233,14 +164,12 @@
       <div type="article" xml:id="MG-1680-09a_190" resp="mercure">
         <head>[Prise de possession de l’Archevesché de Roüen]</head>
         <bibl><title>Mercure galant</title>, septembre 1680 (première partie) [tome 11], p.
-            190-203.<note resp="editor">L'article du <hi
-              rend="i">Mercure galant</hi> <ref target="MG-1680-08_137">d'août 1680</ref> complète cette relation.</note></bibl>
+            190-203.<note resp="editor">L'article du <hi rend="i">Mercure galant</hi> <ref target="MG-1680-08_137">d'août 1680</ref> complète cette relation.</note></bibl>
         <p>Je vous parlay la derniere fois du Sacre de M<hi rend="sup">r</hi> le Coadjuteur de
           Roüen. J’ay aujourd’huy à vous faire part des Cerémonies de sa Prise de possession le 26.
           de l’autre mois. Il arriva à Gaillon, accompagné de M<hi rend="sup">r</hi> le Coadjuteur
           d’Arles, de M<hi rend="sup">r</hi> l’Evesque de Lisieux, &amp; de M<hi rend="sup">r</hi>
-          l’Abbé de Grignan, nommé à l’Evesché d’Evreux. Ils y furent reçeus par M<hi rend="sup"
-            >r</hi> l’Archevesque de Roüen avec une magnificence digne de ce grand Prélat.
+          l’Abbé de Grignan, nommé à l’Evesché d’Evreux. Ils y furent reçeus par M<hi rend="sup">r</hi> l’Archevesque de Roüen avec une magnificence digne de ce grand Prélat.
           L’empressement qui parut dans toutes ses actions, fit assez connoistre combien il estoit
           sensible à l’honneur que le Roy luy avoit fait, en luy donnant M<hi rend="sup">r</hi>
           l’Abbé Colbert pour Coadjuteur. M<hi rend="sup">r</hi> le Blanc Intendant de la Generalité
@@ -250,11 +179,9 @@
           remplir tous les devoirs de leurs Charges est si connu, qu'il me seroit inutile de vous en
           rien dire, aussi-bien que de Gaillon, que vous sçavez estre un des plus beaux Lieux du
           monde, &amp; la Maison de plaisance de M<hi rend="sup">rs</hi> les Archevesques de Roüen.
-            M<hi rend="sup">r</hi> le Coadjuteur en partit le lendemain apres midy avec M<hi
-            rend="sup">r</hi> de Lisieux, &amp; estant arrivé sur les cinq heures au Port S. Oüen à
+            M<hi rend="sup">r</hi> le Coadjuteur en partit le lendemain apres midy avec M<hi rend="sup">r</hi> de Lisieux, &amp; estant arrivé sur les cinq heures au Port S. Oüen à
           deux lieuës de Roüen, il y trouva plus de trente de ses Chanoines, &amp; plusieurs
-          Personnes de qualité, qui estoient venuës au devant de luy. En suite il rencontra M<hi
-            rend="sup">r</hi> Pelot, Premier Président du Parlement, &amp; plusieurs des plus
+          Personnes de qualité, qui estoient venuës au devant de luy. En suite il rencontra M<hi rend="sup">r</hi> Pelot, Premier Président du Parlement, &amp; plusieurs des plus
           considérables de toutes les autres Compagnies, qui luy ayant fait un Cortege de plus de
           cinquante Carrosses, l'accompagnerent jusque dans le Palais Archiépiscopal. Quoy qu'il
           fust déja tard, lors qu'il entra dans la Ville, les Ruës &amp; les Places ne laisserent
@@ -274,10 +201,8 @@
           Il s'acquit dans la mesme Place les bonnes graces de M<hi rend="sup">r</hi> le Cardinal de
           Boüillon ; &amp; ce Prince qui ne fait rien qu'avec un entier discernement, voulant luy
           marquer la bienveillance particuliere dont il l'honore, l'a choisy aussi pour son
-          Grand-Vicaire. Tant d'éclatans témoignages vous disent assez quel est le caractere de M<hi
-            rend="sup">r</hi> du Hamel, &amp; avec combien de succés il dût s'acquiter de la
-          commission qu'il avoit de parler pour le Chapitre. Cette Audience finie, M<hi rend="sup"
-            >r</hi> le Coadjuteur se rendit à S. Herbland, où il fut reçeu par le Curé de cette
+          Grand-Vicaire. Tant d'éclatans témoignages vous disent assez quel est le caractere de M<hi rend="sup">r</hi> du Hamel, &amp; avec combien de succés il dût s'acquiter de la
+          commission qu'il avoit de parler pour le Chapitre. Cette Audience finie, M<hi rend="sup">r</hi> le Coadjuteur se rendit à S. Herbland, où il fut reçeu par le Curé de cette
           Paroisse. Il y quita sa Chaussure, &amp; s'estant mis en Rochet &amp; en Camail, il
           s'avança les pieds nus vers l'Eglise Cathédrale, accompagné des Prieurs &amp; Religieux de
           l'Abbaye de S. Oüen, tous en Chapes. Je dis, des Prieurs, car les Anciens &amp; les
@@ -290,8 +215,7 @@
           Prieur des Anciens de S. Oüen, s'adressant à tout le Chapitre, luy dit, <hi rend="i">Nous
             vous donnons vostre Archevesque vivant, vous nous le rendrez mort.</hi> Ce qui donne
           lieu à ces paroles, c'est que quand les Archevesques de Roüen sont morts, on expose leurs
-          Corps en parade à S.Oüen, avant leur enterrement. Cette Cerémonie achevée, M<hi rend="sup"
-            >r</hi> le Doyen luy présentant son Eglise, luy demanda sa protection, &amp; luy fit
+          Corps en parade à S.Oüen, avant leur enterrement. Cette Cerémonie achevée, M<hi rend="sup">r</hi> le Doyen luy présentant son Eglise, luy demanda sa protection, &amp; luy fit
           faire le Serment accoûtumé sur les Evangiles. M<hi rend="sup">r</hi> le Coadjuteur reprit
           sa Chaussure à l'Autel de S. Pierre, apres avoir offert un Ecu d'or à celuy des Voeux.
           Enfin ayant esté reçeu dans le Chapitre comme Chanoine, &amp; conduit dans la Chaire
@@ -301,15 +225,13 @@
           de Vernoville Président à Mortier, porta la parole pour le Parlement. Vous sçavez, Madame,
           qu'il mesle tout l'agrément d'un Cavalier avec la gravité d'un Magistrat ; &amp; qu'outre
           toutes les qualitez qu'on peut souhaiter dans un tres-bon Juge, il a toutes celles qui
-          font un fort galant Homme. La Harangue de ce digne Président, &amp; la Réponse de M<hi
-            rend="sup">r</hi> le Coadjuteur, furent également admirées ; l'une, par le tour aisé des
+          font un fort galant Homme. La Harangue de ce digne Président, &amp; la Réponse de M<hi rend="sup">r</hi> le Coadjuteur, furent également admirées ; l'une, par le tour aisé des
           pensées &amp; des expressions, &amp; par l'air noble dont elle fut prononcée ; &amp;
           l'autre, par la justesse qui y régnoit, quoy qu'elle n'eust pû estre l'effet d'aucune
           méditation. M<hi rend="sup">r</hi> de Machonville - d'Anviray, Président de la Chambre des
           Comptes ; M<hi rend="sup">r</hi> d'Hoquille le Fils, Premier Président de la Cour des
           Aydes ; &amp; M<hi rend="sup">r</hi> de Brevedent, Lieutenant General, parlerent en suite,
-          chacun pour sa Compagnie. Ils le firent tous avec succés, &amp; donnerent occasion à M<hi
-            rend="sup">r</hi> le Coadjuteur de faire paroistre avec éclat toute la présence d'esprit
+          chacun pour sa Compagnie. Ils le firent tous avec succés, &amp; donnerent occasion à M<hi rend="sup">r</hi> le Coadjuteur de faire paroistre avec éclat toute la présence d'esprit
           qu'il faut avoir, pour faire sur l'heure à tant de diférens Compliement autant de
           diférentes Réponses, toutes proportionnées aux Personnes de ceux qui parloient, &amp;
           appliquées juste à ce qui luy avoit esté dit.</p>
@@ -356,14 +278,12 @@
         <head>[Honneurs Funebres rendus à la memoire de M. d’Evreux]</head>
         <bibl><title>Mercure galant</title>, septembre 1680 (première partie) [tome 11], p.
           220-224.</bibl>
-        <p>Je viens d’apprendre les honneurs qu’on a rendus à la mémoire de feu M<hi rend="sup"
-            >r</hi> l’Evesque d’Evreux. Apres qu’il fut mort, on porta son Corps à l’Abbaye de S.
+        <p>Je viens d’apprendre les honneurs qu’on a rendus à la mémoire de feu M<hi rend="sup">r</hi> l’Evesque d’Evreux. Apres qu’il fut mort, on porta son Corps à l’Abbaye de S.
           Taurin, où le Chapitre le mit en dépost suivant la coûtume entre les mains des Religieux.
           Il l’alla reprendre le lendemain au matin sur les 7. heures, accompagné d’un tres grand
           nombre de Prestres, &amp; des Capucins, Jacobins, Cordeliers &amp; Freres de la Charité.
           Quatre des plus anciens Chanoines portoient les coins du Drap mortuaire. Le Présidial
-          &amp; Bailliage suivoit en Corps, les deux Présidens menant les deux Fils de M<hi
-            rend="sup">r</hi> le Comte de Coligny. La Ville marchoit apres à la teste de laquelle
+          &amp; Bailliage suivoit en Corps, les deux Présidens menant les deux Fils de M<hi rend="sup">r</hi> le Comte de Coligny. La Ville marchoit apres à la teste de laquelle
           estoit M<hi rend="sup">r</hi> de Langlade Lieutenant General, avec les deux Avocats du
           Roy, &amp; M<hi rend="sup">r</hi> de la Musse, son Procureur General dans ce Bailliage.
           Les Echevins avoient des Habits conformes à cette lugubre Cerémonie, &amp; estoient
@@ -383,12 +303,10 @@
         <bibl><title>Mercure galant</title>, septembre 1680 (première partie) [tome 11], p.
           224-229.</bibl>
         <p>Comme le monde est tout remply de diversitez, il y a eu de la joye en Dauphiné, tandis
-          qu’on a esté en chagrin ailleurs. Cette joye estoit causée par le Mariage de M<hi
-            rend="sup">r</hi> de Sayve, Marquis d’Ornacica, &amp; Président à Mortier au Parlement
+          qu’on a esté en chagrin ailleurs. Cette joye estoit causée par le Mariage de M<hi rend="sup">r</hi> de Sayve, Marquis d’Ornacica, &amp; Président à Mortier au Parlement
           de Grenoble, qui épousa Mademoiselle de la Tour Vidaud, le Jeudy 5. de ce Mois. La
           Cerémonie s’en fit à deux heures du matin par M<hi rend="sup">r</hi> l’Evesque de
-          Grenoble, avec une égale satisfaction des deux Parties. Le Mariage se consomma chez M<hi
-            rend="sup">r</hi> le Procureur General de ce mesme Parlement, Pere de la Mariée, qui
+          Grenoble, avec une égale satisfaction des deux Parties. Le Mariage se consomma chez M<hi rend="sup">r</hi> le Procureur General de ce mesme Parlement, Pere de la Mariée, qui
           reçeut le lendemain les visites de tout ce qu’il y a de Gens de qualité, dans la Ville.
           Vous sçavez qu’ils y sont en tres grand nombre, &amp; qu’elle passe pour une des plus
           polies du Royaume. Le soir, tous ceux de la Nôce se rendirent chez le Pere de l’Epoux,
@@ -397,16 +315,14 @@
           parole, &amp; fit à la Mariée un Compliment tres galant. Apres la décharge des Mousquets,
           la grande Bande de Violons se fit entendre, &amp; l’on servit sur deux Tables un Repas à
           cinq Services, avec autant de magnificence que de propreté.</p>
-        <p>On voit peu de Mariages aussi accomplis que celuy dont je vous parle. M<hi rend="sup"
-            >r</hi> le Président de Sayve, quoy que jeune, a de tres-grandes lumieres, une prudence
+        <p>On voit peu de Mariages aussi accomplis que celuy dont je vous parle. M<hi rend="sup">r</hi> le Président de Sayve, quoy que jeune, a de tres-grandes lumieres, une prudence
           admirable, &amp; une intégrité digne de la réputation de ses Ayeux qui ont exercé de
           pareilles Charges. Il est Fils de M<hi rend="sup">r</hi> Chevrieres, second Président dans
           le mesme Parlement, qui passe pour un des plus grands Hommes de la Robe, &amp; Frere de
             M<hi rend="sup">r</hi> le Comte de S. Valier, Capitaine des Gardes de la Porte du Roy,
           &amp; de M<hi rend="sup">r</hi> l'Abbé de S. Valier., Aumônier ordinaire de sa Majesté. Ce
           sont trois Freres, en trois diférens états, dont il s'acquitent chacun tres-dignement.
-          Pour vous donner une entiere connoissance de cette Maison, j'ajoûteray que M<hi rend="sup"
-            >r</hi> le Président de Chevrieres a aussi marié trois de ses Filles ; la premiere à
+          Pour vous donner une entiere connoissance de cette Maison, j'ajoûteray que M<hi rend="sup">r</hi> le Président de Chevrieres a aussi marié trois de ses Filles ; la premiere à
             M<hi rend="sup">r</hi> le Marquis de Buous, de l'illustre Famille de Ponterez, alliée à
           celle de Grignan en Provence, autrefois Guidon des Gendarmes de la Reyne Mere, &amp;
           Syndic de la Noblesse de cette Province ; la seconde à M<hi rend="sup">r</hi> le Président
@@ -442,11 +358,8 @@
           Paris, en présence de l’une des plus illustres &amp; des plus nombreuses Assemblées qu’on
           ait veuës depuis longtemps. Elle estoit composée de M<hi rend="sup">r</hi> le Cardinal de
           Bonzi, de M<hi rend="sup">r</hi> l'Archevesque de Sens, de M<hi rend="sup">rs</hi> les
-          Evesques de Bayeux, de Sarlat, du Mans, de Montauban, &amp; d'Evreux ; de M<hi rend="sup"
-            >rs</hi> les Abbez de Brissac, de Fontange, &amp; de Polignac ; de M<hi rend="sup"
-            >rs</hi> les Ducs de Gesvres, de S. Simon, &amp; de Brissac ; de M<hi rend="sup">r</hi>
-          le Comte de Brancas, de M<hi rend="sup">r</hi> le Prince de Mekelbourg, &amp; de M<hi
-            rend="sup">r</hi> le Prince de Saxe son Neveu ; de M<hi rend="sup">r</hi> le Marquis de
+          Evesques de Bayeux, de Sarlat, du Mans, de Montauban, &amp; d'Evreux ; de M<hi rend="sup">rs</hi> les Abbez de Brissac, de Fontange, &amp; de Polignac ; de M<hi rend="sup">rs</hi> les Ducs de Gesvres, de S. Simon, &amp; de Brissac ; de M<hi rend="sup">r</hi>
+          le Comte de Brancas, de M<hi rend="sup">r</hi> le Prince de Mekelbourg, &amp; de M<hi rend="sup">r</hi> le Prince de Saxe son Neveu ; de M<hi rend="sup">r</hi> le Marquis de
           S. Remy, de Madame la Princesse de Lislebonne, &amp; de Mesdemoiselles ses Filles ; de
           Mesdames les Duchesses de Vantadour, de Fontange, de Vitry, &amp; de Villars, de Madame de
           Louvoys, &amp; de Madame la Princesse de la Rocheguyon sa Fille ; de Mesdemoiselles de la
@@ -466,8 +379,7 @@
           Mesdames les Abbesses de Montmartre &amp; de Farmoustier pour Assistantes. Les trois
           Prie-Dieu destinez pour elles, &amp; le Trône de la nouvelle Abbesse, estoient couverts de
           Tapis de Perse à fond d'or, avec des Carreaux de Velours bleu tous brodez d'or. On ne peut
-          rien voir de plus magnifique qu'estoit le Dais qu'on avoit mis sur le Trône de M<hi
-            rend="sup">r</hi> l'Archevesque de Paris. Le Fauteüil &amp; le Carreau estoient de mesme
+          rien voir de plus magnifique qu'estoit le Dais qu'on avoit mis sur le Trône de M<hi rend="sup">r</hi> l'Archevesque de Paris. Le Fauteüil &amp; le Carreau estoient de mesme
           parure, tout cela un peu moins riche à l'égard du Trône de Madame l'Abbesse de Chelles.
           Voicy quelle fut la Cerémonie.</p>
         <p>Ce Prélat venant à l'Autel se préparer, la nouvelle Abbesse le salüa en passant, ainsi
@@ -540,8 +452,7 @@
           des Reglemens &amp; Statuts de l'Académie ; &amp; un peu apres, les Académiciens, tous en
           habits de cerémonie, sortirent d'une Biblioteque qui est proche de cette grande Salle,
           &amp; se placerent sur des Fauteüils le long d'une Table, couverte de riches Tapis de
-          Turquie. Trois d'entr'eux, sçavoir, M<hi rend="sup">r</hi> Terrasson Directeur, M<hi
-            rend="sup">r</hi> Bessie du Peloux Secretaire, &amp; M<hi rend="sup">r</hi> Mignot de
+          Turquie. Trois d'entr'eux, sçavoir, M<hi rend="sup">r</hi> Terrasson Directeur, M<hi rend="sup">r</hi> Bessie du Peloux Secretaire, &amp; M<hi rend="sup">r</hi> Mignot de
           Bussy Lieutenant General du Bailliage de la Province, discoururent sur le Sujet que
           l'Académie leur avoit donné. Ce Sujet estoit, <hi rend="i">Le Triomphe des Passions.</hi>
           La matiere fut traitée avec beaucoup d'éloquence ; &amp; la grace des Orateurs, jointe à
@@ -556,8 +467,7 @@
           reconnoître les services que cette Ville reçoit continuellement de ceux de cet Ordre, on
           fit assembler les Processions pour aller à sa rencontre. Elles le joignirent à un quart de
           lieuë de Mayenne, &amp; le conduisirent solemnellement au Convent des Capucins, où il fut
-          en suite visité par toutes les autres Communautez de Religieux &amp; Religieuses. M<hi
-            rend="sup">rs</hi> de Ville allerent le haranguer, &amp; luy firent le Présent qu’ils
+          en suite visité par toutes les autres Communautez de Religieux &amp; Religieuses. M<hi rend="sup">rs</hi> de Ville allerent le haranguer, &amp; luy firent le Présent qu’ils
           ont coûtume de faire dans des occasions de cerémonie. Les Officiers de l’Election, de la
           Barre Ducale, Grenier à Sel, Maréchaussée, accompagnez des Députez de la Noblesse &amp; de
           la Bourgeoisie, les suivirent tous en Corps, &amp; le haranguérent aussi apres eux. Ce ne
@@ -581,8 +491,7 @@
           de présence d’esprit, &amp; de le voir si avancé dans ses Etudes, quoy qu’il n’ait encor
           guére plus de quatorze ans. Deux raisons faisoient que le Dessein de ces Theses ne pouvoit
           estre que beau. Le Roy en fournissoit la matiere ; &amp; cette grande matiere estoit
-          traitée par un des plus beaux Génies du Siecle. Vous le croirez, quand j’auray nommé M<hi
-            rend="sup">r</hi> Le Brun. Il faut vous en donner l’explication.</p>
+          traitée par un des plus beaux Génies du Siecle. Vous le croirez, quand j’auray nommé M<hi rend="sup">r</hi> Le Brun. Il faut vous en donner l’explication.</p>
         <p>Le Roy paroist dans ces Theses, donnant d’une main la Paix à l’Europe. Elle est armée,
           pour désigner sa puissance ; &amp; la Thiare &amp; les Clefs qui sont aupres d’elle,
           marquent que c’est l’Europe Chrêtienne. Comme le Roy donne cette Paix apres avoir terrassé
@@ -689,11 +598,9 @@
           346.</bibl>
         <p> L'unique Troupe des Comédiens François, continuë à joüer tous les jours, &amp; les
           grandes Assemblées qu'elle attire au Theatre de Guenégaud, font assez voir combien elle
-          est estimée. Elle se prépare à donner quelques Représentations de l'<hi rend="i"
-            >Inconnu.</hi> Comme elle est composée d'un tres-grand nombre d'Acteurs par la jonction
+          est estimée. Elle se prépare à donner quelques Représentations de l'<hi rend="i">Inconnu.</hi> Comme elle est composée d'un tres-grand nombre d'Acteurs par la jonction
           qui s'est faite des deux Troupes, il y a sujet de croire qu'elle sera paroistre cette
           galante Comédie avec tous ses agrémens.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

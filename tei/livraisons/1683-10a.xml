@@ -1,69 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1683-10a">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, octobre 1683 (premiere partie) [tome 11]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1683-10a</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>octobre 1683</date> (premiere partie) [tome
-          11].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1683-10"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, octobre 1683 (premiere partie) [tome 11].</head>
       <div type="article" xml:id="MG-1683-10a_010" resp="nbb">
@@ -104,10 +39,8 @@
             etiam non splendet.</hi> Elles servirent de texte au Pere d’Auvergne, Religieux du mesme
           Ordre, &amp; Prédicateur de la Ville, qui prononça l’Oraison Funébre. Les six autres
           Devises estoient, un Soleil &amp; une Lune, avec un Monde au milieu, &amp; ces paroles,
-            <hi rend="i">Et soror &amp; conjux</hi> ; Une Lune éclairant le Monde, <hi rend="i"
-            >Dispulit umbras</hi> ; Un Soleil répandant une pluye d’or, &amp; une Lune répandant une
-          pluye d’argent, <hi rend="i">Sparsit &amp; ipsa</hi> ; Un Soleil sans Lune, <hi rend="i"
-            >Sufficit orbi</hi> ; Une Lune au Ciel, <hi rend="i">Luceat ipsa</hi> ; &amp; enfin une
+            <hi rend="i">Et soror &amp; conjux</hi> ; Une Lune éclairant le Monde, <hi rend="i">Dispulit umbras</hi> ; Un Soleil répandant une pluye d’or, &amp; une Lune répandant une
+          pluye d’argent, <hi rend="i">Sparsit &amp; ipsa</hi> ; Un Soleil sans Lune, <hi rend="i">Sufficit orbi</hi> ; Une Lune au Ciel, <hi rend="i">Luceat ipsa</hi> ; &amp; enfin une
           Lune entourée d’Etoiles, <hi rend="i">Præsit &amp; Astris.</hi> Ce Pere raporta tout son
           Discours à ces Devises. Il dit <hi rend="i">Que le Soleil estant le Hiérogliphe du Roy, il
             pouvoit comparer la Reyne à la Lune ; que comme la Lune est la Compagne &amp; la Sœur du
@@ -183,8 +116,7 @@
           Tombeau, répondoient à ces Concerts. La troisiéme Partie estoit une espece d'Apotheose.
           D'abord les Amours, en suite Apollon &amp; les Muses, le Génie de la France, &amp; Thémis,
           celébrerent tantost par des Vers, tantost par des Chants, le triomphe de la Reyne dans le
-          Ciel. Tout cela fut terminé par un Compliment au Parlement, que prononça M<hi rend="sup"
-            >r</hi> l'Abbé de Médavi de Grancé, Petit-Fils du Maréchal de ce nom, &amp; Petit-Neveu
+          Ciel. Tout cela fut terminé par un Compliment au Parlement, que prononça M<hi rend="sup">r</hi> l'Abbé de Médavi de Grancé, Petit-Fils du Maréchal de ce nom, &amp; Petit-Neveu
           de M<hi rend="sup">r</hi> l'Archevesque de Roüen.</p>
       </div>
       <div type="article" xml:id="MG-1683-10a_071" resp="nbb">
@@ -196,8 +128,7 @@
           redoutables, Elle accorda une Indulgence pleniere, ou Jubilé universel, à tous ceux qui
           accompliroient en veritables Chrestiens, les choses contenuës dans son Bref du 11. du mois
           d’Aoust dernier. Il y a eu des devotions extraordinaires à Venise pendant ce temps, &amp;
-          je croy que vous ne serez pas fâchée de les apprendre. La Lettre de <hi rend="i">M<hi
-              rend="sup">r</hi> Chassebras de Cramailles à Madame Chassebras du Breau, sa
+          je croy que vous ne serez pas fâchée de les apprendre. La Lettre de <hi rend="i">M<hi rend="sup">r</hi> Chassebras de Cramailles à Madame Chassebras du Breau, sa
             Belle-Sœur</hi>, vous en instruira. Je vous en envoye une Copie. Rien n’est plus
           curieusement remarqué que tout ce que vous y trouverez. Tous les Officiers qui composent
           la Seigneurie, y sont dans leur ordre, avec la diférence des Habits qui les distinguent.
@@ -329,8 +260,7 @@
               noire, des Cordons de soye garnis de grosses Houpes &amp; Campanes pour Ceintures, le
               visage couvert, &amp; les pieds nus dans des Sandales. C’estoient eux qui faisoient la
               dépense des Flambeaux.</hi></p>
-          <p><hi rend="i">Devant le Christ, alloient à reculons les</hi> Battuti, <hi rend="i"
-              >ou</hi> Flagellans, <hi rend="i">se donnant sur le dos de grands coups de Discipline,
+          <p><hi rend="i">Devant le Christ, alloient à reculons les</hi> Battuti, <hi rend="i">ou</hi> Flagellans, <hi rend="i">se donnant sur le dos de grands coups de Discipline,
               faites de plusieurs Cordes, où estoient attachées de petites Etoiles ou Pointes de
               Fer. Il y en avoit en la plûpart des Processions. Ils estoient vestus de méchante
               Toile, avec le visage dans un Sac, le dos découvert, tout ensanglanté, &amp; la
@@ -366,8 +296,7 @@
           <p><hi rend="i">Les Administrateurs &amp; Gouverneurs des quatre grands Hôpitaux,
               marchoient avec les Filles du Chœur, que l’on éleve &amp; qu’on entretient pour la
               Musique. Elles estoient toutes voilées, &amp; portoient un Habit simple &amp; modeste,
-              de la couleur qui est particuliere à chaque Hôpital. Celles des</hi> Mendicantes <hi
-              rend="i">estoient vestuës de gris ; celles des</hi> Hospitaletes, <hi rend="i">de
+              de la couleur qui est particuliere à chaque Hôpital. Celles des</hi> Mendicantes <hi rend="i">estoient vestuës de gris ; celles des</hi> Hospitaletes, <hi rend="i">de
               blanc ; celles de</hi> la Pieté, <hi rend="i">de rouge ; &amp; celles des</hi>
             Incurables, <hi rend="i">de bleu. Tous les petits Enfans de l’Hôpital, &amp; les Pauvres
               qui pouvoient marcher, alloient les premiers habillez de la mesme couleur. Ces
@@ -391,9 +320,7 @@
               François de la Vigne, &amp; cela ne doit pas vous étonner. C’est l’usage à Venise d’en
               mettre quelques gros aux Processions. On voit icy des Particuliers, qui s’estant
               sauvez de quelque péril considérable, offrent à la Vierge un Cierge d’une grosseur
-              extraordinaire, dont ils font présent à une Eglise en maniere d’</hi>Ex Voto. <hi
-              rend="i">Il y en a deux dans le Monastere de la</hi> Madonna de la Miracoli. <hi
-              rend="i">Le plus gros a dix pieds de haut sur un pied de diametre, &amp; pese du moins
+              extraordinaire, dont ils font présent à une Eglise en maniere d’</hi>Ex Voto. <hi rend="i">Il y en a deux dans le Monastere de la</hi> Madonna de la Miracoli. <hi rend="i">Le plus gros a dix pieds de haut sur un pied de diametre, &amp; pese du moins
               cent cinquante livres. Il est attaché contre la Muraille avec des Cercles, &amp; de
               gros Crampons de fer.</hi></p>
           <p><hi rend="i">Toutes les Aumônes qui se sont faites dans les trois Eglises des Stations
@@ -586,8 +513,7 @@
           ce qui regarde les intérests de son auguste Famille, &amp; la gloire de son Regne. La
           Séance fut ouverte par M<hi rend="sup">r</hi> Mustret Directeur, qui adressa son Discours
           à M<hi rend="sup">r</hi> le Comte du Roure, &amp; exposa en peu de paroles, mais avec
-          beaucoup de politesse, le Sujet que l’on avoit à traiter. Apres cela M<hi rend="sup"
-            >r</hi> Ménard, Prieur d’Aubers, l’un des Académiciens, prononça l’Eloge Funebre de la
+          beaucoup de politesse, le Sujet que l’on avoit à traiter. Apres cela M<hi rend="sup">r</hi> Ménard, Prieur d’Aubers, l’un des Académiciens, prononça l’Eloge Funebre de la
           Reyne. Ce fut un Discours d’une heure, fort patetique &amp; fort éloquent, dont toute la
           Compagnie témoigna une satisfaction entiere.</p>
       </div>
@@ -621,8 +547,7 @@
           Gentilshommes portoient la queuë de son Manteau ; &amp; comme ils avoient eux-mesmes des
           Manteaux fort longs, d’autres Officiers portoient leur queuë. La Noblesse de la Province
           qui avoit accouru en fort grand nombre, se tenoit aupres de M<hi rend="sup">r</hi> le
-          Gouverneur. Le Corps du Senéchal &amp; du Présidial venoit en suite. M<hi rend="sup"
-            >r</hi> de Malentant, Juge-Mage, Président, estoit à leur teste en Robe rouge, &amp; en
+          Gouverneur. Le Corps du Senéchal &amp; du Présidial venoit en suite. M<hi rend="sup">r</hi> de Malentant, Juge-Mage, Président, estoit à leur teste en Robe rouge, &amp; en
           Manteau d'Hermine. Quantité de Femmes en grand deüil fermoient cette Marche, qui fut
           accompagnée du bruit lugubre &amp; touchant que firent les Tambours &amp; les Trompetes.
           Le Chapitre de l'Eglise Cathédrale, assisté de celuy de l'Eglise Collégiale, celébra
@@ -655,8 +580,7 @@
           estoient couvertes de Crêpe, M<hi rend="sup">r</hi> de Saintot, Maistre de Cerémonies, les
           y vint prendre, &amp; les conduisit dans le Cabinet du Roy. Ce Prince qui n’estoit point
           habillé à cause de sa blessure, estoit environné de plusieurs Seigneurs, &amp; de ses
-          principaux Officiers, &amp; vétu d’une grande Robe violete. M<hi rend="sup"
-          >r</hi> Tavernier Recteur, porta la parole en ces termes.</p>
+          principaux Officiers, &amp; vétu d’une grande Robe violete. M<hi rend="sup">r</hi> Tavernier Recteur, porta la parole en ces termes.</p>
         <quote>
           <p><hi rend="i">SIRE,</hi></p>
           <p><hi rend="i">Le coup impréveu qui vient de nous enlever la plus grande &amp; la plus
@@ -786,8 +710,7 @@
         <bibl><title>Mercure galant</title>, octobre 1683 (premiere partie) [tome 11],
           p. 293-296.</bibl>
         <p>M<hi rend="sup">r</hi> de Louvoys servant toûjours le Roy avec une égale activité dans
-          les diférens Emplois dont Sa Majesté se repose sur ce Ministre. M<hi rend="sup"
-          >r</hi> Magnin, dont vous avez déja veu tant de beaux Ouvrages, a fait pour luy le Sonnet
+          les diférens Emplois dont Sa Majesté se repose sur ce Ministre. M<hi rend="sup">r</hi> Magnin, dont vous avez déja veu tant de beaux Ouvrages, a fait pour luy le Sonnet
           que je vous envoye. C’est une Allusion à la Devise de ce grand Monarque, <hi rend="i">Nec
             pluribus impar.</hi></p>
         <quote>
@@ -833,8 +756,7 @@
           <label>A Rome ce 22. Juin 1683.</label>
           <p><hi rend="i">Dans la Relation que je vous envoyay l’année passée des Réjoüissances que
               l’on fit icy pour la Naissance de Monseigneur le Duc de Bourgogne, je vous marquay
-              particulierement celles de M<hi rend="sup">r</hi> de la Chausse, Agent de feu M<hi
-                rend="sup">r</hi> le Cardinal de Retz. On trouve dans tout ce qu’il a fait quelque
+              particulierement celles de M<hi rend="sup">r</hi> de la Chausse, Agent de feu M<hi rend="sup">r</hi> le Cardinal de Retz. On trouve dans tout ce qu’il a fait quelque
               chose de particulier, &amp; qui découvre la délicatesse de son esprit, &amp; c’est
               pour cela que je veux vous faire part de ce qu’il a fait depuis quelques jours. C’est
               une ancienne coûtume à Rome, d’exposer des Tableaux à certaines Festes, soit pour y
@@ -871,10 +793,8 @@
               des couleurs n’eust fait connoistre qu’il est peint depuis peu d’années. Le second
               représente une Vierge qui enseigne à lire au petit Jesus. Le coloris, la disposition,
               la force du dessein, &amp; la grace, se font également distinguer dans ce Tableau,
-              &amp; semblent se vouloir disputer la préference. Le troisiéme est le Portrait de M<hi
-                rend="sup">r</hi> de la Chausse, sur une Toille de cinq palmes, &amp; large de
-              quatre. On ne peut assez faire l’éloge de ce Tableau ; il suffit de dire que le S<hi
-                rend="sup">r</hi> Carlo Maratta a voulu faire voir que l’Art peut en quelque façon
+              &amp; semblent se vouloir disputer la préference. Le troisiéme est le Portrait de M<hi rend="sup">r</hi> de la Chausse, sur une Toille de cinq palmes, &amp; large de
+              quatre. On ne peut assez faire l’éloge de ce Tableau ; il suffit de dire que le S<hi rend="sup">r</hi> Carlo Maratta a voulu faire voir que l’Art peut en quelque façon
               arriver à la verité du naturel.</hi></p>
           <p><hi rend="i">Six de Filippo Laori.</hi></p>
           <p><hi rend="i">Un Païsage de feu Claude Lorain.</hi></p>
@@ -892,8 +812,7 @@
           <p><hi rend="i">Plusieurs autres Tableaux de Batailles, de Païsages, de Perspectives, de
               Fleurs &amp; de Fruits, que je ne marque point icy, pour n’estre pas
             ennuyeux.</hi></p>
-          <p><hi rend="i">Un Cabinet remply d’aussi beaux Tableaux, que celuy de M<hi rend="sup"
-                >r</hi> de la Chausse, est une marque assurée de son bon goust ; mais ce n’estoit
+          <p><hi rend="i">Un Cabinet remply d’aussi beaux Tableaux, que celuy de M<hi rend="sup">r</hi> de la Chausse, est une marque assurée de son bon goust ; mais ce n’estoit
               pas assez pour luy d’avoir donné cette satisfaction au Public. La fidelité pleine de
               zele qu’il a pour son Roy, ne luy permettoit pas d’en demeurer-là, &amp; c’est pour ce
               sujet qu’il fit peindre trois grands Tableaux chargez de Devises, qu’il plaça dans les
@@ -916,8 +835,7 @@
               paroles.</hi> Quid sine illo. <hi rend="i">Toute la Terre est assez persuadée qu’on ne
               peut rien entreprendre de glorieux, sans le secours de Sa Majesté.</hi></p>
           <p><hi rend="i">Dans le troisiéme Cartouche, estoit représenté cet Astre de Lumiere dans
-              un Ciel serain. Ces mots estoient autour</hi>, Tranquillitas temporum. <hi rend="i"
-              >C’est aux bontez de Sa Majesté que toute l’Europe doit son repos.</hi></p>
+              un Ciel serain. Ces mots estoient autour</hi>, Tranquillitas temporum. <hi rend="i">C’est aux bontez de Sa Majesté que toute l’Europe doit son repos.</hi></p>
           <p><hi rend="i">Dans le quatriéme, on remarquoit le Soleil parcourant le Zodiaque, avec
               ces paroles</hi>, Indefessus agit. <hi rend="i">Les plus grandes fatigues ne sont pas
               capables d’arrester le Roy, lors qu’il s’agit de sa gloire, &amp; du bien de ses
@@ -994,10 +912,8 @@
           <p><hi rend="i">La seconde représentoit un Foudre qui tomboit dans la Mer, avec ces
               paroles</hi>, Terret utrumque. <hi rend="i">Les Mers des deux Mondes ont éprouvé le
               courage, &amp; l’intrépidité de ce Maréchal. C’est le Neptune de la France, &amp; pour
-              tout dire, le digne Frere de M<hi rend="sup">r</hi> le Cardinal, &amp; de M<hi
-                rend="sup">r</hi> le Duc d’Estrées.</hi></p>
-          <p><hi rend="i">Tout ce qu’il y a de Curieux à Rome, se trouverent à cette Feste. M<hi
-                rend="sup">r</hi> le Cardinal d’Estrées, &amp; M<hi rend="sup">r</hi> l’Ambassadeur,
+              tout dire, le digne Frere de M<hi rend="sup">r</hi> le Cardinal, &amp; de M<hi rend="sup">r</hi> le Duc d’Estrées.</hi></p>
+          <p><hi rend="i">Tout ce qu’il y a de Curieux à Rome, se trouverent à cette Feste. M<hi rend="sup">r</hi> le Cardinal d’Estrées, &amp; M<hi rend="sup">r</hi> l’Ambassadeur,
               l’honorerent de leur présence, comme plusieurs autres Cardinaux, Princes, Prélats,
               &amp; Cavaliers. La disposition des Tableaux, &amp; le bon goust, n’y furent pas moins
               admirez que la quantité ; &amp; l’on avoit peine à croire, qu’une seule Personne eust
@@ -1009,8 +925,7 @@
         <head resp="editor">Planche notée</head>
         <bibl><title>Mercure galant</title>, octobre 1683 (premiere partie) [tome 11],
           p. 321-323.</bibl>
-        <p>Quoy que les anciens Noëls soient communs<note resp="author" place="margin"><hi rend="i"
-              >Avis pour placer les Figures</hi> : la Planche notée, doit regarder la page
+        <p>Quoy que les anciens Noëls soient communs<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Planche notée, doit regarder la page
             321.</note>, parce que l´Eglise nous les fait entendre tous les ans pendant le temps de
           l´Avent, M<hi rend="sup">r</hi> Gigault, Organiste de S. Nicolas des Champs, a trouvé
           moyen de leur donner un tour particulier qui les renouvelle, &amp; qui les rend
@@ -1037,11 +952,9 @@
         <p>M<hi rend="sup">r</hi> de Seve, S<hi rend="sup">r</hi> de Gomerville, qui a esté
           Capitaine au Régiment des Gardes, a épousé depuis peu Mademoiselle de Bernage, de la
           Famille des de Bernage, Seigneurs de Maurepas, originaire de Flandre. Feu Messire Loüis de
-          Bernage, Aumônier du Roy, &amp; ensuite Evesque de Grace, estoit de cette Famille. M<hi
-            rend="sup">r</hi> de Bernage reçeu en 1643. Conseiller au Grand Conseil, en est aussi.
+          Bernage, Aumônier du Roy, &amp; ensuite Evesque de Grace, estoit de cette Famille. M<hi rend="sup">r</hi> de Bernage reçeu en 1643. Conseiller au Grand Conseil, en est aussi.
           Elle est alliée aux Chevalier, le Picart, le Maçon-de-Bucy en Bourgogne, du
-          Voyer-d’Argenson, le Gras, Hémand du Perron, le Tonnelier de Breteüil, &amp; porte <hi
-            rend="i">Facé de gueules, &amp; d’or, de six Pieces.</hi></p>
+          Voyer-d’Argenson, le Gras, Hémand du Perron, le Tonnelier de Breteüil, &amp; porte <hi rend="i">Facé de gueules, &amp; d’or, de six Pieces.</hi></p>
         <p>M<hi rend="sup">r</hi> de Seve de Gomerville a deux Freres. Son aîné est Guillaume de
           Seve, S<hi rend="sup">r</hi> de Chastillon-le-Roy, Premier Président au Parlement de Metz,
           &amp; auparavant Maistre des Requestes, Intendant de Justice en Guyenne &amp; Languedoc,
@@ -1075,14 +988,12 @@
           Conseillers au Parlement de Paris, &amp; un Premier Président de la Cour des Aydes.</p>
         <p>Feu Jean de Seve, S<hi rend="sup">r</hi> de Plotard, Président en la Cour des Aydes,
           Frere aîné de Guillaume de Seve, Conseiller au Conseil Royal, avoit épousé Renée de
-          Guénegaud, dont est venuë une Fille unique Claude de Seve, Femme d’Antoine Girard, S<hi
-            rend="sup">r</hi> de Villetaneuse, Procureur General au Grand Conseil. Claude de Seve,
+          Guénegaud, dont est venuë une Fille unique Claude de Seve, Femme d’Antoine Girard, S<hi rend="sup">r</hi> de Villetaneuse, Procureur General au Grand Conseil. Claude de Seve,
           Sœur du mesme Guillaume de Seve Conseiller au Conseil Royal, avoit esté mariée à Loüis
           Tronson, Secretaire du Cabinet du Roy. De ce Mariage sont sortis Charles Tronson, mort en
           1682. Conseiller de la Grand’Chambre ; Guillaume Tronson, Secretaire du Cabinet du Roy ;
           Loüis Tronson, Prieur de Chandier, Supérieur du Séminaire de Saint Sulpice ; Antoine
-          Tronson, Abbé ; Jean Tronson, Capitaine au Régiment de Picardie, Jean-Pierre Tronson, S<hi
-            rend="sup">r</hi> de Chenevieres ; &amp; Aléxandre Tronson, S<hi rend="sup">r</hi> de
+          Tronson, Abbé ; Jean Tronson, Capitaine au Régiment de Picardie, Jean-Pierre Tronson, S<hi rend="sup">r</hi> de Chenevieres ; &amp; Aléxandre Tronson, S<hi rend="sup">r</hi> de
           Mauleon.</p>
       </div>
       <div type="article" xml:id="MG-1683-10a_332" resp="nbb">
@@ -1132,8 +1043,7 @@
           Philosophie. L’Acide &amp; l’Alkali, sont deux especes diférentes de Sels, dont l’action
           est tres-remarquable dans une infinité d’effets de la Nature ; mais les Chimistes qui sont
           fort sujets à s’entester, ont poussé plus loin qu’il ne falloit la vertu de ces deux
-          sortes de Sels, &amp; ont prétendu en faire les premiers principes de toutes choses. M<hi
-            rend="sup">r</hi> Bertrand réfute tres-solidement cette erreur, &amp; en mesme temps
+          sortes de Sels, &amp; ont prétendu en faire les premiers principes de toutes choses. M<hi rend="sup">r</hi> Bertrand réfute tres-solidement cette erreur, &amp; en mesme temps
           renferme l’Acide &amp; l’Alkali dans leurs veritables bornes, en faisant voir que quoy
           qu’ils ne soient pas premiers principes, ils sont neantmoins les causes cachées d’un
           tres-grand nombre de Phénomenes. Il découvre par leur moyen, la source des maladies les
@@ -1144,5 +1054,4 @@
           Court-Neuve du Palais.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

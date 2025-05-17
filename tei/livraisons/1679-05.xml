@@ -1,64 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, mai 1679 [tome 5]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2015"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1679-05/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, mai <date>1679</date> [tome 5].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1679-05"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1679-05_001" resp="mercure">
         <head>Avant-propos touchant la Paix d’Allemagne.</head>
@@ -490,8 +430,7 @@
           Leurs Altesses Royales. Ces Archers composent une Troupe de cent Gardes, qui doivent tous
           estre Gentils-hommes, &amp; Savoyars. On n’en reçoit aucun autre. Au retour, Madame Royale
           reçeut les complimens de toute la Cour, &amp; dîna en public avec Son Altesse Royale,
-          Madame la Princesse Maurice, M<hi rend="sup">r</hi> le Prince de Carignan, &amp; M<hi
-            rend="sup">r</hi> le Chevalier de Savoye. Le Repas fut magnifique. Les Violons dans un
+          Madame la Princesse Maurice, M<hi rend="sup">r</hi> le Prince de Carignan, &amp; M<hi rend="sup">r</hi> le Chevalier de Savoye. Le Repas fut magnifique. Les Violons dans un
           bout de la Salle où l’on mangeoit, &amp; les Hautbois à l’autre bout, répondoient par Echo
           aux Trompetes qui estoient dans la Salle des Gardes, &amp; faisoient le plus agreable
           Concert qu’on puisse entendre. Apres que Leurs Altesses Royales eurent dîné, elles
@@ -540,12 +479,10 @@
           des divertissemens qui furent donnez à Madame la Princesse de Meklebourg pendant son
           sejour à la Cour d’Hanover. La Relation que je vous en envoyay dans ma Lettre du mois de
           Mars, porte que c’est une maniere de Mascarade inpromptu. Le mot est Allemand composé de
-          deux, qui signifient en cette Langue <hi rend="i">Compagnie de l’Hoste</hi>. Ainsi le <hi
-            rend="i">Wirtschaf</hi> doit être regardé comme le divertissement d’un apres-soupé
+          deux, qui signifient en cette Langue <hi rend="i">Compagnie de l’Hoste</hi>. Ainsi le <hi rend="i">Wirtschaf</hi> doit être regardé comme le divertissement d’un apres-soupé
           d’Auberge, &amp; c’est de là qu’il tire son origine. Tous ceux qui se trouvent logez
           ensemble, proposent tout d’un coup de se déguiser. On fait des Billets dans lesquels on
-          écrit autant de noms de Mestier qu’il y a de Personnes qui doivent estre du <hi rend="i"
-            >Wirtschaf</hi>. On choisit ordinairement les Emplois les plus vils &amp; les plus
+          écrit autant de noms de Mestier qu’il y a de Personnes qui doivent estre du <hi rend="i">Wirtschaf</hi>. On choisit ordinairement les Emplois les plus vils &amp; les plus
           plaisans. Les Billets se meslent dans un Chapeau, &amp; chacun s’habille selon le Mestier
           qui luy est écheu. Cela fait ordinairement un mélange fort divertissant. Les Personnes du
           plus haut rang ne dédaignent pas cette sorte de Mascarade ; &amp; quand la Princesse de
@@ -641,8 +578,7 @@
         <p>Je ne doute point, Madame, qu’une si exacte description <note resp="editor">La
               description de la calèche donnée par le duc de Vivonne au roi (cf. p. 85-109 de la même livraison).</note>
           ne vous represente parfaitement ce que tous les Curieux ont veu icy avec grand plaisir.
-          Elle est de l’Autheur mesme de la Caleche qui fut presentée au Roy par M<hi rend="sup"
-            >r</hi> le Duc de Vivonne le 15. de l’autre Mois. Sa Majesté en parut fort satisfaite.
+          Elle est de l’Autheur mesme de la Caleche qui fut presentée au Roy par M<hi rend="sup">r</hi> le Duc de Vivonne le 15. de l’autre Mois. Sa Majesté en parut fort satisfaite.
           La magnificence de cet Ouvrage le rendoit assurément tres-digne d’estre offert à un Grand
           Roy. En voicy un d’une autre nature. C’est un Madrigal envoyé à une belle Dame le jour de
           sa Feste par une de ses Amies. M<hi rend="sup">r</hi> Galoubie de Clermont en Auvergne, en
@@ -664,11 +600,9 @@
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, mai 1679 [tome 5], p. 112.</bibl>
         <p>Le Printemps a esté paresseux cette année à venir chasser l’Hyver. Voicy des Paroles
-          qu’un fort galant Homme a faites sur son retour. Elles ont esté mises en Air par M<hi
-            rend="sup">r</hi> de Montigny du Havre.</p>
+          qu’un fort galant Homme a faites sur son retour. Elles ont esté mises en Air par M<hi rend="sup">r</hi> de Montigny du Havre.</p>
         <quote>
-          <label type="head">AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i"
-              >Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">L’Amour
+          <label type="head">AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">L’Amour
               folâtrant l’autre jour</hi>, doit regarder la page 112.</note>
           <lg>
             <l rend="i">L’Amour folâtrant l’autre jour</l>
@@ -838,8 +772,7 @@
         <bibl><title>Mercure galant</title>, mai 1679 [tome 5], p. 141-142.</bibl>
         <p>On peut dire en quelque sorte d’une fort aimable Personne, qu’elle est aussi ressuscitée
           depuis peu. Sa beauté la rend fort propre à faire un Heureux ; &amp; comme on luy a
-          toûjours veu donner de l’amour sans qu’elle ait encor paru en prendre, voicy ce que M<hi
-            rend="sup">r</hi> la Tournelle de Lyon a fait pour elle, quand la Fiévre qui avoit
+          toûjours veu donner de l’amour sans qu’elle ait encor paru en prendre, voicy ce que M<hi rend="sup">r</hi> la Tournelle de Lyon a fait pour elle, quand la Fiévre qui avoit
           presque fait desesperer de sa vie, a diminué.</p>
         <quote>
           <label type="head">A Iris malade.</label>
@@ -925,8 +858,7 @@
           lendemain il partit de Pézenas au bruit des Boëtes, &amp; à la veuë de la plus belle
           Compagnie de la Ville, apres avoir écouté les plaintes de plusieurs Personnes, &amp; rendu
           justice sur les choses dont la connoissance luy apartenoit.</p>
-        <p>Ce mesme jour, c’est à dire, le jour du départ de ce General, M<hi rend="sup"
-          >r</hi> l’Abbé de la Plagne chanta sa premiere Messe dans l’Eglise de Saint Jean. Elle
+        <p>Ce mesme jour, c’est à dire, le jour du départ de ce General, M<hi rend="sup">r</hi> l’Abbé de la Plagne chanta sa premiere Messe dans l’Eglise de Saint Jean. Elle
           estoit tapissée par tout d’une Haute-lisse qu’on ne peut voir sans en admirer la beauté
           &amp; la richesse. C’est un présent que M<hi rend="sup">r</hi> l’Evesque d’Agde a fait aux
           Peres de l’Oratoire de Pézenas. Il y avoit pour deux cens mille Ecus d’argenterie sur le
@@ -935,33 +867,27 @@
           rangs de Lustres, douze à chaque rang, &amp; par un fort grand nombre de Plaques à tous
           les costez. On avoit dressé deux Amphithéatres pour la Musique, composée des plus belles
           voix de la Province qu’on avoit fait venir exprés, d’un grand nombre de toute sorte
-          d’Instrumens, &amp; de quantité de Violons. Apres qu’on eut placé tous les Conviez, M<hi
-            rend="sup">r</hi> l’Abbé de la Plagne monta à l’Autel, qui estoit élevé comme un grand
+          d’Instrumens, &amp; de quantité de Violons. Apres qu’on eut placé tous les Conviez, M<hi rend="sup">r</hi> l’Abbé de la Plagne monta à l’Autel, qui estoit élevé comme un grand
           Trône. Il y avoit vingt-quatre degrez qui alloient en diminuant, avec une distance de dix
           pieds de six en six, jonchez de fleurs ainsi que l’Eglise, &amp; couverts d’une tres-belle
           Tapisserie. Il avoit pour Assistans M<hi rend="sup">rs</hi> les Abbez le Brun, de Bancire,
           &amp; de Durand. La Messe fut celebrée avec toutes les solemnitez imaginables. La Musique
           estoit charmante, &amp; il ne se peut rien entendre de plus juste. Sur tout, le Corps qui
           a accoûtumé de chanter aux Etats, s’y fit admirer. Apres l’Evangile, on fit la cerémonie
-          de l’Offrande. Elle est de l’usage. La libéralité des Conviez y parut. M<hi rend="sup"
-            >rs</hi> les Abbez de Guy, Darnaud, de Dullac, de Saint Michel, &amp; plusieurs autres
-          Eclesiastiques, donnerent chacun une Piece de quatre Pistoles. Ils furent suivis de M<hi
-            rend="sup">r</hi> Cellier, Pere de M<hi rend="sup">r</hi> le Marquis de Malavielle, si
+          de l’Offrande. Elle est de l’usage. La libéralité des Conviez y parut. M<hi rend="sup">rs</hi> les Abbez de Guy, Darnaud, de Dullac, de Saint Michel, &amp; plusieurs autres
+          Eclesiastiques, donnerent chacun une Piece de quatre Pistoles. Ils furent suivis de M<hi rend="sup">r</hi> Cellier, Pere de M<hi rend="sup">r</hi> le Marquis de Malavielle, si
           connu à la Cour, &amp; par son mérite, &amp; par les avantages de sa Personne. Il tenoit
           la place de M<hi rend="sup">r</hi> Vauquet son Beaufrere qui estoit le Parrain, &amp;
           qu’une fâcheuse indisposition retenoit chez luy. Il donna trois Pieces de quatre Pistoles,
-          aussi bien que M<hi rend="sup">r</hi> de Cochy, M<hi rend="sup">r</hi> Degna, &amp; M<hi
-            rend="sup">r</hi> Vassal, Baron des Peyrals. Les Dames ne furent pas moins libérales.
+          aussi bien que M<hi rend="sup">r</hi> de Cochy, M<hi rend="sup">r</hi> Degna, &amp; M<hi rend="sup">r</hi> Vassal, Baron des Peyrals. Les Dames ne furent pas moins libérales.
           Madame Vauquet parut la premiere, &amp; apres elle, Madame Cellier sa Sœur, Mesdames de
           Cochy, Degna, Vassal, de Paulinier, Mesdemoiselles de Sors, de Barral, Cellier, &amp; une
           infinité d’autres. La Messe finie, M<hi rend="sup">r</hi> l’Abbé de la Plague monta en
           Chaise, &amp; prêcha sur l’Evangile du jour. Il en établit les Veritez avec une éloquence
-          &amp; une force d’esprit admirable. On se rendit de là chez M<hi rend="sup"
-          >r</hi> Vauquet, où un fort grand Repas estoit preparé pour tous ceux qui avoient esté
+          &amp; une force d’esprit admirable. On se rendit de là chez M<hi rend="sup">r</hi> Vauquet, où un fort grand Repas estoit preparé pour tous ceux qui avoient esté
           priez de cette Cérémonie. Les Violons joüerent pendant le Dîner, &amp; on ne sortit de
           Table qu’à l’heure de Vespres. Chacun s’empressa de s’y trouver pour estre à l’arrivée des
-          nouveaux Consuls qu’on fait toûjours ce jour-là. C’estoit le Dimanche de <hi rend="i"
-            >Quasimodo</hi>. Voicy de quelle maniere la marche se fit. Quatre Compagnies à cheval,
+          nouveaux Consuls qu’on fait toûjours ce jour-là. C’estoit le Dimanche de <hi rend="i">Quasimodo</hi>. Voicy de quelle maniere la marche se fit. Quatre Compagnies à cheval,
           &amp; douze de pied de Bourgeois ou Gens de Métier, partirent de l’Hôtel de Ville dans un
           ordre merveilleux. Leur équipage estoit fort galant. Ils avoient presque tous des Plumes
           &amp; des Echarpes, avec une infinité de Rubans de toutes couleurs. La Cavalerie en avoit
@@ -987,8 +913,7 @@
           Feste, il monta en Carrosse un moment apres pour aller coucher à son Abbaye de Valmagne.
           Ceux que je viens de nommer se rendirent à l’Hôtel de Ville. Le reste des Cerémonies
           accoûtumées y fut observé, &amp; ils allerent de là terminer la solemnité du jour par un
-          somptueux Repas, que leur donna M<hi rend="sup">r</hi> Chassein, Intendant pour M<hi
-            rend="sup">r</hi> le Prince de Conty dans son Comté de Pézenas. C’estoit luy qui avoit
+          somptueux Repas, que leur donna M<hi rend="sup">r</hi> Chassein, Intendant pour M<hi rend="sup">r</hi> le Prince de Conty dans son Comté de Pézenas. C’estoit luy qui avoit
           esté fait premier Consul. Il se trouva une fort grande quantité de Noblesse au Régal qu’il
           avoit fait préparer ; &amp; afin qu’il ne manquast rien à cette Feste, toutes les Dames
           furent priées de se rendre le soir chez Madame de Fesquet. C’est une Personne
@@ -1001,16 +926,14 @@
           par elles mesmes, que par la magnificence de leurs Habits. Mesdames Cellier &amp; Vauquet
           ne se firent pas moins distinguer, &amp; on ne peut estre dans un équipage plus propre, ny
           plus galant que l’estoient Mesdames de Carlencas, de Vassal, de Paulinier, de Fesquet, de
-          Barres, de Boüet, &amp; plusieurs autres. La Femme d’un Capitaine de Picardie nommé M<hi
-            rend="sup">r</hi> Vert, ne fut pas un des moindres ornemens de cette Assemblée. Elle
+          Barres, de Boüet, &amp; plusieurs autres. La Femme d’un Capitaine de Picardie nommé M<hi rend="sup">r</hi> Vert, ne fut pas un des moindres ornemens de cette Assemblée. Elle
           estoit habillée négligemment, à cause de l’inquiétude où elle est sans cesse pour
           l’absence de son Mary ; mais cette négligence ajoûtoit quelque chose de si touchant à son
           air doux &amp; délicat, qu’on peut dire qu’elle ne luy estoit pas desavantageuse. Les
           Filles faisoient un Cercle à part, toutes dans une magnificence admirable. C’estoient
           Mesdemoiselles de Pujol, de Barres, de S. Ceries, de S. Martin, de Vairas, de Sors, de
           Cellier, de Juvenel, de Mounié, de Mafre, de Brunel, de Gua, &amp; de Faurier. Si-tost que
-          ces aimables Personnes furent arrivées, les Violons se placerent, &amp; M<hi rend="sup"
-            >r</hi> Chassein s’adressant à Madame la Chastelaine, la pria de vouloir estre la Reyne
+          ces aimables Personnes furent arrivées, les Violons se placerent, &amp; M<hi rend="sup">r</hi> Chassein s’adressant à Madame la Chastelaine, la pria de vouloir estre la Reyne
           du Bal. Elle ne put se dispenser d’en faire &amp; d’en recevoir les honneurs. On dança, on
           dit cent choses agreables, &amp; apres quelques heures employées à se divertir, on passa
           dans une Chambre, où une magnifique Collation attendoit les Dames. Le Régal fut un Ambigu
@@ -1183,8 +1106,7 @@
           vivement poussée, qu’il fut contraint d’avoüer son crime. Il l’expia par un suplice des
           plus cruels, l’interest public demandant qu’on en fist un grand exemple.</p>
         <p>Je finis cet Article par où je l’ay commencé, c’est à dire, en faisant encor parler
-          Tite-Live. Voicy ce qu’il dit dans le dixiéme Livre de sa quatriéme Décade. <hi rend="i"
-            >Cependant on apporta des Lettres de la part du Préteur C. Menius à qui la Sardaigne
+          Tite-Live. Voicy ce qu’il dit dans le dixiéme Livre de sa quatriéme Décade. <hi rend="i">Cependant on apporta des Lettres de la part du Préteur C. Menius à qui la Sardaigne
             estoit escheuë, &amp; à qui l’on avoit donné la commission d’informer des empoisonnemens
             à dix milles aux dehors, &amp; aux environs de Rome. Il mandoit qu’il avoit déja
             condamné trois mille personnes, &amp; que neanmoins on faisoit tous les jours de
@@ -1201,8 +1123,7 @@
         <head>Sonnet.</head>
         <bibl><title>Mercure galant</title>, mai 1679 [tome 5], p. 206-208.</bibl>
         <p>Tous les Poisons, quoy que dangereux, ne sont pas toûjours à éviter. Il en est
-          d’agreables qu’on fait prendre par les yeux, &amp; c’est de ceux-là que parle M<hi
-            rend="sup">r</hi> Cousinet dans le Sonnet que je vous envoye. Il est Fils du Maistre des
+          d’agreables qu’on fait prendre par les yeux, &amp; c’est de ceux-là que parle M<hi rend="sup">r</hi> Cousinet dans le Sonnet que je vous envoye. Il est Fils du Maistre des
           Comptes de Paris qui porte ce nom.</p>
         <quote>
           <label type="head">Sonnet.</label>
@@ -1239,8 +1160,7 @@
           Montauban Lieutenant de Roy, n’ayant pû s’y trouver à cause de sa maladie, celuy de la
           Ville prit sa place avec M<hi rend="sup">r</hi> de Chavelin Intendant de la Province. Les
           Chanoines y estoient dans leurs Habits de cerémonie avec leurs Soutanes violetes. Les
-          Officians estoient mitrez. Sur le soir la Garnison de la Ville monta la Citadelle. M<hi
-            rend="sup">r</hi> le Chevalier de Montaut qui en est Gouverneur, fit faire trois Salves
+          Officians estoient mitrez. Sur le soir la Garnison de la Ville monta la Citadelle. M<hi rend="sup">r</hi> le Chevalier de Montaut qui en est Gouverneur, fit faire trois Salves
           Royales de soixante Pieces de Canon, &amp; l’Infanterie fit aussi sa décharge dans le
           mesme temps. Toutes les Fenestres estoient éclairées d’un flambeau avec des lanternes où
           les Armes du Roy paroissoient. Les Canons des Bastions des dehors firent aussi trois
@@ -1278,15 +1198,13 @@
           pieds dans un grand bassin garni de lierre. Ce Magistrat estoit à sa porte en Robe, sous
           un tres-beau Portail. Les Troupes passerent en reveuë devant luy quand elles sortirent
           dans la Plaine, &amp; elles firent alte au mesme lieu en revenant. Le Colonel &amp; les
-          Capitaines mirent pied à terre, &amp; s’estant approchez de luy sous son Portail, M<hi
-            rend="sup">r</hi> Prégent y prononça un fort beau discours sur la Paix. Le Magistrat luy
+          Capitaines mirent pied à terre, &amp; s’estant approchez de luy sous son Portail, M<hi rend="sup">r</hi> Prégent y prononça un fort beau discours sur la Paix. Le Magistrat luy
           fit une réponse tres éloquente, &amp; marcha ensuite avec plusieurs Gens de robe qui
           l’accompagnoient au milieu des principaux Officiers, suivis des Troupes, vers la
           principale Eglise où tout le Clergé s’estoit rendu, au son des Trompetes, des Tambours,
           des Hautbois &amp; des Violons. Le <hi rend="i">Te Deum</hi> fut chanté, &amp; au retour
           de l’Eglise, on vint dans la Place où le Bucher estoit élevé. M<hi rend="sup">r</hi> Neilz
-          y mit le feu, &amp; fut reconduit par toutes ces Troupes, apres mille cris de <hi rend="i"
-            >Vive le Roy</hi>, suivis du son des Cloches, du bruit d’une infinité de Petards &amp;
+          y mit le feu, &amp; fut reconduit par toutes ces Troupes, apres mille cris de <hi rend="i">Vive le Roy</hi>, suivis du son des Cloches, du bruit d’une infinité de Petards &amp;
           de Fusées, &amp; de la décharge de toutes les Armes.</p>
       </div>
       <div type="article" xml:id="MG-1679-05_218" resp="mercure">
@@ -1295,8 +1213,7 @@
         <p>La rencontre du Dimanche a fait remettre cette année au Lundy 15. de ce mois,
           l’Anniversaire du feu Roy Loüis XIII. qui se fais tous les ans le 14. de May, dans
           l’Eglise de l’Abbaye de S. Denys en France avec de fort grandes cerémonies. La Messe y est
-          toûjours celebrée par un Evesque, &amp; elle l’a esté cette année par M<hi rend="sup"
-            >r</hi> l’Abbé du Laurens, nommé à l’Evesché de Bellay. C’est luy qui a esté éleu
+          toûjours celebrée par un Evesque, &amp; elle l’a esté cette année par M<hi rend="sup">r</hi> l’Abbé du Laurens, nommé à l’Evesché de Bellay. C’est luy qui a esté éleu
           General de l’Ordre de Cluny, dans le dernier Chapitre General qui s’est tenu il y a
           quelque temps au College qui porte ce nom. Voicy ce qui se passe dans l’Anniversaire dont
           j’ay à vous entretenir. L’Eglise est toute tenduë de deüil, &amp; il y a deux lez de
@@ -1307,8 +1224,7 @@
           Chanoines &amp; les Récolets de Saint Denys. On choisit douze Pauvres, qui se trouvent
           avec un Cierge à la main, &amp; on leur donne à chacun une piece d’Etofe, une paire de
           Souliers, &amp; un Ecu. La Messe finie, l’Aumônier du Roy donne l’aumône à tous ceux qui
-          la veulent recevoir. Ils s’y rencontrent ce jour-là en tres-grand nombre. M<hi rend="sup"
-            >r</hi> l’Abbé de S. Vallier, Frere du Capitaine des Gardes de la Porte, a fait cette
+          la veulent recevoir. Ils s’y rencontrent ce jour-là en tres-grand nombre. M<hi rend="sup">r</hi> l’Abbé de S. Vallier, Frere du Capitaine des Gardes de la Porte, a fait cette
           distribution cette année.</p>
       </div>
       <div type="article" xml:id="MG-1679-05_226" resp="mercure">
@@ -1351,8 +1267,7 @@
             c’estoit la chose qu’il regretoit le plus. Il demanda pardon s’il avoit chagriné
             quelqu’un ; pria ceux qui pouvoient se plaindre de luy, d’avoir égard qu’il estoit Homme
             comme eux, &amp; qu’il avoit ses foiblesses, les assurant que s’il les avoit offencez,
-            il n’en avoit jamais eu l’intention. Comme la douleur &amp; le mal redoublerent : <hi
-              rend="i">Il faut que j’avoüe</hi>, dit-il, <hi rend="i">que tout ce que j’ay souffert
+            il n’en avoit jamais eu l’intention. Comme la douleur &amp; le mal redoublerent : <hi rend="i">Il faut que j’avoüe</hi>, dit-il, <hi rend="i">que tout ce que j’ay souffert
               en cette guerre, n’approche en rien de tout ce que je souffre presentement, &amp; que
               la guerre qui se fait dans mon cœur est bien plus rude &amp; bien plus cruelle que
               celle que j’ay faite, &amp; l’Ennemy qui m’attaque, bien plus terrible que tous mes
@@ -1502,8 +1417,7 @@
         <head>[Tout ce qui s’est passé à l’Académie Françoise le jour de la Reception de M. l’Abbé de la Vau]</head>
         <bibl><title>Mercure galant</title>, mai 1679 [tome 5], p. 243-263.</bibl>
         <p>Vous sçavez que M<hi rend="sup">r</hi> de Montmort, Doyen des Maîtres des Requestes,
-          mourut il y a environ deux Mois. Il estoit l’un des quarante de l’Académie Françoise. M<hi
-            rend="sup">r</hi> l’Abbé de la Vau, Garde de la Bibliotheque du Cabinet du Roy,
+          mourut il y a environ deux Mois. Il estoit l’un des quarante de l’Académie Françoise. M<hi rend="sup">r</hi> l’Abbé de la Vau, Garde de la Bibliotheque du Cabinet du Roy,
           Trésorier de S. Hilaire le Grand de Poitier, &amp; Chancelier de l’Université de la mesme
           Ville, remplit aujourd’huy sa place dans cette celébre Compagnie. L’inclination qu’il a
           toûjours euë pour les belles Lettres, luy a fait acquerir des connoissances qui le
@@ -1512,18 +1426,15 @@
           beaucoup d’applaudissemens. Comme les Portes sont ouvertes ces jours de reception,
           l’Assemblée fut considérable. Elle estoit composée d’un grand nombre de Personnes de
           qualité, &amp; de gens infiniment éclairez. Monsieur le Duc de la Rochefoucaut s’y trouva.
-          C’est un Juge compétent, dont l’esprit n’est pas moins élevé que la naissance. M<hi
-            rend="sup">r</hi> l’Abbé de la Vau commença par les sentimens de reconnoissance qu’il
+          C’est un Juge compétent, dont l’esprit n’est pas moins élevé que la naissance. M<hi rend="sup">r</hi> l’Abbé de la Vau commença par les sentimens de reconnoissance qu’il
           avoit du choix que M<hi rend="sup">rs</hi> de l’Académie avoient fait de sa Personne pour
-          remplir la place d’un Homme fameux par sa profonde érudition. Il leur dit modestement, <hi
-            rend="i">Qu’ils avoient suposé en luy quelque mérite, parce qu’ils le voyoient revestu
+          remplir la place d’un Homme fameux par sa profonde érudition. Il leur dit modestement, <hi rend="i">Qu’ils avoient suposé en luy quelque mérite, parce qu’ils le voyoient revestu
             de la Charge d’un Homme de Lettres</hi>. Il adjoûta, <hi rend="i">Que sçachant qu’il
             demeuroit depuis plusieurs années au Louvre, où ils tiennent leurs Conferences si utiles
             au Public, ils s’estoient sans doute imaginez qu’il y avoit respiré un air qui ouvre
             l’esprit, &amp; qui communique une partie des belles lumieres qu’ils venoient si souvent
             y faire éclater ; semblable à ceux qui en entrant autrefois dans le Temple de Dodonne,
-            joüissoient aussi-tost du don de prophétiser</hi>. Il fit ensuite l’éloge de M<hi
-            rend="sup">rs</hi> de l’Académie, parmy lesquels il ne voyoit que de grandes qualitez,
+            joüissoient aussi-tost du don de prophétiser</hi>. Il fit ensuite l’éloge de M<hi rend="sup">rs</hi> de l’Académie, parmy lesquels il ne voyoit que de grandes qualitez,
           soit qu’il les regardast en general, soit qu’en les examinant en particulier il
           considerast les uns dans les plus hautes dignitez de l’Eglise, &amp; les autres dans les
           premiers Emplois de l’épée &amp; de la robe. Il dit, <hi rend="i">Qu‘on ne devroit pas
@@ -1584,8 +1495,7 @@
           Colbert aime le Roy, que par les choses que son Maître a dites à luy.</p>
         <p>Mr l’Abbé le Galois, Directeur alors de la Compagnie, répondit à ce Discours. Cet
           illustre Abbé est d’une réputation si bien confirmée, qu’il est impossible qu’elle ne vous
-          soit connuë. C’est un Homme universel, &amp; d’une profonde érudition. M<hi rend="sup"
-            >r</hi> Colbert a beaucoup de considération pour luy. Il demeure chez ce grand Ministre,
+          soit connuë. C’est un Homme universel, &amp; d’une profonde érudition. M<hi rend="sup">r</hi> Colbert a beaucoup de considération pour luy. Il demeure chez ce grand Ministre,
           qui se plaist à s’entretenir souvent avec luy des Sciences les plus relevées. Il n’est pas
           besoin de vous en dire davantage pour vous faire connoistre qu’il doit avoir infiniment du
           mérite. Je vous en donnerois des preuves bien convaincantes, si je vous envoyois entier ce
@@ -1593,8 +1503,7 @@
           qu’une idée confuse de ce qu’on n’a entendu qu’une seule fois, &amp; le plus fidelle
           extrait dérobe toûjours beaucoup de la grace des pensées, &amp; de la force de
           l’expression.</p>
-        <p>M<hi rend="sup">r</hi> l’Abbé le Gallois établit la Réponse qu’il fit à M<hi rend="sup"
-            >r</hi> l’Abbé de la Vau, <hi rend="i">Sur ce qu’il y avoit de la justice, &amp; de la
+        <p>M<hi rend="sup">r</hi> l’Abbé le Gallois établit la Réponse qu’il fit à M<hi rend="sup">r</hi> l’Abbé de la Vau, <hi rend="i">Sur ce qu’il y avoit de la justice, &amp; de la
             prudence à l’avoir associé dans leur Corps ; de la justice, parce qu’il le méritoit,
             comme on pouvoit le connoistre par le beau Discours qu’il venoit de faire ; &amp; de la
             prudence, parce que les Muses de l’Académie estant dans quelque sorte d’obligation de
@@ -1616,8 +1525,7 @@
           Arts. Il en fit une tres-juste application, en disant, <hi rend="i">Que nous avions un
             Auguste &amp; un Mécene, &amp; qu’il y avoit lieu d’esperer que nous aurions des Horaces
             &amp; des Virgiles</hi>.</p>
-        <p>Apres qu’il eut cessé de parler, M<hi rend="sup">r</hi> Boyer lût des Stances, &amp; M<hi
-            rend="sup">r</hi> le Clerc, un Sonnet. Ces deux Pieces estoient sur la Paix. On leur
+        <p>Apres qu’il eut cessé de parler, M<hi rend="sup">r</hi> Boyer lût des Stances, &amp; M<hi rend="sup">r</hi> le Clerc, un Sonnet. Ces deux Pieces estoient sur la Paix. On leur
           donna les loüanges qui leur estoient deuës, &amp; la Compagnie se sépara.</p>
       </div>
       <div type="article" xml:id="MG-1679-05_267" resp="mercure">
@@ -1642,8 +1550,7 @@
           Christine de France. Ce Maistre si renommé estant mort, celuy dont je vous parle retourna
           à Rome. Il y fut admiré, &amp; n’y manqua pas d’employ. Il avoit celuy de Maistre de
           Musique de l’Eglise des Jesuites, quand la Cathédrale de Messine perdit le sien. Le Senat
-          envoya à Rome pour choisir le plus digne de luy succeder. On jetta les yeux sur M<hi
-            rend="sup">r</hi> Lorenzani qui estoit dés lors dans une tres-grande réputation. Il vint
+          envoya à Rome pour choisir le plus digne de luy succeder. On jetta les yeux sur M<hi rend="sup">r</hi> Lorenzani qui estoit dés lors dans une tres-grande réputation. Il vint
           à Messine, &amp; y prit possession d’un Poste qui en ce temps-là estoit un des plus
           considérables d’Italie, tant pour la gloire que pour l’utilité qu’on en retiroit. Il
           l’occupa avec un succés qui luy devoit tout faire attendre de la Fortune &amp; de son
@@ -1691,15 +1598,13 @@
           Mesdames les Comtesses de Maré &amp; de Grancé, &amp; les Filles d’Honneur de Madame. La
           plûpart des Hommes estoient en Juste-à-corps de Brévet. Je vous ay déja expliqué ce que
           c’est que ces Juste-à-corps, mais je ne vous ay pas dit que les derniers sont d’une beauté
-          éblouïssante, &amp; que la broderie n’en est pas moins admirable que le dessein. M<hi
-            rend="sup">r</hi> l’Ambassadeur d’Espagne prit beaucoup de plaisir à voir dancer tant
+          éblouïssante, &amp; que la broderie n’en est pas moins admirable que le dessein. M<hi rend="sup">r</hi> l’Ambassadeur d’Espagne prit beaucoup de plaisir à voir dancer tant
           d’illustres &amp; belles Personnes. Il estoit vestu de Drap noir à la Françoise, &amp;
           demeura presque toûjours debout derriere la Chaise de Monseigneur le Dauphin. Le Bal fut
           suivy d’un grand Ambigu. Il estoit de Poisson &amp; de Fruit. Toutes les Dames furent
           assises avec Monseigneur le Dauphin. On mena M<hi rend="sup">r</hi> l’Ambassadeur
           d’Espagne à une autre Table, où il mangea avec les Seigneurs. Le Soupé finy, on passa dans
-          le Sallon pour entendre la Comédie. On représenta <hi rend="i">l’Avare</hi>, &amp; <hi
-            rend="i">le Deüil</hi>. Monseigneur le Dauphin retourna à S. Germain apres la premiere
+          le Sallon pour entendre la Comédie. On représenta <hi rend="i">l’Avare</hi>, &amp; <hi rend="i">le Deüil</hi>. Monseigneur le Dauphin retourna à S. Germain apres la premiere
           Piece ; &amp; la plus grande partie de la Compagnie s’estant retirée apres la seconde,
           Monsieur fit <hi rend="i">Media noche</hi> avec les Dames. Deux jours apres, Madame
           l’Ambassadrice d’Espagne qui avoit fait demander audience à Leurs Altesse Royales, vint à
@@ -1754,11 +1659,9 @@
           retourner, avec autant de satisfaction des bons traitemens qu’il a reçeus de Sa Majesté,
           qu’il avoit eu de confiance à venir chercher aupres d’Elle les effets glorieux de sa
           puissante protection, &amp; de sa genérosité, pour ceux qui comme ce Prince s’attachent
-          inviolablement à ses intérests. Quelques jours avant son départ, il traita M<hi rend="sup"
-            >r</hi> l’Ambassadeur d’Espagne avec Madame l’Ambassadrice. M<hi rend="sup">r</hi> le
+          inviolablement à ses intérests. Quelques jours avant son départ, il traita M<hi rend="sup">r</hi> l’Ambassadeur d’Espagne avec Madame l’Ambassadrice. M<hi rend="sup">r</hi> le
           Duc de Verneüil, M<hi rend="sup">r</hi> le Prince de Monaco, &amp; M<hi rend="sup">r</hi>
-          le Duc de Crussol, estoient du Régal, ainsi que Madame la Princesse de Furstemberg, M<hi
-            rend="sup">r</hi> &amp; Madame la Presidente de Mesmes, M<hi rend="sup">r</hi> le
+          le Duc de Crussol, estoient du Régal, ainsi que Madame la Princesse de Furstemberg, M<hi rend="sup">r</hi> &amp; Madame la Presidente de Mesmes, M<hi rend="sup">r</hi> le
           Marquis d’Alincourt, M<hi rend="sup">r</hi> de la Baziniere, M<hi rend="sup">r</hi> le
           Comte de Torigny, Madame Tambonneau, &amp; Mademoiselle de la Baziniere. Il y eut une
           grande Musique, &amp; Bal apres le Soupé. Je ne vous fay point le détail de ce Repas. Il
@@ -1771,8 +1674,7 @@
         <bibl><title>Mercure galant</title>, mai 1679 [tome 5], p. 311-313.</bibl>
         <p>J’ay oublié de vous dire qu’un peu avant que M<hi rend="sup">r</hi> l’Evesque de
           Strasbourg partist, il avoit esté, aussi bien que Madame de Furstemberg, du magnifique
-          Régal, que M<hi rend="sup">r</hi> le Président de Mesmes a donné à M<hi rend="sup"
-          >r</hi> l’Ambassadeur &amp; à Madame l’Ambassadrice d’Espagne. Les autres Conviez estoient
+          Régal, que M<hi rend="sup">r</hi> le Président de Mesmes a donné à M<hi rend="sup">r</hi> l’Ambassadeur &amp; à Madame l’Ambassadrice d’Espagne. Les autres Conviez estoient
           Madame la Princesse d’Elbeuf, Madame la Duchesse de Vivonne, M<hi rend="sup">r</hi> le
           Prince de Monaco, M<hi rend="sup">r</hi> le Prince d’Eysenac, M<hi rend="sup">r</hi> le
           Baron de Rosvuorm, M<hi rend="sup">r</hi> le Duc de Mortemar, M<hi rend="sup">r</hi> le
@@ -1863,8 +1765,7 @@
           nouvelle de cette Paix y a t’elle esté reçeuë avec une joye qui ne se peut exprimer. La
           Publication s’en fit à Mets le Jeudy 18. de ce Mois. Voicy l’ordre de la Cavalcade. Le
           Prevost Provincial marchoit le premier avec sa Compagnie d’Archers. Il estoit suivy du
-          Prevost des Bandes qui avoit aussi sa Compagnie, &amp; apres eux, on voyoit M<hi
-            rend="sup">r</hi> de Beraut Lieutenant de Roy de la Citadelle, à la teste de la
+          Prevost des Bandes qui avoit aussi sa Compagnie, &amp; apres eux, on voyoit M<hi rend="sup">r</hi> de Beraut Lieutenant de Roy de la Citadelle, à la teste de la
           Noblesse, en la place de M<hi rend="sup">r</hi> Givry Lieutenant de Roy de la Ville,
           arresté au lit par quelque indisposition. Les Messagers, Bannerots, Sergens de Ville &amp;
           Huissiers du Baillage, qui marchoient ensuite, precédoient les Suisses Hallebardiers,
@@ -1882,8 +1783,7 @@
           dans les Armées, d’un excellent mérite en toutes choses, &amp; qui sçait parfaitement
           accorder le bien du service de Sa Majesté avec le soulagement des Peuples. Sur les cinq
           heures du soir, on se rendit à la grande Eglise, où M<hi rend="sup">r</hi> le Roy, &amp;
-          tous les Corps, assisterent au <hi rend="i">Te Deum</hi> chanté par la Musique. M<hi
-            rend="sup">r</hi> l’Archevesque d’Ambrun, Evesque de Mets officioit. A neuf heures, le
+          tous les Corps, assisterent au <hi rend="i">Te Deum</hi> chanté par la Musique. M<hi rend="sup">r</hi> l’Archevesque d’Ambrun, Evesque de Mets officioit. A neuf heures, le
           mesme M<hi rend="sup">r</hi> le Roy, &amp; M<hi rend="sup">r</hi> de la Grilloniere,
           allumerent le Feu ; ce qui fut accompagné de Feux d’artifice, de trois Salves de Canon,
           &amp; de la Mousqueterie des Troupes en bataille ; &amp; en mesme temps on alluma d’autres
@@ -1892,10 +1792,8 @@
       </div>
       <div type="article" xml:id="MG-1679-05_335" resp="mercure">
         <head>[Explication en Vers de la premiere Enigme du mois passé]</head>
-        <bibl><title>Mercure galant</title>, mai 1679 [tome 5], p. 335-339.<note resp="editor">L'énigme se trouve dans <ref target="MG-1679-04_356">cet article</ref>et la solution dans <ref target="MG-1679-06e_249"
-              >celui-ci</ref>.</note></bibl>
-        <p><seg type="tab">    </seg>Les Enigmes divertissent toûjours le Public à l’ordinaire. M<hi
-            rend="sup">r</hi> de Grammarais, de Roüen, a expliqué ainsi la premiere du dernier Mois
+        <bibl><title>Mercure galant</title>, mai 1679 [tome 5], p. 335-339.<note resp="editor">L'énigme se trouve dans <ref target="MG-1679-04_356">cet article</ref>et la solution dans <ref target="MG-1679-06e_249">celui-ci</ref>.</note></bibl>
+        <p><seg type="tab">    </seg>Les Enigmes divertissent toûjours le Public à l’ordinaire. M<hi rend="sup">r</hi> de Grammarais, de Roüen, a expliqué ainsi la premiere du dernier Mois
           dans son vray sens.</p>
         <quote>
           <l>Les plus grands, les plus fiers sont soûmis à vos loix,</l>
@@ -1949,8 +1847,7 @@
       <div type="article" xml:id="MG-1679-05_351" resp="mercure">
         <head>[Mort de l’Abbé de Casagne]</head>
         <bibl><title>Mercure galant</title>, mai 1679 [tome 5], p. 351.</bibl>
-        <p>Il y a une nouvelle Place vacante à l’Académie Françoise, par la mort de M<hi rend="sup"
-            >r</hi> l’Abbé Casagne, arrivée ces derniers jours.</p>
+        <p>Il y a une nouvelle Place vacante à l’Académie Françoise, par la mort de M<hi rend="sup">r</hi> l’Abbé Casagne, arrivée ces derniers jours.</p>
       </div>
       <div type="article" xml:id="MG-1679-05_356" resp="mercure">
         <head>Ludovico Magno.</head>
@@ -2005,5 +1902,4 @@
         </quote>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

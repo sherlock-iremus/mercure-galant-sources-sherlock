@@ -1,73 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1678-03" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, mars 1678</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piejus</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Alexandre De Craim</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name ref="mailto:frederic.glorieux@fictif.org">Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2014"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1678-03/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <publisher>Claude Blageart</publisher>, <date>mars,
-            1678</date></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1678"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, mars 1678 [tome 3].</head>
       <div type="article" xml:id="MG-1678-03_000a" resp="mercure">
@@ -235,8 +166,7 @@
         <quote>
           <label rend="center">LETTRE<lb/>DE MONSIEUR D.P.<lb/>À MADEMOISELLE P.B.</label>
           <p/>
-          <p><hi rend="i">IL y a longtemps que je m’ennuye de vous appeller</hi> Mademoiselle,<hi
-              rend="i"> &amp; d’estre traité par vous de</hi> Monsieur. <hi rend="i">Je suis ravy
+          <p><hi rend="i">IL y a longtemps que je m’ennuye de vous appeller</hi> Mademoiselle,<hi rend="i"> &amp; d’estre traité par vous de</hi> Monsieur. <hi rend="i">Je suis ravy
               que vous vous soyez aussi ennuyée de ces noms, &amp; vous avez esté heureusement
               inspirée de m’en chercher un moins sérieux. À dire vray, ce terme de Monsieur tient un
               peu trop du respect, &amp; vous pouvez le perdre hardiment pour moy, pourveu que vous
@@ -260,12 +190,10 @@
             a esté traitée.</p>
           <p><hi rend="i">Quand il sçeut que vous vouliez bien recevoir un nom, &amp; m’en donner
               un, il assembla tous ses petits Freres les Amours pour déliberer là-dessus. Il leur
-              proposa d’abord qu’il estoit temps que nous quitassions les noms de </hi>Monsieur <hi
-              rend="i">&amp; de</hi> Mademoiselle.<hi rend="i"> On apporta les Registres de ses
+              proposa d’abord qu’il estoit temps que nous quitassions les noms de </hi>Monsieur <hi rend="i">&amp; de</hi> Mademoiselle.<hi rend="i"> On apporta les Registres de ses
               Conquestes, &amp; on se mit à les feüilleter. Les Registres des Conquestes de l’Amour,
               vous vous imaginez bien que ce doivent estre force Billets galants de toutes les
-              manieres. On trouva dans les plus anciens les noms de </hi>Mon Soleil <hi rend="i"
-              >&amp;</hi> Ma Chere Ame. <hi rend="i">Les Amours s’éclaterent de rire.</hi></p>
+              manieres. On trouva dans les plus anciens les noms de </hi>Mon Soleil <hi rend="i">&amp;</hi> Ma Chere Ame. <hi rend="i">Les Amours s’éclaterent de rire.</hi></p>
           <lg>
             <l><space/><space/>Cependant, ne vous en déplaise,</l>
             <l>Ces Noms furent trouvez fort tendres &amp; fort doux</l>
@@ -276,8 +204,7 @@
             <l>Et les mots emmiellez de <hi rend="i">M’amour</hi>, de <hi rend="i">M’amie</hi>,</l>
             <l><space/><space/>Dont on se servoit au vieux temps.</l>
           </lg>
-          <p><hi rend="i">On trouva en suite dans les Registres plus modernes,</hi> Mon cher <hi
-              rend="i">&amp;</hi> Ma Chere ;<hi rend="i"> &amp; là-dessus</hi></p>
+          <p><hi rend="i">On trouva en suite dans les Registres plus modernes,</hi> Mon cher <hi rend="i">&amp;</hi> Ma Chere ;<hi rend="i"> &amp; là-dessus</hi></p>
           <lg>
             <l><space/><space/>Un gros Amour au teint fleury,</l>
             <l>Qui ne connoissoit point de Beauté rigoureuse,</l>
@@ -302,8 +229,7 @@
           <p><hi rend="i">Malgré l’avis de cet Amour, on continua à feüilleter. On lût les noms de
             </hi>Mon Berger <hi rend="i">&amp;</hi> Ma Bergere. <hi rend="i">C’est dommage, dit-on,
               qu’ils soient trop communs, car ils sont fort jolis. En mesme temps on entendit la
-              voix d’un petit Amour, qui dit presque tout-bas,</hi> il y a un remède à cela. <hi
-              rend="i">On se tourna vers luy, &amp; on le vit qui tâchoit à se perdre dans la foule
+              voix d’un petit Amour, qui dit presque tout-bas,</hi> il y a un remède à cela. <hi rend="i">On se tourna vers luy, &amp; on le vit qui tâchoit à se perdre dans la foule
               des Amours où il s’estoit toûjours tenu caché. Mais on l’en tira pour luy demander qui
               il estoit. Il n’estoit connu de personne.</hi></p>
           <lg>
@@ -323,8 +249,7 @@
               qu’il faloit que vous m’appellassiez</hi> Mon Berger.<hi rend="i"> À la verité,
               poursuivit-il, le nom est commun, comme vous l’avez deja remarqué, mais voicy le moyen
               d’empescher qu’il ne le soit. Il ne l’appellera pas sa Bergere, mais </hi>sa Musette,
-              <hi rend="i">&amp; alors</hi> Mon Berger <hi rend="i">&amp;</hi> Ma Musette <hi
-              rend="i">seront des noms nouveaux. Ma Musette ? s’écrierent les Amours. Oüy, ma
+              <hi rend="i">&amp; alors</hi> Mon Berger <hi rend="i">&amp;</hi> Ma Musette <hi rend="i">seront des noms nouveaux. Ma Musette ? s’écrierent les Amours. Oüy, ma
               Musette, reprit-il d’un petit air un peu plus assuré. Ma mere est une vraye
               Musette.</hi></p>
           <lg>
@@ -360,8 +285,7 @@
           Homme de qualité de ses Amis. Vous m’en ferez sçavoir vostre sentiment quand vous en aurez
           appris la Note.</p>
         <quote>
-          <label rend="center">AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i"
-              >Avis pour placer les Figures</hi> : l’Air qui commence par, Le cœur tout déchiré par
+          <label rend="center">AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, Le cœur tout déchiré par
             un secret martyre, doit regarder la page 27.</note>
           <lg>
             <l rend="i">Le cœur tout déchiré par un secret martyre,</l>
@@ -709,8 +633,7 @@
         <p>Comme je sçay que tout ce qui regarde la gloire de Monsieur le Tellier vous plaist, je
           vous envoye la Lettre que M<hi rend="sup">r</hi> Guérin Secretaire de l’Académie de
           Soissons, luy a écrite au nom de sa Compagnie sur sa Promotion à la Charge de Chancelier.
-          Ce fut mesme M<hi rend="sup">r</hi> Guérin qu’elle employa pour remercier M<hi rend="sc"
-            >rs</hi> de l’Académie Françoise de l’avoir reçeuë dans leur Alliance.</p>
+          Ce fut mesme M<hi rend="sup">r</hi> Guérin qu’elle employa pour remercier M<hi rend="sc">rs</hi> de l’Académie Françoise de l’avoir reçeuë dans leur Alliance.</p>
         <quote>
           <label rend="center">LETTRE<lb/>DE L’ACADEMIE<lb/>DE SOISSONS</label>
           <label rend="center">À Monseigneur le Chancelier.</label>
@@ -931,15 +854,14 @@
         </ref>
       </div>
       <div type="article" xml:id="MG-1678-03_171" resp="mercure">
-        <head>[Livres nouveaux:  <hi> rend="i">Les Arts de l’Homme d’Epée</hi>, ou <hi rend="i">le Dictionnaire du
+        <head>[Livres nouveaux:  <hi> rend="i"&gt;Les Arts de l’Homme d’Epée</hi>, ou <hi rend="i">le Dictionnaire du
             Gentilhomme</hi>]*</head>
         <bibl><title>Mercure galant</title>, mars 1678 [tome 3], p. 171-174.</bibl>
         <p>Quoy que j’évite autant que je puis de me servir des termes qui sont particuliers à
           beaucoup d’Arts, parce qu’ils peuvent n’estre pas connus de tout le monde, s’il m’en
           échape quelqu’un qui embarasse vos Amies à qui vous continuez de faire part de mes
           Lettres, elles en trouverent l’explication dans un Livre tres-curieux, &amp; tout plein
-          d’érudition, qui a esté imprimé depuis quelques jours, &amp; dont le titre est, <hi
-            rend="i">Les Arts de l’Homme d’Epée</hi>, ou <hi rend="i">le Dictionnaire du
+          d’érudition, qui a esté imprimé depuis quelques jours, &amp; dont le titre est, <hi rend="i">Les Arts de l’Homme d’Epée</hi>, ou <hi rend="i">le Dictionnaire du
             Gentilhomme</hi>. Le premier Volume contient l’Art de monter à Cheval ; et le second,
           celuy de la Navigation. L’Autheur s’appelle M<hi rend="sup">r</hi> Guillet. C’est à luy
           que nous devons déja Athénes &amp; Lacédemone, anciennes &amp; nouvelles. Vous sçavez
@@ -1231,8 +1153,7 @@
           Belle dans une Chaise roulante qu’il avoit fait faire exprés. Elle estoit étofée d’un
           riche brocard d’or, &amp; on y voyoit en mille endroit les Chifres de l’un &amp; de
           l’autre entrelassez de la maniere du monde la plus galante. La Cerémonie se fit. Deux
-          Chœurs de Musique chanterent, &amp; vingt-quatre Valets vestus des Livrées de M<hi
-            rend="sup">r</hi> Verduron, tenoient des Flambeaux de cire blanche. Apres que le
+          Chœurs de Musique chanterent, &amp; vingt-quatre Valets vestus des Livrées de M<hi rend="sup">r</hi> Verduron, tenoient des Flambeaux de cire blanche. Apres que le
           Baptesme fut fait, on alla se promener dans un Jardin à un demy-quart de lieuë de la
           Ville. On fut surpris des Divertissemens qu’on y trouva préparez. On s’avança au bord d’un
           Vivier, où deux petites Armées Navales commencerent à combatre ensemble. On ne peut rien
@@ -1312,8 +1233,7 @@
         <quote>
           <label>AIR ITALIEN.<note resp="editor">Le <hi rend="italic">Mercure galant</hi> du mois de mai 1678 publie une <ref target="MG-1678-05_109b">traduction du poème</ref>.</note></label>
           <lg>
-            <l rend="i">QUesta bella d’amor nemica e mia<note resp="author" place="margin"><hi
-                  rend="i">Avis pour placer les Figures</hi> : l’Air Italien doit regarder la page
+            <l rend="i">QUesta bella d’amor nemica e mia<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air Italien doit regarder la page
                 257.</note></l>
             <l rend="i">La mia tenera Iole.</l>
             <l rend="i">Alle prime parole</l>
@@ -1356,8 +1276,7 @@
           faut qu’entendre Mademoiselle Ange, qui depuis deux mois qu’elle a pris Leçon de luy, a
           tellement augmenté, soit pour la methode, soit pour la finesse du Jeu, qu’il semble
           qu’elle ne se reconnoisse plus elle-mesme. M<hi rend="sup">r</hi> Dessansonnieres
-          s’attache particulierement à rendre l’ame à tous les Ouvrages de feu M<hi rend="sup"
-            >r</hi> Gautier de Lyon, par l’air &amp; le mouvement qui leur est particulier, &amp; il
+          s’attache particulierement à rendre l’ame à tous les Ouvrages de feu M<hi rend="sup">r</hi> Gautier de Lyon, par l’air &amp; le mouvement qui leur est particulier, &amp; il
           est aisé de connoistre qu’il s’étudie à les imiter dans les Pieces qu’il compose.</p>
       </div>
       <div type="article" xml:id="MG-1678-03_262" resp="louise">
@@ -1438,11 +1357,9 @@
           donna lieu, comme on l’avoit crû, de bien fermer les Passages de Gand. Tant de divers
           mouvemens causerent plusieurs sortes d’avantages. Ils n’empescherent pas seulement les
           Ennemis de former un Corps, &amp; de rien soupçonner du Siege de cette Place, mais ils
-          fatiguérent encor beaucoup les Allemans. Voicy de quelle maniere on l’investit. M<hi
-            rend="sup">r</hi> le Mareschal de Humieres apres estre venu jusqu’au Quesnoy par la
+          fatiguérent encor beaucoup les Allemans. Voicy de quelle maniere on l’investit. M<hi rend="sup">r</hi> le Mareschal de Humieres apres estre venu jusqu’au Quesnoy par la
           route du Hainaut, se rendit à Tournay le dernier de Fevrier sur les dix heures du matin.
-          Il en partit une heure apres, &amp; arriva à l’entrée de la nuit à Oudenarde, d’où M<hi
-            rend="sup">r</hi> de Chamlilly partit sur les cinq heures avec un Pont volant pour
+          Il en partit une heure apres, &amp; arriva à l’entrée de la nuit à Oudenarde, d’où M<hi rend="sup">r</hi> de Chamlilly partit sur les cinq heures avec un Pont volant pour
           jetter sur le grand Escaut à Mesle. On fit partir dans le mesme temps un semblable Pont
           qui arriva à Deins sur les onze heures du soir. M<hi rend="sup">r</hi> le Marquis de Ranes
           s’y rendit pour monter droit au Canal de Bruges, &amp; établir son Pont à Markerke. Ces
@@ -1468,8 +1385,7 @@
           ordre de tenir tout prest, ignoroient à quel usage on le vouloit employer. On avoit fait
           cuire du Biscuit longtemps auparavant, parce que les lieux où l’on cuit le Pain font
           deviner ordinairement où l’on doit aller. Mille Chevaux d’équipages estoient toûjours
-          prest avec leurs Coliers pour marcher du costé qu’on jugeroit à propos. M<hi rend="sup"
-            >r</hi> de Louvoys ne mena aucuns équipages, afin qu’on ne se doutast pas qu’il dust
+          prest avec leurs Coliers pour marcher du costé qu’on jugeroit à propos. M<hi rend="sup">r</hi> de Louvoys ne mena aucuns équipages, afin qu’on ne se doutast pas qu’il dust
           passer si avant. On prit mille autres précautions dont je laisse le détail. Elles ne sont
           peut-estre pas sçeuës de ceux-mesmes qui ont travaillé pour l’accomplissement d’un si
           grand dessein. La vray-semblance s’y trouvoit si peu, que le Duc de Villa Hermosa n’en
@@ -1477,8 +1393,7 @@
           Places investies dont je vous ay parlé ; &amp; comme il y avoit donné ordre, il se
           promenoit tranquillement à Bruxelles, lors qu’un nouveau Courrier luy apprit que Gand
           estoit investy. Il répondit, <hi rend="i">qu’il ne donnoit pas dans ce panneau</hi>. On
-          luy repartit, <hi rend="i">que c’estoit une nouvelle assurée</hi>. Il dit de nouveau, <hi
-            rend="i">qu’il ne la croyoit pas, parce qu’elle ne pouvoit estre vraye</hi>. Et voyant
+          luy repartit, <hi rend="i">que c’estoit une nouvelle assurée</hi>. Il dit de nouveau, <hi rend="i">qu’il ne la croyoit pas, parce qu’elle ne pouvoit estre vraye</hi>. Et voyant
           que le Courrier continuoit à luy tenir le mesme langage, il le menaça de le faire punir,
           s’il soûtenoit plus longtemps des impostures. Le Marquis de Borgomeinero qui estoit aupres
           du Roy d’Angleterre, n’eut pas moins d’incrédulité pour ce Siege ; &amp; quand le bruit en
@@ -1486,13 +1401,11 @@
           disposa les Quartiers. Vous les comprendrez plus aisément, quand je vous auray dit un mot
           des Rivieres des environs. L’Escaut qui décend d’Oudenarde, s’appelle le petit Escaut,
           &amp; le grand est celuy qui de Gand va à Dendermonde. On le nomme ainsi, à cause de la
-          Lys, qu’il reçoit. Le Quartier du Roy estoit entre le petit &amp; le grand Escaut. M<hi
-            rend="sup">r</hi> le Mareschal de Humieres y commandoit sous les ordres de Sa Majesté.
+          Lys, qu’il reçoit. Le Quartier du Roy estoit entre le petit &amp; le grand Escaut. M<hi rend="sup">r</hi> le Mareschal de Humieres y commandoit sous les ordres de Sa Majesté.
           On avoit fait camper vingt-deux Bataillons sur cette Ligne. Il y en avoit une seconde de
           vingt-un Escadrons derriere eux, la plûpart de la Maison du Roy ; &amp; la troisiéme
           estoit composée de vingt autres Escadrons. Les Mousquetaires &amp; les Grenadiers à cheval
-          estoient autour du Logis du Roy. Le second Quartier qui estoit celuy de M<hi rend="sup"
-            >r</hi> le Mareschal de Schomberg, estant de moindre étenduë, n’avoit qu’onze Bataillons
+          estoient autour du Logis du Roy. Le second Quartier qui estoit celuy de M<hi rend="sup">r</hi> le Mareschal de Schomberg, estant de moindre étenduë, n’avoit qu’onze Bataillons
           derriere vingt-un Escadrons, &amp; pour troisiéme distance onze Escadrons. Ce Quartier
           estoit situé entre le grand Escaut &amp; la Durme. Le troisiéme, c’est à dire celuy de
             M<hi rend="sup">r</hi> de Luxembourg, tenoit depuis la Durme jusques au Canal du Sas de
@@ -1503,16 +1416,14 @@
           venir du costé de Bruges &amp; d’Ypres, ils estoient moins garnis de Troupes, &amp; on
           s’estoit contenté d’y mettre une seule Ligne meslée de Dragons d’Infanterie &amp; de
           Cavalerie. Le premier alloit du Canal du Sas à celuy de Bruges, &amp; il n’y avoit que six
-          Bataillons meslez avec huit Escadrons, moitié Cavalerie &amp; Dragons. M<hi rend="sup"
-            >r</hi> le Mareschal de Lorge estoit porté depuis le Canal de Bruges jusques à la Lys,
+          Bataillons meslez avec huit Escadrons, moitié Cavalerie &amp; Dragons. M<hi rend="sup">r</hi> le Mareschal de Lorge estoit porté depuis le Canal de Bruges jusques à la Lys,
           avec huit Bataillons &amp; huit Escadrons ordonnez comme dans l’autre Quartier ; &amp;
             M<hi rend="sup">rs</hi> de Vendosme &amp; de Maulevrier occupoient tout l’espace qui se
           trouve depuis la Lys jusques au petit Escaut, avec huit Bataillons &amp; huit Bataillons
           &amp; huit Escadrons meslez sur la mesme Ligne. Le Pont de l’Artillerie y estoit aussi,
           avec quatre Bataillons de Fusiliers. M<hi rend="sup">r</hi> le Grand-Maistre commandoit
           cette Artillerie, &amp; avoit sous luy M<hi rend="sup">r</hi> du Mets qui en est
-          Lieutenant General. Son expérience est connuë aussi-bien que celle de M<hi rend="sup"
-            >r</hi> de Vauban qui conduisoit les Travaux. Avant que de vous parler de l’ouverture de
+          Lieutenant General. Son expérience est connuë aussi-bien que celle de M<hi rend="sup">r</hi> de Vauban qui conduisoit les Travaux. Avant que de vous parler de l’ouverture de
           la Tranchée, il est bon de vous dire deux mots de Gand. Cette grande Ville est située dans
           les Païs-Bas. On les nomme ainsi, à cause qu’ils sont dans un plat Païs &amp; vers la Mer,
           où les Rivieres ont leur pente. Le nom de Flandres qu’on leur donne en general, est le nom
@@ -1555,8 +1466,7 @@
             qu’il aimoit, l’Empereur survint en sa Chambre. Le Roy luy dit</hi>. Monsieur mon Frere,
           il faut que vous sçachiez le conseil que cette belle Dame me donne. Elle est d’avis que je
           vous retienne prisonnier jusques à ce que vous m’ayez rendu Milan &amp; Naples. Vrayment,
-            <hi rend="i">dit l’Empereur</hi>, Monsieur mon Frere, elle vous conseille bien. <hi
-            rend="i">Quoy que le Roy eust lâché ce mot avec la liberté Françoise, neantmoins
+            <hi rend="i">dit l’Empereur</hi>, Monsieur mon Frere, elle vous conseille bien. <hi rend="i">Quoy que le Roy eust lâché ce mot avec la liberté Françoise, neantmoins
             l’Empereur le reçeut douteusement ; &amp; le lendemain lavant les mains pour souper avec
             le Roy, il mit en sa bouche un grand &amp; précieux Diamant qu’il laissa choir à dessein
             au pied de la Duchesse d’Estampes qui tenoit la Serviette, &amp; si à propos, qu’elle
@@ -1566,8 +1476,7 @@
         <p>Ces deux endroits de l’Histoire justifient assez ce que je vous ay dit de l’importance
           qu’estoit pour Charles-quint la conservation de Gand. Il y a grande apparence qu’il ne
           fust pas venu risquer sa liberté dans une Cour étrangere, si la necessité de ce Voyage ne
-          luy eust paru plus forte que le péril. Je vous ay déja dit une partie de ce que <hi
-            rend="sc">Loüis le Grand</hi> a fait pour conquérir cette Place. Il prit d’abord sa
+          luy eust paru plus forte que le péril. Je vous ay déja dit une partie de ce que <hi rend="sc">Loüis le Grand</hi> a fait pour conquérir cette Place. Il prit d’abord sa
           route du costé de Mets ; &amp; le dixiéme jour apres y estre arrivé, il se trouva devant
           Gand de si bonne heure, qu’on pourroit n’en compter que neuf ; encor le sejour qu’il a
           fait à Mets, &amp; le temps qu’il a employé à visiter quelques Places, sont-ils compris
@@ -1581,8 +1490,7 @@
           que M<hi rend="sup">r</hi> le Mareschal de Humieres &amp; M<hi rend="sup">r</hi> le
           Marquis de Chamilly faisoient de leurs courses ordinaires dans le Païs de Vaës &amp; aux
           environs, pour brûler &amp; piller tout ce qu’ils trouveroient, &amp; ils ne commencerent
-          à se desabuser que lors que tout l’Armée fut devant la Place. Dés que M<hi rend="sup"
-            >r</hi> de Chamilly y fut arrivé, il fit attaquer par les Dragons de la Roche-Thulon le
+          à se desabuser que lors que tout l’Armée fut devant la Place. Dés que M<hi rend="sup">r</hi> de Chamilly y fut arrivé, il fit attaquer par les Dragons de la Roche-Thulon le
           Fauxbourg de Musoté, sur le bord du Canal du Sas, où les Ennemis avoient un petit Fort,
           &amp; où ils s’estoient postez encor dans des Moulins. Il les emporta, fit quelques
           Prisonniers, &amp; y mit M<hi rend="sup">r</hi> de la Roche. Le Roy estant arrivé au Camp
@@ -1604,8 +1512,7 @@
           des Gardes Françoises, &amp; à la gauche par deux de Navarre &amp; un de Bourgogne. Deux
           Escadrons des Gardes du Corps estoient de garde, &amp; M<hi rend="sup">r</hi> le Mareschal
           de Humieres, de jour. M<hi rend="sup">r</hi> le Grand-Maistre &amp; M<hi rend="sup">r</hi>
-          de Chamilly servoient d’Officiers Generaux. Ils avoient chacun leur Attaque. M<hi
-            rend="sup">r</hi> de Chamilly poussa la sienne jusques sur la Contrescarpe, où apres
+          de Chamilly servoient d’Officiers Generaux. Ils avoient chacun leur Attaque. M<hi rend="sup">r</hi> de Chamilly poussa la sienne jusques sur la Contrescarpe, où apres
           avoir fait un Logement, il insulta le Fort S. Pierre, &amp; l’emporta, quoyqu’il eust
           quatre Bastions, &amp; qu’il eust quatre Bastions, &amp; qu’il eust pû se défendre
           longtemps. La mesme nuit M<hi rend="sup">rs</hi> Olier, de Saillant, &amp; quelques autres
@@ -1640,10 +1547,8 @@
         <p>La nuit du 6. au 7. deux Bataillons des Gardes Suisses, un troisiéme Bataillon de
           Navarre, &amp; le Bataillon du Regiment du Plessis-Praslin, monterent la Tranchée, les
           Gardes Suisses à la gauche &amp; les autres à la droite. Le Mareschal de France de jour
-          estoit M<hi rend="sup">r</hi> de Schomberg, &amp; les Officiers Genéraux M<hi rend="sup"
-            >rs</hi> de Maulevrier &amp; de la Motte. La nuit fut tres-fâcheuse ; la pluye &amp; le
-          vent ne discontinuerent point. On ne laissa pas de gagner la Contrescarpe. M<hi rend="sup"
-            >r</hi> Perot Ingénieur fut blessé au visage. Le Canon tira tout le 7. contre la
+          estoit M<hi rend="sup">r</hi> de Schomberg, &amp; les Officiers Genéraux M<hi rend="sup">rs</hi> de Maulevrier &amp; de la Motte. La nuit fut tres-fâcheuse ; la pluye &amp; le
+          vent ne discontinuerent point. On ne laissa pas de gagner la Contrescarpe. M<hi rend="sup">r</hi> Perot Ingénieur fut blessé au visage. Le Canon tira tout le 7. contre la
           Ville.</p>
         <p>Le mesme jour un Boulet de la Citadelle donna dans le lieu où M<hi rend="sup">r</hi> de
           Chamilly s’habilloit. Son Valet de Chambre qui luy présentoit ses Habits, fut tué, les
@@ -1690,8 +1595,7 @@
           &amp; palissadée par le bas, &amp; dans laquelle on ne pût monter qu’en essuyant le feu
           des Grenades des Ennemis. M<hi rend="sup">r</hi> de S. Gilles desarma d’abord une
           Sentinelle. Les Ennemis avoient fait paroistre pendant le jour sur le Parapet des Faux
-          emmanchés à revers, mais on ne leur laissa pas le temps de s’en servir. M<hi rend="sup"
-            >rs</hi> de Poudenas &amp; de Mazerolles Pages de la Grande Ecurie, avec plusieurs
+          emmanchés à revers, mais on ne leur laissa pas le temps de s’en servir. M<hi rend="sup">rs</hi> de Poudenas &amp; de Mazerolles Pages de la Grande Ecurie, avec plusieurs
           Volontaires, entre lesquels estoit M<hi rend="sup">r</hi> le Chevalier de Courcelles, se
           trouverent à cette entreprise aupres de M<hi rend="sup">r</hi> le Duc de Villeroy qui
           demeura un grand quart-d’heure à la teste du Travail exposé au feu du Rampart. Ce Duc
@@ -1714,8 +1618,7 @@
           aussitost qu’on s’en fut rendu maistre, &amp; l’on en prit la Contrescarpe. Le 11. on fit
           un Logement sur une Contregarde, sur laquelle on dressa une Baterie. Elle rompit un Pont
           qui communiquoit à une Demy-Lune. M<hi rend="sup">rs</hi> de Ranes, d’Albret, &amp; de
-          Sourdis, ont servy d’Officiers Genéraux aux Attaques de cette Citadelle, dont M<hi
-            rend="sup">r</hi> de Chamilly a fort avancé la prise. Il demanda permission au Roy
+          Sourdis, ont servy d’Officiers Genéraux aux Attaques de cette Citadelle, dont M<hi rend="sup">r</hi> de Chamilly a fort avancé la prise. Il demanda permission au Roy
           d’aller persuader au Gouverneur qu’il se devoit rendre ; &amp; il y réüssit si bien, qu’il
           l’engagea à le faire. La nouvelle en fut apportée à Sa Majesté par M<hi rend="sup">r</hi>
           de Villévra Capitaine des Gardes de M<hi rend="sup">r</hi> le Duc de Luxembourg. La
@@ -2026,20 +1929,15 @@
           <l rend="i"><space/>Qui m’a donné plus d’un jour à songer ;</l>
           <l rend="i">C’est là tout ce qu’au vray sa Conqueste me coûte.</l>
         </quote>
-        <p>Ceux qui l’ont deviné comme luy, sans avoir deviné celle de l’Enseigne, sont, M<hi
-            rend="sup">r</hi> de la Vessiere, M<hi rend="sup">r</hi> du Bois Procureur du Roy, de
+        <p>Ceux qui l’ont deviné comme luy, sans avoir deviné celle de l’Enseigne, sont, M<hi rend="sup">r</hi> de la Vessiere, M<hi rend="sup">r</hi> du Bois Procureur du Roy, de
           Ham ; M<hi rend="sup">r</hi> Hébert Avocat, du Valois ; M<hi rend="sup">r</hi> du Teil ;
-            M<hi rend="sup">r</hi> Charpentier Commis au Domaine du Languedoc ; M<hi rend="sup"
-            >r</hi> de Valnay Controlleur de la Maison du Roy ; la Ville de Ham en Picardie ; M<hi
-            rend="sup">r</hi> Arnoulet de Loche-Fontaine, President de la Cour des Monnoyes ; M<hi
-            rend="sup">r</hi> de Chantoiseau, de Brie-Comte-Robert ; M<hi rend="sup">r</hi> Evrard ;
+            M<hi rend="sup">r</hi> Charpentier Commis au Domaine du Languedoc ; M<hi rend="sup">r</hi> de Valnay Controlleur de la Maison du Roy ; la Ville de Ham en Picardie ; M<hi rend="sup">r</hi> Arnoulet de Loche-Fontaine, President de la Cour des Monnoyes ; M<hi rend="sup">r</hi> de Chantoiseau, de Brie-Comte-Robert ; M<hi rend="sup">r</hi> Evrard ;
             M<hi rend="sup">r</hi> d’Argincourt ; M<hi rend="sup">r</hi> Gauthier ; Mademoiselle
           Portail, Fille du Gouverneur de Brie-Comte-Robert ; M<hi rend="sup">r</hi> Boulanger, de
           Dinan en Bretagne ; M<hi rend="sup">r</hi> de la Barmondiere, Secretaire du Roy, &amp;
           Procureur du Roy, de Villefranche ; Mademoiselle Vastel, de Roüen ; M<hi rend="sup">r</hi>
           Greaume de Bergeromare, Avocat du Roy au Ponteau de Mer ; M<hi rend="sup">r</hi> du
-          Mata-d’Emery ; M<hi rend="sup">r</hi> le Lieutenant General de Meaux ; M<hi rend="sup"
-            >r</hi> Coüet, &amp; M<hi rend="sup">r</hi> Lagréve, de Lyon. Plusieurs l’ont expliquée
+          Mata-d’Emery ; M<hi rend="sup">r</hi> le Lieutenant General de Meaux ; M<hi rend="sup">r</hi> Coüet, &amp; M<hi rend="sup">r</hi> Lagréve, de Lyon. Plusieurs l’ont expliquée
           sur <hi rend="i">l’Or, la Pique le Sceptre</hi>, &amp; <hi rend="i">la Pierre de
             Taille</hi>.</p>
       </div>
@@ -2092,34 +1990,24 @@
             <l rend="i"><space/>Et ne signifie autre chose.</l>
           </lg>
         </quote>
-        <p>Ce mot a esté aussi trouvé par M<hi rend="sup">r</hi> de Fontenay Capitaine ; M<hi
-            rend="sup">r</hi> Cousinot Abbé de Nostre-Dame de Sully ; M<hi rend="sup">r</hi>
+        <p>Ce mot a esté aussi trouvé par M<hi rend="sup">r</hi> de Fontenay Capitaine ; M<hi rend="sup">r</hi> Cousinot Abbé de Nostre-Dame de Sully ; M<hi rend="sup">r</hi>
           Baillon ; M<hi rend="sup">r</hi> Boissel, du Pont-Levesque ; M<hi rend="sup">r</hi>
           Trébuchet, d’Auxerre ; M<hi rend="sup">r</hi> Malbet, Directeur des Postes de Champagne ;
-          &amp; M<hi rend="sup">r</hi> Hébert de Rocmont. D’autres ont prétendu que ce fut <hi
-            rend="i">le Papier, la Monnoye, la Lettre missive, la Toile, le Canevas à faire de la
+          &amp; M<hi rend="sup">r</hi> Hébert de Rocmont. D’autres ont prétendu que ce fut <hi rend="i">le Papier, la Monnoye, la Lettre missive, la Toile, le Canevas à faire de la
             Tapisserie</hi>, &amp; <hi rend="i">l’Impression</hi>.</p>
       </div>
       <div type="article" xml:id="MG-1678-03_365" resp="mercure">
         <head>[Noms de tous ceux qui ont des explications à ces deux Enigmes]</head>
         <bibl><title>Mercure galant</title>, mars 1678 [tome 3], p. 365-368.</bibl>
         <p>Outre ceux que je viens de vous nommer, il y en a eu quantité qui ont trouvé le véritable
-          sens de toutes ces deux Enigmes, &amp; ce sont, M<hi rend="sup">r</hi> Baisé ; M<hi
-            rend="sup">r</hi> de S. Amour ; M<hi rend="sup">r</hi> de Dur-Ecu, S<hi rend="sup"
-            >r</hi> de la Chategneraye, Gentilhomme du Vexin ; M<hi rend="sup">r</hi> Drével ; M<hi
-            rend="sup">r</hi> de Boschar, Chanoine en Normandie ; Mademoiselle Loisseau, de
+          sens de toutes ces deux Enigmes, &amp; ce sont, M<hi rend="sup">r</hi> Baisé ; M<hi rend="sup">r</hi> de S. Amour ; M<hi rend="sup">r</hi> de Dur-Ecu, S<hi rend="sup">r</hi> de la Chategneraye, Gentilhomme du Vexin ; M<hi rend="sup">r</hi> Drével ; M<hi rend="sup">r</hi> de Boschar, Chanoine en Normandie ; Mademoiselle Loisseau, de
           Coulommiers ; Mademoiselle Pingré ; M<hi rend="sup">r</hi> le Boiteux, Chanoine de Sens ;
-            M<hi rend="sup">r</hi> Tatonne de Gassendy, President au Parlement de Provence ; M<hi
-            rend="sup">r</hi> de Soucanie, Avocat à Roye ; Mesdemoiselles Nicolas ; M<hi rend="sup"
-            >r</hi> de Volonne Gentilhomme de Provence ; la Belle Bergere Provençale ; Un jeune
-          Conseiller, qui par de belles Explications en Vers s’est raccommodé avec les Muses ; M<hi
-            rend="sup">r</hi> du Bois Avocat au Parlement ; Les Dames de Richelieu ; M<hi rend="sup"
-            >r</hi> l’Abbé Montel, de Riom ; La Dame Invisible ; M<hi rend="sup">r</hi> Potier, Fils
+            M<hi rend="sup">r</hi> Tatonne de Gassendy, President au Parlement de Provence ; M<hi rend="sup">r</hi> de Soucanie, Avocat à Roye ; Mesdemoiselles Nicolas ; M<hi rend="sup">r</hi> de Volonne Gentilhomme de Provence ; la Belle Bergere Provençale ; Un jeune
+          Conseiller, qui par de belles Explications en Vers s’est raccommodé avec les Muses ; M<hi rend="sup">r</hi> du Bois Avocat au Parlement ; Les Dames de Richelieu ; M<hi rend="sup">r</hi> l’Abbé Montel, de Riom ; La Dame Invisible ; M<hi rend="sup">r</hi> Potier, Fils
           du Lieutenant Particulier de Montreüil ; Mr Chibert de Montigny ; M<hi rend="sup">r</hi>
           Brisseau Medecin de Tournay ; M<hi rend="sup">r</hi> l’Agrené de Vruilly ; Mademoiselle de
           la Salle, Cousine du Lieutenant General de Blois ; La nouvelle Societé Cloistrée de Lyon ;
-            M<hi rend="sup">r</hi> Hourdaut ; Les Députez de la Jeunesse de Rheims ; M<hi rend="sup"
-            >r</hi> l’Abbé Villebaut ; &amp; M<hi rend="sup">r</hi> du Laurens, Prieur du
+            M<hi rend="sup">r</hi> Hourdaut ; Les Députez de la Jeunesse de Rheims ; M<hi rend="sup">r</hi> l’Abbé Villebaut ; &amp; M<hi rend="sup">r</hi> du Laurens, Prieur du
           Bois-Hallebout pres de Caën.</p>
       </div>
       <div type="article" xml:id="MG-1678-03_368" resp="mercure">
@@ -2168,20 +2056,14 @@
       <div type="article" xml:id="MG-1678-03_371" resp="mercure">
         <head>[Diverses Explications données à l’Enigme de Pandore]</head>
         <bibl><title>Mercure galant</title>, mars 1678 [tome 3], p. 371-373.</bibl>
-        <p>Il ne me reste plus à vous parler que de l’Enigme en figure. Celle de <hi rend="i"
-            >Pandore</hi> estant une des plus belles qui se soient veuës depuis longtemps, a donné
+        <p>Il ne me reste plus à vous parler que de l’Enigme en figure. Celle de <hi rend="i">Pandore</hi> estant une des plus belles qui se soient veuës depuis longtemps, a donné
           lieu à de tres-belles Explications que vous verrez le 26. du Mois prochain dans ma Lettre
           extraordinaire. M<hi rend="sup">r</hi> des Bois Avocat, l’a appliqué <hi rend="i">à la
-            Jalousie dans le Mariage</hi>, ou <hi rend="i">à la Pierre Philosophale</hi> ; M<hi
-            rend="sup">r</hi> la Croix, Procureur du Roy de Ham, <hi rend="i">au Depart de sa
-            Majesté</hi>, &amp; <hi rend="i">à l’Ouverture de la Campagne</hi> ; Un Inconnu, <hi
-            rend="i">à la Paix refusée par les Espagnols, duquel refus toute sorte de maux sont
+            Jalousie dans le Mariage</hi>, ou <hi rend="i">à la Pierre Philosophale</hi> ; M<hi rend="sup">r</hi> la Croix, Procureur du Roy de Ham, <hi rend="i">au Depart de sa
+            Majesté</hi>, &amp; <hi rend="i">à l’Ouverture de la Campagne</hi> ; Un Inconnu, <hi rend="i">à la Paix refusée par les Espagnols, duquel refus toute sorte de maux sont
             produits</hi> ; M<hi rend="sup">r</hi> Baisé, <hi rend="i">à l’Ecusson</hi> ; Un Inconnu
-          de Troye, <hi rend="i">au Soleil</hi> ; M<hi rend="sup">r</hi> Verreau de Dijon, <hi
-            rend="i">aux malheurs du mariage d’une jeune Beauté avec un Vieillard</hi> ; M<hi
-            rend="sup">r</hi> du Bois Avocat en Parlement, <hi rend="i">au Mariage</hi> ;
-          Mesdemoiselles Nicolas, <hi rend="i">au dégoust dans le Mariage</hi> ; M<hi rend="sup"
-            >r</hi> de Roux, <hi rend="i">à l’Amour</hi> ; Une tres-spirituelle Demoiselle du Païs
+          de Troye, <hi rend="i">au Soleil</hi> ; M<hi rend="sup">r</hi> Verreau de Dijon, <hi rend="i">aux malheurs du mariage d’une jeune Beauté avec un Vieillard</hi> ; M<hi rend="sup">r</hi> du Bois Avocat en Parlement, <hi rend="i">au Mariage</hi> ;
+          Mesdemoiselles Nicolas, <hi rend="i">au dégoust dans le Mariage</hi> ; M<hi rend="sup">r</hi> de Roux, <hi rend="i">à l’Amour</hi> ; Une tres-spirituelle Demoiselle du Païs
           du Maine, <hi rend="i">à la Femme</hi> ; M<hi rend="sup">r</hi> Couture, <hi rend="i">au
             Caresme</hi> ; &amp; d’autres, <hi rend="i">à la Bombe ou Carcasse, à la Mine</hi>,
           &amp; <hi rend="i">à la Goute</hi>.</p>
@@ -2241,8 +2123,7 @@
         <p>Vous trouvez <hi rend="i">la Duchesse de Cleves</hi> dans mon Paquet. Vous sçavez depuis
           quel temps &amp; avec quelle favorable préoccupation tout le monde l’attendoit. Elle a
           remply cette attente, &amp; je suis certain que je ne vous pouvois procurer une lecture
-          plus agreable. On continuë à remettre les vieilles Pieces de l’incomparable M<hi
-            rend="sup">r</hi> de Corneille l’aîné, &amp; son <hi rend="i">Polyeucte</hi> a esté
+          plus agreable. On continuë à remettre les vieilles Pieces de l’incomparable M<hi rend="sup">r</hi> de Corneille l’aîné, &amp; son <hi rend="i">Polyeucte</hi> a esté
           representé tous ces derniers jours avec une foule &amp; des acclamations extraordinaires.
           En verité on peut dire qu’il y a de grands traits de Maistre dans tout ce qu’il fait,
           &amp; que jamais Homme n’a si bien manié toute sorte de Sujets. Son raisonnement est
@@ -2285,5 +2166,4 @@
         </ref>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

@@ -1,66 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xml:id="MG-1682-10a" xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, octobre 1682 (première partie) [tome 11]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2016"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1682-10a/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>octobre 1682</date> (première partie) [tome
-          11].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1682-10"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1682-10a_I">
         <head>Au Lecteur</head>
@@ -138,8 +76,7 @@
           </lg>
         </quote>
         <p/>
-        <p>Ces deux Hemistiches sont tirez d’un Panégyrique de Sidonius Apollinaris. M<hi rend="sup"
-            >r</hi> Bompart le Cadet, a donné l’explication de cette Devise par ce Madrigal.</p>
+        <p>Ces deux Hemistiches sont tirez d’un Panégyrique de Sidonius Apollinaris. M<hi rend="sup">r</hi> Bompart le Cadet, a donné l’explication de cette Devise par ce Madrigal.</p>
         <quote>
           <lg>
             <l rend="i">Soleil, en parcourant tout ce vaste Univers,</l>
@@ -887,18 +824,15 @@
           40-41, 51-58.</bibl>
         <p/>
         <p>Le dimanche 30. jour destiné pour le <hi rend="i">Te Deum</hi>, l'Infanterie &amp; la
-          Cavalerie se rendirent autour de l'Eglise Cathédrale à l'heure de Vespres. M<hi rend="sup"
-            >r</hi> le Marquis d'Ambres &amp; M<hi rend="sup">r</hi> Foucault y arriverent, le
+          Cavalerie se rendirent autour de l'Eglise Cathédrale à l'heure de Vespres. M<hi rend="sup">r</hi> le Marquis d'Ambres &amp; M<hi rend="sup">r</hi> Foucault y arriverent, le
           premier accompagné des Consuls &amp; de plusieurs Gentilshommes, &amp; le second à la
-          teste du Présidial. La Cour des Aydes en Robes rouges s'y estoit déjà renduë. Le <hi
-            rend="i">Te Deum</hi> fut chanté par la Musique, &amp; pendant ce temps la Mousqueterie
+          teste du Présidial. La Cour des Aydes en Robes rouges s'y estoit déjà renduë. Le <hi rend="i">Te Deum</hi> fut chanté par la Musique, &amp; pendant ce temps la Mousqueterie
           se fit entendre, aussi bien que les Trompetes, les Tambours, les Fifres, &amp; les
           Hautbois. on fit aussi les décharges de huit Piéces de Canon, que M<hi rend="sup">r</hi>
           l'Intendant avoit fait venir de Picocos. Ensuite M<hi rend="sup">r</hi> le Marquis
           d'Ambres à la teste des Consuls, &amp; accompagné de l'Infanterie &amp; de la Cavalerie,
           alla allumer le Feu qu'on avoit dressé dans la grande Place. Toutes les Troupes défilerent
-          devant ce Feu, &amp; firent leur décharge quatre à quatre, aux cris redoublez de <hi
-            rend="i">Vive le Roy</hi>. Le soir on fit joüer un Feu d'artifice. Sa Majesté y estoit
+          devant ce Feu, &amp; firent leur décharge quatre à quatre, aux cris redoublez de <hi rend="i">Vive le Roy</hi>. Le soir on fit joüer un Feu d'artifice. Sa Majesté y estoit
           réprésentée, dans son Trône sous un magnifique Pavillon, Monseigneur le Dauphin au
           dessous, &amp; à ses pieds Monseigneur le Duc de Bourgogne dans un Berceau. Quatre
           Figures, dans une posture soûmise, estoient aux quatre coins du Theatre. [...]</p>
@@ -921,12 +855,10 @@
           Comté se trouverent sous les armes par les soins de M<hi rend="sup">r</hi> de Montaignes.
           C'est un Gentilhomme de mérite, qui a passé ses années au service de Sa Majesté, &amp; qui
           est présentement Capitaine du Chasteau, Ville &amp; Comté de Jarnac. A peine le jour eut
-          commencé de paroître, qu'au bruit des Mousquets, des Tambours &amp; des Trompetes, M<hi
-            rend="sup">r</hi> le Chevalier de Jarnac fit arborer les Armes de France, environnées de
+          commencé de paroître, qu'au bruit des Mousquets, des Tambours &amp; des Trompetes, M<hi rend="sup">r</hi> le Chevalier de Jarnac fit arborer les Armes de France, environnées de
           Dauphins, au haut d'une des Tours du Chasteau, du costé d'une Isle que la Charente forme,
           &amp; dans laquelle il avoit fait préparer le Feu de joye. Sur les dix heures, Madame de
-          Pons-de-Bourg &amp; et Madame la comptesse de Miossens sa Fille, arriverent avec M<hi
-            rend="sup">r</hi> le Chevalier de Pons-de-Bourg, Petit-Fils de l'une, &amp; Neveu de
+          Pons-de-Bourg &amp; et Madame la comptesse de Miossens sa Fille, arriverent avec M<hi rend="sup">r</hi> le Chevalier de Pons-de-Bourg, Petit-Fils de l'une, &amp; Neveu de
           l'autre, que M<hi rend="sup">r</hi> le Chevalier de Jarnac avoit prié de venir allumer le
           Feu. Il n'a encor que sept ans, &amp; est le Fils de M<hi rend="sup">r</hi> le Marquis
           d'Heudicourt, Grand Louvétier de France. Toute la Noblesse du Voisinage se trouva aussi
@@ -939,8 +871,7 @@
           midy, qu'elle se mit en haye des deux costez des Ruës, où la Compagnie devoit passer pour
           aller entendre le <hi rend="i">Te Deum</hi> à l'Eglise Paroissiale de S. Pierre. Le petit
           Chevalier de Pont-de-Bourg y fut conduit, comme recevant tous les honneurs de cette
-          Ceremonie, par six Gardes de M<hi rend="sup">r</hi> le Comte de Jarnac, commandez par M<hi
-            rend="sup">r</hi> de Montplaisir qui en est l'Enseigne. Il fut ramené de mesme après que
+          Ceremonie, par six Gardes de M<hi rend="sup">r</hi> le Comte de Jarnac, commandez par M<hi rend="sup">r</hi> de Montplaisir qui en est l'Enseigne. Il fut ramené de mesme après que
           l'on eut chanté le <hi rend="i">Te Deum</hi>, auquel les Recollets du Convent que ce même
           Comte a fondez, assisterent en procession. Au retour tout le monde s'abandonna à la joye.
           Les Salles &amp; les Chambres de tous les Appartemens qui sont en grand nombre, pouvoient
@@ -1061,8 +992,7 @@
           65-67.</bibl>
         <p/>
         <p>La joye n'a pas esté moindre dans la Ville de Cognac, &amp; ce qui s'est fait par les
-          ordres de M<hi rend="sup">r</hi> le Comte d'Aubigny son Gouverneur, &amp; de M<hi
-            rend="sup">r</hi> Daniaud qui en est Maire, marque le zele qu'elle a pour le Roy. Je
+          ordres de M<hi rend="sup">r</hi> le Comte d'Aubigny son Gouverneur, &amp; de M<hi rend="sup">r</hi> Daniaud qui en est Maire, marque le zele qu'elle a pour le Roy. Je
           passe tout ce qui peut estre commun aux autres Villes, pour m'attacher à une réjoüissance
           que vous trouverez tres-singuliere. Ce fut un combat de deux Escadrons de Cavalerie qui se
           fit dans la Riviere au mesme temps qu'un tres-beau Feu d'artifice joüoit dans une Isle,
@@ -1103,8 +1033,7 @@
           distance sur la Riviere. Toutes les extrémitez de ces Mats, de ces Vergues, &amp; de ses
           autres manœuvres, estoient garnis de Falots. Un autre navire d'un Bourgeois de Blaye
           estoit éclairé de mesme, ce qui faisoit un effet assez agréable sur une Riviere fort
-          agitée. Apres ce Feu qui dura plus de deux heures, les Magistrats conduisirent M<hi
-            rend="sup">r</hi> Dastor dans une Salle ornée de Meubles tres-propres, &amp; de quantité
+          agitée. Apres ce Feu qui dura plus de deux heures, les Magistrats conduisirent M<hi rend="sup">r</hi> Dastor dans une Salle ornée de Meubles tres-propres, &amp; de quantité
           de fort beaux Lustres. La lumiere qu'ils rendoient donnoit un brillant éclat à un grand
           nombre de Dames qu'on y avoit assemblées. On leur servit une magnifique Collation de Fruit
           &amp; de Confitures, avec des Liqueurs &amp; de la Limonade en abondance. Dans ce mesme
@@ -1150,8 +1079,7 @@
           mesme Cantique, M<hi rend="sup">r</hi> de Sartre, &amp; en suite tous les Penitens,
           l'allumerent. Le bruit de la Mousqueterie, des Bombes, Boëtes, &amp; Petards fut
           incontinent meslé aux cris de <hi rend="i">Vive le Roy</hi> que poussa la Peuple. Pendant
-          ce bruit, la Procession rentra dans la Chapelle, où l'on rendit graces à Dieu par le <hi
-            rend="i">Te Deum</hi> qui y fut chanté ; apres quoy on fit joüer le Feu d'artifice.
+          ce bruit, la Procession rentra dans la Chapelle, où l'on rendit graces à Dieu par le <hi rend="i">Te Deum</hi> qui y fut chanté ; apres quoy on fit joüer le Feu d'artifice.
           C'estoit un Theatre à quatre faces, dont chacune avoit deux toises &amp; demie en quarré.
           Les Bordures estoient de Laurier, entrelassées de Fleurs-de-Lys &amp; de Dauphins. Aux
           quatre angles du Theatre estoient quatre grandes Figures en relief, qui représentoient les
@@ -1162,8 +1090,7 @@
         <head resp="editor">Devises faites à Bézier.</head>
         <bibl><title>Mercure galant</title>, octobre 1682 (première partie) [tome 11],
           p. 73-78.</bibl>
-        <p>La Figure choisie pour le dessein de ce Feu, estoit de l’invention de M<hi rend="sup"
-            >r</hi> le Pul, aussi bien que huit Devises qui ornoient les Piédestaux des Pyramides.
+        <p>La Figure choisie pour le dessein de ce Feu, estoit de l’invention de M<hi rend="sup">r</hi> le Pul, aussi bien que huit Devises qui ornoient les Piédestaux des Pyramides.
           J’ajoûte icy ces Devises avec l’explication qu’il en a faite.</p>
         <p/>
         <p>La premiere avoit pour corps trois Fleurs-de-Lys, qui représentoient le Roy, Monseigneur
@@ -1299,8 +1226,7 @@
           je ne fais, combien ce don nous doit estre cher. L’Autheur m’en est inconnu. Quel qu’il
           puisse estre, il mérite beaucoup de loüanges pour un si galant Ouvrage.</p>
         <quote>
-          <label>SUR LA NAISSANCE<lb/>de M<hi rend="sup">r</hi> le Duc de Bourgogne.<lb/><hi
-              rend="sc">Ballade.</hi></label>
+          <label>SUR LA NAISSANCE<lb/>de M<hi rend="sup">r</hi> le Duc de Bourgogne.<lb/><hi rend="sc">Ballade.</hi></label>
           <lg>
             <l rend="i">Or est venu dedans nostre Univers</l>
             <l rend="i">Cet Heritier d’un assez bel Empire,</l>
@@ -1751,8 +1677,7 @@
         <p>M<hi rend="sup">r</hi> Arnaud, Evesque d'Angers, fit chanter le <hi rend="i">Te Deum</hi>
           dans son Eglise Cathédrale de Saint Maurice, le Dimanche 23. Aoust. Le Présidial, le Corps
           de Ville, la Prevosté, l'Election, &amp; le Corps des Marchands, y assisterent, le
-          Présidial en Robes rouges, &amp; les autres dans leurs Habits de cerémonie. M<hi
-            rend="sup">r</hi> d'Autichamp Gouverneur du Château, estoit à leur teste. Tout le Clergé
+          Présidial en Robes rouges, &amp; les autres dans leurs Habits de cerémonie. M<hi rend="sup">r</hi> d'Autichamp Gouverneur du Château, estoit à leur teste. Tout le Clergé
           s'y trouva aussi, composé de huit ou neuf Chapitres d'Eglises Collégiales, &amp; des
           Communautez des Mandians. Apres le <hi rend="i">Te Deum</hi> on se rendit en la Place
           publique des Hales, où le Feu fut allumé au bruit des Boëtes &amp; du Canon. On choisit
@@ -1860,8 +1785,7 @@
         <p>[...] A ce Repas succeda la Dance, qui donna lieu à ces aimables Demoiselles de faire
           paroître combien elles ont l’oreille juste. M<hi rend="sup">r</hi> de Courserac leur Pere
           s’est converty depuis peu avec sa belle &amp; grande Famille, composée de treize Enfans.
-          Il a deux Fils qui servent le Roy depuis douze ans. L’un qu’on appelle M<hi rend="sup"
-            >r</hi> de Bardon, est Capitaine dans le Régiment du Maine. L’autre est Lieutenant au
+          Il a deux Fils qui servent le Roy depuis douze ans. L’un qu’on appelle M<hi rend="sup">r</hi> de Bardon, est Capitaine dans le Régiment du Maine. L’autre est Lieutenant au
           Régiment Colonel, &amp; tous deux tres-braves. Je ne puis mieux finir cet article, que par
           un Sonnet de Mademoiselle de Bardon leur Sœur, sur le Laurier qu’elle a fait brûler. Il
           vous fera voir que si son cœur d’Amazone la rend Amie de Pallas, elle ne l’est pas moins
@@ -2228,16 +2152,13 @@
           entendre le raport, &amp; par ses lumieres ayant découvert la verité, fit rendre justice à
           l'Etranger. C'est avec plaisir qu'on parle plusieurs fois d'une chose qui fait connoistre
           que le Roy est grand en tout.</p>
-        <p>L'on vint dans l'ordre que je viens de vous marquer, jusqu'au Palais de M<hi rend="sup"
-            >r</hi> l'Ambassadeur, où le Cortege sur la fin de la Marche, s'empressa d'arriver pour
-          y recevoir l'Ambassadeur, qui ne descend de la Gondole que le dernier. M<hi rend="sup"
-            >r</hi> le Chevalier Cornaro &amp; les Sénateurs l'ayant conduit jusques dans sa Chambre
+        <p>L'on vint dans l'ordre que je viens de vous marquer, jusqu'au Palais de M<hi rend="sup">r</hi> l'Ambassadeur, où le Cortege sur la fin de la Marche, s'empressa d'arriver pour
+          y recevoir l'Ambassadeur, qui ne descend de la Gondole que le dernier. M<hi rend="sup">r</hi> le Chevalier Cornaro &amp; les Sénateurs l'ayant conduit jusques dans sa Chambre
           d'Audience, M<hi rend="sup">r</hi> Amelot remena ce Chevalier jusqu'à la Rive où estoit sa
           Barque, &amp; se retira ensuite sur la Porte de son Palais, pour remercier les Sénateurs à
           mesure qu'ils passerent. Si-tost qu'il y fut rentré, les Chambres en furent ouvertes à
           tout le monde. Le concours y fut extraordinaire, &amp; comme ce jour estoit un de ceux que
-          je vous ay dit, qu'on appelle d'Indulgence pleniere, les Nobles vinrent tous chez M<hi
-            rend="sup">r</hi> l'Ambassadeur aussi bien que la plûpart des Gentilhommes. Les
+          je vous ay dit, qu'on appelle d'Indulgence pleniere, les Nobles vinrent tous chez M<hi rend="sup">r</hi> l'Ambassadeur aussi bien que la plûpart des Gentilhommes. Les
           Appartemens estoient fort ornez, &amp; tout y brilloit par la quantité des lumieres. Les
           Violons se faisoient entendre dans la Salle, &amp; il n'y avoit presque aucune Chambre, où
           l'on ne trouvast des Concerts particuliers. Les Confitures seches, &amp; les Eaux fraîches
@@ -2587,8 +2508,7 @@
           recommencerent au bruit des Trompetes &amp; des Tambours, qui pour estre entendus de plus
           loin, s'estoient mis au Belveder. Ce qu'on admira le plus, fut une Machine en forme de
           Rouë, remplie de mille petits Globes tout en feu. Elle estoit placée au dessus du Toit de
-          l'Eglise, &amp; on la promenoit de tous costez. Le lendemain Feste de S. Loüis, M<hi
-            rend="sup">r</hi> l'Abbé de Glattens, Fils d'un Conseiller du Parlement, prononça le
+          l'Eglise, &amp; on la promenoit de tous costez. Le lendemain Feste de S. Loüis, M<hi rend="sup">r</hi> l'Abbé de Glattens, Fils d'un Conseiller du Parlement, prononça le
           Panégyrique du Saint, &amp; fit l'Eloge du Roy avec beaucoup d'éloquence. La solemnité
           fust continuée les deux jours suivans, &amp; finit par le <hi rend="i">Te Deum</hi> chanté
           en Musique, &amp; suivy d'une Illumination plus belle que la premiere.</p>
@@ -2603,8 +2523,7 @@
           la Machine. La Tour estoit illuminée d'un infinité de Lumieres, qui faisoient voir à toute
           la Ville un Globe qui rouloit incessamment. Une couronne de France estoit au dessus.</p>
         <p>Les Dames Chanoinesses de S. Pantaleon, après de tres-grandes Illuminations faites au
-          dehors &amp; au dedans de leur Convent les deux premiers jours, chanterent le <hi rend="i"
-            >Te Deum</hi>, qui fut commencé par Madame de Lahas de Lamezan leur Abbesse, Parente de
+          dehors &amp; au dedans de leur Convent les deux premiers jours, chanterent le <hi rend="i">Te Deum</hi>, qui fut commencé par Madame de Lahas de Lamezan leur Abbesse, Parente de
           Messieurs les Archevesques de Sens &amp; de Toulouse. Elle estoit revestuë de son Surplis,
           la Crosse à la main, comme dans leurs plus grandes Solemnitez. Les Hautbois &amp; les
           Trompetes placez dans le Ravelin de leur Eglise, faisoient un agréable Concert. Cependant
@@ -2628,8 +2547,7 @@
           Royale, firent chanter une <hi rend="i">Te Deum</hi> en Musique dans leur Chapelle au
           bruit des Boëtes &amp; des Fauconneaux ; &amp; le lendemain ils dresserent une Table
           devant leur Portail, avec une Fontaine de Vin à chaque costé. [...]</p>
-        <p>Ce mesme jour, Feste de la Nativité, les jeunes Marchands firent chanter le <hi rend="i"
-            >Te Deum</hi> dans l'Eglise des Jacobins du Grand Convent, en présence des Capitouls qui
+        <p>Ce mesme jour, Feste de la Nativité, les jeunes Marchands firent chanter le <hi rend="i">Te Deum</hi> dans l'Eglise des Jacobins du Grand Convent, en présence des Capitouls qui
           s'y trouvérent en Robes de Cerémonie. L'apresdînée ils formérent une Compagnie de
           Cavalerie; &amp; au nombre de deux cens, tous lestes &amp; tres-bien montez, ils
           marchérent par toute la Ville, le Sabre à la main. M<hi rend="sup">r</hi> le Perat, Fils
@@ -2699,8 +2617,7 @@
           257-258.</bibl>
         <p/>
         <p>Si avant que nous sortions de Toulouse, vous voulez en apprendre des nouvelles, je vous
-          diray que M<hi rend="sup">r</hi> le Président Parade y est mort, &amp; que M<hi rend="sup"
-            >r</hi> d'Orbessan &amp; M<hi rend="sup">r</hi> de Lombrail, tous deux Conseillers au
+          diray que M<hi rend="sup">r</hi> le Président Parade y est mort, &amp; que M<hi rend="sup">r</hi> d'Orbessan &amp; M<hi rend="sup">r</hi> de Lombrail, tous deux Conseillers au
           Parlement, s'y sont mariez depuis peu de temps. Le premier a épousé Mademoiselle Caulet,
           &amp; l'autre Mademoiselle d'Avisard. C'est une fort belle Personne, qui a beaucoup
           d'esprit, &amp; qui chante &amp; jouë parfaitement bien du Lut &amp; du Clavessin. Elle
@@ -2774,8 +2691,7 @@
           dans les Ruës voisines, &amp; sur lesquels on avoit mis des Falots ardens ; mais encore un
           fort beau Feu d'Artifice, &amp; trois mille Fusées volantes qui firent des merveilles. Il
           n'estoit pas aisé de concevoir comment tout cela avoit esté prest en moins de dix heures.
-          Pendant que le Feu d'Artifice joüoit, il y avoit aux deux aisles de la Maison de M<hi
-            rend="sup">r</hi> l'Ambassadeur, dans deux Balcons, des Trompetes &amp; des Timbales,
+          Pendant que le Feu d'Artifice joüoit, il y avoit aux deux aisles de la Maison de M<hi rend="sup">r</hi> l'Ambassadeur, dans deux Balcons, des Trompetes &amp; des Timbales,
           dont les airs retentissoient, &amp; dans le Balcon du milieu un Concert de toutes sortes
           d'Instrumens à la mode d'Espagne. [...]</p>
       </div>
@@ -2864,5 +2780,4 @@
         </quote>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

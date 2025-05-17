@@ -1,69 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1682-03e">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Extraordinaire du Mercure galant, quartier de janvier 1682 [tome XVII]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1682-03e</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Extraordinaire du Mercure galant</title>, quartier de <date>janvier 1682</date>
-          [tome XVII].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1682-03"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Extraordinaire du Mercure galant</hi>, quartier de janvier 1682 (tome
         XVII).</head>
@@ -1399,8 +1334,7 @@
             de l’Eloquence du grand Gustave. Celle de France ne parle que des Discours animez de
             Henry le Grand à ses Soldats ; celuy-là imprimoit la crainte &amp; le respect par la
             représentation du bonheur qui accompagnoit ses armes ; &amp; celuy-cy, se concilioit
-            l’amitié de ses Troupes par des discours familiers &amp; touchans. Mais sur tout <hi
-              rend="sc">Loüis le Grand</hi> nostre glorieux Monarque, scait triompher de tous les
+            l’amitié de ses Troupes par des discours familiers &amp; touchans. Mais sur tout <hi rend="sc">Loüis le Grand</hi> nostre glorieux Monarque, scait triompher de tous les
             cœurs, par une Eloquence merveilleuse. Il n’a qu’à parler pour gagner toutes les
             Nations, &amp; ses Ennemis mesme. Leurs Ambassadeurs ne sçauroient opposer de raisons
             qui puissent détruire les siennes. Elles paroissent si justes, qu’ils sont contraints de
@@ -1468,8 +1402,7 @@
             Enfin quand ce mouvement diminuë, on craint beaucoup, &amp; il ne peut cesser que l’on
             ne meurt.</p>
           <p>En voicy assez, &amp; peut-estre trop, pour montrer que le cœur est le principe de la
-            vie, &amp; le principal ressort de la machine admirable de nos Corps. <hi rend="i"
-              >Primum vivens &amp; ultimum moriens</hi>. Cela estant ainsi, &amp; ces deux Corps
+            vie, &amp; le principal ressort de la machine admirable de nos Corps. <hi rend="i">Primum vivens &amp; ultimum moriens</hi>. Cela estant ainsi, &amp; ces deux Corps
             n’ayant qu’un cœur, dont ils recevoient &amp; le mesme sang, &amp; les mesmes esprits,
             pour leur nourriture &amp; pour tous leurs autres besoins, ils n’avoient sans doute
             qu’un mesme principe de vie ; car quand par la suite ils auroient tous deux mangé, &amp;
@@ -1827,9 +1760,7 @@
             de <hi rend="i">ba, be, bi, bo, bu</hi>, pour exprimer les sillabes ; &amp; on a jugé,
             sans penétrer plus avant, qu’on ne pouvoit non plus les mettre à un autre usage que les
             lettres. Les préoccupations sont souvent dangereuses, &amp; sont toûjours contraires à
-            la perfection des Arts &amp; des Sciences. Il est vray que 1 signifie <hi rend="i"
-              >un</hi>, que 2 signifie <hi rend="i">deux</hi>, que 100 signifie <hi rend="i"
-              >cent</hi>, &amp; 1000 <hi rend="i">mille</hi>, &amp; ainsi des autres ; mais il est
+            la perfection des Arts &amp; des Sciences. Il est vray que 1 signifie <hi rend="i">un</hi>, que 2 signifie <hi rend="i">deux</hi>, que 100 signifie <hi rend="i">cent</hi>, &amp; 1000 <hi rend="i">mille</hi>, &amp; ainsi des autres ; mais il est
             aisé de laisser aux chiffres la signification des nombres, &amp; de leur en donner une
             autre, sans leur faire de violence. Nous avons accoûtumé dans nos Ecritures ordinaires,
             de mettre un trait sous nos dates, &amp; sous nos sommes, lors que pour les abréger nous
@@ -1850,8 +1781,7 @@
             composent le dixiéme de leur premier &amp; de leur zéro, &amp; je me suis étonné
             plusieurs fois qu’on les ait bornez à ce nombre, veu qu’il ne se peut partager ny par
             moitiez, ny par tiers, sans tomber aussitost dans l’embarras des fractions, ce qui est
-            incommode pour les suputations ; au lieu que si on les avoit étendus jusqu’à <hi
-              rend="i">seize</hi>, ou fait demeurer à <hi rend="i">huit</hi>, le partage par moitiez
+            incommode pour les suputations ; au lieu que si on les avoit étendus jusqu’à <hi rend="i">seize</hi>, ou fait demeurer à <hi rend="i">huit</hi>, le partage par moitiez
             se feroit sans fractions, &amp; conduiroit justement à l’unité, qui est le commencent
             des nombres. Je croy bien que nous tenons la borne de nos chiffres simples à celuy de
               <hi rend="i">dix</hi>, du compte que les premiers Hommes faisoient sur leurs doigts,
@@ -1940,8 +1870,7 @@
           <p>Il y en a de six sortes, de sinonimes ou semblables, comme <hi rend="i">amitié</hi>
             &amp; <hi rend="i">affection</hi> ; d’approchans, comme <hi rend="i">amitié</hi> &amp;
               <hi rend="i">tendresse</hi> ; de rélatifs à mesme fin, comme <hi rend="i">amitié</hi>
-            &amp; <hi rend="i">bravoure</hi> ; d’opposez, comme <hi rend="i">amitié</hi> &amp; <hi
-              rend="i">d’indiférence</hi> ; &amp; de contraires, comme <hi rend="i">amitié</hi>
+            &amp; <hi rend="i">bravoure</hi> ; d’opposez, comme <hi rend="i">amitié</hi> &amp; <hi rend="i">d’indiférence</hi> ; &amp; de contraires, comme <hi rend="i">amitié</hi>
             &amp; <hi rend="i">inimitié</hi>. De tous ces mots, il n’y a que ceux qui sont
             tout-à-fait sinonimes, dont on se peut passer, parce qu’ils n’adjoûtent rien à la force
             des expressions ; neantmoins comme ils contribuënt à la diversité des phrases, ce qui
@@ -1955,15 +1884,13 @@
             ausquels elle est sujette, &amp; que la Langue universelle doit également éviter. Le
             premier est l’embarras des paroles équivoques, &amp; l’autre est une grande inégalité
             dans la plûpart des expressions. Quelques exemples de chaque façon justifient ces
-            veritez, &amp; éclairciront ce que je veux dire. Nous employons le mot de <hi rend="i"
-              >Tour</hi> à exprimer une sorte d’Edifice, un circuit, une ruse, une adresse, &amp; un
+            veritez, &amp; éclairciront ce que je veux dire. Nous employons le mot de <hi rend="i">Tour</hi> à exprimer une sorte d’Edifice, un circuit, une ruse, une adresse, &amp; un
             Attelier de Tourneur ; celuy d’<hi rend="i">air</hi>, à signifier un des Elémens, un
             chant, une ressemblance, la grace, la mine, la posture, &amp; l’action ; &amp; celuy de
               <hi rend="i">Vers</hi>, à marquer les Vers de terre, les Vers de Poësie, &amp; la
             préposition <hi rend="i">Vers</hi>, sans compter les adjectifs <hi rend="i">Verds</hi>
             &amp; <hi rend="i">Verts</hi>, qui viennent de verdeur &amp; de verdure ; &amp; le terme
-            de Blazon <hi rend="i">Vairs</hi>, quoy que nous les prononcions tous trois comme <hi
-              rend="i">Vers</hi> préposition. Peut-on avoir des mots plus équivoques ? Il n’y a pas
+            de Blazon <hi rend="i">Vairs</hi>, quoy que nous les prononcions tous trois comme <hi rend="i">Vers</hi> préposition. Peut-on avoir des mots plus équivoques ? Il n’y a pas
             lieu de s’étonner qu’une mesme parole ait plusieurs significations en plusieurs
             Langues ; mais qu’elle en ait cinq ou six diférentes en une mesme, c’est une grande
             marque de sa pauvreté, &amp; d’une pauvreté qui retourneroit icy en vice. Il ne suffit
@@ -1975,28 +1902,22 @@
             ouvrage de Poësie, elles se doivent encore distinguer par les lettres qui les composent.
             L’une &amp; l’autre enfin doit estre exempte de toutes sortes d’équivoques, &amp; sur
             tout de la double, je veux dire de celle qui se rencontre tout-à-la fois dans l’Ecriture
-            &amp; dans la prononciation, comme <hi rend="i">Vers</hi> préposition, &amp; <hi
-              rend="i">Vers</hi> insecte, &amp; comme les deux premiers exemples que j’ay
+            &amp; dans la prononciation, comme <hi rend="i">Vers</hi> préposition, &amp; <hi rend="i">Vers</hi> insecte, &amp; comme les deux premiers exemples que j’ay
             raportez.</p>
           <p>Quant à l’inégalité dans les expressions, la premiere est d’exprimer inégalement les
             choses égales. Ainsi nous marquons le masle &amp; la femelle par des mots semblables, ou
             tout-à-fait approchans, dans <hi rend="i">Lion</hi> &amp; <hi rend="i">Lionne</hi>, dans
               <hi rend="i">Chien</hi> &amp; <hi rend="i">Chienne</hi>, dans <hi rend="i">Fils</hi>
             &amp; <hi rend="i">Fille</hi>, dans <hi rend="i">Roy</hi> &amp; <hi rend="i">Reyne</hi>,
-            &amp;c. &amp; par des mots entierement diférens dans <hi rend="i">Cerf</hi> &amp; <hi
-              rend="i">Biche</hi>, dans <hi rend="i">Pere</hi> &amp; <hi rend="i">Mere</hi>, dans
+            &amp;c. &amp; par des mots entierement diférens dans <hi rend="i">Cerf</hi> &amp; <hi rend="i">Biche</hi>, dans <hi rend="i">Pere</hi> &amp; <hi rend="i">Mere</hi>, dans
               <hi rend="i">Seigneur</hi> &amp; <hi rend="i">Dame</hi>, &amp;c. Ainsi encore nous
             appellons avec des mots de raport, <hi rend="i">Lionceaux, Louveteaux, Chattons,
               &amp;c.</hi> les petits des Lions, des Loups, &amp; des Chats ; &amp; par des mots
             tout-à-fait divers, <hi rend="i">Faons, Poulains, Agneaux</hi>, ceux des Cerfs, des
             Chevaux, &amp; des Beliers ou des Brébis. De plus, nous attribuons separément des
-            adjectifs à de certains mots de masle &amp; de femelle, comme à ceux d’<hi rend="i"
-              >Homme</hi> &amp; de <hi rend="i">Femme</hi>, de <hi rend="i">Pere</hi> &amp; de <hi
-              rend="i">Mere</hi>, &amp;c. qui sont <hi rend="i">humain, féminin, paternel</hi> &amp;
+            adjectifs à de certains mots de masle &amp; de femelle, comme à ceux d’<hi rend="i">Homme</hi> &amp; de <hi rend="i">Femme</hi>, de <hi rend="i">Pere</hi> &amp; de <hi rend="i">Mere</hi>, &amp;c. qui sont <hi rend="i">humain, féminin, paternel</hi> &amp;
               <hi rend="i">maternel</hi>, &amp; nous n’en donnons que conjointement à d’autres mots,
-            comme à ceux de <hi rend="i">Seigneur</hi> &amp; de <hi rend="i">Dame</hi>, de <hi
-              rend="i">Roy</hi> &amp; de <hi rend="i">Reyne</hi>, qui sont <hi rend="i"
-              >Seigneurial</hi> &amp; <hi rend="i">Royal</hi>, encore peut-on dire que les adjectifs
+            comme à ceux de <hi rend="i">Seigneur</hi> &amp; de <hi rend="i">Dame</hi>, de <hi rend="i">Roy</hi> &amp; de <hi rend="i">Reyne</hi>, qui sont <hi rend="i">Seigneurial</hi> &amp; <hi rend="i">Royal</hi>, encore peut-on dire que les adjectifs
             ne sont attribuez qu’aux masles, &amp; que la femelle n’y a rien. Enfin nous avons des
             mots simples pour exprimer certaines choses, tels que sont ceux que nous donnons aux
             petits des Animaux que je viens de nommer, &amp; à <hi rend="i">Bestail</hi> par exemple
@@ -2148,8 +2069,7 @@
             dispositions, qualitez, ou étenduës naturelles, tels que sont ceux d’eau douce, d’eau
             salée, d’eau minérale, &amp;c. &amp; ceux <hi rend="i">de Mer, de Lac, de Bras, de
               Golphe, de Fleuve. de Riviere, de Ruisseau</hi>, &amp;c. 25. la Terre, avec les noms
-            qu’on luy donne aussi, comme à l’Eau suivant sa nature ; tels que sont ceux <hi rend="i"
-              >d’Argile, de Glaize, de Tuf, &amp;c. de Plaine, de Montagne, de Colline, de Coteau,
+            qu’on luy donne aussi, comme à l’Eau suivant sa nature ; tels que sont ceux <hi rend="i">d’Argile, de Glaize, de Tuf, &amp;c. de Plaine, de Montagne, de Colline, de Coteau,
               de Vallée, de Vallon</hi>, &amp;c. 26. les noms particuliers des parties considérables
             de la Terre &amp; de l’Eau ; comme ceux <hi rend="i">d’Europe, de France, de Bourgogne,
               de Seine</hi>, &amp;c. A quoy je joints les Villes Capitales des Etats, &amp; des
@@ -2236,17 +2156,12 @@
             peut relever d’eux ; ce qui consiste à leur fournir deux noms substantifs pour leurs
             deux autres genres, trois rélatifs ou dérivez ; &amp; six adjectifs, avec leurs
             dépendances, qui sont des noms de qualité &amp; des adverbes. Quelques exemples
-            éclairciront cette conduite ; voicy le premier. Au nom substantif primitif <hi rend="i"
-              >masle</hi>, je joints le substantif féminin <hi rend="i">femelle</hi>, &amp; le
+            éclairciront cette conduite ; voicy le premier. Au nom substantif primitif <hi rend="i">masle</hi>, je joints le substantif féminin <hi rend="i">femelle</hi>, &amp; le
             substantif du genre libre, commun, ou neutre <hi rend="i">cunque</hi>, puis la relation
-            masculine <hi rend="i">enfant</hi> ou <hi rend="i">petite</hi>, la feminine <hi rend="i"
-              >enfant</hi> ou <hi rend="i">petite</hi>, &amp; celle de genre libre <hi rend="i"
-              >hermaphrodite</hi>. Apres j’adjoûte des adjectifs pour ces six substantifs, puis
+            masculine <hi rend="i">enfant</hi> ou <hi rend="i">petite</hi>, la feminine <hi rend="i">enfant</hi> ou <hi rend="i">petite</hi>, &amp; celle de genre libre <hi rend="i">hermaphrodite</hi>. Apres j’adjoûte des adjectifs pour ces six substantifs, puis
             qu’ils sont également à distinguer pour la parfaite expression du panchant, du
-            sentiment, &amp; de l’action de chaque Estre. <hi rend="i">Masculin</hi> &amp; <hi
-              rend="i">féminin</hi> sont les deux premiers de ces adjectifs ; les autres ne sont pas
-            en usage dans nostre Langue, non plus que les qualitez. Pour les adverbes <hi rend="i"
-              >masculinement</hi> &amp; <hi rend="i">fémininement</hi>, ils y sont encore peu
+            sentiment, &amp; de l’action de chaque Estre. <hi rend="i">Masculin</hi> &amp; <hi rend="i">féminin</hi> sont les deux premiers de ces adjectifs ; les autres ne sont pas
+            en usage dans nostre Langue, non plus que les qualitez. Pour les adverbes <hi rend="i">masculinement</hi> &amp; <hi rend="i">fémininement</hi>, ils y sont encore peu
             usitez.</p>
           <p>Le second exemple est de joindre au substantif masculin <hi rend="i">Belier</hi>, le
             féminin <hi rend="i">Brébis</hi>, &amp; celuy de genre libre <hi rend="i">Mouton</hi>,
@@ -2256,13 +2171,10 @@
             dans nostre Langue.</p>
           <p>Le troisiéme exemple est d’adjoûter au substantif primitif <hi rend="i">Pere</hi>, le
             substantif féminin <hi rend="i">Mere</hi> ; puis faute de nom de raport pour le genre
-            libre, c’est de marquer la relation <hi rend="i">Fils</hi> &amp; <hi rend="i"
-            >Fille</hi>, &amp; en suite les adjectifs avec leurs dépendances, sçavoir, <hi rend="i"
-              >paternel, paternité, paternellement ; maternel, maternité, maternellement ; filial,
+            libre, c’est de marquer la relation <hi rend="i">Fils</hi> &amp; <hi rend="i">Fille</hi>, &amp; en suite les adjectifs avec leurs dépendances, sçavoir, <hi rend="i">paternel, paternité, paternellement ; maternel, maternité, maternellement ; filial,
               filiation, filialement</hi>, pour le nom de Fils, &amp; autant pour le nom de
             Fille.</p>
-          <p>Et le dernier exemple est de mettre apres le substantif primitif de genre libre <hi
-              rend="i">terre</hi>, faute de noms de raport pour les deux autres genres, sa relation
+          <p>Et le dernier exemple est de mettre apres le substantif primitif de genre libre <hi rend="i">terre</hi>, faute de noms de raport pour les deux autres genres, sa relation
             ou ses dérivez <hi rend="i">terroir</hi> &amp; <hi rend="i">territoire</hi>, &amp; ses
             adjectifs <hi rend="i">terrestre</hi> &amp; <hi rend="i">terreux</hi> ; puis faute de
             noms de qualité, c’est de marquer l’adverbe <hi rend="i">terrestrement.</hi></p>
@@ -2295,8 +2207,7 @@
           <p>Quant au détail, j’en distribuë encore chaque Chapitre en dix Sections, de mesme que
             ceux des noms ; &amp; j’enferme en chaque Section, dix verbes, qui sont semblables ou
             approchans, ou bien rélatifs à mesme fin, excepté dans celles des cris des Animaux, où
-            je ne les puis mettre que diférens, &amp; j’appelle ces verbes, <hi rend="i"
-              >positifs</hi> ou <hi rend="i">affirmatifs</hi>. Tels sont par exemple ceux du premier
+            je ne les puis mettre que diférens, &amp; j’appelle ces verbes, <hi rend="i">positifs</hi> ou <hi rend="i">affirmatifs</hi>. Tels sont par exemple ceux du premier
             Chapitre &amp; de sa premiere Section marquée 110, lesquels appartiennent veritablement
             &amp; par excellence à l’Estre souverain.</p>
           <quote>
@@ -2325,14 +2236,9 @@
             répond toûjours au Chapitre, à la Section, &amp; à la place qu’occupe son verbe
             affirmatif, afin que la connoissance de l’un conduise en un moment à la connoissance de
             l’autre. Ainsi je mets dans la premiere Section du premier Chapitre du second ordre,
-            marquée 210. les verbes négatifs <hi rend="i">manquer</hi> &amp; <hi rend="i"
-              >ignorer</hi>, pour les opposer aux verbes affirmatifs de la premiere Section 110. <hi
-              rend="i">avoir</hi> &amp; <hi rend="i">sçavoir</hi>, les huit autres verbes de cette
+            marquée 210. les verbes négatifs <hi rend="i">manquer</hi> &amp; <hi rend="i">ignorer</hi>, pour les opposer aux verbes affirmatifs de la premiere Section 110. <hi rend="i">avoir</hi> &amp; <hi rend="i">sçavoir</hi>, les huit autres verbes de cette
             action n’ayant point de négatifs dans l’usage de nostre Langue.</p>
-          <p>J’oppose de mesme dans la seconde Section 211. <hi rend="i">aneantir</hi> à <hi
-              rend="i">créer, défaire</hi> à <hi rend="i">faire, détruire</hi> à <hi rend="i"
-              >construire, démolir</hi> à <hi rend="i">édifier, ruiner</hi> à <hi rend="i"
-              >établir</hi>, &amp; <hi rend="i">affoiblir</hi> à <hi rend="i">affermir</hi> ; les
+          <p>J’oppose de mesme dans la seconde Section 211. <hi rend="i">aneantir</hi> à <hi rend="i">créer, défaire</hi> à <hi rend="i">faire, détruire</hi> à <hi rend="i">construire, démolir</hi> à <hi rend="i">édifier, ruiner</hi> à <hi rend="i">établir</hi>, &amp; <hi rend="i">affoiblir</hi> à <hi rend="i">affermir</hi> ; les
             autres verbes de la seconde Section 111. du premier ordre, <hi rend="i">produire,
               former, fabriquer</hi>, &amp; <hi rend="i">fonder</hi>, n’ayant point non plus de
             négatifs parmy nous.</p>
@@ -2365,50 +2271,37 @@
           <p>La premiere sorte de ces noms est de substantifs absolus, appartient à la personne, ou
             pour mieux dire, à l’esprit, au masle, &amp; à la femelle, &amp; est commune à tous les
             verbes. Tels sont les noms de <hi rend="i">Createur</hi> &amp; de <hi rend="i">Creature,
-              d’Amant</hi> &amp; <hi rend="i">d’Amante</hi>, de <hi rend="i">Roy</hi> &amp; de <hi
-              rend="i">Reyne</hi>, de <hi rend="i">Vieillard</hi> &amp; de <hi rend="i"
-            >Vieille</hi>, de <hi rend="i">Blanchisseur</hi>, de <hi rend="i">Mesureur</hi>, de <hi
-              rend="i">Sçavant</hi>, d’<hi rend="i">Encenseur</hi>, de <hi rend="i">Voleur</hi>,
+              d’Amant</hi> &amp; <hi rend="i">d’Amante</hi>, de <hi rend="i">Roy</hi> &amp; de <hi rend="i">Reyne</hi>, de <hi rend="i">Vieillard</hi> &amp; de <hi rend="i">Vieille</hi>, de <hi rend="i">Blanchisseur</hi>, de <hi rend="i">Mesureur</hi>, de <hi rend="i">Sçavant</hi>, d’<hi rend="i">Encenseur</hi>, de <hi rend="i">Voleur</hi>,
               d’<hi rend="i">Harquebusier</hi>, &amp; autres semblables, avec leurs feminins ; Noms
             qui dérivent des verbes <hi rend="i">créer, aimer, regner, vieillir, blanchir, mesurer,
               sçavoir, encenser, voler, harquebuser.</hi></p>
           <p>La seconde sorte est encore de substantifs absolus ; mais elle appartient au genre
             libre, &amp; premierement à la chose accidentelle, à l’action, à la passion, à
             l’habitude, comme <hi rend="i">caresse, injure, agrément, faveur</hi>, qui viennent des
-            verbes <hi rend="i">caresser, injurier, agréer, favoriser</hi> ; &amp; <hi rend="i"
-              >création, amour, vol, vollerie, encensement, blanchissage</hi>, &amp;c. Elle
+            verbes <hi rend="i">caresser, injurier, agréer, favoriser</hi> ; &amp; <hi rend="i">création, amour, vol, vollerie, encensement, blanchissage</hi>, &amp;c. Elle
             appartient 2. à la qualité, comme <hi rend="i">Royauté, science, blancheur</hi>. 3. Au
             temps, ou au lieu, comme <hi rend="i">regne</hi> &amp; <hi rend="i">vieillesse,
               Royaume</hi> &amp; <hi rend="i">Blanchisserie</hi>. Et 4. à l’instrument &amp; à
-            l’action de l’instrument, comme <hi rend="i">mesure</hi> &amp; <hi rend="i"
-              >encensoir</hi>, &amp; <hi rend="i">harquebusade</hi>. Surquoy il faut observer que
+            l’action de l’instrument, comme <hi rend="i">mesure</hi> &amp; <hi rend="i">encensoir</hi>, &amp; <hi rend="i">harquebusade</hi>. Surquoy il faut observer que
             comme <hi rend="i">Encenseur, encensement</hi> &amp; <hi rend="i">encensoir</hi>, sont
             dérivez du verbe <hi rend="i">encenser</hi> ; &amp; <hi rend="i">Harquebusier</hi> &amp;
               <hi rend="i">harquebusade</hi>, du verbe <hi rend="i">harquebuser</hi> ; ces verbes
-            dérivent à leur tour, des noms <hi rend="i">encens</hi> &amp; <hi rend="i"
-              >harquebuse</hi>, parce que tout Estre substantiel ou artificiel, comme ils le sont,
+            dérivent à leur tour, des noms <hi rend="i">encens</hi> &amp; <hi rend="i">harquebuse</hi>, parce que tout Estre substantiel ou artificiel, comme ils le sont,
             précede toûjours son action.</p>
           <p>La troisiéme sorte de noms est de substantifs rélatifs, &amp; appartient, de mesme que
-            les deux autres sortes d’absolus, à la personne &amp; à la chose. Tel est le nom de <hi
-              rend="i">Créature</hi> &amp; celuy d’<hi rend="i">Estre</hi>, qui vient du verbe <hi
-              rend="i">Estre</hi>, lesquels s’attribuënt également bien à l’Ange, à l’Homme, à la
+            les deux autres sortes d’absolus, à la personne &amp; à la chose. Tel est le nom de <hi rend="i">Créature</hi> &amp; celuy d’<hi rend="i">Estre</hi>, qui vient du verbe <hi rend="i">Estre</hi>, lesquels s’attribuënt également bien à l’Ange, à l’Homme, à la
             Femme, au Ciel, à la Terre, &amp;c.</p>
           <p>La quatriéme sorte de noms est d’adjectifs, &amp; ils résultent de la plûpart de ces
             substantifs, de la chose accidentelle, de l’action, de la passion, &amp; de l’habitude,
-            comme <hi rend="i">agreable, favorable, injurieux</hi>, &amp; <hi rend="i"
-            >amoureux</hi> ; de la qualité simple &amp; habituelle, comme <hi rend="i">Royal, blanc,
+            comme <hi rend="i">agreable, favorable, injurieux</hi>, &amp; <hi rend="i">amoureux</hi> ; de la qualité simple &amp; habituelle, comme <hi rend="i">Royal, blanc,
               sçavant</hi> ; du temps, comme <hi rend="i">vieil</hi> ; &amp; de la relation, comme
               <hi rend="i">Royaliste.</hi></p>
           <p>La cinquiéme &amp; derniere sorte est encore d’adjectifs, qui sont au nombre de six,
             dont j’en attribuë trois au verbe actif, &amp; autant au passif. Le premier des actifs
-            en marque la puissance, comme <hi rend="i">nuisible</hi>, qui peut nuire ; <hi rend="i"
-              >solvable</hi>, qui peut payer. Le 2. l’obligation, comme <hi rend="i">comptable</hi>,
+            en marque la puissance, comme <hi rend="i">nuisible</hi>, qui peut nuire ; <hi rend="i">solvable</hi>, qui peut payer. Le 2. l’obligation, comme <hi rend="i">comptable</hi>,
             qui doit compter ; <hi rend="i">risible</hi>, qui oblige à rire, ou qui fait rire. Et le
             3. le mérite, comme.… qui mérite de boire. Les trois autres sont opposez à ceux-là. L’un
-            exprime la puissance passive, comme <hi rend="i">visible</hi>, qui peut estre veu ; <hi
-              rend="i">faisable</hi>, qui peut estre fait. L’autre, l’obligation passive, comme <hi
-              rend="i">redoutable</hi>, qui se fait redouter, ou qui doit estre redouté ; <hi
-              rend="i">punissable</hi>, qui doit estre puny. Et le dernier, le mérite passif, comme
+            exprime la puissance passive, comme <hi rend="i">visible</hi>, qui peut estre veu ; <hi rend="i">faisable</hi>, qui peut estre fait. L’autre, l’obligation passive, comme <hi rend="i">redoutable</hi>, qui se fait redouter, ou qui doit estre redouté ; <hi rend="i">punissable</hi>, qui doit estre puny. Et le dernier, le mérite passif, comme
               <hi rend="i">aimable</hi>, qui mérite d’estre aimé ; <hi rend="i">haïssable</hi>, ou
               <hi rend="i">odieux</hi>, qui mérite d’estre hay ; <hi rend="i">loüable</hi>, qui est
             digne d’estre loüé.</p>
@@ -2438,8 +2331,7 @@
             &amp; pensez enfin à l’enchaînement qui est aussi dans tout le Dictionnaire, dont on n’a
             pour ainsi dire qu’à sçavoir un Chapitre pour juger de ses voisins, pour passer de l’un
             à l’autre, &amp; pour s’instruire de tout en fort peu de temps.</p>
-          <p>J’ay encor avancé dans vostre XIV. Extraordinaire, qu’on pouvoit apprendre <hi rend="i"
-              >tous les mots de la Langue universelle en 24. heures, &amp; les Caracteres de
+          <p>J’ay encor avancé dans vostre XIV. Extraordinaire, qu’on pouvoit apprendre <hi rend="i">tous les mots de la Langue universelle en 24. heures, &amp; les Caracteres de
               l’Ecriture encor plûtost</hi>. On voit bien présentement qu’il n’y a pas lieu de
             douter de cette proposition à l’égard des Caracteres, puis que ce sont les Chifres
             Arabiques, &amp; qu’il est aisé de distinguer &amp; de nommer tous ceux qui sont depuis
@@ -2555,5 +2447,4 @@
             &amp;c.</hi></p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

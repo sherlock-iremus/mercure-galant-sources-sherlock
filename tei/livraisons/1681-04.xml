@@ -1,66 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1681-04">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title>Mercure galant, avril 1681 [tome 4]</title>
-   </titleStmt>
-   <editionStmt>
-    <edition>OBVIL/IReMuS</edition>
-    <respStmt>
-     <name>Nathalie Berton-Blivet</name>
-     <resp>Responsable éditorial</resp>
-    </respStmt>
-    <respStmt>
-     <name>Anne Piéjus</name>
-     <resp>Responsable éditorial</resp>
-    </respStmt>
-    <respStmt>
-     <name>Frédéric Glorieux</name>
-     <resp>Informatique éditoriale</resp>
-    </respStmt>
-    <respStmt>
-     <name>Vincent Jolivet</name>
-     <resp>Informatique éditoriale</resp>
-    </respStmt>
-   </editionStmt>
-   <publicationStmt>
-    <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-    <date when="2017"/>
-    <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1681-04</idno>
-    <availability status="restricted">
-     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-       Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie
-       littéraire » (ci-après dénommé OBVIL).</p>
-      <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les
-       bases de données (L341-1) est mise à disposition de la communauté scientifique internationale
-       par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas
-       d’Utilisation Commerciale - Pas de Modification 3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-      <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de
-       cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de
-       la ressource.</p>
-      <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-       utilisation commerciale est interdite.</p>
-      <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-       électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de
-       versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl><title>Mercure galant</title>, <date>avril 1681</date> [tome 4].</bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <creation>
-    <date when="1681-04"/>
-   </creation>
-   <langUsage>
-    <language ident="fre"/>
-   </langUsage>
-  </profileDesc>
- </teiHeader>
- <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
   <body>
    <head><hi rend="i">Mercure galant</hi>, avril 1681 [tome 4].</head>
    <div type="article" xml:id="MG-1681-04_001">
@@ -70,8 +8,7 @@
      de Beaux Esprits qui s’est établie depuis peu à Villefranche, &amp; dont Monsieur l’Archevesque
      de Lyon est le Protecteur. Comme elle ne s’est formée que pour consacrer toutes ses veilles au
      Roy, ce sera elle qui me fournira aujourd’huy l’Eloge que vous attendez de ce grand Prince.
-     L’impatience qu’elle a de rendre son zele public, l’a obligée d’emprunter la voix de M<hi
-      rend="sup">r</hi> Mignot de Bussy pour se faire entendre, &amp; voicy de quelle maniere ce
+     L’impatience qu’elle a de rendre son zele public, l’a obligée d’emprunter la voix de M<hi rend="sup">r</hi> Mignot de Bussy pour se faire entendre, &amp; voicy de quelle maniere ce
      digne Académicien s’est expliqué au nom de sa Compagnie.</p>
     <quote>
      <label>L’ACADEMIE DE VILLEFRANCHE,<lb/><hi rend="i">AU ROY.</hi><lb/>EPISTRE.</label>
@@ -359,8 +296,7 @@
      verité ; mais toûjours avec des ménagemens qui diminuoient un peu de sa joye. On luy laissoit
      deviner plus qu’on ne vouloit luy dire ; &amp; si par hazard il faisoit paroistre qu’il
      devinoit trop à son avantage, on sçavoit par quels moyens rabatre sa vanité. Ce n’est pas qu’en
-     cent manieres diférentes on ne luy dist assez qu’on l’aimoit ; mais on ne luy disoit point <hi
-      rend="i">je vous aime</hi>, &amp; c’estoit la seule chose qui manquast à son bonheur. Un jour
+     cent manieres diférentes on ne luy dist assez qu’on l’aimoit ; mais on ne luy disoit point <hi rend="i">je vous aime</hi>, &amp; c’estoit la seule chose qui manquast à son bonheur. Un jour
      qu’il se plaignoit du refus qu’on luy faisoit de ce mot, &amp; qu’il soûtenoit à sa Maîtresse
      que deux années de service méritoient &amp; son amour, &amp; l’aveu mesme de son amour, que sa
      longue résistance estoit sans exemple, &amp; qu’il n’y avoit personne, qui, s’il estoit Juge de
@@ -583,8 +519,7 @@
      trouver. Ce dernier Sapate a eu cela de nouveau, qu’il n’a point esté caché comme tous les
      autres ont accoûtumé de l’estre. Son Altesse Royale l’a donné à découvert. C’estoit un Lustre,
      &amp; quatre Plaques d’argent d’un admirable travail. Madame Royale en trouva sa Chambre
-     éclairée, lors qu’elle revint de la Comédie, avec ces Vers sur sa Table. Ils sont de M<hi
-      rend="sup">r</hi> Girardin, dont je vous ay déja envoyé plusieurs Ouvrages, tous à la gloire
+     éclairée, lors qu’elle revint de la Comédie, avec ces Vers sur sa Table. Ils sont de M<hi rend="sup">r</hi> Girardin, dont je vous ay déja envoyé plusieurs Ouvrages, tous à la gloire
      de Leurs Altesses Royales, qu’il sert avec zele, &amp; d’une autre maniere qu’en faisant des
      Vers.</p>
     <quote>
@@ -853,8 +788,7 @@
      </lg>
      <ab type="ornament">***</ab>
      <lg>
-      <l><hi rend="i">Ces Héros<note resp="author">Les quatre Princes.</note>, cet Amour<note
-         resp="author">Madame la Princesse.</note>, ce Plaisir innocent,</hi></l>
+      <l><hi rend="i">Ces Héros<note resp="author">Les quatre Princes.</note>, cet Amour<note resp="author">Madame la Princesse.</note>, ce Plaisir innocent,</hi></l>
       <l><hi rend="i">Le ravissant éclat de ce Charme puissant,</hi></l>
       <l><hi rend="i">Arresteront les yeux de nostre Grand Auguste.</hi></l>
      </lg>
@@ -875,8 +809,7 @@
       en plusieurs endroits du Parterre, il dança seul au son des Violons, &amp; se retira en suite
       dans un coin, comme voulant remarquer ce qui se faisoit.</p>
      <quote>
-      <label>Pour M<hi rend="sup">r</hi> Rekau, Gentilhomme du Païs, représentant <hi rend="sc"
-        >Mercure.</hi></label>
+      <label>Pour M<hi rend="sup">r</hi> Rekau, Gentilhomme du Païs, représentant <hi rend="sc">Mercure.</hi></label>
       <lg>
        <l> <hi rend="i">Je ne fais qu’aller &amp; venir,</hi></l>
        <l><hi rend="i">Sçavoir ce qui se passe est ma plus grande affaire ;</hi></l>
@@ -1058,8 +991,7 @@
       Dances, leurs Jeux, &amp; leurs Luites. Alciane &amp; ces deux Bergers allerent faire avancer
       les autres qui devoient assister à cette réjoüissance.</p>
      <quote>
-      <label>Pour Madame la Baronne de Platen, Grande Maréchale de la Cour, représentant <hi
-        rend="sc">Alciane.</hi></label>
+      <label>Pour Madame la Baronne de Platen, Grande Maréchale de la Cour, représentant <hi rend="sc">Alciane.</hi></label>
       <lg>
        <l> <hi rend="i">Cette Bergere avec beaucoup d’adresse</hi></l>
        <l> <hi rend="i">A bonne grace, &amp; le pas fin.</hi></l>
@@ -1090,8 +1022,7 @@
       </lg>
      </quote>
      <quote>
-      <label>Pour M<hi rend="sup">r</hi> de Gohr, Capitaine d’Infanterie, représentant le Berger <hi
-        rend="sc">Lysis.</hi></label>
+      <label>Pour M<hi rend="sup">r</hi> de Gohr, Capitaine d’Infanterie, représentant le Berger <hi rend="sc">Lysis.</hi></label>
       <lg>
        <l> <hi rend="i">Lysis, dont l’humeur est volage,</hi></l>
        <l><hi rend="i">Prenoit plaisir tous les jours à changer ;</hi></l>
@@ -1137,8 +1068,7 @@
       dança, &amp; tâcha de se faire beau pour plaire ; mais d’abord qu’il se regarda dans ce
       Miroir, il ne pût souffrir luy-mesme la laideur de sa figure.</p>
      <quote>
-      <label>Pour le S<hi rend="sup">r</hi> Jemmes, Maistre du Balet, représentant le <hi rend="sc"
-        >Satyre.</hi></label>
+      <label>Pour le S<hi rend="sup">r</hi> Jemmes, Maistre du Balet, représentant le <hi rend="sc">Satyre.</hi></label>
       <lg>
        <l> <hi rend="i">Pour Ridicules mal-faisans</hi></l>
        <l><hi rend="i">On fait passer tous les pauvres Satyres.</hi></l>
@@ -1155,8 +1085,7 @@
       jusqu’à ce qu’ils l’eurent perdu de veuë ; apres quoy ils dancerent ensemble d’une maniere
       tout-à-fait bizarre.</p>
      <quote>
-      <label>Pour M<hi rend="sup">r</hi> de Bousch Colonel des Gardes, &amp; M<hi rend="sup"
-       >r</hi> Possadofsky Ecuyer-Tranchant de la Cour, représentant <hi rend="sc">les Païsans
+      <label>Pour M<hi rend="sup">r</hi> de Bousch Colonel des Gardes, &amp; M<hi rend="sup">r</hi> Possadofsky Ecuyer-Tranchant de la Cour, représentant <hi rend="sc">les Païsans
         yvres.</hi></label>
       <lg>
        <l><hi rend="i">Chacun a son plaisir dans ce Lieu délectable.</hi></l>
@@ -1231,8 +1160,7 @@
       devoit celébrer la Feste des Bergers d’Eurybate, &amp; reconduisit Bacchus dans sa Taverne, en
       dançant au milieu de ses Satyres.</p>
      <quote>
-      <label>Pour M<hi rend="sup">r</hi> de Batincourt, Gentilhomme de la Cour, représentant <hi
-        rend="sc">Bacchus.</hi></label>
+      <label>Pour M<hi rend="sup">r</hi> de Batincourt, Gentilhomme de la Cour, représentant <hi rend="sc">Bacchus.</hi></label>
       <lg>
        <l> <hi rend="i">Avoüez, sans mon Jus divin,</hi></l>
        <l> <hi rend="i">Que tous vos plaisirs seroient fades,</hi></l>
@@ -1241,8 +1169,7 @@
       </lg>
      </quote>
      <quote>
-      <label>Pour le S<hi rend="sup">r</hi> Jemmes, Maistre du Balet, représentant le Dieu <hi
-        rend="sc">Pan.</hi></label>
+      <label>Pour le S<hi rend="sup">r</hi> Jemmes, Maistre du Balet, représentant le Dieu <hi rend="sc">Pan.</hi></label>
       <lg>
        <l> <hi rend="i">Je voudrois avoir du retour,</hi></l>
        <l><hi rend="i">Si je changeois mon estre &amp; ma figure</hi></l>
@@ -1312,8 +1239,7 @@
       </lg>
      </quote>
      <quote>
-      <label>Pour Mademoiselle Gehle la jeune, autre Fille d’honneur, représentant la Bergere <hi
-        rend="sc">Doris.</hi></label>
+      <label>Pour Mademoiselle Gehle la jeune, autre Fille d’honneur, représentant la Bergere <hi rend="sc">Doris.</hi></label>
       <lg>
        <l> <hi rend="i">Je me plais sur la Fougere</hi></l>
        <l> <hi rend="i">D’estre seule tout le jour,</hi></l>
@@ -1378,8 +1304,7 @@
       de la venuë d’Hercule, espérant bientost une occasion de Guerre, de ce Conquérant, qui
       l’alloit porter dans tout le Monde.</p>
      <quote>
-      <label>Pour M<hi rend="sup">r</hi> de Pousch, Colonel des Gardes, représentant <hi rend="sc"
-        >Artabase</hi>, Soldat de Mars.</label>
+      <label>Pour M<hi rend="sup">r</hi> de Pousch, Colonel des Gardes, représentant <hi rend="sc">Artabase</hi>, Soldat de Mars.</label>
       <lg>
        <l> <hi rend="i">Ce n’est par aucune disgrace</hi></l>
        <l> <hi rend="i">Que je deviens de Colonel, Soldat.</hi></l>
@@ -1388,8 +1313,7 @@
       </lg>
      </quote>
      <quote>
-      <label>Pour M<hi rend="sup">r</hi> Possadofsky, Ecuyer-Tranchant de la Cour, représentant <hi
-        rend="sc">Harpage</hi>, Soldat de Mars.</label>
+      <label>Pour M<hi rend="sup">r</hi> Possadofsky, Ecuyer-Tranchant de la Cour, représentant <hi rend="sc">Harpage</hi>, Soldat de Mars.</label>
       <lg>
        <l> <hi rend="i">Ce jeune Soldat, sans railler,</hi></l>
        <l> <hi rend="i">Mérite une Charge plus grande ;</hi></l>
@@ -1398,8 +1322,7 @@
       </lg>
      </quote>
      <quote>
-      <label>Pour M<hi rend="sup">r</hi> le Comte de Noyelle, représentant <hi rend="sc"
-        >Pharasmane</hi>, Soldat de Mars.</label>
+      <label>Pour M<hi rend="sup">r</hi> le Comte de Noyelle, représentant <hi rend="sc">Pharasmane</hi>, Soldat de Mars.</label>
       <lg>
        <l> <hi rend="i">Sans me faire tenir à quatre,</hi></l>
        <l><hi rend="i">Et sans vouloir passer pour un Soldat cruel,</hi></l>
@@ -1434,8 +1357,7 @@
       quatre Soldats s’allerent placer de l’un &amp; l’autre costé de cette Troupe, &amp; ils
       parurent tous de face au fond du Theatre.</p>
      <quote>
-      <label>Pour M<hi rend="sup">r</hi> le Comte de Schaumbourg, représentant <hi rend="sc"
-        >Hercule.</hi></label>
+      <label>Pour M<hi rend="sup">r</hi> le Comte de Schaumbourg, représentant <hi rend="sc">Hercule.</hi></label>
       <lg>
        <l><hi rend="i">Je me suis mis plus d’une fois</hi></l>
        <l><hi rend="i">En toute sorte de figures.</hi></l>
@@ -1444,8 +1366,7 @@
       </lg>
      </quote>
      <quote>
-      <label>Pour M<hi rend="sup">r</hi> de Gohr, Capitaine d’Infanterie, représentant un <hi
-        rend="sc">Chevalier errant Gaulois.</hi></label>
+      <label>Pour M<hi rend="sup">r</hi> de Gohr, Capitaine d’Infanterie, représentant un <hi rend="sc">Chevalier errant Gaulois.</hi></label>
       <lg>
        <l> <hi rend="i">En amour, non plus qu’en vaillance,</hi></l>
        <l> <hi rend="i">Je ne cede à pas-un Mortel ;</hi></l>
@@ -1509,8 +1430,7 @@
      <p>Un Scaramouche curieux de voir la Feste, entra, &amp; fit mille plaisantes &amp; agreables
       postures, au milieu de cette illustre Assemblée.</p>
      <quote>
-      <label>Pour M<hi rend="sup">r</hi> de Bonnefond, Capitaine Reformé, représentant un <hi
-        rend="sc">Scaramouche.</hi></label>
+      <label>Pour M<hi rend="sup">r</hi> de Bonnefond, Capitaine Reformé, représentant un <hi rend="sc">Scaramouche.</hi></label>
       <lg>
        <l> <hi rend="i">J’ay mes Congez en bonne forme.</hi></l>
        <l><hi rend="i">J’ay passé cent dangers sans estre estropié ;</hi></l>
@@ -1684,15 +1604,13 @@
      c’est la partie la plus essentielle pour estre admis à l’Académie. Il dit, <hi rend="i">Que la
       langue d’Ulysse avoit plus nuy aux Troyens, que n’avoient fait les armes d’Ajax</hi>. C’est
      faire voir en peu de paroles, que l’Esprit triomphe de tout, &amp; que mesme la Valeur est
-     contrainte à luy céder. Apres avoir dit obligeamment, en parlant de l’Académie, <hi rend="i"
-      >Que ce qu’il apprendroit dans ce Corps luy serviroit pour les Discours qu’il auroit à faire
+     contrainte à luy céder. Apres avoir dit obligeamment, en parlant de l’Académie, <hi rend="i">Que ce qu’il apprendroit dans ce Corps luy serviroit pour les Discours qu’il auroit à faire
       dans le Temple de la Justice</hi>, il finit par une tres-belle pensée, qui faisoit entendre,
       <hi rend="i">qu’Hercule s’estant fait Citoyen de Corinthe, tout le monde pouvoit l’estre</hi>.
      En effet, Madame, le Roy estant en quelque façon de l’Académie, puis qu’il a bien voulu agréer
      le Nom de son Protecteur, on peut dire que ce rang n’est au dessous de personne.</p>
     <p>Le Directeur &amp; le Chancelier estant absens, ce fut sur M<hi rend="sup">r</hi> de Mezeray,
-     qui est Secretaire perpétuel de la Compagnie, que tomba l’Employ de répondre à M<hi rend="sup"
-      >r</hi> le Premier Président. Il dit, <hi rend="i">Qu’il avoit douté d’abord s’il le devoit
+     qui est Secretaire perpétuel de la Compagnie, que tomba l’Employ de répondre à M<hi rend="sup">r</hi> le Premier Président. Il dit, <hi rend="i">Qu’il avoit douté d’abord s’il le devoit
       accepter, à cause d’une indisposition qui l’avoit mis depuis quelques jours dans une grande
       foiblesse ; mais qu’il s’estoit aisément persuadé que le Génie immortel dont l’Académie avoit
       toûjours esté animée, ne l’abandonneroit pas, &amp; luy pourroit inspirer des choses qui ne
@@ -1705,8 +1623,7 @@
       dans ces deux mots</hi>, que son mérite extraordinaire &amp; les importans &amp; longs
      services rendus par luy à l’Etat, luy avoient acquis les bonnes graces du plus grand &amp; du
      plus sage des Roys, &amp; qu’il luy en avoit donné la plus glorieuse marque qu’il pust
-     souhaiter, &amp; qui luy estoit destinée depuis longtemps par les vœux publics ; <hi rend="i"
-      >Que dans la Charge de Premier Président, l’une des plus nobles émanations de l’Autorité
+     souhaiter, &amp; qui luy estoit destinée depuis longtemps par les vœux publics ; <hi rend="i">Que dans la Charge de Premier Président, l’une des plus nobles émanations de l’Autorité
       Souveraine, qui préside à tout ce qu’il y a de plus grand dans l’Etat, il n’estoit pas
       seulement réveré comme le Dispensateur des Loix, &amp; le Chef du Premier Parlement de ce
       Royaume, mais qu’il estoit encor consideré comme la regle certaine &amp; le parfait modelle de
@@ -1762,13 +1679,11 @@
      <hi rend="sc">Loüis le Grand</hi>
      <hi rend="i">tel que nous le voyons, &amp; que toute l’Europe l’admire ; Que ny le Pinceau, ny
       le Butin, n’estant point capables de bien exprimer de si grands traits, &amp; ce qui est
-      purement spirituel devant estre l’objet des pures productions de l’Esprit, c’estoit à M<hi
-       rend="sup">rs</hi> de l’Académie à travailler sans relâche à un si noble dessein, à n’y
+      purement spirituel devant estre l’objet des pures productions de l’Esprit, c’estoit à M<hi rend="sup">rs</hi> de l’Académie à travailler sans relâche à un si noble dessein, à n’y
       épargner ny leur industrie ny leurs veilles ; &amp; que la plus glorieuse récompense qu’ils se
       pûssent proposer leur estoit seûre, puis que le seul nom de</hi>
      <hi rend="sc">Loüis le Grand</hi>
-     <hi rend="i">donneroit l’immortalité à leurs Ouvrages</hi>. Il finit en assurant M<hi
-      rend="sup">r</hi> le Premier Président, au nom de ceux pour qui il parloit, qu’ils n’avoient
+     <hi rend="i">donneroit l’immortalité à leurs Ouvrages</hi>. Il finit en assurant M<hi rend="sup">r</hi> le Premier Président, au nom de ceux pour qui il parloit, qu’ils n’avoient
      jamais reçeu plus de gloire &amp; d’avantage que dans cette occasion, &amp; qu’ils
      chercheroient à luy donner tous les témoignages possibles de l’extréme passion qu’ils avoient
      de l’honorer, &amp; de le servir.</p>
@@ -1787,10 +1702,7 @@
      maniere dont il les lût, il vint à <hi rend="i">l’Exaudiat</hi>. Tout le monde donna de grandes
      loüanges à cette Traduction, &amp; on remarqua avec plaisir que les deux Versets qui finissent
      chaque Pseaume, estoient tous traduits diféremment. Comme on approchoit du temps le plus saint,
-     cette rencontre fut cause qu’on lût plusieurs Ouvrages de devotion. M<hi rend="sup"
-     >r</hi> Boyer imita en cela M<hi rend="sup">r</hi> de Benserade, &amp; fit voir un <hi rend="i"
-      >Miserere</hi> en Vers François, qu’on trouva tres-beaux, &amp; fort bien tournez. M<hi
-      rend="sup">r</hi> Charpentier changea de matiere, &amp; lût un Chapitre d’un Livre de sa
+     cette rencontre fut cause qu’on lût plusieurs Ouvrages de devotion. M<hi rend="sup">r</hi> Boyer imita en cela M<hi rend="sup">r</hi> de Benserade, &amp; fit voir un <hi rend="i">Miserere</hi> en Vers François, qu’on trouva tres-beaux, &amp; fort bien tournez. M<hi rend="sup">r</hi> Charpentier changea de matiere, &amp; lût un Chapitre d’un Livre de sa
      composition qu’on va imprimer, &amp; qui est la suite d’un autre que vous avez déja veu, qui
      porte pour titre, <hi rend="i">Défense de la Langue Françoise, pour l’Inscription de l’Arc de
       Triomphe, dédiée au Roy</hi>, dans lequel il a prouvé que ce superbe Monument qui s’éleve à
@@ -1990,8 +1902,7 @@
    <div type="article" xml:id="MG-1681-04_288">
     <head resp="editor">Mort de l’abbesse de Malnouë</head>
     <bibl><title>Mercure galant</title>, avril 1681 [tome 4], p. 288-294.</bibl>
-    <p>Je viens d’apprendre la mort de Madame l’Abbesse de Malnouë<note resp="editor"><hi rend="i"
-       >Malmouë</hi> dans le texte original ; nous corrigeons en suivant la graphie usuelle.</note>, arrivée le 8. de ce mois. Elle s’appelloit Marie-Eleonor de
+    <p>Je viens d’apprendre la mort de Madame l’Abbesse de Malnouë<note resp="editor"><hi rend="i">Malmouë</hi> dans le texte original ; nous corrigeons en suivant la graphie usuelle.</note>, arrivée le 8. de ce mois. Elle s’appelloit Marie-Eleonor de
      Rohan, &amp; estoit Fille d’Hercule de Rohan, Duc de Montbazon, Pair &amp; Grand-Véneur de
      France, &amp; de Marie de Bretagne. Ceux qui connoistront la grandeur &amp; l’antiquité de ce
      Nom illustre, sçauront que c’est assez, pour rendre la naissance de cette Princesse
@@ -2013,12 +1924,10 @@
      Dieu l’avoit appellée, paroissent jamais au jour, on tombera peut-estre d’accord, qu’il est peu
      d’Ouvrages qui renferment une aussi profonde connoissance des devoirs de la Vie Religieuse,
      &amp; autant de pureté &amp; de politesse de langage.</p>
-    <p>Madame l’Abbesse de Caën, qui est de la Maison de Vaucelles de Cochefilet, Sœur de feu M<hi
-      rend="sup">r</hi> le Marquis de Vauvineux, Pere de Madame la Princesse de Guimené, n’eut pas
+    <p>Madame l’Abbesse de Caën, qui est de la Maison de Vaucelles de Cochefilet, Sœur de feu M<hi rend="sup">r</hi> le Marquis de Vauvineux, Pere de Madame la Princesse de Guimené, n’eut pas
      plutost appris cette mort, que pour marquer la reconnoissance qu’elle avoit à la mémoire de
      cette Dame, de qui, en plusieurs occasions, elle avoit reçeu toute la protection possible, elle
-     ordonna un Service solemnel, qui fut fait pour le repos de son ame le 16. de ce mois M<hi
-      rend="sup">r</hi> Méliand Intendant de la Province, M<hi rend="sup">r</hi> de Coigny
+     ordonna un Service solemnel, qui fut fait pour le repos de son ame le 16. de ce mois M<hi rend="sup">r</hi> Méliand Intendant de la Province, M<hi rend="sup">r</hi> de Coigny
      Gouverneur de la Ville &amp; Citadelle de Caën, &amp; plusieurs Personnes de qualité, y
      assisterent, ainsi que les Corps &amp; Communautez. Le Service fut celébré avec les cerémonies
      accoûtumées en de pareilles rencontres, par les Dames Religieuses, qui sont toutes Personnes de
@@ -2173,8 +2082,7 @@
      Cependant ce Cabinet parut tres-superbement meublé, &amp; disputa de magnificence avec tout ce
      qu’on avoit veu. Ce n’estoient qu’Ouvrages d’argenterie de toutes manieres. Ce qui est
      ordinairement de bois aux Sieges, Tables, &amp; Fauteüils, estoit d’argent, &amp; on voyoit une
-     tres-belle Broderie d’or, qui relevoit tous les Meubles jusques aux Portieres. M<hi rend="sup"
-      >r</hi> le Begue, celebre Organiste de Sa Majesté, touchoit en ce Lieu un Cabinet d’Orgues
+     tres-belle Broderie d’or, qui relevoit tous les Meubles jusques aux Portieres. M<hi rend="sup">r</hi> le Begue, celebre Organiste de Sa Majesté, touchoit en ce Lieu un Cabinet d’Orgues
      d’une invention particuliere ; &amp; le plaisir qu’on eut de l’entendre, y arresta la Cour
      quelque temps. Apres cet agreable divertissement, on entra dans le Sallon qui représente les
      Amours de Mars &amp; de Vénus, &amp; qui a esté peint par M<hi rend="sup">r</hi> Mignard. Il me
@@ -2183,8 +2091,7 @@
      que je n’ay pû encor ménager. Il n’y eut personne qui n’admirast ce Sallon. Chacun donna des
      loüanges à ce qui estoit le plus de son goust ; &amp; Leurs Majestez passerent en suite dans la
      Galerie, au bout de laquelle on trouva la Symphonie ordinaire de Monsieur. Elle est composée
-     d’un Clavessin, d’un Dessus de Viole, &amp; d’un Luth ; le premier touché par le S<hi
-      rend="sup">r</hi> Baltasar, l’autre par le S<hi rend="sup">r</hi> Garnier, &amp; le Luth par
+     d’un Clavessin, d’un Dessus de Viole, &amp; d’un Luth ; le premier touché par le S<hi rend="sup">r</hi> Baltasar, l’autre par le S<hi rend="sup">r</hi> Garnier, &amp; le Luth par
      le S<hi rend="sup">r</hi> Jaqueson. Cette Symphonie ayant cessé, chacun alla voir son
      Apartement. Outre celuy de la Reyne, où le Roy devoit coucher, Sa Majesté avoit encor une
      Chambre, &amp; un Cabinet où Elle tenoit Conseil. De l’autre costé qui fait face à l’Apartement
@@ -2199,8 +2106,7 @@
      ayant tous les jours tenu Conseil de la maniere qu’Elle a accoûtumé de le tenir quand Elle est
      à S. Germain. Il y a eu tous les jours Bal ou Comédie. Outre les deux que je viens nommer, on y
      a représenté <hi rend="i">l’Iphigénie</hi> de M<hi rend="sup">r</hi> Racine, Trésorier de
-     France ; avec <hi rend="i">la Comtesse d’Escarbagnas</hi> de feu M<hi rend="sup"
-     >r</hi> Moliere ; <hi rend="i">le Dom Bertrand de Sigaral</hi>, de M<hi rend="sup">r</hi> de
+     France ; avec <hi rend="i">la Comtesse d’Escarbagnas</hi> de feu M<hi rend="sup">r</hi> Moliere ; <hi rend="i">le Dom Bertrand de Sigaral</hi>, de M<hi rend="sup">r</hi> de
      Corneille le jeune ; &amp; <hi rend="i">les Usuriers</hi>, par les Italiens. Le nouveau Salon
      servit seulement pour le premier Bal. Le jour que l’on arriva, le Roy fit l’honneur aux Dames
      de les faire manger avec Luy. Les Violons, &amp; les Hautbois joüerent pendant tout le temps
@@ -2210,12 +2116,10 @@
      fois à la Chasse, tantost à Versailles, &amp; tantost dans la Plaine de S. Denis, &amp; la
      vigueur, &amp; l’adresse de ce grand Monarque y ont toûjours éclaté. En arrivant à S. Cloud, il
      congedia toute sa Musique, &amp; voulut entendre celle de Monseigneur le Dauphin jusqu’à son
-     retour à Saint Germain. Elle a tous les jours chanté à la Messe des Motets de M<hi rend="sup"
-      >r</hi> Charpentier, &amp; Sa Majesté n’en a point voulu entendre d’autres, quoy qu’on luy en
+     retour à Saint Germain. Elle a tous les jours chanté à la Messe des Motets de M<hi rend="sup">r</hi> Charpentier, &amp; Sa Majesté n’en a point voulu entendre d’autres, quoy qu’on luy en
      eust proposé. Il y a deux ans qu’on en chante devant Monseigneur le Dauphin. Les Violons se
      sont toûjours fait entendre au dîner, où l’affluence des Personnes venuës de Paris pour voir le
-     Roy a esté si grande, qu’à peine ce Prince pouvoit-il passer pour se mettre à table. M<hi
-      rend="sup">r</hi> le Duc de Chartres qui estoit demeuré au Palais Royal, pour étudier, &amp;
+     Roy a esté si grande, qu’à peine ce Prince pouvoit-il passer pour se mettre à table. M<hi rend="sup">r</hi> le Duc de Chartres qui estoit demeuré au Palais Royal, pour étudier, &amp;
      dont les progrés dans l’étude sont si grands qu’ils sont à peine croyables, vint à S. Cloud
      salüer Leurs Majestez. Il parla au Roy avec tant d’esprit, &amp; les réponses qu’il fit sans
      resver un seul moment furent si pleines de vivacité, que Sa Majesté en fut surprise, &amp; dit
@@ -2249,8 +2153,7 @@
     <p>Ce mesme Mot a esté trouvé par Messieurs le Marquis de Grassamant, de Troyes ; Du Moulin, de
      la Ruë S. Denys ; De Beaulieu, de la Ruë de la Harpe ; Tamiriste, de la Ruë de la Cerisaye ;
      (les deux premiers en Vers ;) &amp; par Mademoiselle C.B. de Chartres ; les Aimables de la
-     Sencerie de Dreux ; &amp; Diane de la Poste à Roüen. On a aussi expliqué cette Enigme sur <hi
-      rend="i">l’Histoire.</hi></p>
+     Sencerie de Dreux ; &amp; Diane de la Poste à Roüen. On a aussi expliqué cette Enigme sur <hi rend="i">l’Histoire.</hi></p>
    </div>
    <div type="article" xml:id="MG-1681-04_346">
     <head>[Explication de la seconde Enigme avec les noms de ceux qui en ont trouvé le sens]</head>
@@ -2365,22 +2268,19 @@
      Chambre des Comptes, qui mourut icy le 29. de ce mois, âgé de 77 ans. Vous sçavez, Madame, que
      c’estoit un des plus riches Hommes de France, &amp; que la Fortune ne luy avoit rien donné sans
      estre d’intelligence avec la Justice ; mais vous ne sçavez peut-estre pas que sa Famille estoit
-     déja illustre avant l’éclat qu’il luy a presté, &amp; que depuis Charles VI. jusqu’à <hi
-      rend="sc">Loüis le Grand</hi>, la Noblesse s’y est perpetuée, sans aucun mélange qui en ait pû
+     déja illustre avant l’éclat qu’il luy a presté, &amp; que depuis Charles VI. jusqu’à <hi rend="sc">Loüis le Grand</hi>, la Noblesse s’y est perpetuée, sans aucun mélange qui en ait pû
      corrompre la pureté. Sa Genealogie en feroit foy, si la modestie de ses Parens, qui prouvent
      assez leur Noblesse par leur vertu, ne faisoit gloire d’ensevelir ce qui seroit fort à leur
      avantage. Quant à son mérite, toute la France en a parlé si haut, qu’il est en seûreté contre
      les attaques de l’Envie ; &amp; pour ce qui est de sa fidelité envers les Grands Princes dont
      il estoit la Creature, on en voit peu qui l’égale, &amp; l’on n’en sçait point qui la surpasse.
      Feu Monsieur le Prince en estoit si bien persuadé, qu’il luy fit l’honneur de le nommer
-     Exécuteur de son Testament ; &amp; si cette grace fut grande, la reconnoissance de M<hi
-      rend="sup">r</hi> le Président Perrault ne le fut pas moins. Il fit faire au Cœur de ce Prince
+     Exécuteur de son Testament ; &amp; si cette grace fut grande, la reconnoissance de M<hi rend="sup">r</hi> le Président Perrault ne le fut pas moins. Il fit faire au Cœur de ce Prince
      un Mausolée si superbe, qu’il attire l’admiration des Etrangers, &amp; transmet chez toutes les
      Nations voisines le Nom de celuy qui l’a fait construire. C’est aux Jesuites de la Ruë S.
      Antoine qu’il est érigé. M<hi rend="sup">r</hi> Sarazin, que tant de beaux Ouvrages ont rendu
      fameux, regardoit celuy-là comme son Chef-d’œuvre ; &amp; le Cavalier Bernin, pendant qu’il
-     estoit en France, avoüa qu’il n’y avoit rien de plus beau à Rome. Cependant M<hi rend="sup"
-      >r</hi> le Président Perrault ne s’est pas contenté de confier sa reconnoissance à la durée du
+     estoit en France, avoüa qu’il n’y avoit rien de plus beau à Rome. Cependant M<hi rend="sup">r</hi> le Président Perrault ne s’est pas contenté de confier sa reconnoissance à la durée du
      Bronze de ce magnifique Monument. Il a fondé à perpétuité un Service solemnel qui se doit faire
      le premier de Septembre, jour de la naissance de feu Monsieur le Prince, pour le repos de l’ame
      de S.A.S. &amp; une Oraison Funebre à sa gloire, &amp; à celle de son auguste Maison. Pour cet
@@ -2388,8 +2288,7 @@
      &amp; prie Monsieur le Prince de trouver bon que son Trésorier se charge de six mille quatre
      cens livres, pour en faire un Revenu de trois cent vingt, qui seront employées tous les ans à
      faire faire quatre Bources de Jettons d’argent, à raison de quatre-vingts livres chacune. D’un
-     costé de ces Jettons seront les Armes de feu Monsieur le Prince, avec cette Légende, <hi
-      rend="i">Henricus Borbonius, Princeps Condæus</hi> ; &amp; de l’autre, ce sera un Tombeau à
+     costé de ces Jettons seront les Armes de feu Monsieur le Prince, avec cette Légende, <hi rend="i">Henricus Borbonius, Princeps Condæus</hi> ; &amp; de l’autre, ce sera un Tombeau à
      l’antique, d’où sortiront des Lauriers &amp; des Branches de Lierre qui l’embrasseront, avec
      cette Devise à l’entour, <hi rend="i">Etiam post fata fidelis</hi>. Trois de ces Bources seront
      distribuées à Messieurs les Administrateurs de l’Hostel-Dieu, que M<hi rend="sup">r</hi> le
@@ -2408,8 +2307,7 @@
      contient quantité de Legs particuliers, sur tout, force Legs pieux ; &amp; comme il y a peu de
      Convents qu’il n’ait assistez pendant sa vie, il y en a peu aussi qu’il ait oubliez à sa mort.
      Si vous voulez voir un Portrait de luy entiérement ressemblant, donnez-vous la peine de lire
-     l’Epitaphe suivante que je vous envoye. Elle est de la plume de M<hi rend="sup"
-     >r</hi> Boursault, qu’il a honoré de son amitié, &amp; dont il avoit fait mention sur deux
+     l’Epitaphe suivante que je vous envoye. Elle est de la plume de M<hi rend="sup">r</hi> Boursault, qu’il a honoré de son amitié, &amp; dont il avoit fait mention sur deux
      Testamens.</p>
     <quote>
      <lg>
@@ -2473,5 +2371,4 @@
     </quote>
    </div>
   </body>
- </text>
-</TEI>
+ </text></TEI>

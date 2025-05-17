@@ -1,65 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1682-11" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, novembre 1682 [tome 13]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2016"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1682-11/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>novembre 1682</date> [<biblScope unit="volume"
-            >[tome XIII]</biblScope>].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1682-11"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1682-11_001">
         <head>[Sonnet]</head>
@@ -164,8 +103,7 @@
           &amp; une Messe solemnelle, où il y eut de tres-beaux Motets en Musique, de la composition
           de M<hi rend="sup">r</hi> Michel, Chantre à Soleurre. Apres que M<hi rend="sup">r</hi>
           l'Ambassadeur fut retourné à son Hostel, M<hi rend="sup">rs</hi> du Chapitre y allerent en
-          Corps le complimenter par la bouche de M<hi rend="sup">r</hi> le Prevost. [...] M<hi
-            rend="sup">r</hi> de Gravel pria tous ces Messieurs d'un grand Repas qu'il donnoit dans
+          Corps le complimenter par la bouche de M<hi rend="sup">r</hi> le Prevost. [...] M<hi rend="sup">r</hi> de Gravel pria tous ces Messieurs d'un grand Repas qu'il donnoit dans
           l'Hostel de Ville à M<hi rend="sup">rs</hi> du Grand &amp; du Petit Conseil, &amp; il
           demanda à M<hi rend="sup">r</hi> Gochart en particulier ses Vers &amp; ses Devises pour
           les envoyer à la Cour, &amp; félicita M<hi rend="sup">r</hi> Michel sur la beauté de sa
@@ -256,8 +194,7 @@
           College des Jesuites de Périgueux représenterent dans le temps qu’on y celébra la
           Naissance du jeune Prince.</p>
         <quote>
-          <label>DIALOGUÉ<lb/>DE TREI BARGIÉ<lb/><hi rend="sc">Perigourdi</hi>,<lb/>Nomna <hi
-              rend="sc">Françey, Guillaumé &amp; Frontou</hi>,<lb/>Sur là Coucha de Madamo lo
+          <label>DIALOGUÉ<lb/>DE TREI BARGIÉ<lb/><hi rend="sc">Perigourdi</hi>,<lb/>Nomna <hi rend="sc">Françey, Guillaumé &amp; Frontou</hi>,<lb/>Sur là Coucha de Madamo lo
             Daufino,<lb/>d’un Fir que s’apello Monseigneur<lb/>lou Du de Bourgoüigno.</label>
           <label type="speaker">GUILLAUMÉ.</label>
           <lg>
@@ -549,8 +486,7 @@
         <bibl><title>Mercure galant</title>, novembre 1682 [tome 13], p. 91-93.</bibl>
         <p/>
         <p>La Ville de Corbie a marqué avec beaucoup d'éclat sa joye pour la mesme Naissance. Tous
-          les ordres furent donnez par le Prieur de l'Abbaye, en qualité de Grand Vicaire de M<hi
-            rend="sup">r</hi> le Chevalier de Savoye, qui en est Abbé &amp; Comte de Corbie. Le jour
+          les ordres furent donnez par le Prieur de l'Abbaye, en qualité de Grand Vicaire de M<hi rend="sup">r</hi> le Chevalier de Savoye, qui en est Abbé &amp; Comte de Corbie. Le jour
           de S. Loüis, qu'on avoit destiné pour solemniser la Naissance du jeune Prince, l'Eglise de
           l'Abbaye fut magnifiquement parée, &amp; la Porte ornée de mille Devises. On chanta une
           grande Messe le matin, &amp; l'apresdînée des Vespres, où se trouverent les Corps de
@@ -676,14 +612,12 @@
           &amp; à gauche avec des Flambeaux de cire blanche, &amp; deux autres soûtenoient un Daiz
           magnifique. Lors qu'on fut rentré dans l'Eglise de l'Abbaye, M<hi rend="sup">rs</hi> les
           Abbez de S. Vicerte &amp; de Coulon se placerent sur des Fauteüils du côté de l'Evangile;
-          &amp; les Religieux &amp; autres Ecclesiastiques, remplirent les Chaires du Choeur. M<hi
-            rend="sup">r</hi> l'Abbé de S. Mesmin celébra la Messe ; &amp; dans les endroits où le
+          &amp; les Religieux &amp; autres Ecclesiastiques, remplirent les Chaires du Choeur. M<hi rend="sup">r</hi> l'Abbé de S. Mesmin celébra la Messe ; &amp; dans les endroits où le
           Choeur se reposoit, la Simphonie se faisoit entendre. Les Vespres furent chantées avec la
           mesme solemnité, &amp; on termina la Cerémonie par de nouvelles actions de grace que les
           Religieux Feüillans rendirent à Dieu de la Naissance de Monseigneur le Duc de Bourgogne.
           Quoy qu'ils eussent déjà marqué leur joye le jour de la Feste de S. Bernard, ils prirent
-          avec plaisir une occasion si favorable de la faire encor paroître en chantant le <hi
-            rend="i">Te Deum</hi> &amp; l'Exaudiat. [...]</p>
+          avec plaisir une occasion si favorable de la faire encor paroître en chantant le <hi rend="i">Te Deum</hi> &amp; l'Exaudiat. [...]</p>
       </div>
       <div type="article" xml:id="MG-1682-11_123">
         <head>[Aqs]</head>
@@ -988,8 +922,7 @@
         <p/>
         <p>Le Mardy 8. du dernier mois, le bruit du Canon &amp; de la Mousqueterie, commença les
           Réjoüissances à Cherbourg. Le Peuple y fut régalé par deux Fontaines de Vin qui coulerent
-          dans la Place publique ; &amp; toute la Noblesse du Païs s'estant renduë aupres de M<hi
-            rend="sup">r</hi> de Fontenay, Gouverneur de cette Place, il la traita magnifiquement.
+          dans la Place publique ; &amp; toute la Noblesse du Païs s'estant renduë aupres de M<hi rend="sup">r</hi> de Fontenay, Gouverneur de cette Place, il la traita magnifiquement.
           Le soir, la mesme Noblesse l'ayant accompagné sur le principal Bastion de la Ville, qui
           est celuy de Matignon, on y alluma un grand Feu au bruit du Canon, des Trompetes,
           Tambours, &amp; Hautbois. Ce Feu fut suivy de deux superbes Collations, l'une pour les
@@ -1024,8 +957,7 @@
           beaucoup de diligence, pour satisfaire plus promptement aux ordres du Roy. Il dîna le 14.
           Octobre à Bourg chez M<hi rend="sup">r</hi> l'Evesque de Viriers, Doyen des Evesques de
           Languedoc. Il fut nommé à cet Evesché pendant la Régence de Marie de Medicis. Ce Prélat
-          est magnifique, &amp; fait fort bien les honneurs de sa Maison. De Bourg, M<hi rend="sup"
-            >r</hi> de Noailles alla au Pont Saint Esprit. C'est l'entrée du Languedoc. Il fut receu
+          est magnifique, &amp; fait fort bien les honneurs de sa Maison. De Bourg, M<hi rend="sup">r</hi> de Noailles alla au Pont Saint Esprit. C'est l'entrée du Languedoc. Il fut receu
           au delà du Pont avec le Daiz, &amp; harangué par les Consuls, qui luy presenterent les
           Clefs de la Ville. Il se rendit en suite à l'Eglise, où apres que le Curé l'eut
           complimenté, on chanta le <hi rend="i">Te Deum</hi>. Dés qu'il fut finy, ce Duc alla dans
@@ -1118,8 +1050,7 @@
           reçeut l'ordre de la Feste, en l'absence de M<hi rend="sup">r</hi> de Tierceville-Mahaut,
           Commandant de la Place, qui présidoit alors à un Synode de M<hi rend="sup">rs</hi> de la
           Religion Prétenduë Réformée, qui se tenoit aupres de Roüen. Il avoit esté choisy pour cet
-          Employ par Sa Majesté, qui estant informée du mérite de tous ses Sujets, sçait que M<hi
-            rend="sup">r</hi> de Tierceville joint la capacité d'un Homme de Lettres avec la valeur
+          Employ par Sa Majesté, qui estant informée du mérite de tous ses Sujets, sçait que M<hi rend="sup">r</hi> de Tierceville joint la capacité d'un Homme de Lettres avec la valeur
           d'un Homme d'Epée. La Harangue qu'il fit à ce Synode, &amp; qui paroist bien estre de la
           mesme main qu'une infinité de jolies choses qui ont couru de luy, est une marque de la
           maniere dont il s'acquita de sa Commission. Le Samedy au matin, tous les Vaisseaux qui
@@ -1160,8 +1091,7 @@
         <bibl><title>Mercure galant</title>, novembre 1682 [tome 13], p. 254-258.</bibl>
         <p/>
         <p>A Falaise, qui est à sept lieuës de Caën, M<hi rend="sup">r</hi> de Morangis, Intendant
-          de la Genéralité d'Alençon, accompagné de tous les Officiers de Justice, &amp; M<hi
-            rend="sup">r</hi> de Querville-Vicomte, à la teste de plus de deux mille Habitans sous
+          de la Genéralité d'Alençon, accompagné de tous les Officiers de Justice, &amp; M<hi rend="sup">r</hi> de Querville-Vicomte, à la teste de plus de deux mille Habitans sous
           les armes, allerent à l'Eglise de la Trinité, où s'estoient rendus tous les Prestres des
           Paroisses de la Ville, avec toutes les Communautez Religieuses. Cette Eglise estoit tendüe
           depuis le haut jusqu'au bas, des plus riches Tapisseries, &amp; ornée de la plus belle
@@ -1194,8 +1124,7 @@
           Dauphine. Aussitost il marqua sa joye par des Repas magnifiques qu'il donna à tout ce
           qu'il pût assembler de Personnes considérables. Il voulut mesme que sa Maison fust ouverte
           aux Païsans du Lieu. Ils y vinrent en foule, &amp; il les fit dancer dans un grand Bois,
-          Hommes, Femmes, &amp; Filles. Cette Dance champêtre ne laissoit pas d'estre agreable. M<hi
-            rend="sup">r</hi> l'Intendant faisoit fournir du Vin en abondance aux Danceurs, afin que
+          Hommes, Femmes, &amp; Filles. Cette Dance champêtre ne laissoit pas d'estre agreable. M<hi rend="sup">r</hi> l'Intendant faisoit fournir du Vin en abondance aux Danceurs, afin que
           les forces ne leur manquassent pas ; &amp; Madame l'Intendante distribuoit aux jolies
           Païsannes des Présens qui leur convenoient, comme des Noeuds de Rubans, &amp; des Miroirs.
           Ce ne fut la que le Prélude des Réjoüissances de Caën. M<hi rend="sup">r</hi> de Meliand y
@@ -1230,8 +1159,7 @@
           son Chasteau de Lonray toute cette grande Compagnie. La plûpart de la Noblesse des
           environs s'y trouva. Le Régale fut superbe. La Santé du jeune Prince y fut büe au bruit de
           vingt-quatre Pieces de Canon qui sont sur le lieu. Un grand Bal suivit le Repas, mais on
-          le quitta pour voir un Feu d'artifice qui avoit esté composé par des Ingénieurs que M<hi
-            rend="sup">r</hi> de Matignon avoit fait venir exprés de Paris. [...]</p>
+          le quitta pour voir un Feu d'artifice qui avoit esté composé par des Ingénieurs que M<hi rend="sup">r</hi> de Matignon avoit fait venir exprés de Paris. [...]</p>
       </div>
       <div type="article" xml:id="MG-1682-11_272">
         <head>[Padoue]</head>
@@ -1301,21 +1229,17 @@
           On trouve dans le mesme Volume, un Discours de l’Utilité &amp; des Parties des Poëmes
           Dramatiques, &amp; l’Examen de huit Pieces de Theatre, qui dans leur temps ont eu des
           succés fort avantageux. Ce sont <hi rend="i">Mélite, Clitandre, la Veuve, la Galerie du
-            Palais, la Suivante, la Place Royale, Médée</hi>, &amp; <hi rend="i"
-          >l’Illusion.</hi></p>
+            Palais, la Suivante, la Place Royale, Médée</hi>, &amp; <hi rend="i">l’Illusion.</hi></p>
         <p>Le second Volume renferme un Discours de la Tragédie, &amp; des moyens de la traiter,
           selon le vray-semblable, ou le nécessaire, avec l’Examen <hi rend="i">du Cid, d’Horace, de
-            Cinna, de Polieucte, de Pompée, du Menteur, de la Suite du Menteur</hi>, &amp; <hi
-            rend="i">de Théodore.</hi></p>
+            Cinna, de Polieucte, de Pompée, du Menteur, de la Suite du Menteur</hi>, &amp; <hi rend="i">de Théodore.</hi></p>
         <p>Il y a dans le troisiéme un Discours des trois Unitez, de l’action, du jour, &amp; du
           lieu, avec l’Examen <hi rend="i">de Rodogune, d’Héraclius, d’Andromede, de Dom Sanche
             d’Arragon, de Nicomede, de Pertharite, d’Oedipe</hi>, &amp; <hi rend="i">de la Toison
             d’or.</hi></p>
-        <p>On voit à la teste du quatriéme Volume, des Préfaces pleines d’érudition sur <hi rend="i"
-            >Sertorius, Sophonisbe, Othon, Agésilas</hi>, &amp; <hi rend="i">Attila</hi>. La
+        <p>On voit à la teste du quatriéme Volume, des Préfaces pleines d’érudition sur <hi rend="i">Sertorius, Sophonisbe, Othon, Agésilas</hi>, &amp; <hi rend="i">Attila</hi>. La
           derniere est une Réponse à des Invectives qu’on avoit publiées en ce temps-là contre la
-          Comédie. <hi rend="i">Tite</hi> &amp; <hi rend="i">Berénice, Pulchérie</hi> &amp; <hi
-            rend="i">Suréna</hi>, sont dans ce mesme Volume.</p>
+          Comédie. <hi rend="i">Tite</hi> &amp; <hi rend="i">Berénice, Pulchérie</hi> &amp; <hi rend="i">Suréna</hi>, sont dans ce mesme Volume.</p>
         <p>On peut juger par le nombre de Pieces de Theatre que M<hi rend="sup">r</hi> de Corneille
           l’aîné a fait, &amp; par le succés extraordinaire qu’elles ont eu, qu’il entend
           parfaitement la Poëtique ; &amp; comme ceux qui ont la pratique d’une chose, en donnent
@@ -1327,14 +1251,12 @@
           regles, on voit des Ouvrages de Theatre, &amp; ce qu’ils ont de beau &amp; de défectueux,
           par l’Examen que l’on en peut lire. Je ne vous dis rien de la grandeur des sentimens dont
           ces Pieces sont remplies. On les admire tous les jours, &amp; sur tout cette Politique
-          admirable qui a si souvent fait dire à M<hi rend="sup">r</hi> le Maréchal de Gramont, <hi
-            rend="i">que les Ouvrages de M<hi rend="sup">r</hi> de Corneille méritoient d’estre
+          admirable qui a si souvent fait dire à M<hi rend="sup">r</hi> le Maréchal de Gramont, <hi rend="i">que les Ouvrages de M<hi rend="sup">r</hi> de Corneille méritoient d’estre
             conservez dans le Cabinet des Roys.</hi></p>
         <p>Les cinq derniers Volumes de cette nouvelle Edition, contiennent trente Pieces du Frere
           de ce grand Autheur, connu depuis si longtemps sous le nom de M<hi rend="sup">r</hi> de
           Corneille le Jeune. Les succés de <hi rend="i">D. Bertran, du Feint Astrologue, du Géolier
-            de Soy-mesme</hi>, &amp; <hi rend="i">du Baron d’Asbicrac</hi>, pour le Comique ; <hi
-            rend="i">De Timocrate, de la Mort de Commode, de Camma, de Stilicon, d’Ariane, &amp; du
+            de Soy-mesme</hi>, &amp; <hi rend="i">du Baron d’Asbicrac</hi>, pour le Comique ; <hi rend="i">De Timocrate, de la Mort de Commode, de Camma, de Stilicon, d’Ariane, &amp; du
             Comte d’Essex</hi>, pour le Tragique, &amp; <hi rend="i">de Circé &amp; de
             l’Inconnu</hi>, pour le Spéctacle, &amp; pour le Galant, me donneroient lieu de vous en
           vanter les diférentes beautez, si par le pouvoir que l’amitié luy donne sur moy, il ne me
@@ -1450,16 +1372,14 @@
           tres-bien les Scenes dont on leur avoit donné le sujet, &amp; la plûpart des pensées. La
           Musique Françoise avoit esté faite par M<hi rend="sup">r</hi> de la Lande, qui montre à
           joüer du Clavessin à Mademoiselle de Nantes. M<hi rend="sup">r</hi> Genest, dont la
-          réputation est établie à bon titre, avoit fait les Vers François. M<hi rend="sup"
-          >r</hi> Laurenzani estoit Autheur de la Musique Italienne. Il n’a plus besoin de loüanges,
+          réputation est établie à bon titre, avoit fait les Vers François. M<hi rend="sup">r</hi> Laurenzani estoit Autheur de la Musique Italienne. Il n’a plus besoin de loüanges,
           puis qu’il n’y a que les Envieux du vray mérite qui puissent se déclarer contre luy. Il a
           fait depuis peu quatre Motets qui ont extrémement réüssy. Le Roy en a redemandé un. Tout
           ce divertissement avoit esté préparé sans qu’on en sçeust rien. Il s’estoit trouvè prest
           en cinq ou six jours, &amp; des Gens d’un tres-bon goust s’en estoient meslez. Pendant que
           le Roy estoit à Fontainebleau, il a fait du bien à quantité de Personnes, mais ce n’est
           que son ordinaire. Sa Majesté a mis en Regimens plusieurs Compagnies qu’on avoit levées,
-          &amp; qui estoient séparées dans des Quartiers. Elle a nommé pour les commander, M<hi
-            rend="sup">r</hi> le Marquis de Florensac, M<hi rend="sup">r</hi> le Marquis d’Eudicour,
+          &amp; qui estoient séparées dans des Quartiers. Elle a nommé pour les commander, M<hi rend="sup">r</hi> le Marquis de Florensac, M<hi rend="sup">r</hi> le Marquis d’Eudicour,
             M<hi rend="sup">r</hi> le Comte de Talard, &amp; M<hi rend="sup">r</hi> le Marquis de
           Varennes.</p>
         <p>Le Roy ayant à donner l’agrément de la Charge de Premier Chirurgien de la Reyne, a crû la
@@ -1505,8 +1425,7 @@
         <bibl><title>Mercure galant</title>, novembre 1682 [tome 13], p. 356-358.</bibl>
         <p/>
         <p>J’avois commencé la description de ces brillantes Soirées, &amp; je desesperois d’en bien
-          faire la peinture, lors qu’il m’est tombé entre les mains des Vers de M<hi rend="sup"
-            >r</hi> le Duc de Saint Aignan sur ce sujet. J’en ay esté tellement frapé, que je n’ay
+          faire la peinture, lors qu’il m’est tombé entre les mains des Vers de M<hi rend="sup">r</hi> le Duc de Saint Aignan sur ce sujet. J’en ay esté tellement frapé, que je n’ay
           pas crû que ma Prose pust avoir aupres de ces Vers, d’autre agrément que celuy de la
           matiere. Ainsi je reserve pour le mois prochain, la description que j’avois résolu d’en
           donner à ma maniere. Comme M<hi rend="sup">r</hi> de S. Aignan envoya ses Vers à Madame de
@@ -1664,5 +1583,4 @@
           Monde.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

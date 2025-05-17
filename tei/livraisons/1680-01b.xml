@@ -1,67 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, janvier 1680 (deuxième partie) [tome 2]</title>
-        <title type="desc">Contenant les Céremonies du Mariage de Monsieur le Prince de Conty avec
-          Mademoiselle de Blois ; &amp; une Relation de la Lorraine Espagnolete</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2015"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1680-01b/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, janvier <date>1680</date> (deuxième partie) [tome
-          2].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1680-01"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1680-01b_050" resp="mercure">
         <head>[Mariage du prince de Conti, représentation de <hi rend="italic">Bellérophon</hi> et 
@@ -146,8 +83,7 @@
           <label rend="center">Relation<lb/> de la Lorraine<lb/> espagnolete,</label>
           <p><hi rend="i">Touchant le Voyage de la Reyne d’Espagne, depuis son entrée dans les Etats
               du Roy Catholique, jusqu’à son arrivée à Madrid.</hi></p><lb/>
-          <p>Quatre heures avant que la Reyne d'Espagne arrivast sur la Frontiere, M<hi rend="sup"
-              >r</hi> le Marquis d'Astorga attendoit sur le bord de la Riviere de Bidassoa, avec ses
+          <p>Quatre heures avant que la Reyne d'Espagne arrivast sur la Frontiere, M<hi rend="sup">r</hi> le Marquis d'Astorga attendoit sur le bord de la Riviere de Bidassoa, avec ses
             Gens &amp; ceux de la Maison de cette Princesse, qui parurent ce jour-là tous avec des
             Habits de la derniere propreté. Les Dames de la Reyne, &amp; les Gentilshommes de sa
             Maison, les Menines, &amp; mesme les Pages, brilloient en Pierreries &amp; en Broderie
@@ -203,8 +139,7 @@
             au nom du Roy. La Reyne y répondit d'une maniere fort obligeante, &amp; d'un air plein
             de grace &amp; de majesté, qui charma toute l'Assemblée, &amp; qui acheva de gagner les
             cœurs de tous les Espagnols &amp; des Espagnoletes, qui eurent l'honneur de s'y trouver.
-              M<hi rend="sup">r</hi> le Marquis d’Astorga fit aussi compliment à M<hi rend="sup"
-              >r</hi> le Prince d’Harcourt &amp; aux principaux de la Noblesse Françoise qui
+              M<hi rend="sup">r</hi> le Marquis d’Astorga fit aussi compliment à M<hi rend="sup">r</hi> le Prince d’Harcourt &amp; aux principaux de la Noblesse Françoise qui
             l’accompagnoit ; &amp; apres les premieres civilitez renduës de part &amp; d’autre, le
             Secretaire d’Etat lût les pleins Pouvoirs des Ambassadeurs Extraordinaires des deux
             Roys, en vertu desquels M<hi rend="sup">r</hi> le Prince d’Harcourt executa les ordres
@@ -520,8 +455,7 @@
           d'estime &amp; de tendresse, l'on m'a assuré qu'il luy tint ce discours.<hi rend="i">Me
             doy a mi mismo, Senora, mil parabienes del buen-gusto de mi acertada elecion, pues
             reconosco, que la fama y el pincel han agraviado sumamente las altas prendas, é
-            incomparable belleze de Vuestra Magestad</hi>. C'est à dire en Langue Françoise, <hi
-            rend="i">Je m'estime heureux, Madame, d'avoir fait un si bon &amp; si digne choix,
+            incomparable belleze de Vuestra Magestad</hi>. C'est à dire en Langue Françoise, <hi rend="i">Je m'estime heureux, Madame, d'avoir fait un si bon &amp; si digne choix,
             d'autant plus que je ne reconnois que la renomée mesme, &amp; le Pinceau, bien loin
             d'avoir flaté Vostre Majesté, ont fait tort à sa beauté, &amp; aux rares qualitez que je
             remarque en sa Personne</hi>.A quoy la Reyne ne fit une réponse digne de la délicatesse
@@ -552,8 +486,7 @@
           Gardes &amp; avec toutes les formalitez qui se pratiquent à la Cour.</p>
         <p>Le Roy &amp; la Reyne se mirent à table, &amp; mangerent ensemble contre la coûtume du
           Palais, où les Roys mangent toûjours seuls, par une espece de Loys, &amp; d'Observance qui
-          vient par succession de la Maison de Bourgogne, &amp; que l'on appelle icy, <hi rend="i"
-            >la Etiqueta.</hi> Il a esté un temps où l'on auroit mieux aimé perdre une Province, que
+          vient par succession de la Maison de Bourgogne, &amp; que l'on appelle icy, <hi rend="i">la Etiqueta.</hi> Il a esté un temps où l'on auroit mieux aimé perdre une Province, que
           d'enfraindre en un seul point le Loy de l'Etiquete; mais le Roy qui n'est pas si
           scrupuleux en ce point que ses Prédecesseurs, voulut bien se relâcher de cette Observance,
           en faveur d'ue Princesse qui avoit pris tant de peines, &amp; essuyé les fatigues d'un si
@@ -667,8 +600,7 @@
           avoit pû causer pendant le Voyage.</p>
         <p>Il estoit deux heures apres midy lors que la Cour partit de Quintana-Palla. Le Roy &amp;
           la Reyne entrerent seuls dans un mesme Carrosse, &amp; firent ensemble les trois lieües de
-          chemin qui restoient jusqu'à Burgos, où Leurs Majestez arriverent <hi rend="i"
-            >incognito</hi> sur les cinq heures du soir, laissant assez loins derriere Elles une
+          chemin qui restoient jusqu'à Burgos, où Leurs Majestez arriverent <hi rend="i">incognito</hi> sur les cinq heures du soir, laissant assez loins derriere Elles une
           partie de la suite, &amp; tous les Equipages. Elles descendirent au Palais des anciens
           Roys de Castille, &amp; passerent droit au Quartier de la Reyne, où le Roy mena Sa
           Majesté, &amp; apres luy avoir fait un nouveau compliment sur son heureuse arrivée, il la
@@ -699,8 +631,7 @@
         </quote>
         <p>Le lendemain Lundy 20. Novembre, fut le jour destiné à l’Entrée solemnelle de la Reyne à
           Burgos, à une heure apres midy. Elle alla avec ses Dames d'Honneur, &amp; les principaux
-          Officiers de sa Maison, à une Abbaye de Dames de Fondation Royale, que l'on appelle <hi
-            rend="i">El Real Convento de las Huelgas</hi>, où sa Majesté reçeut en cerémonie les
+          Officiers de sa Maison, à une Abbaye de Dames de Fondation Royale, que l'on appelle <hi rend="i">El Real Convento de las Huelgas</hi>, où sa Majesté reçeut en cerémonie les
           Complimens de la Cité Royale de Burgos. Le Duc de Medina-Celi, comme Chef perpétuel du
           Magistrat de cette Ville-là, fut celuy qui porta la parole à la teste de quarante Régidors
           ou Echevins, revestus de grandes Robes traînantes, qu'ils portent ordinairement en de
@@ -759,8 +690,7 @@
           avoit oüy à Burgos une Musique si belle, ny des Concerts si achevez de Voix &amp;
           d’Instrumens.</p>
         <p>Sa Majesté ayant fait ses devotions, remonta à cheval à la Porte de l'Eglise, &amp; prit
-          la route du Palais, où le Roy l'alla attendre, apres avoir eu la satisfaction de voir <hi
-            rend="i">incognito</hi>, passer sa Reyne en triomphe, ayant eu le loisir de la bien
+          la route du Palais, où le Roy l'alla attendre, apres avoir eu la satisfaction de voir <hi rend="i">incognito</hi>, passer sa Reyne en triomphe, ayant eu le loisir de la bien
           considérer d'une Grille secrete, pratiquée à dessein dans une Fenestre pres de
           l'Eglise.</p>
         <p>Sa Majesté alla recevoir la Reyne à la Porte du Palais, d’où montant à leur Apartement
@@ -783,8 +713,7 @@
           Balbasés. Tous les Grands s'y trouverent, pour faire honneur à ce Duc ; &amp; l'occasion
           qui avoit assemblé deux Cours Royales à Burgos, luy fut extrémement favorable pour rendre
           plus celebre la prise de possession de sa nouvelle Dignité.</p>
-        <p>L'on fit aussi le mesme jour deux Festes, que l'on appelle icy <hi rend="i"
-          >Mascaras</hi>. L'une estoit composée de soixante &amp; deux Personnes déguisées, qui
+        <p>L'on fit aussi le mesme jour deux Festes, que l'on appelle icy <hi rend="i">Mascaras</hi>. L'une estoit composée de soixante &amp; deux Personnes déguisées, qui
           alloient deux à deux autour du Palais &amp; par les Ruës de la Ville, &amp; qui
           représentoient autant d'Animaux de diférentes especes, ou d'autres personnages grotesques,
           dont la bizarrerie, quoy que peu conforme au goût de vostre Cour, ne laissa pas de plaire
@@ -902,18 +831,14 @@
           déja fait le détail jusqu’à Burgos. Je ne doute point que la nouvelle Relation qu’elle me
           promet, de l’Entrée publique de la Reyne d’Espagne à Madrid, ne vous donne de la joye. Je
           l’attens de jour en jour, &amp; comme il y a grande apparence qu’elle arrivera bientost,
-          vous la trouverez dans ma Lettre de ce Mois. Cependant je vous envoye le Plan du <hi
-            rend="i">Buen-Retiro</hi>, où vous venez de lire qu’on avoit mené cette Princesse. Je
+          vous la trouverez dans ma Lettre de ce Mois. Cependant je vous envoye le Plan du <hi rend="i">Buen-Retiro</hi>, où vous venez de lire qu’on avoit mené cette Princesse. Je
           l’ay fait graver sur un bon Original. Le <hi rend="i">Buen-Retiro</hi> est une Maison de
           Plaisance, que le Comte Duc d’Olivarés fit bastir sans aucun dessein formé, à un des bouts
-          de Madrid, dont il n’y a que le Cours qui la sépare. Elle fut nommée d’abord <hi rend="i"
-            >Galinero</hi>, à cause de certaines Poules extraordinaires qu’on luy donna, qu’il fit
+          de Madrid, dont il n’y a que le Cours qui la sépare. Elle fut nommée d’abord <hi rend="i">Galinero</hi>, à cause de certaines Poules extraordinaires qu’on luy donna, qu’il fit
           mettre dans une petite Maison &amp; Jardin, de l’autre costé <hi rend="i">del Prado</hi>.
-          C’est le lieu où se fait le Cours ; mais quoy qu’il soit remply de Fontaines, comme le <hi
-            rend="i">Retiro</hi> est au dessus, il a falu une dépense prodigieuse pour y faire venir
+          C’est le lieu où se fait le Cours ; mais quoy qu’il soit remply de Fontaines, comme le <hi rend="i">Retiro</hi> est au dessus, il a falu une dépense prodigieuse pour y faire venir
           l’eau, particulierement dans un grand quarré &amp; un grand Canal qui est dans le Parc. Il
-          va tout autour du Convent des Hyeronimites, &amp; s’étend jusques à Nostre-Dame de <hi
-            rend="i">Atocha</hi>. Je vous ay déja parlé de cette Eglise dans quelque Relation, &amp;
+          va tout autour du Convent des Hyeronimites, &amp; s’étend jusques à Nostre-Dame de <hi rend="i">Atocha</hi>. Je vous ay déja parlé de cette Eglise dans quelque Relation, &amp;
           de l’Image miraculeuse qu’on y conserve. Elle est tres riche en Argenterie, aussi-bien que
           la plûpart des autres Eglises d’Espagne. Quant aux Hyeronimites, ce sont des Religieux qui
           font une tres-austere profession de closture. Ils sont habillez de blanc. Le Pape Gregoire
@@ -937,5 +862,4 @@
         <p><hi rend="i">A Paris le 15. Fevrier 1680.</hi></p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

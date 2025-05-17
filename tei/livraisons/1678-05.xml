@@ -1,73 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1678-05" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, mai 1678</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Alexandre De Craim</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name ref="mailto:frederic.glorieux@fictif.org">Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2014"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1678-05/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <publisher>Claude Blageart</publisher>, <date>mai,
-            1678</date></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1678"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, mai 1678 [tome 5].</head>
       <div type="article" xml:id="MG-1678-05_000a" resp="mercure">
@@ -152,8 +83,7 @@
           songent pas que c’est assez les éclaircir, que d’en mettre le veritable Mot.</p>
       </div>
       <div type="article" xml:id="MG-1678-05_000c" resp="mercure">
-        <head>[Recit du Dieu Pan, oublié lors de l’impression et à insérer p. 176 de ce <hi rend="i"
-            >Mercure</hi> au <hi rend="i">Ballet Impromptu</hi> de M. le Duc de S. Aignan, p.
+        <head>[Recit du Dieu Pan, oublié lors de l’impression et à insérer p. 176 de ce <hi rend="i">Mercure</hi> au <hi rend="i">Ballet Impromptu</hi> de M. le Duc de S. Aignan, p.
           174-182]*</head>
         <bibl><title>Mercure galant</title>, mai 1678 [tome 5], non paginé.</bibl>
         <p>L'Impression de ce Volume estant achevée, on s’est apperçeu que dans le Ballet Impromptu
@@ -191,8 +121,7 @@
         <head>[Avant-propos]</head>
         <bibl><title>Mercure galant</title>, mai 1678 [tome 5], p. 1-3.</bibl>
         <p>Ne vous plaignez plus, Madame, il y a moyen de vous satisfaire. Je recevois les reproches
-          que vous me faites de ce que depuis quelque temps je ne vous envoye rien de M<hi
-            rend="sup">r</hi> de Fontenelle, quand on m’a donné une Lettre de sa façon.
+          que vous me faites de ce que depuis quelque temps je ne vous envoye rien de M<hi rend="sup">r</hi> de Fontenelle, quand on m’a donné une Lettre de sa façon.
           L'Extraordinaire vous a fait connoistre que celles d’Apollon &amp; de l’Amour à Iris
           estoient de luy, &amp; j’avois bien crû que vous apprendriez avec plaisir que vous ne vous
           estiez point trompée dans le jugement que vous en aviez fait. Vous y aviez reconnu ce
@@ -807,8 +736,7 @@
           qu’il avoit pour elle, il a commencé à les luy faire connoistre par ce Rondeau mis en Air.
           Vous trouverez icy les Notes.</p>
         <quote>
-          <label rend="center">AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i"
-              >Avis pour placer les Figures</hi> : l’Air qui commence par, Pourquoy venir troubler
+          <label rend="center">AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, Pourquoy venir troubler
             le repos de ma vie, doit regarder la Page 88.</note>
           <lg>
             <l rend="i">Pourquoy venir troubler le repos de ma vie,</l>
@@ -951,13 +879,11 @@
           d’un Cordon de Diamans de quinze mille écus, y sont écrites d’une maniere fort agreable,
           &amp; vous ririez de la voir traitée de Sorciere, si les Cachots de l’Inquisition
           n’estoient pas de l’Avanture. Vous trouverez cette conclusion de son Histoire, accompagnée
-          d’un autre Livre qui mérite d’estre leu de tout le monde. C'est une <hi rend="i"
-            >Instruction morale d’un Pere à son Fils.</hi> M<hi rend="sup">r</hi> du Four qui en est
+          d’un autre Livre qui mérite d’estre leu de tout le monde. C'est une <hi rend="i">Instruction morale d’un Pere à son Fils.</hi> M<hi rend="sup">r</hi> du Four qui en est
           l’Autheur, l’a fait imprimer à Lyon. On la peut regarder comme un abregé des Préceptes de
           l’Ecriture Sainte, &amp; de ce qu’il y a de plus excellent dans les Maximes des
           Philosophes. On ne peut trouver une maniere plus aisée pour former les jeunes Gens à la
-          vertu, au milieu des affaires &amp; des embarras du monde. Je témoigne que M<hi rend="sup"
-            >r</hi> Charpentier, de l’Académie Françoise, rend de ce Livre, en fait connoistre
+          vertu, au milieu des affaires &amp; des embarras du monde. Je témoigne que M<hi rend="sup">r</hi> Charpentier, de l’Académie Françoise, rend de ce Livre, en fait connoistre
           l’utilité. Il est dans une Lettre qui suit la Préface, &amp; en fait beaucoup mieux
           l’éloge que tout ce que je vous en pourrois dire d’avantageux.</p>
       </div>
@@ -1115,8 +1041,7 @@
             Rheims. La ligne qui traverse le tout, separe ce qui est découvert d’avec ce qui est
             encor enterré.</p>
         </quote>
-        <p>Messieurs de Rheims ont adjoûté à ce Discours six Vers Latins de M<hi rend="sup"
-          >r</hi> de Santeüil Chanoine de S. Victor. Quoy qu’ils soient tres-digne de leur Autheur,
+        <p>Messieurs de Rheims ont adjoûté à ce Discours six Vers Latins de M<hi rend="sup">r</hi> de Santeüil Chanoine de S. Victor. Quoy qu’ils soient tres-digne de leur Autheur,
           qui a un talent admirable pour ce genre de Poësie, je les suprime en faveur des Dames de
           vostre Province, qui ne s’accommodent point de la langue des Sçavans.</p>
         <p>On a eu de fortes raisons pour croire que l’Arc de Triomphe dont je vous parle avoit esté
@@ -1626,11 +1551,8 @@
         <head>[Sa Majesté donne au second Fils de M. de Lully, Surintendant de la Musique de la
           Chambre, l’Abaye de S. Hilaire aux environs de Narbonne]</head>
         <bibl><title>Mercure galant</title>, mai 1678 [tome 5], p. 206-207.</bibl>
-        <p>L'Abbaye de S. Hilaire, aux environs de Narbonne, a esté donnée au second Fils de M<hi
-            rend="sup">r</hi> Lully Surintendant de la Musique de la Chambre du Roy. La mort de M<hi
-            rend="sup">r</hi> l’Abbé de la Barre, Officier de sa Chapelle, la laissoit vacante. Si
-          celuy qui en est présentement pourveu, devient dans l’Eglise ce que M<hi rend="sup"
-          >r</hi> Lully son Pere est dans la Musique, il fera un des premier Hommes de son
+        <p>L'Abbaye de S. Hilaire, aux environs de Narbonne, a esté donnée au second Fils de M<hi rend="sup">r</hi> Lully Surintendant de la Musique de la Chambre du Roy. La mort de M<hi rend="sup">r</hi> l’Abbé de la Barre, Officier de sa Chapelle, la laissoit vacante. Si
+          celuy qui en est présentement pourveu, devient dans l’Eglise ce que M<hi rend="sup">r</hi> Lully son Pere est dans la Musique, il fera un des premier Hommes de son
           Siecle.</p>
       </div>
       <div type="article" xml:id="MG-1678-05_211" resp="mercure">
@@ -1737,8 +1659,7 @@
       <div type="article" xml:id="MG-1678-05_217" resp="mercure">
         <head>[Sonnet de M. l’Abbé Minot au Roy]</head>
         <bibl><title>Mercure galant</title>, mai 1678 [tome 5], p. 217-219.</bibl>
-        <p>Dans le temps du depart du Roy pour sa seconde Campagne de cette Année, M<hi rend="sup"
-            >r</hi> l’Abbé Minot dont le talent pour la Chaire est fort connu, expliqua ainsi les
+        <p>Dans le temps du depart du Roy pour sa seconde Campagne de cette Année, M<hi rend="sup">r</hi> l’Abbé Minot dont le talent pour la Chaire est fort connu, expliqua ainsi les
           Vœux de la France.</p>
         <quote rend="border">
           <label rend="center">SONNET.</label>
@@ -2070,8 +1991,7 @@
         <bibl><title>Mercure galant</title>, mai 1678 [tome 5], p. 253-254.</bibl>
         <p>Les Vers qui suivent m’ont paru si naturels pour une Amante trahie, que j’ay crû vous les
           devoir envoyer, au hazard que vous les ayez déja veus, car on les chante icy depuis
-          quelques jours. C’est pour cela que je n’y ay point adjoûté la Note. Ils sont de M<hi
-            rend="sup">r</hi> Marcelle. M<hi rend="sup">r</hi> de la Tour les a mis en Air.</p>
+          quelques jours. C’est pour cela que je n’y ay point adjoûté la Note. Ils sont de M<hi rend="sup">r</hi> Marcelle. M<hi rend="sup">r</hi> de la Tour les a mis en Air.</p>
         <quote>
           <label>CHANSON.</label>
           <lg>
@@ -2273,8 +2193,7 @@
           fait peine comme il vous en fait, &amp; il n’y eut que l’avantage de la Rime qui l’emporta
           sur mon scrupule. J'ay consulté nos Maistres depuis ce temps-là. Quelques-uns des plus
           délicats, &amp; de ceux-mesme dont on trouve les Livres écrits avec la plus exacte pureté,
-          sont pour cette maniere de parler. D'autres soûtiennent qu’il faut dire <hi rend="i"
-            >Diamant Brut</hi>, &amp; ceux-là sont en plus grand nombre. Ainsi je croy qu’il faut
+          sont pour cette maniere de parler. D'autres soûtiennent qu’il faut dire <hi rend="i">Diamant Brut</hi>, &amp; ceux-là sont en plus grand nombre. Ainsi je croy qu’il faut
           estre de leur sentiment, parce qu’en matiere de doute, la pluralité doit prévaloir.
           J'attens avec bien de l’impatience ce que vous me promettez sur la Question galante, &amp;
           sur l’Histoire Enigmatique de cet Extraordinaire. Vous pouvez ne vous point embarassez, si
@@ -2402,17 +2321,11 @@
         <p>Ceux qui ont trouvé ce mesme Mot de la Chemise, sont M<hi rend="sup">r</hi> de
           Bellefontaine, M<hi rend="sup">r</hi> l'Abbé du Gasquet de Diepe, M<hi rend="sup">r</hi>
           Potier de Lange, Mademoiselle Raince, La belle Angelique, M<hi rend="sup">r</hi> Matereau
-          Docteur en Theologie, M<hi rend="sup">r</hi> Thabaud des Ferrons de Berry, M<hi rend="sup"
-            >r</hi> Renard Avocat en Mont real en Bourgogne, M<hi rend="sup">r</hi> Quinquet
+          Docteur en Theologie, M<hi rend="sup">r</hi> Thabaud des Ferrons de Berry, M<hi rend="sup">r</hi> Renard Avocat en Mont real en Bourgogne, M<hi rend="sup">r</hi> Quinquet
           Conseiller au Presidial de Soissons, La Ville de Ham, Mademoiselle de Bonnemarre du Havre
           de Grace, en Vers ; M<hi rend="sup">r</hi> Bouchet de Grenoble, de Lyon ; Madame de la
-          Lande du Havre, Mademoiselle du Chastel de Sées, Mademoiselle Taverne de Mondoubleau, M<hi
-            rend="sup">r</hi> de Larbruisseau, M<hi rend="sup">r</hi> d'Hermilly de Paris, M<hi
-            rend="sup">r</hi> Grandin Doyen de Vandosme, Mademoiselle le Meusnier de Roüen, M<hi
-            rend="sup">r</hi> Cordets, Madame Pitard de Bordeaux, M<hi rend="sup">r</hi> Comiers
-          Prevost du Chapitre de Ternant, Mademoiselle de la Chapelle de l'Isle N. Dame, M<hi
-            rend="sup">r</hi> Loncle de Paris, Mademoiselle d'Orgeval de Normandie, M<hi rend="sup"
-            >r</hi> le Chevalier de Barré, M<hi rend="sup">r</hi> Baisé le jeune en Vers, La jeune
+          Lande du Havre, Mademoiselle du Chastel de Sées, Mademoiselle Taverne de Mondoubleau, M<hi rend="sup">r</hi> de Larbruisseau, M<hi rend="sup">r</hi> d'Hermilly de Paris, M<hi rend="sup">r</hi> Grandin Doyen de Vandosme, Mademoiselle le Meusnier de Roüen, M<hi rend="sup">r</hi> Cordets, Madame Pitard de Bordeaux, M<hi rend="sup">r</hi> Comiers
+          Prevost du Chapitre de Ternant, Mademoiselle de la Chapelle de l'Isle N. Dame, M<hi rend="sup">r</hi> Loncle de Paris, Mademoiselle d'Orgeval de Normandie, M<hi rend="sup">r</hi> le Chevalier de Barré, M<hi rend="sup">r</hi> Baisé le jeune en Vers, La jeune
           Mariane, Selisandre, M<hi rend="sup">r</hi> Desprez de Caën, Mademoiselle de Lougny de
           Paris, Mademoiselle Marcés l'aisnée d'Auxerre, Mademoiselle de Launay de Chastillon en
           Vers. Mesdemoiselles de Villeneuve &amp; de Boumoic de Saumur.</p>
@@ -2436,65 +2349,47 @@
         </quote>
         <p>Voici d’autres Mots qui ont esté appliquez à cette seconde Enigme, <hi rend="i">La Pique,
             le Dard, un vieil Baston de Mareschal de France, l’Oignon, le Papier timbré, une Plume
-            de Héron, une Pertuisane, &amp; le Bois de Brésil.</hi> Le Mot de la <hi rend="i"
-            >Canne</hi> qui est son vray sens, a esté trouvé par M<hi rend="sup">r</hi> le
-          Chevalier, de la Ruë Chapon ; Mesdemoiselles de Pierreval &amp; Raince, M<hi rend="sup"
-            >r</hi> Bazin Chanoine de Troyes, M<hi rend="sup">r</hi> Malbet Directeur des Postes en
+            de Héron, une Pertuisane, &amp; le Bois de Brésil.</hi> Le Mot de la <hi rend="i">Canne</hi> qui est son vray sens, a esté trouvé par M<hi rend="sup">r</hi> le
+          Chevalier, de la Ruë Chapon ; Mesdemoiselles de Pierreval &amp; Raince, M<hi rend="sup">r</hi> Bazin Chanoine de Troyes, M<hi rend="sup">r</hi> Malbet Directeur des Postes en
           Champagne, M<hi rend="sup">r</hi> Fleury de Durcet de Normandie, Mademoiselle Chicot de la
           Ruë Bourtibourg, M<hi rend="sup">r</hi> Jordanis, Mademoiselle de la Riviere de Troyes,
-            M<hi rend="sup">r</hi> le Chevalier de la Croix la Bigne de Troyes en Vers, M<hi
-            rend="sup">r</hi> l'Abbé du Détroit de Roüen, L'Hermite de S. Giraud en Vers,
-          Mademoiselle Buiret de Soissons, Mademoiselle de Mainville en Normandie, M<hi rend="sup"
-            >r</hi> Bernier de Blois Medecin de feu S.A.R. Madame la Doüairiere, M<hi rend="sup"
-            >r</hi> Roussel Aumosnier du Roy à Conche, Le Berger sans Moutons de Flamenville, Païs
-          de Caux ; M<hi rend="sup">r</hi> Doguet Avocat de Brie-Comte-Robert, M<hi rend="sup"
-            >r</hi> Gautier du Havre, Mademoiselle de la Rosiere de Sées, Mademoiselle de la Touche
+            M<hi rend="sup">r</hi> le Chevalier de la Croix la Bigne de Troyes en Vers, M<hi rend="sup">r</hi> l'Abbé du Détroit de Roüen, L'Hermite de S. Giraud en Vers,
+          Mademoiselle Buiret de Soissons, Mademoiselle de Mainville en Normandie, M<hi rend="sup">r</hi> Bernier de Blois Medecin de feu S.A.R. Madame la Doüairiere, M<hi rend="sup">r</hi> Roussel Aumosnier du Roy à Conche, Le Berger sans Moutons de Flamenville, Païs
+          de Caux ; M<hi rend="sup">r</hi> Doguet Avocat de Brie-Comte-Robert, M<hi rend="sup">r</hi> Gautier du Havre, Mademoiselle de la Rosiere de Sées, Mademoiselle de la Touche
           de Mondoubleau, M<hi rend="sup">r</hi> Grillot Capitaine des Gabelles au Département de
           Troyes, M<hi rend="sup">r</hi> de Gerouville du Païs de Caux, La jeune Solitaire de la
-          Forest de Ponthieu en Picardie, Mademoiselle de Belangaut de Normandie, M<hi rend="sup"
-            >r</hi> Vaglier de Monsy, M<hi rend="sup">r</hi> Perry Directeur des Aydes de l'Election
+          Forest de Ponthieu en Picardie, Mademoiselle de Belangaut de Normandie, M<hi rend="sup">r</hi> Vaglier de Monsy, M<hi rend="sup">r</hi> Perry Directeur des Aydes de l'Election
           de S. Quentin, Mademoiselle Ragueneau pres de Bordeaux.</p>
       </div>
       <div type="article" xml:id="MG-1678-05_349" resp="mercure">
         <head resp="editor">Noms de ceux qui ont deviné les deux Enigmes</head>
         <bibl><title>Mercure galant</title>, mai 1678 [tome 5], p. 349-355.</bibl>
-        <p>Quantité de Personnes ont trouvé le vray sen de toutes les deux, &amp; ce sont M<hi
-            rend="sup">r</hi> de S. Laurens Lieutenant de Roy de la Citadelle de Verdun, M<hi
-            rend="sup">r</hi> Lagrené de Vrilly, M<hi rend="sup">r</hi> de Vitry Fils de M<hi
-            rend="sup">r</hi> de Vitry-la-Ville Receveur des Finances en Champagne, M<hi rend="sup"
-            >r</hi> le Chevalier de Heronne de Roüen, Mademoiselle Sainte Adresse du petit boc de
+        <p>Quantité de Personnes ont trouvé le vray sen de toutes les deux, &amp; ce sont M<hi rend="sup">r</hi> de S. Laurens Lieutenant de Roy de la Citadelle de Verdun, M<hi rend="sup">r</hi> Lagrené de Vrilly, M<hi rend="sup">r</hi> de Vitry Fils de M<hi rend="sup">r</hi> de Vitry-la-Ville Receveur des Finances en Champagne, M<hi rend="sup">r</hi> le Chevalier de Heronne de Roüen, Mademoiselle Sainte Adresse du petit boc de
           Fescamp, M<hi rend="sup">r</hi> de Fontenay de la Paroisse de Presle en Brie, Mademoiselle
           Merlin de Roüen, M<hi rend="sup">r</hi> Preaux de la Martiniere de Tours, Les trois
           aimables Sœurs de la Ruë Pavée, M<hi rend="sup">r</hi> Maclou Maistre és Arts dans la
           Ville de Chaumont en Véxin, M<hi rend="sup">r</hi> l'Abbé de Montcamp pres de Cormeilles
           au Véxin François, M<hi rend="sup">r</hi> Hourdaut de Paris, M<hi rend="sup">r</hi> le
           Marquis de la Calade de Villefranche, M<hi rend="sup">r</hi> de Chantoiseau de
-          Brie-Comte-Robert, M<hi rend="sup">r</hi> le Chevalier de Marles de Roüen, M<hi rend="sup"
-            >r</hi> Tobie de Beauvais Fils de Medecin, M<hi rend="sup">r</hi> d'Auburtin de
+          Brie-Comte-Robert, M<hi rend="sup">r</hi> le Chevalier de Marles de Roüen, M<hi rend="sup">r</hi> Tobie de Beauvais Fils de Medecin, M<hi rend="sup">r</hi> d'Auburtin de
           Bionville de Mets, M<hi rend="sup">r</hi> du Tel, M<hi rend="sup">r</hi> Cohan d'Alençon,
-            M<hi rend="sup">r</hi> Panthot Docteur en Medecine &amp; Professeur à Lyon, M<hi
-            rend="sup">r</hi> de Fontenay du Véxin, M<hi rend="sup">r</hi> S. D. jeune Secretaire du
+            M<hi rend="sup">r</hi> Panthot Docteur en Medecine &amp; Professeur à Lyon, M<hi rend="sup">r</hi> de Fontenay du Véxin, M<hi rend="sup">r</hi> S. D. jeune Secretaire du
           Roy à Rheims, M<hi rend="sup">r</hi> d'Ablovillee pres d'Argentan, M<hi rend="sup">r</hi>
-          de Vignolet de Nismes, M<hi rend="sup">r</hi> le Juge de Chasteaubas en Agénois, M<hi
-            rend="sup">r</hi> le Marquis de Beauplan du Ponteau-de-mer, M<hi rend="sup">r</hi>
-          Nolbel de Paris, La charmante Bibi, M<hi rend="sup">r</hi> de Lécar d'Avignon, M<hi
-            rend="sup">r</hi> de Cormone Avocat au Parlement de Roüen, M<hi rend="sup">r</hi>
+          de Vignolet de Nismes, M<hi rend="sup">r</hi> le Juge de Chasteaubas en Agénois, M<hi rend="sup">r</hi> le Marquis de Beauplan du Ponteau-de-mer, M<hi rend="sup">r</hi>
+          Nolbel de Paris, La charmante Bibi, M<hi rend="sup">r</hi> de Lécar d'Avignon, M<hi rend="sup">r</hi> de Cormone Avocat au Parlement de Roüen, M<hi rend="sup">r</hi>
           Collet, Mademoiselle de la Merousiere de Falaise, Mademoiselle Girardot de Blois, Un
           Gentilhomme de Verdun, M<hi rend="sup">r</hi> de Superville Medecin à Saumur, L'Amant
-          patient de Dieppe, M<hi rend="sup">r</hi> Petit Medecin de Châlons en Champagne, M<hi
-            rend="sup">r</hi> Roland Avocat à Rheims, M<hi rend="sup">r</hi> Brisseau de Tournay,
+          patient de Dieppe, M<hi rend="sup">r</hi> Petit Medecin de Châlons en Champagne, M<hi rend="sup">r</hi> Roland Avocat à Rheims, M<hi rend="sup">r</hi> Brisseau de Tournay,
             M<hi rend="sup">r</hi> du Vaucel d'Evreux, La plus aimable de la Ruë Sainte Marguerite,
           Le Solitaire de Châlons en Champagne, La Société spirituelle du Marais, Le Sauvage
           d'Arbouville du Havre.</p>
         <p>Ceux qui suivent les ont expliquées en Vers.</p>
-        <p>M<hi rend="sup">r</hi> des Fontaines de Paris, M<hi rend="sup">r</hi> Robbe, M<hi
-            rend="sup">r</hi> de la Barre S<hi rend="sup">r</hi> du Plessis, Conseiller à Chinon ;
+        <p>M<hi rend="sup">r</hi> des Fontaines de Paris, M<hi rend="sup">r</hi> Robbe, M<hi rend="sup">r</hi> de la Barre S<hi rend="sup">r</hi> du Plessis, Conseiller à Chinon ;
             M<hi rend="sup">r</hi> Chartier Ecclesiastique de Roüen, M<hi rend="sup">r</hi> le Baron
           de Hogues, Mademoiselle Loyseau de Coulommiers, M<hi rend="sup">r</hi> l'Abbé de la Croix
           de Roüen, M<hi rend="sup">r</hi> Giffon d'Arles, M<hi rend="sup">r</hi> Robert de Châlons
           en Champagne, La Société des jeunes Belles de Caën, M<hi rend="sup">r</hi> Boulanger de
-          Dinan en Bretagne, Les Dames de Richelieu, l'Hostel des Ursins à Paris, M<hi rend="sup"
-            >r</hi> Maze de Roüen, Madame Noman-Anori de Poitiers, M<hi rend="sup">r</hi> Minot de
+          Dinan en Bretagne, Les Dames de Richelieu, l'Hostel des Ursins à Paris, M<hi rend="sup">r</hi> Maze de Roüen, Madame Noman-Anori de Poitiers, M<hi rend="sup">r</hi> Minot de
           Paris, M<hi rend="sup">r</hi> l'Abbé de S. Clerc de Tours, M<hi rend="sup">r</hi> Hebert
           de Rocmont, Mademoiselle Antonie, La Société Cloistrée de Paris, M<hi rend="sup">r</hi>
           Prével, M<hi rend="sup">r</hi> le Président de la Chambre, M<hi rend="sup">r</hi>l'Abbé
@@ -2558,65 +2453,40 @@
           donnez, qu’elle a fait étudier la Nature à bien des Gens, &amp; que cette sorte de
           délassement d’esprit ne peut estre sans utilité, puis qu’il engage à faire des recherches
           fort curieuses. M<hi rend="sup">r</hi> le Chevalier, de la Ruë Chapon, a crû que c'estoit
-            <hi rend="i">la Ville de Gand</hi> ; M<hi rend="sup">r</hi> de Lagrené de Vrilly, <hi
-            rend="i">le May</hi> ; M<hi rend="sup">r</hi> des Fontaines, <hi rend="i">la Mine</hi>,
-          ou <hi rend="i">le Fourneau</hi> ; M<hi rend="sup">r</hi> de la Barre S<hi rend="sup"
-            >r</hi> du Plessis, Conseiller à Chinon, <hi rend="i">le Siege de Gand</hi> ; M<hi
-            rend="sup">r</hi> Jordanis, <hi rend="i">un Sep de Vigne</hi> ; M<hi rend="sup">r</hi>
+            <hi rend="i">la Ville de Gand</hi> ; M<hi rend="sup">r</hi> de Lagrené de Vrilly, <hi rend="i">le May</hi> ; M<hi rend="sup">r</hi> des Fontaines, <hi rend="i">la Mine</hi>,
+          ou <hi rend="i">le Fourneau</hi> ; M<hi rend="sup">r</hi> de la Barre S<hi rend="sup">r</hi> du Plessis, Conseiller à Chinon, <hi rend="i">le Siege de Gand</hi> ; M<hi rend="sup">r</hi> Jordanis, <hi rend="i">un Sep de Vigne</hi> ; M<hi rend="sup">r</hi>
           Robbe, <hi rend="i">le Fard</hi>, ou <hi rend="i">la Médisance</hi> ; La belle Angélique,
             <hi rend="i">la Comédie liée par l'Opéra</hi> ; M<hi rend="sup">r</hi> Mathereau Docteur
-          en Theologie, <hi rend="i">l'Hypocrisie</hi> ; M<hi rend="sup">r</hi> des Bois, <hi
-            rend="i">la Tragédie</hi>, ou <hi rend="i">l'Amour méprisé</hi> ; Un Inconnu de Troyes,
+          en Theologie, <hi rend="i">l'Hypocrisie</hi> ; M<hi rend="sup">r</hi> des Bois, <hi rend="i">la Tragédie</hi>, ou <hi rend="i">l'Amour méprisé</hi> ; Un Inconnu de Troyes,
             <hi rend="i">l'Or</hi>, ou <hi rend="i">la Comedie</hi> ; M<hi rend="sup">r</hi> Maclou
           Maistre és Arts à Chaumont en Véxin, <hi rend="i">la France victorieuse dans les
-            Païs-Bas</hi> ; Mademoiselle Buiret de Soissons, <hi rend="i">un Fourneau</hi> ; M<hi
-            rend="sup">r</hi> bernier de Blois, Medecin de feu Son A.R. Madame la Doüairiere, <hi
-            rend="i">l'Etat où sont réduits les Païs-Bas</hi> ; La Ville de Ham, <hi rend="i">le
+            Païs-Bas</hi> ; Mademoiselle Buiret de Soissons, <hi rend="i">un Fourneau</hi> ; M<hi rend="sup">r</hi> bernier de Blois, Medecin de feu Son A.R. Madame la Doüairiere, <hi rend="i">l'Etat où sont réduits les Païs-Bas</hi> ; La Ville de Ham, <hi rend="i">le
             Trophée, la Tragedie</hi> ou <hi rend="i">le Fagot</hi> ; M<hi rend="sup">r</hi> Bonnet
           de Vaux de Loches, <hi rend="i">la Satire</hi> ; M<hi rend="sup">r</hi> le Baron de
-          Hoques, <hi rend="i">le Miroir, la Hollande punie, la Verité reconnuë</hi> ; M<hi
-            rend="sup">r</hi> le Duc Avocat à Caën, <hi rend="i">les Ennemis du Roy</hi>, en Vers ;
+          Hoques, <hi rend="i">le Miroir, la Hollande punie, la Verité reconnuë</hi> ; M<hi rend="sup">r</hi> le Duc Avocat à Caën, <hi rend="i">les Ennemis du Roy</hi>, en Vers ;
           Mademoiselle Loyseau de Coulommiers, <hi rend="i">la Hollande humiliée &amp; punie</hi> ;
             M<hi rend="sup">r</hi> Bouchet de Grenoble, <hi rend="i">les Triomphes du Roy sur les
             Ennemis</hi> ; M<hi rend="sup">r</hi> le Chevalier de Marles &amp; Mademoiselle
           Andry-de-Lisle, de Roüen, <hi rend="i">le Fard</hi> ; M<hi rend="sup">r</hi> Roussel
           Aumosnier ordinaire du Roy à Conches en Normandie, <hi rend="i">la Victoire de la
-            Poësie</hi>, ou <hi rend="i">le Chastiment des Hollandois</hi> ; Madame de la Lande, <hi
-            rend="i">l'Espagne</hi>, M<hi rend="sup">r</hi> d'Auburtin de Bionville de Mets, <hi
-            rend="i">la Vigne</hi> ; M<hi rend="sup">r</hi> Gautier du Havre, <hi rend="i">la Guerre
+            Poësie</hi>, ou <hi rend="i">le Chastiment des Hollandois</hi> ; Madame de la Lande, <hi rend="i">l'Espagne</hi>, M<hi rend="sup">r</hi> d'Auburtin de Bionville de Mets, <hi rend="i">la Vigne</hi> ; M<hi rend="sup">r</hi> Gautier du Havre, <hi rend="i">la Guerre
             de Flandres</hi> ; M<hi rend="sup">r</hi> Seguin Avocat à Sées, <hi rend="i">la
-            Goute</hi> ; M<hi rend="sup">r</hi> Giffon de l'Academie des Beaux Esprits d'Arles, <hi
-            rend="i">la Vigne</hi>, en Vers ; M<hi rend="sup">r</hi> Grillot Capitaine des Gardes
+            Goute</hi> ; M<hi rend="sup">r</hi> Giffon de l'Academie des Beaux Esprits d'Arles, <hi rend="i">la Vigne</hi>, en Vers ; M<hi rend="sup">r</hi> Grillot Capitaine des Gardes
           des Gabelles au Département de Troyes, <hi rend="i">la Vigne</hi> ; La Societé des jeunes
-          Filles de Caën, <hi rend="i">le Mensonge</hi>, en Vers &amp; Prose ; M<hi rend="sup"
-            >r</hi> Cohan d'Alençon, <hi rend="i">la Flandre, ou Païs-Bas Espagnol &amp;
+          Filles de Caën, <hi rend="i">le Mensonge</hi>, en Vers &amp; Prose ; M<hi rend="sup">r</hi> Cohan d'Alençon, <hi rend="i">la Flandre, ou Païs-Bas Espagnol &amp;
             Hollandois</hi> ; M<hi rend="sup">r</hi> de Vitry Fils de M<hi rend="sup">r</hi> de
           Vitry-la-Ville, Receveur general des Finances en Champagne, <hi rend="i">la
           Sculpture</hi>, ou <hi rend="i">l'Anatomie</hi> ; Trois des Dames de Richelieu ; la
-          premiere, <hi rend="i">le Fard</hi> ; la 2<hi rend="sup">e</hi>, <hi rend="i"
-            >l'Heresie</hi> ; &amp; la 3<hi rend="sup">e</hi>, <hi rend="i">l'Erreur des
-            Ennemis</hi> ; M<hi rend="sup">r</hi> Panthot Docteur en Medecine &amp; Professeur, <hi
-            rend="i">la Journée de Cassel</hi> ; M<hi rend="sup">r</hi> de Fontenay du Véxin, <hi
-            rend="i">la Comté de Flandre</hi>, M<hi rend="sup">r</hi> de Roubron de Roüen ; <hi
-            rend="i">la Vigne</hi> ; M<hi rend="sup">r</hi> S.D. jeune Secretaire du Roy à Rheims,
-            <hi rend="i">le Baume</hi>, ou <hi rend="i">les Ennemis du Roy</hi> ; M<hi rend="sup"
-            >r</hi> Cordets, <hi rend="i">la Satire</hi>, ou <hi rend="i">le Poëte Satirique</hi> ;
-            M<hi rend="sup">r</hi> de Vignolet de Nismes, <hi rend="i">les Hollandois</hi> ; M<hi
-            rend="sup">r</hi> du Matha-d'Emery, <hi rend="i">la Critique</hi> ; M<hi rend="sup"
-            >r</hi> de la Salle S<hi rend="sup">r</hi> de Lestang, <hi rend="i">la Cire
+          premiere, <hi rend="i">le Fard</hi> ; la 2<hi rend="sup">e</hi>, <hi rend="i">l'Heresie</hi> ; &amp; la 3<hi rend="sup">e</hi>, <hi rend="i">l'Erreur des
+            Ennemis</hi> ; M<hi rend="sup">r</hi> Panthot Docteur en Medecine &amp; Professeur, <hi rend="i">la Journée de Cassel</hi> ; M<hi rend="sup">r</hi> de Fontenay du Véxin, <hi rend="i">la Comté de Flandre</hi>, M<hi rend="sup">r</hi> de Roubron de Roüen ; <hi rend="i">la Vigne</hi> ; M<hi rend="sup">r</hi> S.D. jeune Secretaire du Roy à Rheims,
+            <hi rend="i">le Baume</hi>, ou <hi rend="i">les Ennemis du Roy</hi> ; M<hi rend="sup">r</hi> Cordets, <hi rend="i">la Satire</hi>, ou <hi rend="i">le Poëte Satirique</hi> ;
+            M<hi rend="sup">r</hi> de Vignolet de Nismes, <hi rend="i">les Hollandois</hi> ; M<hi rend="sup">r</hi> du Matha-d'Emery, <hi rend="i">la Critique</hi> ; M<hi rend="sup">r</hi> de la Salle S<hi rend="sup">r</hi> de Lestang, <hi rend="i">la Cire
             d'Espagne</hi> ; M<hi rend="sup">r</hi> Nicolaïf-Nippuoh de Marissel, <hi rend="i">les
-            Victoires du Roy sur les Ennemis</hi> ; Un Chanoine de S. Victor, <hi rend="i"
-            >l'Alchimiste</hi> ; Madame Noman-Anori de Poitiers, <hi rend="i">l'Enigme devinée</hi>
+            Victoires du Roy sur les Ennemis</hi> ; Un Chanoine de S. Victor, <hi rend="i">l'Alchimiste</hi> ; Madame Noman-Anori de Poitiers, <hi rend="i">l'Enigme devinée</hi>
           ; M<hi rend="sup">r</hi> de Nolbel de Paris, <hi rend="i">les Victoires du Roy sur les
-            Hollandois,</hi> ou <hi rend="i">l'Eté &amp; les grandes Chaleurs</hi> ; M<hi rend="sup"
-            >r</hi> du Mont de Chaumont, <hi rend="i">les Hollandois, l'Ignorance punie</hi>, ou <hi
-            rend="i">la Vigne</hi> ; M<hi rend="sup">r</hi> de Gerouville du Païs de Caux, vage
-          d'Arbouville, <hi rend="i">le Comté de Flandre</hi> ; mademoiselle de Lougny de Paris, <hi
-            rend="i">la Republique de Hollande</hi> ; M<hi rend="sup">r</hi> l'Abbé Montel, <hi
-            rend="i">une Affiche</hi> ; M<hi rend="sup">r</hi> Perry Directeur des Aydes de
-          l'Election de Saint Quentin, <hi rend="i">le Luth</hi> ; Momus, <hi rend="i"
-            >l'Hypocrisie</hi> ; M<hi rend="sup">r</hi> l'Abbé d'Artevat de la Rochelle, <hi
-            rend="i">les Conféderez</hi>.</p>
+            Hollandois,</hi> ou <hi rend="i">l'Eté &amp; les grandes Chaleurs</hi> ; M<hi rend="sup">r</hi> du Mont de Chaumont, <hi rend="i">les Hollandois, l'Ignorance punie</hi>, ou <hi rend="i">la Vigne</hi> ; M<hi rend="sup">r</hi> de Gerouville du Païs de Caux, vage
+          d'Arbouville, <hi rend="i">le Comté de Flandre</hi> ; mademoiselle de Lougny de Paris, <hi rend="i">la Republique de Hollande</hi> ; M<hi rend="sup">r</hi> l'Abbé Montel, <hi rend="i">une Affiche</hi> ; M<hi rend="sup">r</hi> Perry Directeur des Aydes de
+          l'Election de Saint Quentin, <hi rend="i">le Luth</hi> ; Momus, <hi rend="i">l'Hypocrisie</hi> ; M<hi rend="sup">r</hi> l'Abbé d'Artevat de la Rochelle, <hi rend="i">les Conféderez</hi>.</p>
         <p>Cependant, le vray Mot est <hi rend="i">le Vers Burlesque</hi>, &amp; il n’y a eu que le
           seul M<hi rend="sup">r</hi> Langlois de Paris qui l’ait trouvé. <hi rend="i">Marsye</hi>
           estoit une espece de Musicien champestre, habile Joüeur de Flûte. C'est par là qu’il
@@ -2694,5 +2564,4 @@
           Blageart.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

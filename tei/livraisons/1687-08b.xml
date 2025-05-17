@@ -1,65 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1687-08b">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, Ambassades à Constantinople, août 1687 (deuxième partie) [tome 12]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1687-08b</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
-    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
-    sur les bases de données (L341-1) est mise à disposition de la communauté
-    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
-    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
-    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-<p>Attribution : afin de référencer la source, toute utilisation ou publication
-    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
-    l’adresse Internet de la ressource.</p>
-<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
-    toute utilisation commerciale est interdite.</p>
-<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-    électronique, notamment en intégrant toutes les contributions extérieures, la
-    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant, Ambassades à Constantinople</title>, <date>août 1687</date> (deuxième partie) [tome 12].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1687-08"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant, Ambassades à Constantinople</hi>, août 1687 (deuxième partie) [tome 12].</head>
         <div type="article" xml:id="MG-1687-08b_008" resp="wordpro">
@@ -308,5 +247,4 @@
           <p>Le Lundy, le Grand Saigneur sortit de Constantinople pour aller à ses Tentes, &amp; il y arriva à midy. C'est la sortie dont je vous ay fait la description. Sa Maison estoit de pieces de drap rouge &amp; bleu, bordé avec un galon jaune. Une espece de muraille à creneaux, haute de six pieds, enfermoit un Place ovale plus grande que la Place Dauphine. Avant que d'entrer on voyoit à gauche un petit Pavillon rond qui est destiné pour le Bourreau, &amp; où l'on tranche la teste. A la gauche estoient les Seigneurs, &amp; à l'entrée, un Kiosque ou Balcon garny de Brocard &amp; de Satin, &amp; élevé de vingt pieds, d'où le Grand Seigneur vient quelquefois voir l'Armée. Un Tapis de Perse broché d'or couvroit le bas, &amp; des Carreaux de Satin rouge brodez d'or &amp; de perles ganissoient tout le tour de ce Balcon. L'escalier pour y monter estoit tapissé de Drap de mesme couleur &amp; un grand Pavillon d'une espece de Feutre gris qui ne perce point à la pluye, galonné rouge &amp; bleu, &amp; doublé de Damas couleur cerise, le couvroit. Un peu plus avant dans l'enceinte estoit une Tente longue de huit ou dis pas, où l'on expose les Testes des Bachas que Sa Hautesse demande. L'on entroit aprés cela dans une Tente garnie d'un Sopha, dont les coussins estoient de velours broché d'or. De cette Tente, on entroit dans une autre, longue de plus de vingt-cinq pas, qui sert de Salle de Conseil. Une Estrade élevée d'un demy-pied occupoit presque toute cette Tente, &amp; ne laissoit que trois pieds d'espace tout autour. Cette Estrade estoit couverte d'un grand Tapis de Perse, &amp; au bout de l'Estrade on voyoit un Sopha élevé de quatre ou cinq pieds couverts de brocard, les coussins aussi de brocard brodé de Perles. De grands rideaux de brocard tournoient tout autour. Un Tabouret de la mesme étoffe estoit sur l'Estrade à gauche proche du Sopha. Le dedans de ces Tentes est uen espece de Camelot rayé fort, surbrodé de fleurs &amp; de compartimens à la Mosaïque. ces fleurs sont faites de satins &amp; taffetas de diverses couleurs rebrodées avec de petits galons jaunes, &amp; quelques canetilles d'or. En sortant de cette Tente, on voit trois Pavillons qui forment un triangle, &amp; c'est dans celuy du fond que couche le Grand Seigneur? Des treillis de bastons dorez portent par dedans à hauteur d'appuy d'autres bastons dorez qui soûtiennent d'espace en espace de la hauteur de douze pieds une petite Corniche posée dessus, &amp; qui entoure le Pavillon. D'autres bastons qui prennent sur la corniche, se viennent emboister dans un cul de Lampe doté qui pend au milieu &amp; forment une espece de Parasol. Un damas rouge à fleurs tapisse le derriere de ces bastons. La terre est couverte d'un très beau tapis, &amp; le Sopha pareil à celuy de la Salle d'audience, entouré d'un Pavillon de brocard de perle d'or &amp; argent, sert à coucher le Sultan. Un grand Rideau Damas doublé du mesme brocard separe ce Pavillon en deux. Le Pavillon qui est à la droite sert aux necessitez, &amp; celuy qui est à la gauche sert de Bain. Le dedans de ces deux Pavillons est de Damas rouge; ils sont couverts, &amp; les Tentes sont de mesme étoffe que le dessus du Kiosque. Le Visir &amp; tous les Bachas avoient leurs Tentes toutes assez magnifiques autour de celle que je viens de vous décrire.</p>
         </div>
       </body>
-  </text>
-</TEI>
+  </text></TEI>

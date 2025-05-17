@@ -1,65 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1686-09a">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, septembre 1686 (première partie) [tome 11]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1686-09a</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
-    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
-    sur les bases de données (L341-1) est mise à disposition de la communauté
-    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
-    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
-    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-<p>Attribution : afin de référencer la source, toute utilisation ou publication
-    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
-    l’adresse Internet de la ressource.</p>
-<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
-    toute utilisation commerciale est interdite.</p>
-<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-    électronique, notamment en intégrant toutes les contributions extérieures, la
-    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>septembre 1686</date> (première partie) [tome 11].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1686-09"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, septembre 1686 (première partie) [tome 11].</head>
         <div type="article" xml:id="MG-1686-09a_001" resp="wordpro" copyOf="JLB_MG-1686-09a_035">
@@ -357,7 +296,7 @@
       <div type="article" xml:id="MG-1686-09a_162" resp="angele">
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, septembre 1686 (première partie) [tome 11], p. 162-163.</bibl>
-        <p>On fait des Automnes comme des Printemps, &amp; puis que nous commençons à entrer dans cette saison, je vous en envoye un de M<hi rend="sup">r</hi> Ludet <note resp="editor">L'article ne précise pas si Ludet est auteur du texte, de la musique, ou des deux. Le commentaire de l'air <hi  rend="italic">L'hiver a beau glacer</hi>(cf. <ref target="MG-1687-03a_373">cet article</ref>) renseigne sur sa qualité de compositeur.</note>.</p>
+        <p>On fait des Automnes comme des Printemps, &amp; puis que nous commençons à entrer dans cette saison, je vous en envoye un de M<hi rend="sup">r</hi> Ludet <note resp="editor">L'article ne précise pas si Ludet est auteur du texte, de la musique, ou des deux. Le commentaire de l'air <hi rend="italic">L'hiver a beau glacer</hi>(cf. <ref target="MG-1687-03a_373">cet article</ref>) renseigne sur sa qualité de compositeur.</note>.</p>
         <quote>
           <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par, <hi rend="i">Doux Raisin dont l'Amour redoute la puissance</hi>, doit regarder la page 163.</note>
           <lg><l rend="i">Doux Raisin, dont l'Amour redoute la puissance,</l>
@@ -488,5 +427,4 @@
           <p>Pendant que Monseigneur a esté à Anet, &amp; à Maintenon, Madame la Dauphine a tous les jours envoyé sçavoir de ses nouvelles, par les Officiers de sa Maison, qui ont l’honneur d’approcher le plus prés de sa Personne. Voicy les noms de ceux qui ont fait ces agreables Courses suivant l’ordre qu’ils sont partis de Versailles. M<hi rend="sup">rs</hi> de Soleiseil, de Bonneüil, de Chenedé, de Verneüil, Vandrevec. C’estoit à M<hi rend="sup">r</hi> de Soleiseil à recommencer ; mais comme il est aussi Gentilhomme ordinaire de la Maison du Roy, Sa Majesté l’envoya ce jour-là faire compliment à M<hi rend="sup">r</hi> le Nonce sur sa Promotion au Cardinalat, de sorte que M<hi rend="sup">r</hi> de Bonneüil y retourna au lieu de luy. M<hi rend="sup">r</hi> de Soleiseil reprit son rang le lendemain, &amp; M<hi rend="sup">r</hi> de Chenedé y alla ensuite, &amp; tous les autres chacun à leur tour, à commencer par le premier.</p>
         </div>
       </body>
-  </text>
-</TEI>
+  </text></TEI>

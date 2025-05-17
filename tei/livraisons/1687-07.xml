@@ -1,66 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1687-07">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, juillet 1687 [tome 10]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1687-07</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
-    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
-    sur les bases de données (L341-1) est mise à disposition de la communauté
-    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
-    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
-    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-<p>Attribution : afin de référencer la source, toute utilisation ou publication
-    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
-    l’adresse Internet de la ressource.</p>
-<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
-    toute utilisation commerciale est interdite.</p>
-<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-    électronique, notamment en intégrant toutes les contributions extérieures, la
-    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>juillet 1687</date> [tome 10].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1687-07"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, juillet 1687 [tome 10].</head>
       <div type="article" xml:id="MG-1687-07_005" resp="wordpro">
@@ -374,8 +312,7 @@
               places qui vaqueront à l’avenir, par la voye de l’élection conformément ausdits
               Statuts, &amp; que lesdits Academiciens joüissent des mesmes honneurs, privileges,
               franchises &amp; libertez dont joüissent ceux de l’Academie Françoise, établie dans
-              nostre bonne Ville de Paris, à l’exception du droit de</hi> Committimus. <hi rend="i"
-              >Si donnons en mandement à nos amez &amp; feaux Conseillers, les Gens tenans nostre
+              nostre bonne Ville de Paris, à l’exception du droit de</hi> Committimus. <hi rend="i">Si donnons en mandement à nos amez &amp; feaux Conseillers, les Gens tenans nostre
               Cour de Parlement audit lieu, &amp; à tous autres nos Officiers qu’il appartiendra,
               que ces Presentes ils ayent à faire registrer, &amp; icelles garder &amp; observer
               selon leur forme &amp; teneur ; Car tel est nostre plaisir. Et afin que ce soit chose
@@ -410,8 +347,7 @@
           Dame appellée Clemence, avoit laissé une partie de son bien pour fonder des Prix, qui sont
           les recompenses des victorieux. Le premier est une Eglantine d’argent. &amp; il se donne à
           celuy qui réussit le mieux dans la composition d’un Chant Royal. On donne un Vers qui doit
-          finir un Sonnet qu’on est obligé de faire, &amp; ce Sonnet se fait pour l’essay. M<hi
-            rend="sup">r</hi> de Cironis, âgé de quinze ans, a eu le premier Prix cette année. Il
+          finir un Sonnet qu’on est obligé de faire, &amp; ce Sonnet se fait pour l’essay. M<hi rend="sup">r</hi> de Cironis, âgé de quinze ans, a eu le premier Prix cette année. Il
           est Fils de M<hi rend="sup">r</hi> de Cironis, Sieur de la Bastide &amp; Beaufort, d’une
           des premieres Familles de la Ville, &amp; Petit-fils de M<hi rend="sup">r</hi> le
           President de Cironis, qui a fait voir la grandeur de son genie, non seulement dans l’Art
@@ -591,8 +527,7 @@
           cela venoit la Musique, composée de cent Musiciens, &amp; meslée de Hautbois &amp; de
           Violons, de la Composition de M. Durand, Maistre de Chapelle de Saint Agricol. Le sujet du
           Motet estoit la Paix &amp; l'abondance, <hi rend="i">fiat pax in cordibus vestris, &amp;
-            abundantia in turribus nostris</hi>, qui sont les pieces des armes de M<hi rend="sup"
-            >r</hi> de Brancas Recteur. Ensuite on voyoit paroistre les flambeaux des vieux
+            abundantia in turribus nostris</hi>, qui sont les pieces des armes de M<hi rend="sup">r</hi> de Brancas Recteur. Ensuite on voyoit paroistre les flambeaux des vieux
           Recteurs, [...]. Trente-six flambeaux de M. le Marquis de Brancas Recteur, avec ses Armes
           &amp; des rubans isabelle &amp; bleu, suivoient tous ceux dont je viens de vous parler.
           Ils estoient de vingt livres, à la difference des precedens qui estoient seulement de dix,
@@ -1110,10 +1045,8 @@
           Toute la Noblesse de l’un &amp; de l’autre sexe alla prendre M<hi rend="sup">r</hi> le
           Gouverneur chez luy. Il se rendit dans l’Eglise à la teste des Gentilshommes, qui furent
           tous placez dans le Chœur. Madame de la Touche sa Femme prit place dans le Jubé où toutes
-          les Dames l’accompagnerent. La Messe fut chantée par la Musique de l’Abbaye, &amp; M<hi
-            rend="sup">r</hi> de Bourdemare, ancien Religieux de Saint Benoist, officia
-          pontificalement à cause de la maladie de M<hi rend="sup">r</hi> le Grand Prieur. M<hi
-            rend="sup">r</hi> le Gouverneur envoya ensuite des Billets à tous les Curez des lieux de
+          les Dames l’accompagnerent. La Messe fut chantée par la Musique de l’Abbaye, &amp; M<hi rend="sup">r</hi> de Bourdemare, ancien Religieux de Saint Benoist, officia
+          pontificalement à cause de la maladie de M<hi rend="sup">r</hi> le Grand Prieur. M<hi rend="sup">r</hi> le Gouverneur envoya ensuite des Billets à tous les Curez des lieux de
           sa dépendance, afin que chacun fist faire un Service dans son Eglise.</p>
       </div>
       <div type="article" xml:id="MG-1687-07_245" resp="wordpro">
@@ -1227,8 +1160,7 @@
         <head>[Article tiré de la République des Lettres du mois de May]</head>
         <bibl><title>Mercure galant</title>, juillet 1687 [tome 10], p. 251-259</bibl>
         <p/>
-        <p>M<hi rend="sup">r</hi> Petit qui a fait ce Madrigal, est l’Autheur des <hi rend="i"
-            >Dialogues Satyriques &amp; Moraux</hi>, donnez au Public depuis peu de temps. Comme ils
+        <p>M<hi rend="sup">r</hi> Petit qui a fait ce Madrigal, est l’Autheur des <hi rend="i">Dialogues Satyriques &amp; Moraux</hi>, donnez au Public depuis peu de temps. Comme ils
           sont de vostre goust, &amp; que vous les avez trouvez aussi instructifs que divertissans,
           vous serez bien aise de voir le jugement qu’en a fait l’Autheur de la Republique des
           Lettres. Voicy de quelle maniere il en parle dans ses nouvelles du mois de May
@@ -1281,8 +1213,7 @@
           les bannir de la Langue. <hi rend="i">Quoy que dans ces deux derniers Dialogues l’Auteur
             prenne le party du vieux Langage, on voit pourtant biens qu’il ne voudroit pas former
             son stile sur celuy-là, &amp; que ce n’est qu’un jeu d’esprit. Le 13</hi>. Que tous les
-          hommes se plaisent à estre trompez, &amp; que personne n’a soin de chercher la verité. <hi
-            rend="i">Le 14</hi>. Qu’il est impossible que l’homme vive tranquille, lors qu’il
+          hommes se plaisent à estre trompez, &amp; que personne n’a soin de chercher la verité. <hi rend="i">Le 14</hi>. Qu’il est impossible que l’homme vive tranquille, lors qu’il
           s’abandonne à son panchant. <hi rend="i">Le 15</hi>. Qu’il faut écrire purement, sans
           comparaisons &amp; sans figures, &amp; que la plus riche parure d’une Langue vient de sa
           naïveté. <hi rend="i">Le 16</hi>. Que les Gens de Cour sont plus esclaves que ceux qui
@@ -1315,8 +1246,7 @@
         <head resp="editor">Livres nouveaux : Observations sur les Fiévres &amp; les Febrifuges</head>
         <bibl><title>Mercure galant</title>, juillet 1687 [tome 10], p. 312-315</bibl>
         <p/>
-        <p>J’ay fait ce que vous avez souhaité de moy, &amp; je vous envoye le Livre intitulé <hi
-            rend="i">Observations sur les Fiévres &amp; les Febrifuges</hi>, composé par le celebre
+        <p>J’ay fait ce que vous avez souhaité de moy, &amp; je vous envoye le Livre intitulé <hi rend="i">Observations sur les Fiévres &amp; les Febrifuges</hi>, composé par le celebre
             M<hi rend="sup">r</hi> Spon, dont tous les Ouvrages ont eu un si grand succés. Je l’ay
           fait venir exprés de Lyon, où il se débite depuis quelque temps, chez le Sieur Amaulry ;
           un Livre si utile ne sçauroit estre trop vû, &amp; il ne faut que l’avoir lû plusieurs
@@ -1338,8 +1268,7 @@
           qui non seulement est nouveau, mais encore sur une matiere qui n’a point encore esté
           traitée, &amp; c’est peut-estre l’unique Livre entierement nouveau, qu’on ait vû depuis
           beaucoup d’années. Il est intitulé, <hi rend="i">l’Art de laver, ou nouvelle maniere de
-            peindre sur le papier suivant le coloris des desseins qu’on envoye à la Cour</hi>. M<hi
-            rend="sup">r</hi> Gautier de Nisme en est l’Autheur. On y voit ce que c’est que laver,
+            peindre sur le papier suivant le coloris des desseins qu’on envoye à la Cour</hi>. M<hi rend="sup">r</hi> Gautier de Nisme en est l’Autheur. On y voit ce que c’est que laver,
           quelle est la difference de laver, de peindre à l’huile, à détrempe, à fresque, en
           mignature, sur le verre, en émail, avec des crayons colorez, sur le plâtre, &amp; sur la
           soye, &amp; d’enluminer. On y apprend de quelles couleurs on se sert pour laver, &amp;
@@ -1348,8 +1277,7 @@
           Bastimens civils &amp; les Cartes, le tout auparavant dessiné avec de l’Ancre de la Chine
           par des lignes seulement. On y voit la maniere de laver les profils, &amp; les élevations,
           ainsi que plusieurs autres choses touchant l’art de laver, dont il seroit inutile de faire
-          icy un plus long détail. Ce Livre, qui se trouve aussi chez le S<hi rend="sup"
-          >r</hi> Guerout, est sur tout necessaire aux Ingenieurs, &amp; aux Peintres, &amp; doit
+          icy un plus long détail. Ce Livre, qui se trouve aussi chez le S<hi rend="sup">r</hi> Guerout, est sur tout necessaire aux Ingenieurs, &amp; aux Peintres, &amp; doit
           estre d’une grande utilité à tous ceux qui font profession de mettre les couleurs à toute
           sorte d’usage, particulierement en ce qui regarde la methode de bien dessiner.</p>
       </div>
@@ -1392,8 +1320,7 @@
           Nations jalouses de la gloire du Roy, qui pourroient chercher à obscurcir l’éclat d’une
           action qui n’a jamais eu de pareille, &amp; qui n’en sçauroit plus avoir dans toutes ses
           circonstances, puis que de quelque gloire que se couvrist celuy qui marcheroit sur les pas
-          de <hi rend="sc">Loüis le Grand</hi>. il ne feroit que l’imiter. Comme M<hi rend="sup"
-            >r</hi> l’Abbé Bizot nomme dans son Livre ceux qui ont en France les plus beaux Cabinets
+          de <hi rend="sc">Loüis le Grand</hi>. il ne feroit que l’imiter. Comme M<hi rend="sup">r</hi> l’Abbé Bizot nomme dans son Livre ceux qui ont en France les plus beaux Cabinets
           de Medailles, je croy que vous ne serez pas fâchée d’apprendre leurs noms. Aprés avoir dit
           que le Roy a le plus beau Cabinet non seulement du Royaume, mais mesme de toute l’Europe,
           il parle de celuy de M<hi rend="sup">r</hi> le Marquis de Seignelay, &amp; nomme
@@ -1455,5 +1382,4 @@
           esprit tres-délicat.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

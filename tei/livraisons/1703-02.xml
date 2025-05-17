@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1703-02">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, février 1703 [tome 2]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1703-02</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>février 1703</date> [tome 2].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1703-02"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, février 1703 [tome 2].</head>
       <div type="article" xml:id="MG-1703-02_005">
@@ -125,8 +61,7 @@
         <bibl><title>Mercure galant</title>, février 1703 [tome 2], p. 75-80.</bibl>
         <p>Messire Jean Louis Abot, Seigneur du Bouchet, Grand Bailly du Perche, Gouverneur de la
           Ville &amp; Chasteau de Mortagne, Chef de la Noblesse, &amp; Juge du Point d’honneur,
-          épousa sur la fin du mesme mois Mademoiselle de Torcy, petite Niece de M<hi rend="sup"
-            >r</hi> le Duc de Beauvilliers, dans la Chapelle du Chasteau de la Frette. La Ceremonie
+          épousa sur la fin du mesme mois Mademoiselle de Torcy, petite Niece de M<hi rend="sup">r</hi> le Duc de Beauvilliers, dans la Chapelle du Chasteau de la Frette. La Ceremonie
           se fit par M<hi rend="sup">r</hi> le Curé de Theval, Official de M<hi rend="sup">r</hi>
           l’Evêque de Séez nommé par ce Prélat pour celebrer ce Mariage. Au sortir de la Chapelle on
           trouva les tables servies avec beaucoup de magnificence. Aprés les repas, les Mariez
@@ -233,8 +168,7 @@
               pas manqué de les y exhorter tres souvent, &amp; la veille même de la grande action il
               voulut bien proposer au Prédicateur avant qu’il descendit de Chaire, divers cas dont
               la résolution devoit tendre à affermir les Troupes dans leur devoir, tant à l’égard du
-              Prince, que des Officiers, &amp; du Public. Par ces commencemens, vous jugerez M<hi
-                rend="sup">r</hi>, de ce que l’on a sujet d’attendre dans la suite d’un Evesque en
+              Prince, que des Officiers, &amp; du Public. Par ces commencemens, vous jugerez M<hi rend="sup">r</hi>, de ce que l’on a sujet d’attendre dans la suite d’un Evesque en
               qui Dieu a mis tous les talens necessaires pour remplir dignement toutes les fonctions
               de l’Apostolat, &amp; de quel avantage il seroit pour gens de nostre métier de trouver
               souvent dans nos quartiers, des Prelats de ce caractere. J’ay crû que je devois à
@@ -276,8 +210,7 @@
         <bibl><title>Mercure galant</title>, février 1703 [tome 2], p. 182-183.</bibl>
         <p>Je croy que l’Air qui suit ne déplaira pas à ceux qui aiment la Musique.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air, <hi rend="i"
-              >Garde-toy bien</hi>, [doit regarder la] page 183.</note>
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L’Air, <hi rend="i">Garde-toy bien</hi>, [doit regarder la] page 183.</note>
           <lg>
             <l><hi rend="i">Garde toy bien[,] Buveur insigne,</hi></l>
             <l><hi rend="i">De te déclarer contre l’eau,</hi></l>
@@ -317,15 +250,13 @@
       <div type="article" xml:id="MG-1703-02_255">
         <head resp="editor">Fête chez l’ambassadeur d’Espagne</head>
         <bibl><title>Mercure galant</title>, février 1703 [tome 2], p. 255-266.</bibl>
-        <p>Je vous entretins le mois passé d’une Feste magnifique qu’avoit donné chez luy M<hi
-            rend="sup">r</hi> l’Ambassadeur d’Espagne, celle qui s’est faite au commencement du mois
+        <p>Je vous entretins le mois passé d’une Feste magnifique qu’avoit donné chez luy M<hi rend="sup">r</hi> l’Ambassadeur d’Espagne, celle qui s’est faite au commencement du mois
           de Fevrier chez le même Ambassadeur a esté beaucoup plus éclatante. Aussi ne l’a-t-il
           donnée qu’à l’occasion de l’heureux retour du Roy son Maître à Madrid. Ce grand Ministre
           toûjours attentif aux moindres circonstances de tout ce qui s’appelle ou devoir ou
           bien-séance, n’eust pas plutost apris que le Roy d’Espagne estoit arrivé à Madrid, qu’il
           se prepara de rendre publique à Paris cette joye sincere qu’ont témoigné en Espagne sur le
-          bonheur de revoir leur Maistre, tous les Sujets de ce grand Monarque M<hi rend="sup"
-            >r</hi> l’Ambassadeur qui est logé &amp; meublé magnifiquement, voulut qu’on ajoûtast à
+          bonheur de revoir leur Maistre, tous les Sujets de ce grand Monarque M<hi rend="sup">r</hi> l’Ambassadeur qui est logé &amp; meublé magnifiquement, voulut qu’on ajoûtast à
           ses appartemens qui sont parfaitement bien disposez &amp; tres brillans, tout ce qu’il y
           pourroit entrer d’ornemens nouveaux. Rien n’y fut épargné ; les lustres, les girandoles,
           les miroirs &amp; les tableaux y furent distribuez, &amp; le bon goust ne parut pas moins
@@ -375,8 +306,7 @@
           differens, qui continuërent jusqu’à cinq heures du matin. On y entroit à toute heure &amp;
           personne n’en sortoit &amp; lorsque les Violons eurent cessé, les Masques du premier rang
           se mirent à danser aux chansons. On y servit des rafraîchissemens à tous ceux qui en
-          voulurent. Sur les six heures du matin tout le monde s’en alla content, &amp; M<hi
-            rend="sup">r</hi> l’Ambassadeur eut une preuve nouvelle du cas qu’on fait de luy en
+          voulurent. Sur les six heures du matin tout le monde s’en alla content, &amp; M<hi rend="sup">r</hi> l’Ambassadeur eut une preuve nouvelle du cas qu’on fait de luy en
           France par la retenuë &amp; par le respect de cette multitude innombrable de Masques, qui
           en toutes choses en userent chez luy, comme on a accoutumé d’en user chez le Roy.</p>
       </div>
@@ -385,8 +315,7 @@
         <bibl><title>Mercure galant</title>, février 1703 [tome 2], p. 266-269.</bibl>
         <p>M<hi rend="sup">r</hi> l’Ambassadeur de Venise s’est aussi distingué dans le Bal qu’il a
           donné, &amp; l’on assure qu’il estoit des plus magnifiques, mais il ne me reste ny assez
-          de place ny assez de temps pour vous faire part de tout ce que j’ay à vous apprendre. M<hi
-            rend="sup">r</hi> l’Envoyé de Gennes a esté du nombre des Ministres étrangers qui ont
+          de place ny assez de temps pour vous faire part de tout ce que j’ay à vous apprendre. M<hi rend="sup">r</hi> l’Envoyé de Gennes a esté du nombre des Ministres étrangers qui ont
           donné des Bals. M<hi rend="sup">r</hi> le Baron de Breteuil en a donné à tous ces
           Ministres. Cela n’est pas surprenant puisqu’il ne se passe point de semaine sans qu’il
           leur fasse voir sa magnificence, &amp; qu’il tient assemblée exprés pour eux toutes les
@@ -431,8 +360,7 @@
           jusqu’à dix heures du soir. Les Danseuses y estoient choisies &amp; leur bon air n’y
           brilloit pas moins que leur beauté, les Danseurs y estoient aussi fort assortis.
           L’Assemblée y estoit assez nombreuse sans qu’il y eust aucune cohuë, on peut dire que
-          jamais Bal n’a esté plus agréable &amp; plus gracieux. La premiere idée de M<hi rend="sup"
-            >r</hi> l’Ambassadeur avoit esté de donner encore cette Feste, de nuit ; mais il aima
+          jamais Bal n’a esté plus agréable &amp; plus gracieux. La premiere idée de M<hi rend="sup">r</hi> l’Ambassadeur avoit esté de donner encore cette Feste, de nuit ; mais il aima
           mieux la donner de jour, d’autant que tout Paris s’y attendoit, &amp; que tout le monde se
           preparoit à y aller. Son Excellence n’eust pas demandé mieux que de recevoir chez luy tous
           les François qui témoignent tant d’empressement à l’honorer &amp; à luy plaire, mais de
@@ -461,9 +389,7 @@
           heures &amp; demie il y eut Bal dans le grand Sallon, qu’on peut dire avec justice, estre
           le lieu de toutes les maisons Royales, le plus commode &amp; le plus beau, pour une
           semblable Feste. Les Seigneurs dansans furent Monseigneur le Duc de Berry, Monsieur le Duc
-          d’Orleans, Monsieur le Comte de Toulouse M<hi rend="sup">r</hi> le Comte de Brionne, M<hi
-            rend="sup">r</hi> le Prince de Monaco, M<hi rend="sup">r</hi> le Duc de Villeroy M<hi
-            rend="sup">r</hi> le Duc de Luxembourg. Messieurs les Marquis de la Chatres, de Grignan,
+          d’Orleans, Monsieur le Comte de Toulouse M<hi rend="sup">r</hi> le Comte de Brionne, M<hi rend="sup">r</hi> le Prince de Monaco, M<hi rend="sup">r</hi> le Duc de Villeroy M<hi rend="sup">r</hi> le Duc de Luxembourg. Messieurs les Marquis de la Chatres, de Grignan,
           de Brancas, &amp; M<hi rend="sup">r</hi> le Chevalier de Sully. Les Dames dansantes furent
           Madame la Duchesse de Bourgogne, Mademoiselle d’Elbeuf, Madame la Princesse de Monaco,
           Mademoiselle d’Armagnac, Madame la Duchesse de Villeroy, Madame la Marquise de Brancas,
@@ -529,8 +455,7 @@
         <p>Il paroist depuis peu un livre nouveau dont le titre est, <hi rend="i">De l’Amitié</hi>.
           Il seroit bien difficile de trouver une matiere qui meritast mieux d’exercer une plume
           delicate, puisqu’il n’y a rien qui puisse contribuer davantage à la felicité de la vie,
-          que l’acquisition d’un vray Ami, quand on est assez heureux pour le trouver. M<hi
-            rend="sup">r</hi> de Sacy, à qui nous devons ce beau Traité, l’a divisé en trois Livres.
+          que l’acquisition d’un vray Ami, quand on est assez heureux pour le trouver. M<hi rend="sup">r</hi> de Sacy, à qui nous devons ce beau Traité, l’a divisé en trois Livres.
           Il parle dans le premier de la nature de l’Amitié, des qualitez necessaires aux Amis, des
           précautions à prendre dans le choix que l’on en fait. Le second comprend les devoirs de
           l’Amitié, leurs justes bornes, leur subordination aux devoirs naturels, &amp; le dernier
@@ -553,8 +478,7 @@
           du Livre de la <hi rend="i">Doctrine Chrestienne</hi>, &amp; de quelques autres, que
           debite le Sieur Coignard, ruë Saint Jacques à la Bible d’or, vous doit estre une assurance
           qu’il n’a pas moins réüssi dans <hi rend="i">les Livres du même Saint Augustin, contre les
-            Philosophes Academiciens</hi>, qu’il vient de faire imprimer. Il y a joint le <hi
-            rend="i">Traité de la Grace &amp; de la Liberté</hi>. La belle Preface que vous
+            Philosophes Academiciens</hi>, qu’il vient de faire imprimer. Il y a joint le <hi rend="i">Traité de la Grace &amp; de la Liberté</hi>. La belle Preface que vous
           trouverez à la teste de ce Volume vous fera connoistre qu’il a bien approfondi l’estat où
           estoit Saint Augustin, lorsqu’il a entrepris d’écrire sur cette matiere. Son stile est
           aisé &amp; naturel, &amp; en même temps tres-pur &amp; digne d’un homme qui connoist bien
@@ -638,8 +562,7 @@
           nommé aux environs de Neubourg. Les Troupes destinées pour l’attaque cantonnerent à
           l’entrée de la Ville, tandis que le General Major Wollsframstorff, avec un corps de
           Cavalerie, &amp; quelque Infanterie se posta de l’autre costé du Danube, pour empêcher le
-          secours d’un gros détachement de l’Armée du Prince de Bade, que conduisoit M<hi rend="sup"
-            >r</hi> le Maréchal Comte de Styrum, &amp; sous luy M<hi rend="sup">r</hi> le Comte de
+          secours d’un gros détachement de l’Armée du Prince de Bade, que conduisoit M<hi rend="sup">r</hi> le Maréchal Comte de Styrum, &amp; sous luy M<hi rend="sup">r</hi> le Comte de
           Gronsfeld, M<hi rend="sup">r</hi> le Duc de Wirtemberg, &amp; M<hi rend="sup">r</hi> le
           Marquis d’Anspach. Son Altesse Electorale arriva à Ingolstat le 29. de Janvier d’où elle
           dépecha le lendemain M<hi rend="sup">r</hi> le Comte de Rechberg Gentilhomme de sa Chambre
@@ -661,10 +584,8 @@
           ordonna dans l’instant l’attaque du Fauxbourg, que les ennemis avoient environné de
           retranchemens, &amp; qu’ils deffendoient avec presque toute la garnison. Dix-huit cens
           hommes furent détachez pour s’en emparer l’épée à la main, la saison ne permettant pas de
-          remuer la terre, ny d’user des précautions dont on se sert en pareil cas. M<hi rend="sup"
-            >r</hi> le Comte de Tattembach General de Bataille, marcha avec six cens Fusiliers ou
-          Grenadiers à la droite de l’angle du Retranchement de la Porte de Feldkirchen. M<hi
-            rend="sup">r</hi> le Comte Emanuel d’Arco, Colonel du Regiment du Prince Electoral, avec
+          remuer la terre, ny d’user des précautions dont on se sert en pareil cas. M<hi rend="sup">r</hi> le Comte de Tattembach General de Bataille, marcha avec six cens Fusiliers ou
+          Grenadiers à la droite de l’angle du Retranchement de la Porte de Feldkirchen. M<hi rend="sup">r</hi> le Comte Emanuel d’Arco, Colonel du Regiment du Prince Electoral, avec
           un pareil nombre, eut ordre d’attaquer par la gauche, &amp; M<hi rend="sup">r</hi> le
           Comte de Sanfré, Lieutenant general les soutenoit avec le reste du détachement, pendant
           que les autres Troupes estoient rangées en ordre de Bataille au village de Feldkirchen.
@@ -684,8 +605,7 @@
           l’abandonner. Cependant M<hi rend="sup">r</hi> le Comte de Sanfré s’empara du reste du
           Fauxbourg, &amp; se posta de maniere à se pouvoir porter par tout où la necessité le
           requereroit. Son Altesse Electorale qui s’estoit avancée pour voir l’attaque, arriva dans
-          le Fauxbourg aussitost que ses Troupes, &amp; sans perdre un moment alla avec M<hi
-            rend="sup">r</hi> le Maréchal Comte d’Arco reconnoistre les lieux les plus propres pour
+          le Fauxbourg aussitost que ses Troupes, &amp; sans perdre un moment alla avec M<hi rend="sup">r</hi> le Maréchal Comte d’Arco reconnoistre les lieux les plus propres pour
           les batteries, on lui fit rapport que le plus foible de la Place estoit l’endroit où la
           muraille de la Ville se joint au Chasteau ; mais par consideration pour Madame
           l’Electrice, il ne voulut pas exposer son Palais au danger des coups, &amp; aux décharges
@@ -730,21 +650,18 @@
           grande parmi les Assiegez, qu’ils se soûmirent à tout ce que desiroit Son Altesse
           Electorale, deux Majors sortirent pour ôtage. On livra d’abord le pont &amp; la porte de
           la Ville, où les Troupes de Son Altesse Electorale se posterent, &amp; Sadite Altesse
-          Electorale alla visiter les ouvrages du pont ; &amp; ayant donné ses ordres à M<hi
-            rend="sup">r</hi> le Maréchal Comte d’Arco pour avoir soin du reste, monta en carosse
+          Electorale alla visiter les ouvrages du pont ; &amp; ayant donné ses ordres à M<hi rend="sup">r</hi> le Maréchal Comte d’Arco pour avoir soin du reste, monta en carosse
           avec l’Envoyé de France &amp; celui de Savoye, qui avoient l’honneur de l’accompagner,
           &amp; s’en retourna à Ingolstadt. M<hi rend="sup">r</hi> le Maréchal Comte d’Arco pour
           marquer aux Officiers la generosité du Prince auquel ils s’estoient rendus, les renvoya
           tous avec armes &amp; bagage, à la reserve de quatre ou cinq qu’il a fait arrester,
           jusqu’à ce qu’on ait rendu quelques Officiers des Troupes de Son Altesse Electorale qu’on
           retient en prison depuis quatre mois, sans aucun droit ; &amp; avant que l’on eust
-          commencé la moindre hostilité. La garnison composée du Regiment Palatin de M<hi rend="sup"
-            >r</hi> d’Isselbach qui y estoit entré fort de neuf cens hommes, &amp; d’un détachement
+          commencé la moindre hostilité. La garnison composée du Regiment Palatin de M<hi rend="sup">r</hi> d’Isselbach qui y estoit entré fort de neuf cens hommes, &amp; d’un détachement
           de sept cens hommes des Troupes du Duc de Wirtemberg, a esté conduite à Landshut. On a
           perdu en ce Siege du costé de S.A.E. M<hi rend="sup">r</hi> de Polens Capitaine de
           Grenadiers, mort de sa blessure, un Lieutenant de Grenadiers, un Lieutenant d’Artillerie,
-          un Ingenieur, &amp; 60. soldats, dont plusieurs ne sont que blessez. M<hi rend="sup"
-            >r</hi> de Ramoski, Major du Regiment de M<hi rend="sup">r</hi> le Prince Electoral qui
+          un Ingenieur, &amp; 60. soldats, dont plusieurs ne sont que blessez. M<hi rend="sup">r</hi> de Ramoski, Major du Regiment de M<hi rend="sup">r</hi> le Prince Electoral qui
           commandoit la fausse attaque, a esté blessé dangereusement par un soldat qui ne le
           reconnut point. Le 5. de Fevrier, Son Altesse Electorale, sur les nouvelles qu’elle avoit
           receuës que les Troupes destinées pour le secours de Neubourg, marchoient pour se joindre
@@ -753,8 +670,7 @@
           pour aller coucher à Donawert, &amp; y observer les mouvemens de M<hi rend="sup">r</hi> le
           Comte de Styrum. Toutes les Troupes de S.A.E. tinrent la mesme route, avec une gayeté
           &amp; une diligence extraordinaire ; mais S.A.E. ayant apris à Donawert que les Imperiaux
-          s’étoient éloignez par une contremarche, elle en repartit, &amp; ordonna à M<hi rend="sup"
-            >r</hi> le Maréchal Comte d’Arco de distribuer les Troupes dans des quartiers, &amp; de
+          s’étoient éloignez par une contremarche, elle en repartit, &amp; ordonna à M<hi rend="sup">r</hi> le Maréchal Comte d’Arco de distribuer les Troupes dans des quartiers, &amp; de
           les poster, de maniere qu’elles fussent en état de se rassembler aisément pour tomber sur
           les premiers qui feroient la moindre démarche contre ses Etats. Cette expedition dans la
           plus rude saison de l’année, a esté conduite &amp; executée avec toute la prudence &amp;
@@ -775,5 +691,4 @@
           cause du pont que cette place a sur le Danube.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

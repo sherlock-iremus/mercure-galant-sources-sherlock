@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1691-07">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, juillet 1691 [tome 7]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1691-07</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>juillet 1691</date> [tome 7].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1691-07"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, juillet 1691 [tome 7].</head>
       <div type="article" xml:id="MG-1691-07_007" resp="wordpro">
@@ -302,10 +238,8 @@
         <head>[Devises]</head>
         <bibl><title>Mercure galant</title>, juillet 1691 [tome 7], p. 137-142.</bibl>
         <p/>
-        <p>Voicy des Devises qui ont esté faites sur les Princes de la Ligue, par M<hi rend="sup"
-            >r</hi> de Lorme. Avocat au Parlement de Grenoble. Les deux premieres regardent le Roy.
-          L’une est un Soleil qui efface tous les autres Astres, avec ces mots Latins, <hi rend="i"
-            >Delet hic unicus omnes</hi>, ou ces mots Espagnols, <hi rend="i">Todos borra el
+        <p>Voicy des Devises qui ont esté faites sur les Princes de la Ligue, par M<hi rend="sup">r</hi> de Lorme. Avocat au Parlement de Grenoble. Les deux premieres regardent le Roy.
+          L’une est un Soleil qui efface tous les autres Astres, avec ces mots Latins, <hi rend="i">Delet hic unicus omnes</hi>, ou ces mots Espagnols, <hi rend="i">Todos borra el
             solo.</hi></p>
         <quote>
           <lg>
@@ -382,8 +316,7 @@
         </quote>
         <quote>
           <label>POUR LE MESME.</label>
-          <p>Le jus exprimé d’une Orange, &amp; ces autres mots en la mesme Langue, <hi rend="i"
-              >Senza altro non piace.</hi></p>
+          <p>Le jus exprimé d’une Orange, &amp; ces autres mots en la mesme Langue, <hi rend="i">Senza altro non piace.</hi></p>
           <quote>
             <lg>
               <l rend="i">Ce n’est pas sa propre excellence</l>
@@ -422,8 +355,7 @@
           Village prirent soin d’applanir les chemins depuis Mont-rouge jusqu’à ce lieu-là, &amp;
           ceux de Mont-rouge prirent le mesme soin pour les chemins qui sont au delà. A son arrivée
           les Cloches se firent entendre. Tous les Habitans estoient en hayes dans les avenuës
-          d’Arcüeil &amp; dans les ruës du Village jusqu’à la Maison de M<hi rend="sup"
-          >r</hi> Gendron, qui en recevant ce Prince, luy dit, que l’honneur que S. A. R. luy
+          d’Arcüeil &amp; dans les ruës du Village jusqu’à la Maison de M<hi rend="sup">r</hi> Gendron, qui en recevant ce Prince, luy dit, que l’honneur que S. A. R. luy
           faisoit, passoit son état, son esperance, &amp; ses souhaits. Monsieur, &amp; toute sa
           Compagnie se promenerent longtemps dans le Jardin, &amp; S. A. R. le loüant
           tres-obligeamment des soins qu’il avoit pris à l’embellir, luy dit qu’il falloit qu’il
@@ -453,8 +385,7 @@
           autre service, que l’ambigu que l’on y trouva d’abord. M<hi rend="sup">r</hi> Gendron eut
           l’honneur de servir Monsieur. M<hi rend="sup">e</hi> Gendron sa femme, eut celuy de servir
           Madame, &amp; M<hi rend="sup">lle</hi> Planson qui est une jeune personne bien-faite, fut
-          choisie pour avoir l’honneur de servir Mademoiselle. Madame dit plusieurs fois à M<hi
-            rend="sup">e</hi> Gendron de se mettre à table, dont elle se défendit
+          choisie pour avoir l’honneur de servir Mademoiselle. Madame dit plusieurs fois à M<hi rend="sup">e</hi> Gendron de se mettre à table, dont elle se défendit
           tres-respectueusement. M<hi rend="sup">r</hi> Gendron presenta à Monsieur la serviette
           moüillée, M<hi rend="sup">e</hi> Gendron presenta celle de Madame à M<hi rend="sup">e</hi>
           d’Armagnac, de qui cette Princesse la receut, &amp; Mademoiselle Planson presenta celle de
@@ -470,8 +401,7 @@
           du Salon, &amp; s’approcha de l’appuy des Balustres qui répondent sur la cour, &amp; sur
           une grande place du Village. Il partit dans ce moment un tourbillon de feu qui alla
           joindre un gros de fusées volantes qui mirent l’air tout en feu. Monsieur, Madame,
-          Mademoiselle &amp; toute leur Cour, aprés avoir fait mille honnestetez à M<hi rend="sup"
-            >r</hi> &amp; à Madame Gendron, partirent à la clarté des flambeaux.</p>
+          Mademoiselle &amp; toute leur Cour, aprés avoir fait mille honnestetez à M<hi rend="sup">r</hi> &amp; à Madame Gendron, partirent à la clarté des flambeaux.</p>
       </div>
       <div type="article" xml:id="MG-1691-07_181" resp="wordpro">
         <head resp="editor">Nouvelle Médaille</head>
@@ -485,8 +415,7 @@
           la teste courbée presente des clefs à ce Monarque. C’est la Ville de Mons qui paroist dans
           le lointain avec le plan du Siege. La Victoire qui n’abandonne point le Roy, est en l’air
           au dessus de Sa Majesté avec ces mots,</p>
-        <p><hi rend="i">Gigantæos sic fulminat ausus</hi>. On lit dans l’Exergue, <hi rend="i"
-            >Montibus eversis nono Aprilis 1691</hi>. Les Anciens, par la Fable des Geans qui se
+        <p><hi rend="i">Gigantæos sic fulminat ausus</hi>. On lit dans l’Exergue, <hi rend="i">Montibus eversis nono Aprilis 1691</hi>. Les Anciens, par la Fable des Geans qui se
           hazarderent à escalader le Ciel, ont voulu nous faire entendre que les Témeraires &amp;
           les Impies ne réussissent jamais dans leurs entreprises. Ainsi rien ne peut estre plus
           juste que la legende de cette Médaille, puis que tandis que les Alliez font à la Haye la
@@ -728,8 +657,7 @@
           <label><hi rend="i">Avis &amp; Réponse à l’Auteur</hi><lb/><hi rend="i">des
               Pasquinades.</hi></label>
           <p>Le Sieur Guerout donnera le 15. Aoust la suite du second Entretien des Plaintes de
-            l’Europe contre le Prince d’Orange, &amp; le commencement du troisiéme intitulé, <hi
-              rend="i">Le Prince d’Orange travaillant à son Histoire</hi>. Cet Ouvrage a esté assez
+            l’Europe contre le Prince d’Orange, &amp; le commencement du troisiéme intitulé, <hi rend="i">Le Prince d’Orange travaillant à son Histoire</hi>. Cet Ouvrage a esté assez
             heureux pour meriter d’estre critiqué. Je dis meriter ; car il n’y a pas d’apparence que
             l’on voulust attaquer un Livre qui n’auroit aucune reputation, &amp; dont on ne
             parleroit point dans le monde. L’Auteur de cette Critique a eu son but, mais en la
@@ -787,5 +715,4 @@
       </div>
 
     </body>
-  </text>
-</TEI>
+  </text></TEI>

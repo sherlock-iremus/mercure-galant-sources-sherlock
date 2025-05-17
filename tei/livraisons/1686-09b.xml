@@ -1,70 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1686-09b">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, Voyage des ambassadeurs de Siam en France, septembre 1686 (seconde
-          partie) [tome 12]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1686-09b</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant, Voyage des ambassadeurs de Siam en France</title>,
-            <date>septembre 1686</date> (deuxième partie) [tome 12].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1686-09"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant, Voyage des ambassadeurs de Siam en France</hi>, septembre
         1686 (deuxième partie) [tome 12].</head>
@@ -86,8 +20,7 @@
           1686 (deuxième partie) [tome 12], p. 102-113</bibl>
         <p/>
         <p>[...] Ils estoient encore à Berny, lors qu'ils furent priez par le Pere de la Chaise, de
-          venir à la Tragedie du College <hi rend="i">Loüis le Grand</hi>, intitulée <hi rend="i"
-            >Clovis</hi>. Ils luy répondirent, <hi rend="i">qu’ils ne croyoient pas qu’ils dussent
+          venir à la Tragedie du College <hi rend="i">Loüis le Grand</hi>, intitulée <hi rend="i">Clovis</hi>. Ils luy répondirent, <hi rend="i">qu’ils ne croyoient pas qu’ils dussent
             voir personne, ny aller en quelque Maison que ce fust avant que d’avoir rendu leurs
             respects au Roy ; mais que puis qu’une Personne aussi sage, les assuroit que cela se
             pouvoit, ils y assisteroient avec plaisir, ne doutant point qu’allant au College, ils ne
@@ -104,9 +37,7 @@
           étonnez de la grande multitude de personnes de la premiere qualité, &amp; d’une infinité
           de peuple qui s’y trouva, sans qu’il y eust la moindre confusion. Ils admirerent l’air
           dégagé des Acteurs, &amp; la beauté des Danses, &amp; ils prirent un tres-grand plaisir à
-          voir danser les Enfans de M<hi rend="sup">r</hi> le Duc de Villeroy, &amp; de M<hi
-            rend="sup">rs</hi> de Coëtquin, de Sourches, &amp; de la Mareliere, aussi-bien que M<hi
-            rend="sup">r</hi> le Chevalier d’Avaux, tous Pensionnaires, &amp; qui charmerent toute
+          voir danser les Enfans de M<hi rend="sup">r</hi> le Duc de Villeroy, &amp; de M<hi rend="sup">rs</hi> de Coëtquin, de Sourches, &amp; de la Mareliere, aussi-bien que M<hi rend="sup">r</hi> le Chevalier d’Avaux, tous Pensionnaires, &amp; qui charmerent toute
           l’Assemblée. <p>Il est necessaire que je vous fasse icy un court détail du Balet, afin de
             vous faire mieux comprendre ce qu’ils dirent de ce Divertissement.</p>
           <p>Ce Balet avoit quatre Parties, &amp; chaque Partie cinq Entrées.</p>
@@ -201,8 +132,7 @@
           aussi qu’on leur expliquast quelques Ceremonies, qui regardoient l’Office, &amp; l’on
           satisfit leur curiosité, aussi bien que celle qu’ils eurent de vouloir apprendre ce que
           c’est que l’Orgue qu’ils écouterent avec une grande attention, &amp; sur laquelle ils
-          firent des demandes pleines d’esprit. Ils firent mille remerciemens à M<hi rend="sup"
-            >r</hi> l’Abbé de la Mothe de la peine qu’il se donnoit de leur expliquer toutes ces
+          firent des demandes pleines d’esprit. Ils firent mille remerciemens à M<hi rend="sup">r</hi> l’Abbé de la Mothe de la peine qu’il se donnoit de leur expliquer toutes ces
           choses, &amp; le premier Ambassadeur luy offrit <hi rend="i">du Betel</hi>, je vous en ay
           déja parlé dans ma Relation de Siam. Ils en machent aussi souvent, que prennent icy du
           Tabac en poudre ceux qui l’aiment davantage, &amp; qui ont toûjours la Tabatiere à la
@@ -230,8 +160,7 @@
           qu’ils employerent quatre Secretaires tout le soir, pour écrire leurs remarques.</p>
         <p>Je vou say déja appris que le second Ambassadeur a esté en Ambassade à la Chine de la
           part du Roy de Siam. Comme c’est un homme de bon esprit, sage &amp; fort sincere, on a
-          voulu sçavoir de luy la difference qu’il faisoit de ces deux Etats. Il a dit <hi rend="i"
-            >qu’il y avoit beaucoup de monde en la Chine ; que les bords des Rivieres y estoient
+          voulu sçavoir de luy la difference qu’il faisoit de ces deux Etats. Il a dit <hi rend="i">qu’il y avoit beaucoup de monde en la Chine ; que les bords des Rivieres y estoient
             beaucoup plus peuplez que le reste du Païs, &amp; que si la France estoit à proportion
             aussi peuplée dans toutes ses Campagnes qu’elle l’estoit le long des bords de la Loire
             qu’il avoit vûs, il y avoit autant de monde en France qu’en la Chine, à proportion de
@@ -239,8 +168,7 @@
             devoit croire qu’il y en a davantage en France ; mais que ce qui les égaloit, au moins
             selon ce qu’il avoit vû, estoit que la Chine luy avoit paru peuplée, ainsi que je viens
             de vous marquer, quoy qu’il n’eust point vû de Femmes, parce qu’elles ne s’y montrent
-            point</hi>. Il dit à l’égard de Paris &amp; de la Capitale de la Chine, <hi rend="i"
-            >qu’il avoit vû autant d’hommes à Pequin, qui est le nom de cette Capitale, que d’hommes
+            point</hi>. Il dit à l’égard de Paris &amp; de la Capitale de la Chine, <hi rend="i">qu’il avoit vû autant d’hommes à Pequin, qui est le nom de cette Capitale, que d’hommes
             &amp; de femmes ensemble à Paris</hi>. Il peut dire vray, mais il peut aussi se tromper,
           n’ayant pas encore assez vû Paris pour en juger. Il en parle sur deux choses ; sur ce
           qu’il a vû le jour qu’il fit son Entrée, &amp; ce qu’il vit dans Nostre-Dame &amp; aux
@@ -342,8 +270,7 @@
           eust l’avantage d’estre seule distinguée. Ayant vû jouer la Comedie du Bourgeois
           Gentilhomme, il comprit tout le sujet de la Piece sur ce qu’on luy en expliqua, &amp; dit
           à la fin qu’il auroit souhaité qu’il y eust eu dans le dénoüement de certaines choses
-          qu’il marqua. M<hi rend="sup">r</hi> de la Grange dit dans son Compliment, <hi rend="i"
-            >Qu’ils avoient esté souvent honorez de la presence de plusieurs Ambassadeurs, qui
+          qu’il marqua. M<hi rend="sup">r</hi> de la Grange dit dans son Compliment, <hi rend="i">Qu’ils avoient esté souvent honorez de la presence de plusieurs Ambassadeurs, qui
             poussez par leur curiosité estoient venus admirer leurs Spectacles, mais qu’ils
             n’avoient jamais eu l’avantage de voir chez eux des Personnes, dont la qualité de
             l’Ambassade dans toutes ses circonstances eust plus attiré d’admirations, &amp; que
@@ -369,8 +296,7 @@
         <p>[...] Quand ils allerent à la Comedie Italienne, &amp; qu’on leur voulut faire remarquer
           la Salle qui est tres-belle, ils dirent <hi rend="i">qu’elle estoit à Paris &amp; que cela
             suffisoit, Paris estant capable de produire tout ce qu’on peut s’imaginer de plus
-            beau</hi>. Voicy à peu prés le sujet du Compliment Italien que leur fit M<hi rend="sup"
-            >r</hi> Ginthio. Il dit, <hi rend="i">Que c’étoient de sages &amp; illustres Ministres,
+            beau</hi>. Voicy à peu prés le sujet du Compliment Italien que leur fit M<hi rend="sup">r</hi> Ginthio. Il dit, <hi rend="i">Que c’étoient de sages &amp; illustres Ministres,
             qui portoient imprimée sur leur front la grandeur de leur Roy, qu’ils estoient venus en
             France du fond des Indes pour nous découvrir les merveilles de l’Asie, que leur Royaume
             estoit divisé en onze Provinces qu’on pouvoit appeller autant de Royaumes, &amp; que
@@ -383,8 +309,7 @@
             loüanges à sa grandeur, &amp; reverent sa Puissance, d’autant plus considerable qu’elle
             a merité l’estime de nostres Monarque, toûjours Invincible LOUIS XIV &amp; que cependant
             ils attendroient d’eux de nouveaux ordres pour leur donner de nouvelles marques de leur
-            zele &amp; de leur obeïssance</hi>. Ce Compliment fut interpreté en François par M<hi
-            rend="sup">r</hi> Veneroni, Interprete du Roy en Langue Italienne, qui parle Portugais
+            zele &amp; de leur obeïssance</hi>. Ce Compliment fut interpreté en François par M<hi rend="sup">r</hi> Veneroni, Interprete du Roy en Langue Italienne, qui parle Portugais
           aussi-bien que l’Interprete des Ambassadeurs qui est né à Siam, &amp; Fils d’un Portugais
           qui s’y est habitué.</p>
       </div>
@@ -393,8 +318,7 @@
         <bibl><title>Mercure galant, Voyage des ambassadeurs de Siam en France</title>, septembre
           1686 (deuxième partie) [tome 12], p. 287-288</bibl>
         <p>[...] Comme ils veulent voir Paris par tous les endroits d'où l'on en peut remarquer
-          quelques parties principales, ils ont esté sur la Montagne de Montmartre. Ils ont dit <hi
-            rend="i">Que Siam avoit autant d'étenduë que Paris, mais que cependant à cause de la
+          quelques parties principales, ils ont esté sur la Montagne de Montmartre. Ils ont dit <hi rend="i">Que Siam avoit autant d'étenduë que Paris, mais que cependant à cause de la
             hauteur des Maisons, Paris estoit six fois aussi grand que Siam</hi>. Ils allèrent au
           Couvent &amp; firent compliment à Madame de Montmartre. Ils y entendirent Vespres,
           trouvèrent beaucoup de douceur dans le chant des Religieuses, &amp; remarquèrent qu'elle
@@ -486,13 +410,10 @@
           choisy de faire pour leurs Tableaux de reception. En entrant le premier Ambassadeur
           reconnut de loin celuy de M<hi rend="sup">r</hi> le Brun, &amp; s’attacha ensuite à
           quelques autres, dont la peinture sembloir donner du relief aux Figures. Ils sortirent
-          aprés avoir consideré tous ces Tableaux, &amp; dirent à ces M<hi rend="sup">rs</hi>, <hi
-            rend="i">Qu’ils ne s’étonnoient pas si l’on voyoit tant de belles choses en France, puis
+          aprés avoir consideré tous ces Tableaux, &amp; dirent à ces M<hi rend="sup">rs</hi>, <hi rend="i">Qu’ils ne s’étonnoient pas si l’on voyoit tant de belles choses en France, puis
             qu’il y avoit un si grand nombre d’habiles Gens</hi>. Ils furent reconduits jusques à
-          leur Carosse par tous ceup qui avoient esté les recevoir, à la reserve de M<hi rend="sup"
-            >r</hi> le Brun, qui estoit party un peu avant eux, afin de les aller attendre aux
+          leur Carosse par tous ceup qui avoient esté les recevoir, à la reserve de M<hi rend="sup">r</hi> le Brun, qui estoit party un peu avant eux, afin de les aller attendre aux
           Gobelins.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

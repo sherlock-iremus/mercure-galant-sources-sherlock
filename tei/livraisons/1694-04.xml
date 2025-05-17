@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1694-04">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, avril 1694 [tome 4]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1694-04</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>avril 1694</date> [tome 4].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1694-04"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, avril 1694 [tome 4].</head>
       <div type="article" xml:id="MG-1694-04_007" resp="wordpro">
@@ -426,16 +362,13 @@
               Juges, qui se sont fixez au nombre de dix, ne se fient pas à leurs propres jugemens ;
               on y appelle des personnes recommandables par leur genie, &amp; par leur qualité. Ils
               nous aident de leurs sentimens, &amp; sont témoins de l’exactitude avec laquelle on
-              dévelope le vray merite. C’est ainsi qu’on en usa la premiere fois à l’égard de M<hi
-                rend="sup">r</hi> Campistron, qui eut le Prix. C’est le Frere de M<hi rend="sup"
-                >r</hi> Campistron, Auteur de diverses Pieces de Theatre, qui ont receu un
+              dévelope le vray merite. C’est ainsi qu’on en usa la premiere fois à l’égard de M<hi rend="sup">r</hi> Campistron, qui eut le Prix. C’est le Frere de M<hi rend="sup">r</hi> Campistron, Auteur de diverses Pieces de Theatre, qui ont receu un
               applaudissement general.</hi></p>
           <p><hi rend="i">Une si belle institution fut d’abord approuvée. On eut pourtant quelque
               peine à goûter le mot de Lanterniste. C’est un nom de hazard &amp; de fortune, c’est
               un titre que nous faisons gloire de porter ; il est autorisé par de grands exemples.
               Les Academies d’Italie, si belles, si florissantes, ont presque toutes des noms de
-              cette espece. Les</hi> Innominati, <hi rend="i">les</hi> Assorditi, <hi rend="i"
-              >les</hi> Ostinati, <hi rend="i">les</hi> Catenati, <hi rend="i">les</hi> Humoristi,
+              cette espece. Les</hi> Innominati, <hi rend="i">les</hi> Assorditi, <hi rend="i">les</hi> Ostinati, <hi rend="i">les</hi> Catenati, <hi rend="i">les</hi> Humoristi,
               <hi rend="i">les</hi> Oscuri, <hi rend="i">les</hi> Insensati, <hi rend="i">les</hi>
             Intronati, <hi rend="i">&amp;c. Ces noms sont-ils plus beaux que celuy de Lanternistes,
               qui n’ont garde de se comparer à ces illustres Societez ? Ils n’y sont que pour le
@@ -516,8 +449,7 @@
           garnie de sa Chapelle &amp; de ses Vases de vermeil pour l’Eglise. Il y avoit un peu au
           dessous une autre Credence, sur laquelle on avoit mis les Cierges, pains &amp; barils
           dorez &amp; argentez pour l’offrande de Madame l’Abbesse ; la Crosse d’argent estoit à
-          costé de cette Credence. Une excellente Musique chanta la Messe, aprés laquelle M<hi
-            rend="sup">r</hi> l’Evesque fit servir deux tables avec beaucoup de magnificence &amp;
+          costé de cette Credence. Une excellente Musique chanta la Messe, aprés laquelle M<hi rend="sup">r</hi> l’Evesque fit servir deux tables avec beaucoup de magnificence &amp;
           de propreté, où plusieurs personnes de qualité furent invitées, avec toute la Famille
           &amp; Parenté de M<hi rend="sup">r</hi> le Baron de Ledenon, Frere de Madame l’Abbesse. Il
           y eut un tres grand concours de monde dans l’Eglise, &amp; sur tout quantité de nouveaux
@@ -1109,5 +1041,4 @@
           donna aussi de grandes marques de son allegresse.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

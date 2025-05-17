@@ -1,64 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, août 1680 [tome 10]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2015"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1680-08/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, août <date>1680</date> [tome 10].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1680-08"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1680-08_008" resp="mercure">
         <head>[Sapate]</head>
@@ -406,10 +346,8 @@
           leur voix ; &amp; que si Sa majesté luy vouloit permettre de s’absenter quelque temps de
           son service touchant l’employ qu’il avoit dans sa Chapelle, il espéroit se mettre en état
           de luy en rendre de plus considérables quand il auroit pris le Bonnet de Docteur en
-          Medecine. Le Roy trouva la chose plaisante, &amp; dit à ceux qui l’accompagnoient, <hi
-            rend="i">Que diroit Moliere, s’il estoit encor au monde, de ce qu’un Musicien demande à
-            se faire Medecin</hi> ? Le Fait estant extraordinaire, on crût d’abord que le S<hi
-            rend="sup">r</hi> des Prez n’avoit parlé que pour divertir le Roy ; mais il poursuivit
+          Medecine. Le Roy trouva la chose plaisante, &amp; dit à ceux qui l’accompagnoient, <hi rend="i">Que diroit Moliere, s’il estoit encor au monde, de ce qu’un Musicien demande à
+            se faire Medecin</hi> ? Le Fait estant extraordinaire, on crût d’abord que le S<hi rend="sup">r</hi> des Prez n’avoit parlé que pour divertir le Roy ; mais il poursuivit
           en termes si sérieux, qu’on connut bientost que le cœur luy en disoit de ce costé-là. Sa
           Majesté en estant persuadée, luy permit de s’absenter autant qu’il voudroit pour
           s’appliquer à l’étude ; &amp; il y a si bien réüssy, que depuis deux mois il a en effet
@@ -455,13 +393,10 @@
           esté fait depuis assez peu d'années pour tenir Jurisdiction des <hi rend="i">Alcaldes del
             crimen</hi>. Ce nom d'<hi rend="i">Alcaldes</hi> se donne à tous ceux qui sont en
           Espagne comme nos Baillifs, &amp; devant qui ont commence à instruire les Procés. Il n'y
-          en a qu'un dans les petits Bourgs qu'on nomme <hi rend="i">Villas</hi>, &amp; il a un <hi
-            rend="i">Teniente</hi>, &amp; un <hi rend="i">Alguazil</hi>, avec lesquels il juge les
-          Affaires civiles &amp; criminelles ; mais dans les Villes on a étably une Cour d'<hi
-            rend="i">Alcaldes</hi>, qui sont plus ou moins, selon que la Ville est considérable. Il
+          en a qu'un dans les petits Bourgs qu'on nomme <hi rend="i">Villas</hi>, &amp; il a un <hi rend="i">Teniente</hi>, &amp; un <hi rend="i">Alguazil</hi>, avec lesquels il juge les
+          Affaires civiles &amp; criminelles ; mais dans les Villes on a étably une Cour d'<hi rend="i">Alcaldes</hi>, qui sont plus ou moins, selon que la Ville est considérable. Il
           y en a huit à Madrid, dont le plus ancien est Président. La marque d'autorité, non
-          seulement des plus simples Officiers, mais aussi des Présidens des <hi rend="i"
-            >Alcaldes</hi>, &amp; des plus grands Magistrats, est une petite Baguette blanche,
+          seulement des plus simples Officiers, mais aussi des Présidens des <hi rend="i">Alcaldes</hi>, &amp; des plus grands Magistrats, est une petite Baguette blanche,
           longue d'une aune, qu'ils appellent <hi rend="i">Vara</hi>, &amp; qui est fort respectée
           en ce Païs-là. Dans la Cour des <hi rend="i">Alcaldes</hi> de Pampelune, qui est composée
           de quatre, le Roy ne peut mettre qu'un seul Castillan, les trois autres doivent estre
@@ -524,8 +459,7 @@
           à vous dire que ce nouveau Grand-Maistre a nommé M<hi rend="sup">r</hi> le Bailly Colbert,
           Fils du Grand Ministre d'Etat, General de ses Galeres, dont il aura le Commandemement dans
           dix-huit mois, apres que le temps de M<hi rend="sup">r</hi> le Bailly Correa qui les
-          commande à present, sera expiré. Il a aussi reconnu les services que M<hi rend="sup"
-            >r</hi> Bataille, Servant d'Armes, a rendus depuis longtemps, &amp; rend tous les jours
+          commande à present, sera expiré. Il a aussi reconnu les services que M<hi rend="sup">r</hi> Bataille, Servant d'Armes, a rendus depuis longtemps, &amp; rend tous les jours
           à la Religion avec tres-grand zele, en luy faisant donner l'Ordre de Chevalerie. La
           Cerémonie s'en fit par M<hi rend="sup">r</hi> le Bailly de Caumont dans l'Eglise de Saint
           Jean, où il y eut un tres-grand concours de monde. Celuy pour qui elle se faisoit, estant
@@ -537,12 +471,10 @@
       <div type="article" xml:id="MG-1680-08_203" resp="mercure">
         <head>[Mort de M. le Duc d’Usés]</head>
         <bibl><title>Mercure galant</title>, août 1680 [tome 10], p. 203-216.</bibl>
-        <p>Je finis ma Lettre du dernier Mois par la nouvelle que je vous donnay de la mort de M<hi
-            rend="sup">r</hi> le Duc d’Usés. M<hi rend="sup">rs</hi> les Marquis de S. Suplice &amp;
+        <p>Je finis ma Lettre du dernier Mois par la nouvelle que je vous donnay de la mort de M<hi rend="sup">r</hi> le Duc d’Usés. M<hi rend="sup">rs</hi> les Marquis de S. Suplice &amp;
           de Montsalais, ses Freres, estoient morts dix ou douze jours auparavant. Ils avoient tous
           deux tres-bien servy, s'estoient distinguez en divers emplois, &amp; vivoient en Province
-          depuis quelque temps, apres avoir essuyé les plus longues fatigues de la guerre. M<hi
-            rend="sup">r</hi> le Duc d'Usés leur aîné avoit esté élevé Enfant d'honneur du feu Roy.
+          depuis quelque temps, apres avoir essuyé les plus longues fatigues de la guerre. M<hi rend="sup">r</hi> le Duc d'Usés leur aîné avoit esté élevé Enfant d'honneur du feu Roy.
           On luy a veu pratiquer ce qui est peu ordinaire aux Personnes de son rang. Les grandes
           dépenses qu'il s'estoit trouvé obligé de soûtenir, l'avoient engagé à faire des debtes,
           &amp; pour les payer plutost &amp; plus aisément, ne pouvant vendre aucune des belles
@@ -581,15 +513,12 @@
           d'honneur de la mesme Reyne. Il porta longtemps les armes en Hollande sous le feu Prince
           d'Orange, &amp; en suite commanda deux Regimens en France pour le service du Roy. Il avoit
           épousé en premieres Nôces la Veuve de M<hi rend="sup">r</hi> d'Angoulesme, Heritiere de la
-          Maison de la Chastre, &amp; en secondes, l'Heritiere &amp; Fille unique de M<hi rend="sup"
-            >r</hi> le Comte d'Apcher. C'est celuy qui est mort depuis un mois. M<hi rend="sup"
-            >r</hi> le Marquis de Florensac, un de ses Freres, fut tué au siege de Turin.</p>
+          Maison de la Chastre, &amp; en secondes, l'Heritiere &amp; Fille unique de M<hi rend="sup">r</hi> le Comte d'Apcher. C'est celuy qui est mort depuis un mois. M<hi rend="sup">r</hi> le Marquis de Florensac, un de ses Freres, fut tué au siege de Turin.</p>
         <p>Emanuel de Crussol, qu'on a appelé jusqu'à aujourd'huy Duc de Crussol, &amp; qui est à
           présent le cinquiéme Duc d'Usés, est Gouverneur de Xaintonge &amp; d'Angoulmois, &amp;
           Mestre de Camp d'un Regiment d'Infanterie. Il a donné d'éclatantes marques de son courage
           dans toutes les occasions que la derniere guerre luy a offertes, &amp; auparavant contre
-          les Turcs en Hongrie pour le service de l'Empereur. Il a épousé la Fille unique de M<hi
-            rend="sup">r</hi> le Duc de Montausier. Vous voyez par ce détail qu'il n'y a point de
+          les Turcs en Hongrie pour le service de l'Empereur. Il a épousé la Fille unique de M<hi rend="sup">r</hi> le Duc de Montausier. Vous voyez par ce détail qu'il n'y a point de
           Maison en France où il soit entré tant de grandes Heritieres. M<hi rend="sup">r</hi> le
           Marquis de Florensac, Frere de ce Duc s'est aussi acquis beaucoup de réputation en
           dix-sept Campagnes qu'il a faites, où il a reçeu de grandes blessures. Je ne vous dis rien
@@ -607,8 +536,7 @@
           &amp; on n’a point encor veu dans un âge si peu avancé tant de douceur, d’honnesteté, de
           modestie, de politesse, &amp; de délicatesse d’esprit. Joignez à cela qu’elle surprend par
           sa danse, jouë du Clavessin, &amp; sçait mille choses dignes d’une éducation telle que
-          vous jugez bien qu’on luy donne. Mademoiselle de Florensac sa Sœur, &amp; M<hi rend="sup"
-            >r</hi> le Comte d'Assier, M<hi rend="sup">r</hi> le Comte &amp; M<hi rend="sup">r</hi>
+          vous jugez bien qu’on luy donne. Mademoiselle de Florensac sa Sœur, &amp; M<hi rend="sup">r</hi> le Comte d'Assier, M<hi rend="sup">r</hi> le Comte &amp; M<hi rend="sup">r</hi>
           le Chevalier d'Usés ses autres Freres, quoy que tous tres-jeunes, sont les plus jolis du
           monde.</p>
       </div>
@@ -632,8 +560,7 @@
           sont venus de temps en temps accomplir des Vœux qu'ils y avoient faits. On y voit un
           Présent tres-riche d'un Roy de France. À son retour d'Oettingen, d'où il revint en poste à
           Munic, il nomma M<hi rend="sup">r</hi> le Baron de Rechberg, Grand Maistre &amp; Premier
-          Ministre ; M<hi rend="sup">r</hi> le Comte de Taerring, Grand Chambellan &amp; M<hi
-            rend="sup">r</hi> le Comte de Preysing Grand Maréchal de la Cour &amp; Minsitre d'Etat.
+          Ministre ; M<hi rend="sup">r</hi> le Comte de Taerring, Grand Chambellan &amp; M<hi rend="sup">r</hi> le Comte de Preysing Grand Maréchal de la Cour &amp; Minsitre d'Etat.
           Les deux premiers possedoient auparavant les Charges de Grand Chambellan, &amp; de Grand
           Maréchal. Il avoit d'abord remercié M<hi rend="sup">r</hi> le Duc Maximilian son Oncle,
           des soins qu'il avoit pris pendant sa Minorité pour l'administration de ses Etats, &amp;
@@ -808,12 +735,10 @@
           du monde la plus glorieuse pour Luy, &amp; la plus avantageuse pour l’Europe. Ce Ballet,
           qui estoit de la composition de M<hi rend="sup">r</hi> de Beauchamp, fut dansé par tout ce
           qu’il y a de meilleurs Maistres en France, &amp; par plusieurs Enfans de qualité, entre
-          lesquels on remarqua aisément M<hi rend="sup">r</hi> le Prince de Masseran, M<hi
-            rend="sup">rs</hi> les Comtes de Nogent &amp; de Coffé, &amp; M<hi rend="sup">rs</hi>
+          lesquels on remarqua aisément M<hi rend="sup">r</hi> le Prince de Masseran, M<hi rend="sup">rs</hi> les Comtes de Nogent &amp; de Coffé, &amp; M<hi rend="sup">rs</hi>
           les Chevaliers de Montpezat &amp; de Rochechoüard.</p>
         <p>Sur la fin de cette Piece, on fit selon la coûtume la distribution des Prix fondé par Sa
-          Majesté. Les Pensionnaires du College en remporterent une fort grande partie. M<hi
-            rend="sup">r</hi> le Duc de Bourbon, Fils unique de S. A. S. M<hi rend="sup">gr</hi> le
+          Majesté. Les Pensionnaires du College en remporterent une fort grande partie. M<hi rend="sup">r</hi> le Duc de Bourbon, Fils unique de S. A. S. M<hi rend="sup">gr</hi> le
           Duc, eut le premier Prix de Vers Latins qu’il avoit merité dans sa Classe par une
           composition aussi ingénieuse que juste. Ce jeune Prince ayant esté nommé pour le recevoir,
           sortit de la Chambre qu’on luy avoit préparée pour voir l’Action, precedé de la plûpart
@@ -822,8 +747,7 @@
           Gardes, &amp; vint au son des Trompetes, des Hautbois &amp; des Timbales, &amp; avec
           l’acclamation genérale de cette grande Assemblée, se placer dans un Fauteüil qu’on luy
           avoit élevé sur une Estrade au milieu du Theatre. Ce fut là que M<hi rend="sup">r</hi> le
-          Comte de Coffé luy présenta le Prix qui luy estoit deû. En suite dequoy le Fils de M<hi
-            rend="sup">r</hi> de la Marguerie qui avoit fait le Personnage du Roy dans la Tragédie,
+          Comte de Coffé luy présenta le Prix qui luy estoit deû. En suite dequoy le Fils de M<hi rend="sup">r</hi> de la Marguerie qui avoit fait le Personnage du Roy dans la Tragédie,
           luy fit un Compliment Latin qu’on écouta avec grand silence, &amp; aussitost les Acteurs
           distribuerent par tout des Vers qu’on venoit de faire à la loüange du jeune Prince, dont
           les belles qualitez ne font rien attendre de moins grand que ce qu’on voit tous les jours
@@ -873,5 +797,4 @@
           depuis fort longtemps.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

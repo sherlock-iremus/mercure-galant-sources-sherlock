@@ -1,74 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1678-06e" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Extraordinaire du Mercure galant, quartier d'avril 1678 [tome II]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Alexandre De Craim</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name ref="mailto:frederic.glorieux@fictif.org">Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2014"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1678-06e/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Extraordinaire du Mercure galant</title>, <publisher>Claude
-          Blageart</publisher>, quartier d'avril<date>1678</date> [tome II].<hi rend="i"
-            >Achevé d’imprimer le 20 juillet 1678</hi>.</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1678"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Extraordinaire du Mercure galant</hi>, quartier d’avril 1678 (tome
         II).</head>
@@ -715,8 +645,7 @@
             grand Salon de verdure pour leurs Altesses Royales, qui s’y placerent avec les Princes
             sur une espece de Balcon avancé. Le reste de la Cour se rangea derriere, &amp; les
             Ambassadeurs à costé sur un petit Echafaut qu’on leur avoit preparé. L’on amdira d’abord
-            le superbe appareil du Feu d’artifice, qui estoit de l’invention de M<hi rend="sup"
-              >r</hi> le Comte de Castellamont, si fertile en beaux desseins, &amp; que le zele
+            le superbe appareil du Feu d’artifice, qui estoit de l’invention de M<hi rend="sup">r</hi> le Comte de Castellamont, si fertile en beaux desseins, &amp; que le zele
             agissant de M<hi rend="sup">r</hi> le Comte de Piosasque avoit fait executer par les
             Officiers de l’Artillerie avec une promptitude &amp; une magnificence
             extraordinaire.</p>
@@ -866,8 +795,7 @@
             que l’étenduë des sçavans Esprits qui contribuënt à ce bel uvrage, le demande. Je dis
             seulement que c’est un Tableau qui nous fait voir la diversité des beaux Génies dont la
             France abonde ; que c’est un superbe Palais où les Muses s’assemblent de toutes parts,
-            ces Muses qui croissent de jour en jour sous la protection du Grand <hi rend="sc"
-              >Loüis</hi>, qui comme un Mars redoutable fait trembler toute l’Europe à son aspect,
+            ces Muses qui croissent de jour en jour sous la protection du Grand <hi rend="sc">Loüis</hi>, qui comme un Mars redoutable fait trembler toute l’Europe à son aspect,
             &amp; comme un autre Apollon fait découler les Eaux du Sacré Vallon dans les Climats les
             plus éloignez de son Empire. Mais je laisse le soin de donner les loüanges que méritent
             les Victoires d’un si grand Roy, à ces Esprits brillans, à ces Personnes éclairées, à
@@ -976,8 +904,7 @@
             veux bien vous dire encor que nous avons crû luy &amp; moy que vos deux Enigmes du Mois
             de May parlent l’un de <hi rend="i">la Fuste</hi>, &amp; l’autre <hi rend="i">du
               Soleil</hi> ; &amp; que vous vostre Histoire Enigmatique qui est dans vostre
-            Extraordinaire, nous ne doutons point que ce ne soit un Mariage fait de la main de M<hi
-              rend="sup">r</hi> de Riquet, par cette jonction surprenante de la Mer Oceane avec la
+            Extraordinaire, nous ne doutons point que ce ne soit un Mariage fait de la main de M<hi rend="sup">r</hi> de Riquet, par cette jonction surprenante de la Mer Oceane avec la
             Mer Mediterrannée qu’il a entreprise, &amp; à laquelle il réüssit si heureusement. Vous
             verrez, Monsieur, si nos Explications sont justes, vous me ferez la grace de croire que
             je suis vostre très-humble Servante.</p>
@@ -1089,8 +1016,7 @@
             Gens qui sont fort sensibles à tout ce qui est de bon air, &amp; je les entens décider
             quelquefois des diférentes beautez du Mercure, &amp; mesme ils prennent plaisir &amp;
             réüssissent souvent à expliquer les Enigmes. Deux Dames qui les ont devinées la plûpart,
-            ont fait une gageure sur la premiere du dernier Volume. L’une veut que ce soit <hi
-              rend="i">la Mode</hi>, &amp; l’autre soûtient que ce ne l’est pas, &amp; que ce Vers
+            ont fait une gageure sur la premiere du dernier Volume. L’une veut que ce soit <hi rend="i">la Mode</hi>, &amp; l’autre soûtient que ce ne l’est pas, &amp; que ce Vers
             entr’autres, <hi rend="i">Fille de Roturier</hi>, ne ’y peut ajuster, parce, dit-elle,
             que ce ne sont pas toûjours les Ouvriers qui font les Modes. S’Il arrivoit, Monsieur,
             que vous vinssiez à témoigner que cette Lettre pust faire un bon effet, quelque pensée
@@ -1339,8 +1265,7 @@
             de tout ce qui se peut dire là-dessus, j’ay crû que vous voudriez bien me permettre de
             vous proposer quelques refléxions que j’ay faites, dont vous vous servirez autant que
             vous le jugerez à propos.</p>
-          <p>Il n’est pas si seûr que cet Arc de Triomphe soit de Jules césar, quoy qu’en die M<hi
-              rend="sup">r</hi> Bergier, qu’on ne puisse avoir raison d’en douter. On ne voit point
+          <p>Il n’est pas si seûr que cet Arc de Triomphe soit de Jules césar, quoy qu’en die M<hi rend="sup">r</hi> Bergier, qu’on ne puisse avoir raison d’en douter. On ne voit point
             de Bâtiment de cet Empereur mesme dans Rome ; les Arcs de Triomphe n’estoient point
             encor communs alors, ils n’avoient pas mesme de nom en Latin. C’est pourtant une coûtume
             triviale &amp; vulgaire d’attribuer à Jules César une partie des antiquitez de
@@ -1688,8 +1613,7 @@
             que vous proposez dans le Mois de May. Elle croit que la premiere est <hi rend="i">la
               Fluste</hi>, dont elle a fait une application tres juste. Elle a seulement jugé
             d’abord que le mot d’<hi rend="i">yeux</hi> estoit impropre pour cet Instrument, &amp;
-            plusieurs eussent mieux aimé que l’on se fust servy de celuy de <hi rend="i"
-              >bouches</hi>, parce qu’à proprement parler, la Fluste se fait entendre, &amp; ne voit
+            plusieurs eussent mieux aimé que l’on se fust servy de celuy de <hi rend="i">bouches</hi>, parce qu’à proprement parler, la Fluste se fait entendre, &amp; ne voit
             pas. Mais une Belle de la Compagnie, aussi habile dans le langage des yeux, que dans
             celuy de la parole, nous tira sur le champ de la difficulté qui nous arrestoit, &amp;
             nous fit demeurer d’accord que la Fluste n’est pas la seule chose dont les yeux se
@@ -1912,8 +1836,7 @@
               faut laisser</hi>, dit-elle, <hi rend="i">à epxliquer à Messieurs les Mareschaux de
               Camp. J’apperçois dans celle qui est gravée, deux petits Amours qui tiennent des
               Masques. Cela est de nostre compétence.</hi> Elle examina chaque Figure, &amp; apres
-            un moment de refléxion, elle trouva que le <hi rend="i">Vers Satyrique</hi>, ou <hi
-              rend="i">la Satyre</hi>, pouvoient assez heureusement d’appliquer au Tableau ; qu’un
+            un moment de refléxion, elle trouva que le <hi rend="i">Vers Satyrique</hi>, ou <hi rend="i">la Satyre</hi>, pouvoient assez heureusement d’appliquer au Tableau ; qu’un
             Homme entre les mains de la Satyre estoit dans un état plus déplorable que le pauvre
             Marysas ; qu’Apollon figuroit l’Autheur de la Satyre ; que celuy qui écorche Marysas,
             estoit la Satyre mesme ; que les Amours qui tenoient les Masques, estoient les traits
@@ -1991,8 +1914,7 @@
             nostre Sexe le moyen de devenir Philosophes.</p>
           <p>Les premieres Lettres qui traitent de la nature de l’Enigme &amp; de l’Apologue, sont
             belles &amp; sçavantes ; mais il me semble qu’elles n’expliquent point encor assez.
-            Celle que vous nous avez proposée en Chifre, commence indubitablement par <hi rend="i"
-              >l’Amour</hi>. Je n’ay pas esté plus loin. Pour vostre Question galante, il semble
+            Celle que vous nous avez proposée en Chifre, commence indubitablement par <hi rend="i">l’Amour</hi>. Je n’ay pas esté plus loin. Pour vostre Question galante, il semble
             d’abord que des deux Maistresses, celle qui trahit fait plus soufrir un Amant, parce que
             les paroles &amp; les fausses tendresses sont autant de coups de poignard qui percent le
             cœur de ce pauvre Amant, &amp; qui luy donnent la mort autant de fois qu’on le trompe,
@@ -2010,10 +1932,8 @@
             me trompe, qui se décharge dans cette derniere Mer. Je ne vous en écriray point le
             détail, je vous diray seulement que le pareil Mariage qui a esté fait en France, est le
             Canal de Briare.</p>
-          <p>Les Mots des deux Enigmes en Vers de vostre Mercure de May, doivent estre <hi rend="i"
-              >la Fluste</hi> &amp; <hi rend="i">le Soleil</hi>.</p>
-          <p>Le Mot de l’Enigme <hi rend="i">Ino</hi> me paroist estre l’<hi rend="i"
-              >Imprimerie</hi>, parce que comme le Papier reçoit tout ce qu’on veut, l’eau dans
+          <p>Les Mots des deux Enigmes en Vers de vostre Mercure de May, doivent estre <hi rend="i">la Fluste</hi> &amp; <hi rend="i">le Soleil</hi>.</p>
+          <p>Le Mot de l’Enigme <hi rend="i">Ino</hi> me paroist estre l’<hi rend="i">Imprimerie</hi>, parce que comme le Papier reçoit tout ce qu’on veut, l’eau dans
             laquelle Ino se précipite, ne refuse rien. Ino est la Presse. Ses Suivantes sont les
             Lettres, qui demeurent dans l’état où on les met, &amp; dans le rang qu’on leur donne.
             Athamas qu’on doit suposer, est l’Imprimeur qui fait mouvoir la Presse. Le Rocher est le
@@ -2166,10 +2086,8 @@
             procure à ses Sujets un parfait repos. Il ne peut estre heureux en un mot, qu’ils ne le
             soient avec luy. Aussi est-on embarassé à trouver des termes qui puissent exprimer leur
             admiration, leur amour, &amp; leur gratitude, comme à discerner laquelle de ces choses
-            tient la premiere place dans leurs esprits. <hi rend="i">Le Mariage</hi>, ou <hi
-              rend="i">la jonction des deux Mers</hi>, qui fait à mon sens le sujet de l’Histoire
-            Enigmatique, n’a jamais esté si difficile, qu’il l’est de donner aux vertus de <hi
-              rend="sc">Loüis le Grand</hi> les loüanges qu’elles méritent.</p>
+            tient la premiere place dans leurs esprits. <hi rend="i">Le Mariage</hi>, ou <hi rend="i">la jonction des deux Mers</hi>, qui fait à mon sens le sujet de l’Histoire
+            Enigmatique, n’a jamais esté si difficile, qu’il l’est de donner aux vertus de <hi rend="sc">Loüis le Grand</hi> les loüanges qu’elles méritent.</p>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-06e_238" resp="mercure">
@@ -2179,8 +2097,7 @@
             p. 238-239.</bibl>
         <p>J’adjouste icy, Madame, quelques autres Explications sur ces Enigmes. Voicy un Quadrain
           de Mr d'Hermilly fort agréablement tourné sur toutes les deux<note resp="editor"> Pour l'énigme, cf. <ref target="MG-1678-05_355">cet
-              article</ref>, pour la solution de l'énigme, cf. <ref target="MG-1678-06_317">cet article</ref>, et pour une lettre sur cette énigme, cf. <ref
-              target="MG-1678-06e_119">celui-ci</ref></note>.</p>
+              article</ref>, pour la solution de l'énigme, cf. <ref target="MG-1678-06_317">cet article</ref>, et pour une lettre sur cette énigme, cf. <ref target="MG-1678-06e_119">celui-ci</ref></note>.</p>
         <quote>
           <lg>
             <l><hi rend="i">Si par une fine methode</hi></l>
@@ -2225,8 +2142,7 @@
             p. 240-243.</bibl>
         <quote>
           <label rend="center">LETTRE XXXII.<note resp="editor">Pour l'énigme, cf. <ref target="MG-1678-05_355">cet
-            article</ref>, pour la solution, cf. <ref target="MG-1678-06_317">cet article</ref> et pour une lettre à propos de cette énigme, cf. <ref
-              target="MG-1678-06e_119">celui-ci</ref>.</note></label>
+            article</ref>, pour la solution, cf. <ref target="MG-1678-06_317">cet article</ref> et pour une lettre à propos de cette énigme, cf. <ref target="MG-1678-06e_119">celui-ci</ref>.</note></label>
           <p rend="i">À Arles. </p>
           <p>[…] L'Agréable artifice, Monsieur, que vous avez trouvé pour nourrir les Esprits dans
             l'exercice des belles Lettres. Toutes vos manières de traiter les Sujets que vous mettez
@@ -2279,8 +2195,7 @@
             compagnie dans sa Chambre pendant le jour ; aucune Suivante n’ayant la liberté d’y
             entrer dans le consentement de son Mary. Il prenoit ombrage de tout, &amp; il estoit
             jaloux, jusqu’à croire que la Magie métamorphosoit tout ce qui approchoit de sa Femme.
-            Ainsi luy ayant un jour surpris vostre Livre, il n’eut pas si tost lû, <hi rend="i"
-              >Mercure Galant</hi>, qui en est le Titre, qu’il l’arracha de ses mains avec violence,
+            Ainsi luy ayant un jour surpris vostre Livre, il n’eut pas si tost lû, <hi rend="i">Mercure Galant</hi>, qui en est le Titre, qu’il l’arracha de ses mains avec violence,
             l’enferma dans son Cabinet sous plusieurs clefs, &amp; se posta en sentinelle à la
             porte, le Mousquet sur l’épaule &amp; la Dague au costé. Il y demeura 24 heures, dans la
             pensée que le Mercure estoit quelque François métamorphosé en Livre par art magique, qui
@@ -2400,8 +2315,7 @@
           <p>Nostre Campagne est assurément un des lieux où vostre Mercure est le mieux reçeu. Il
             n’est personne parmy nous dont l’esprit ne se soit déterré, pour ainsi dire, depuis
             quelques mois. Vos dernieres Enigmes semblent estre particulierement proposées à des
-            Bergeres. <hi rend="i">Le Soleil</hi> qu’elles voyent tous les jours, &amp; <hi rend="i"
-              >la</hi> Fluste de leurs Bergers, sont l’un &amp; l’autre de leur connoissance. Il
+            Bergeres. <hi rend="i">Le Soleil</hi> qu’elles voyent tous les jours, &amp; <hi rend="i">la</hi> Fluste de leurs Bergers, sont l’un &amp; l’autre de leur connoissance. Il
             nous estoit difficile de nous y tromper. Un Gentilhomme de nos Voisins nous assure fort,
             que nous avons rencontré juste. Il s’apelle M<hi rend="sup">r</hi> de Besserel, Neveu de
               M<hi rend="sup">r</hi> le Doyen des Comtes de Lyon. Il n’a manqué jusqu’icy aucune de
@@ -2469,8 +2383,7 @@
             le malheur d’un Berger fidelle, qui se voit abandonné &amp; retenu par une infidelle
             Bergere. Plus heureux s’il ne connoissoit un si grand malheur que sur la foy d’un
             autre.</p>
-          <p>Pour la Lettre en Chiffres, j’ay trouvé dans les deux premieres lignes, <hi rend="i"
-              >l’Amour, la Guerre &amp; les Arts</hi>. Quand au reste, il est si difficile, &amp;
+          <p>Pour la Lettre en Chiffres, j’ay trouvé dans les deux premieres lignes, <hi rend="i">l’Amour, la Guerre &amp; les Arts</hi>. Quand au reste, il est si difficile, &amp;
             les divers Animaux aëriens, terrestres, &amp; aquatiques, sont si mal differenciez, que
             je n’ay pas voulu rebuter davantage mon esprit, puis qu’il est vray de dire avec un
             Ancien,</p>
@@ -2560,8 +2473,7 @@
             la Religieuse dont je vous parle dit que Medée representoit le Roy, son Chariot estant
             environné du Soleil, qui est la Devise de cet incomparable Monarque ; que les Serpens
             qui le traînoient, estoient les symboles de la Prudence, &amp; marquoient celle qui
-            regle toutes ses actions ; Que Jason qui quitte Medée pour épouser Créüse, figuroit <hi
-              rend="i">les Alliez</hi>, qui l’ayant esté autrefois du Roy, avoient quitté cette
+            regle toutes ses actions ; Que Jason qui quitte Medée pour épouser Créüse, figuroit <hi rend="i">les Alliez</hi>, qui l’ayant esté autrefois du Roy, avoient quitté cette
             illsutre Alliance pour en contracter une autre qui avoit esté suivie de toutes sortes de
             malheurs ; Que la surprise qu’eut Jason &amp; ceux de sa Suite, lors que voulant punir
             Medée il luy vit fendre les airs &amp; se dérober à sa veuë, ne fut pas si grande que
@@ -2772,8 +2684,7 @@
           <p>Ces Bergers sont admirables, dit la jeune Scarron Mandiné. Ils tournent si bien toutes
             choses, qu’ils font tout raporter à l’Amour. Il se rencontre dans tous leurs discours,
             c’est son feu qui regne par tout, &amp; je ne sçay ce qu’ils diroient, si l’on avoit
-            trouvé le moyen de l’éteindre. Je pense que l’Autheur de l’Enigme d’<hi rend="i"
-              >Ino</hi>, plus sage que la plûpart des Hommes, prévoyant par un esprit prophétique,
+            trouvé le moyen de l’éteindre. Je pense que l’Autheur de l’Enigme d’<hi rend="i">Ino</hi>, plus sage que la plûpart des Hommes, prévoyant par un esprit prophétique,
             que plusieurs mesleroient ce feu dans l’explication des deux premieres Enigmes, a voulu
             leur préparer un rafraîchissement par celle-cy : car, Madame, cette Ino n’est autre
             chose qu’une Fontaine dont la Source ayant esté attirée pres de cette Pyramide, elle
@@ -2877,8 +2788,7 @@
             jours par vos soins, soit dans une estime plus considérable à l’avenir, &amp; qu’il
             serve à établir commerce entre ceux qui n’ont que des Marchandises de l’esprit à
             trafiquer. Aristote dans le Chap. 21. de sa Poëtique, donne une définition fort juste de
-            l’Enigme, &amp; qui nous en fait tres-bien connoistre la nature. Il dit que <hi rend="i"
-              >c’est un Discours qui assemble diverses Propositions qui ont peu de rapport
+            l’Enigme, &amp; qui nous en fait tres-bien connoistre la nature. Il dit que <hi rend="i">c’est un Discours qui assemble diverses Propositions qui ont peu de rapport
               entre-elles, &amp; qui ne pouvant pas estre expliquées par la composition naturelle de
               leurs paroles, le peuvent estre neanmoins par la transposition de leur sens.</hi> Il
             n’y a rien qui soit plus propre à éveiller un Esprit que cette ingénieuse façon de
@@ -3089,13 +2999,11 @@
             nos Sçavans, qu’ils sont bien éloignez de l’entestement d’un Docteur de Bezançon qui
             desaprouve vostre Mercure, sur ce meschant principe, que tout ce qui n’a pas esté en
             usage parmy les Romains, ne vaut rien. Il avouë que l’Autheur du Mercure a de l’esprit,
-            &amp; qu’il ménage fort les bonnes mœurs ; <hi rend="i">car</hi>, dit-il, <hi rend="i"
-              >quoy qu’il se fasse mille bons coups entre les deux Sexes, cependant les avantures du
+            &amp; qu’il ménage fort les bonnes mœurs ; <hi rend="i">car</hi>, dit-il, <hi rend="i">quoy qu’il se fasse mille bons coups entre les deux Sexes, cependant les avantures du
               Mercure se terminent toûjours le plus honnestement du monde, soit que l’Autheur
               suprime les conclusions qui pourroient estre de mauvais exemple, soit qu’il ne
               choisisse que les Galanteries qui ont esté honnestes jusques au bout, sans se soucier
-              du chagrin que cela fait aux Lecteurs libertins ; mais</hi>, poursuit-il, <hi rend="i"
-              >si cette sorte de Livre estoit loüable, les Romains n’auroient pas manqué d’en
+              du chagrin que cela fait aux Lecteurs libertins ; mais</hi>, poursuit-il, <hi rend="i">si cette sorte de Livre estoit loüable, les Romains n’auroient pas manqué d’en
               avoir.</hi></p>
           <p>Vois croirez peut-estre, Monsieur, que c’est un conte fait à plaisir. Mais pour vous
             convaincre que le Personnage est capable de ce raisonnement, il suffira de vous dire que
@@ -3147,8 +3055,7 @@
             cerémonie, il nous la montreroit dans une parure aisée &amp; naturelle, &amp; je ne
             doute pas qu’en cet état elle n’eut des graces qui charmeroient plus nos beaux Esprits,
             que toutes les phrases pompeuses, &amp; que toutes les périodes arrondies qui nous
-            restent. Cet Ouvrage nous feroit connoistre la conversation des Romains, dont M<hi
-              rend="sup">r</hi> de Balzac nous a fait concevoir une si haute idée. Nous y verrions
+            restent. Cet Ouvrage nous feroit connoistre la conversation des Romains, dont M<hi rend="sup">r</hi> de Balzac nous a fait concevoir une si haute idée. Nous y verrions
             le caractere de leur galanterie, nous verrions comment les Dames Romaines répondoient à
             une déclaration d’amour &amp; quel tour elles donnoient à leurs Billets doux &amp; à
             leur Vers, ce que nous ne pourons pas connoistre ny par la Clelie de Mademoiselle de
@@ -3179,8 +3086,7 @@
             presque un Livre sans avoir rien dit sur cette Histoire. Il n’est pas juste que nos
             Sçavans se dispensent de fournir leur écot pour le prochain Extraordinaire ; mais cette
             Lettre est déja si longue, qu’il faut renvoyer la partie à une autre fois. On a deviné
-            icy les deux Enigmes du Mois de May, si le Mot de la premiere est une <hi rend="i"
-              >Fluste</hi>, &amp; le Mot de la seconde, <hi rend="i">le Soleil</hi>. Il y a des
+            icy les deux Enigmes du Mois de May, si le Mot de la premiere est une <hi rend="i">Fluste</hi>, &amp; le Mot de la seconde, <hi rend="i">le Soleil</hi>. Il y a des
             parys de conséquence sur ces paroles,</p>
           <lg>
             <l><space/>Ma Fille jamais ne me quite,</l>
@@ -3254,8 +3160,7 @@
             Messine se sont faits de cette maniere, &amp; qu’autrefois la France &amp; l’Angleterre
             formoient un mesme Continent, comme aussi l’Italie &amp; la Sicile. On prétend aussi que
             l’Isle de Negrepont estoit autrefois attachée à la terre ferme de Grece, &amp; qu’une
-            fureur des vagues rompant cette communication, forma le fameux Canal qu’on appelle <hi
-              rend="i">Euripe</hi> ; &amp; voila nos Docteurs sur un bel endroit, un flux &amp; un
+            fureur des vagues rompant cette communication, forma le fameux Canal qu’on appelle <hi rend="i">Euripe</hi> ; &amp; voila nos Docteurs sur un bel endroit, un flux &amp; un
             reflux extraordinaire ; un Aristote, le premier Génie du monde, contemplant ce grand
             mystere, &amp; parce qu’il ne pouvoit le comprendre, s’y précipitant dedans. On a traité
             cela de Fable. Le lieu commun des erreurs populaires n’a pas esté épargné. On a fait des
@@ -3366,8 +3271,7 @@
             que de la liberalité des Gens.</p>
           <p>Presque tous nos Geographes lors qu’ils parlent de l’Isthme de Suez, nous content
             qu’apres la perte de la Bataille d’Actium, la Reyne Cleopatre fit travailler à le
-            rompre, afin de se sauver avec sa Flote dans quelque endroit de l’Ocean. M<hi rend="sup"
-              >r</hi> de la Mothe le Vayer, qui estoit si sçavant, nous le debite ainsi dans sa
+            rompre, afin de se sauver avec sa Flote dans quelque endroit de l’Ocean. M<hi rend="sup">r</hi> de la Mothe le Vayer, qui estoit si sçavant, nous le debite ainsi dans sa
             Geographie du Prince, &amp; se reclame de l’autorité de Plutarque. Cependant il est
             certain que Plutarque dit toute autre chose ; c’est que Cleopatre s’estoit mis dans
             l’esprit de faire transporter ses Vaisseaux par terre à force de bras &amp; de machines,
@@ -3381,8 +3285,7 @@
             Grand Seigneur, pour éviter cet inconvenient, paye tribut au Roy des Abyssins. Cependant
             la Relation du P. Telles Jesuite Portugais, qu’on estime beaucoup, traite tout cela de
             Fables, &amp; soûtient qu’il est impossible d’en venir à bout, &amp; que le Nil est
-            éloigné de la Mer rouge de plus de cent lieuës, au lieu où il l’approche davantage. M<hi
-              rend="sup">r</hi> du Val doit avoir d’autres Memoires, puisqu’il nous assure dans des
+            éloigné de la Mer rouge de plus de cent lieuës, au lieu où il l’approche davantage. M<hi rend="sup">r</hi> du Val doit avoir d’autres Memoires, puisqu’il nous assure dans des
             Livres imprimez depuis deux ans, que le Canal du Nil le plus proche de la Mer Rouge n’en
             est éloigné que d’environ neuf lieuës. Qu’il y a des Gens qui se trompent parmy les
             Autheurs, &amp; qui en trompent d’autres ! On convient assez genéralement que l’on a
@@ -3497,10 +3400,8 @@
             <l>Tout cede, &amp; l’Eau qui voit ses passages ouverts</l>
             <l>Le Fait voir tout puissant sur la Terre &amp; les Mers.</l>
           </lg>
-          <p>Je me vois obligé de vous avertir que dans plusieurs Cartes de France, on trouve <hi
-              rend="i">Aude</hi> au lieu d’<hi rend="i">Atax</hi> qui est dans le premier de ces
-            Vers, ais on en trouve aussi qui marquent <hi rend="i">Atax</hi> et non pas <hi rend="i"
-              >Aude</hi>. Je serois trop long, Monsieur, si j’entreprenois d’expliquer chaque partie
+          <p>Je me vois obligé de vous avertir que dans plusieurs Cartes de France, on trouve <hi rend="i">Aude</hi> au lieu d’<hi rend="i">Atax</hi> qui est dans le premier de ces
+            Vers, ais on en trouve aussi qui marquent <hi rend="i">Atax</hi> et non pas <hi rend="i">Aude</hi>. Je serois trop long, Monsieur, si j’entreprenois d’expliquer chaque partie
             de cette Histoire. Il suffit que je vous aye dit le vray Mot, &amp; qu’il m’ait procuré
             l’occasion de vous assurer que je suis vostre, &amp;c.</p>
           <p>C.P.R.A.D.C.</p>
@@ -3682,5 +3583,4 @@
         </quote>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

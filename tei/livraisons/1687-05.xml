@@ -1,66 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1687-05">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, mai 1687 [tome 7]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1687-05</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
-    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
-    sur les bases de données (L341-1) est mise à disposition de la communauté
-    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
-    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
-    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-<p>Attribution : afin de référencer la source, toute utilisation ou publication
-    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
-    l’adresse Internet de la ressource.</p>
-<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
-    toute utilisation commerciale est interdite.</p>
-<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-    électronique, notamment en intégrant toutes les contributions extérieures, la
-    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>mai 1687</date> [tome 7].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1687-05"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, mai 1687 [tome 7].</head>
       <div type="article" xml:id="MG-1687-05_000" resp="wordpro">
@@ -100,8 +38,7 @@
         <p>L’Illustre Madame Deshoulieres est une de celles qui le parlent le plus purement, le plus
           souvent, &amp; avec le plus d’approbation. Je vous envoyay le mois passé un de ses plus
           beaux Ouvrages, dans lequel elle s’est assujettie aux rimes en <hi rend="i">oüille</hi>
-          dans tous les Vers feminins. En voicy d’autres de mesme nature, sur des rimes en <hi
-            rend="i">ailles</hi>, en <hi rend="i">eilles</hi>, &amp; en <hi rend="i">ille</hi>, qui
+          dans tous les Vers feminins. En voicy d’autres de mesme nature, sur des rimes en <hi rend="i">ailles</hi>, en <hi rend="i">eilles</hi>, &amp; en <hi rend="i">ille</hi>, qui
           ont esté aussi applaudis que le premier. Son genie est merveilleux en toutes sortes de
           matieres, mais sur tout lors qu’elle entreprend de loüer le Roy On connoist par là
           l’ardeur de son zele.</p>
@@ -435,8 +372,7 @@
         <head>[La Suson de M. de Vin]</head>
         <bibl><title>Mercure galant</title>, mai 1687 [tome 7], p. 46-50</bibl>
         <p>On a beau faire, on cede toûjours à son panchant, &amp; ceux qui se trouvent obligez de
-          le forcer, ne réüssissent jamais dans ce qui luy est contraire. La Suzon de M<hi
-            rend="sup">r</hi> de Vin en est une preuve. Vous sçavez, Madame, qu’il traite
+          le forcer, ne réüssissent jamais dans ce qui luy est contraire. La Suzon de M<hi rend="sup">r</hi> de Vin en est une preuve. Vous sçavez, Madame, qu’il traite
           agreablement les matieres qu’il choisit, &amp; que son nom est un seur garand de la beauté
           de tous ses ouvrages.</p>
         <quote>
@@ -508,8 +444,7 @@
         <head>[Lettre écrite par M. le Duc de S. Aignan, sur le mot de Vieillarde,nouvellement mis
           en usage]</head>
         <bibl><title>Mercure galant</title>, mai 1687 [tome 7], p. 106-112</bibl>
-        <p>Je vay bien vous réjoüir, Madame, en vous apprenant que le mot de <hi rend="i"
-            >Vieillarde</hi> qui vous a tant plû dans l’un des <hi rend="i">Dialogues Satyriques
+        <p>Je vay bien vous réjoüir, Madame, en vous apprenant que le mot de <hi rend="i">Vieillarde</hi> qui vous a tant plû dans l’un des <hi rend="i">Dialogues Satyriques
             &amp; Moraux</hi> qu’on a imprimez à Paris depuis deux mois, a donné lieu à de fort
           agreables Lettres, dont je vous envoye une Copie. La liberté avec laquelle l’Autheur de
           ces Dialogues se déclare contre ce qui merite d’estre condamné, a fait aimer cet Ouvrage,
@@ -532,8 +467,7 @@
               seroit une grande perte pour tous ceux qui ont l’esprit raisonnable, s’il demeuroit
               vostre enfant unique ! Je suis pour le Mot de</hi> Vieillarde <hi rend="i">employé
               dans vostre XII. Dialogue, où je veux oster</hi> la Bombarde <hi rend="i">de tous nos
-              Vaisseaux</hi> ; la Gaillarde, <hi rend="i">de toutes nos Dances</hi>, la Mignarde <hi
-              rend="i">de toutes nos Assemblées ; &amp;, si je m’y mets, je feray accompagner cette
+              Vaisseaux</hi> ; la Gaillarde, <hi rend="i">de toutes nos Dances</hi>, la Mignarde <hi rend="i">de toutes nos Assemblées ; &amp;, si je m’y mets, je feray accompagner cette
               bonne Dame de</hi> l’Egrillarde <hi rend="i">dont feu Moliere nous a parlé. Enfin le
               mot de</hi> Camarde <hi rend="i">ne me semble pas plus privilegié que celuy de</hi>
             Vieillarde ; <hi rend="i">&amp; n’en déplaise au preux Florisel de Niquée, je trouve
@@ -777,10 +711,8 @@
           Catholique ayant regardé cette saisie comme portant un grand préjudice à ses Sujets, en
           fit faire des plaintes par son Ambassadeur à la Cour de France, &amp; pour terminer ce
           differend avec plus de succés, il demanda au Roy une Conference dans Ceret. C'est une
-          petite Ville dans le Roussillon, assise entre la Montagne, qu'on appelle vulgairement, <hi
-            rend="i">Lou Creu de Garse</hi>, &amp; la riviere du Tec, qui baigne ses bords du costé
-          du Septentrion. Sa Majesté accorda la conference en laquelle elle nomma M<hi rend="sup"
-            >r</hi> le President de Trobat pour son Commissaire, ce qui fait voir combien Elle est
+          petite Ville dans le Roussillon, assise entre la Montagne, qu'on appelle vulgairement, <hi rend="i">Lou Creu de Garse</hi>, &amp; la riviere du Tec, qui baigne ses bords du costé
+          du Septentrion. Sa Majesté accorda la conference en laquelle elle nomma M<hi rend="sup">r</hi> le President de Trobat pour son Commissaire, ce qui fait voir combien Elle est
           satisfaite de ses services, &amp; persuadée en mesme temps de son habileté &amp; de sa
           fidelité. Dom Felix de Marimont, Conseiller d'Epée au Conseil supreme d'Aragon, fut le
           Comissaire que le Roy d'Espagne choisit pour terminer cette affaire. C'est un homme sorty
@@ -868,8 +800,7 @@
           On alla en cet ordre vers le Puy de Mercou qui est fort élevé au milieu de la Paroisse
           &amp; à un grand quart de lieuë de l'Eglise. M. Delpeur, premier Consul, avoit fait
           dresser un Feu d'artifice sur le haut de cette Montagne. La Soldateresque se rangea en
-          cercle tout autour. Le Clergé se retira au pied de la Croix, &amp; chanta le <hi rend="i"
-            >Te Deum</hi> pendant que ce Feu brûloit. La Milice fit plusieurs décharges, &amp; le
+          cercle tout autour. Le Clergé se retira au pied de la Croix, &amp; chanta le <hi rend="i">Te Deum</hi> pendant que ce Feu brûloit. La Milice fit plusieurs décharges, &amp; le
           Peuple faisoit retentir tous les valons d'alentour des cris de <hi rend="i">Vive le
             Roy</hi>. On descendit du Puy de Mercou dans le mesme ordre, mais par un autre chemin.
           La Milice se remit en haye prés de l'Eglise, &amp; le Clergé passa au milieu, pour aller
@@ -888,8 +819,7 @@
         <head resp="editor">Craponne</head>
         <bibl><title>Mercure galant</title>, mai 1687 [tome 7], p. 196</bibl>
         <p>Craponne est une des principales Villes du Pays de Vellay, Province de Languedoc,
-          limitrophe d'Auvergne, de la Justice &amp; dépendance de M. de Polignac. Le <hi rend="i"
-            >Te Deum</hi> &amp; l'<hi rend="i">Exaudiat</hi> furent chantez avec melodie le 20.
+          limitrophe d'Auvergne, de la Justice &amp; dépendance de M. de Polignac. Le <hi rend="i">Te Deum</hi> &amp; l'<hi rend="i">Exaudiat</hi> furent chantez avec melodie le 20.
           d'Avril dans l'Eglise Paroissiale, &amp; aprés une salve de Mousqueterie, les Soldats
           prirent leur marche vers la grande Place où le feu avoit esté préparé. On voyoit Calvin au
           milieu de l'Echafaut, dont le tour estoit remply de feux d'artifice, avec quantité de
@@ -936,8 +866,7 @@
         <p>L'amour ardent &amp; respectueux qu'on a pour le Roy, fait continuer les actions de
           graces qu'on rend par tout pour sa guerison. Le Laboureur cherche à l'emporter sur le
           Bourgeois, &amp; le Jeudy 8. de ce mois, il y eut une grande Feste dans le Bourg de S.
-          Julien, Parroisse de M<hi rend="sup">r</hi> de Blainville, en l'absence duquel M<hi
-            rend="sup">r</hi> de Farcy l'aisné, Trésorier de France en la Generalité d'Alençon, fit
+          Julien, Parroisse de M<hi rend="sup">r</hi> de Blainville, en l'absence duquel M<hi rend="sup">r</hi> de Farcy l'aisné, Trésorier de France en la Generalité d'Alençon, fit
           tous les devoirs d'un zelé Sujet. Tous les Habitans receurent ses ordres pour se mettre
           sous les armes, &amp; ceux des Parroisses voisines s'estant joints à eux, formerent une
           milice nombreuse. Il assembla plusieurs Ecclesiastiques qui chanterent un <hi rend="i">Te
@@ -1127,15 +1056,13 @@
           </lg>
         </quote>
         <p>Cette Traduction est du Pere Germain, Professeur de Rhetorique à Moulins. Le nom de cette
-          Ville me fait souvenir que j’ay oublié à vous parler d’un Service, que M<hi rend="sup"
-            >rs</hi> de l’Eglise Collegiale y ont fait pour le repos de l’Ame de Monsieur le Prince,
+          Ville me fait souvenir que j’ay oublié à vous parler d’un Service, que M<hi rend="sup">rs</hi> de l’Eglise Collegiale y ont fait pour le repos de l’Ame de Monsieur le Prince,
           qui en qualité de Duc de Bourbon, estoit le Collateur des Chanoinies de cette Eglise, à la
           reserve d’une seule, qui est de la collation de M<hi rend="sup">r</hi> le Prieur de
           Souvigny. Le Presidial, à la teste duquel estoit M<hi rend="sup">r</hi> l’Intendant,
           assista à cette Ceremonie, ainsi que le Corps de Ville, &amp; un tres-grand nombre de
           personnes considerables.</p>
-        <p>Vous trouverez un Portrait de Monsieur le Prince dans ces autres Vers. Ils sont de M<hi
-            rend="sup">r</hi> Blanchard, Guré de Finey, prés Dijon.</p>
+        <p>Vous trouverez un Portrait de Monsieur le Prince dans ces autres Vers. Ils sont de M<hi rend="sup">r</hi> Blanchard, Guré de Finey, prés Dijon.</p>
         <quote>
           <lg>
             <l rend="i">Depuis le jour fameux qu’aux plaines de Rocroy</l>
@@ -1405,8 +1332,7 @@
           determina à le faire aprés l'arrivée de son Courrier qui luy apporta les ordres par
           lesquels Sa Majesté l'a chargé de l'entiere direction des affaires à la Cour de Rome ;
           mais les devotions ordinaires de la Semaine-sainte occupant tout ce temps, il remit cette
-          Feste au Dimanche de <hi rend="i">Quasimodo</hi> sixiéme d'Avril. [...] M<hi rend="sup"
-            >r</hi> le Cardinal d'Estrées souhaita que pendant qu'on chanteroit le <hi rend="i">Te
+          Feste au Dimanche de <hi rend="i">Quasimodo</hi> sixiéme d'Avril. [...] M<hi rend="sup">r</hi> le Cardinal d'Estrées souhaita que pendant qu'on chanteroit le <hi rend="i">Te
             Deum</hi> à saint-Loüis, on le chantast aussi dans cent Eglises des principales de Rome,
           sans compter les Nationales. Celle de saint Jean de Latran, qui est la premiere du monde,
           s'en acquita avec éclat &amp; beaucoup de zele. Ce Cardinal envoya pour cela aux
@@ -1417,8 +1343,7 @@
           Nationaux. Il s'y trouva beaucoup de Noblesse, &amp; un Cortege de plus de trente Prelats,
           quoy qu'on n'eust pas fait une invitation generale de la Prelature, parce que la solemnité
           ne regardoit que la Nation. Madame la Duchesse de Modene y assista, &amp; M. Cusani
-          Archevesque de Trebizonde, celebra la Messe en habits Pontificaux, &amp; entonna le <hi
-            rend="i">Te Deum</hi>. L'un &amp; l'autre chantez au bruit des Boëtes, des Trompetes
+          Archevesque de Trebizonde, celebra la Messe en habits Pontificaux, &amp; entonna le <hi rend="i">Te Deum</hi>. L'un &amp; l'autre chantez au bruit des Boëtes, des Trompetes
           &amp; des Tambours, par deux Choeurs de Musique, composez de plus de soixante voix, &amp;
           des meilleurs Instrumens de Rome. [...] M<hi rend="sup">r</hi> le Cardinal d'Estrées donna le lendemain un
           grand Repas à la Vigne Pamphile, à M<hi rend="sup">r</hi> le Cardinal Maldachini, &amp; à tous les Prelats qui
@@ -1644,9 +1569,7 @@
           esté imprimé, <hi rend="i">in folio</hi> en Angleterre, parce que l’Autheur qui demeure à
           Londres, l’y a fait imprimer. Ensuite comme les Hollandois profitent de tous les Ouvrages
           qui ont quelque reputation, ils l’ont fait imprimer <hi rend="i">in douze</hi>, &amp; la
-          quantité de matiere d’un <hi rend="i">in folio</hi> ne pouvant entrer dans un <hi rend="i"
-            >in douze</hi>, à moins que de le faire d’un caractere fort menu, celuy de cet <hi
-            rend="i">in douze</hi> s’est trouvé si petit qu’on ne le peut lire sans peine, de sorte
+          quantité de matiere d’un <hi rend="i">in folio</hi> ne pouvant entrer dans un <hi rend="i">in douze</hi>, à moins que de le faire d’un caractere fort menu, celuy de cet <hi rend="i">in douze</hi> s’est trouvé si petit qu’on ne le peut lire sans peine, de sorte
           que le S<hi rend="sup">r</hi> Amaury, Libraire à Lyon, voulant satisfaire le Public, a
           fait deux Volumes <hi rend="i">in douze</hi> de ce qui estoit en un. Son impression qui
           est sur de tres-beau papier, est belle &amp; correcte, &amp; l’on peut dire qu’elle est la
@@ -1681,8 +1604,7 @@
           jours une Lettre de ce qui se passeroit pendant son voyage ; qu’il la mettroit à part,
           &amp; que faute de Courrier, il luy donneroit à son retour toutes ses lettres luy-mesme.
           Il luy a tenu parole, &amp; il luy fit ce present à son arrivée, en le priant de ne le
-          point donner au public, tant par l’honnesteté qu’il voulut bien avoir pour M<hi rend="sup"
-            >r</hi> le Chevalier de Chaumont qui devoit faire imprimer la Relation de son voyage,
+          point donner au public, tant par l’honnesteté qu’il voulut bien avoir pour M<hi rend="sup">r</hi> le Chevalier de Chaumont qui devoit faire imprimer la Relation de son voyage,
           que parce qu’il ne jugeoit pas à propos de faire voir le jour à des Lettres qu’il avoit
           écrites d’un stile familier. Ce fut inutilement que ses amis l’en presserent, il y resista
           toujours, mais enfin l’empressement qu’on a eu de voir ces Lettres les ayant fait passer
@@ -1716,5 +1638,4 @@
         </ref>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

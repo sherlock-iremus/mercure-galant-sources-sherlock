@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1698-08">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, août 1698 [tome 8]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1698-08</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>août 1698</date> [tome 8].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1698-08"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, août 1698 [tome 8].</head>
       <div type="article" xml:id="MG-1698-08_014" resp="wordpro">
@@ -465,8 +401,7 @@
         <head>Remerciment [de Mr le Chevalier d’Estampes] à M<hi rend="sup">r</hi> l’Abbé de Soubise</head>
         <bibl><title>Le Nouveau Mercure galant</title>, août, 1698, p. 96-102.</bibl>
         <p>Je vous ay parlé de l’excellent Discours que M<hi rend="sup">r</hi> l’Abbé de Soubise
-          prononça le mois passé en Sorbonne. Comme ce jour-là il fit donner congé à Harcourt, M<hi
-            rend="sup">r</hi> Destampes, Chevalier de Malte, l’un des Ecoliers de ce College, luy en
+          prononça le mois passé en Sorbonne. Comme ce jour-là il fit donner congé à Harcourt, M<hi rend="sup">r</hi> Destampes, Chevalier de Malte, l’un des Ecoliers de ce College, luy en
           fit le remerciment suivant au nom de tous. Je ne l’avois pas pour vous envoyer quand je
           vous fis le détail de cette action.</p>
         <quote>
@@ -840,10 +775,8 @@
           estoit accompagné de tous les ornemens &amp; de toutes les figures &amp; Bas reliefs
           allegoriques qui pouvoient marquer la gloire de ce Prince, &amp; rendre la chose plus
           magnifique. Cette action s’est faite avec tout l’éclat possible, en presence d’une auguste
-          &amp; tres-nombreuse assemblée. M<hi rend="sup">r</hi> l’Abbé de la Carte, Frere de M<hi
-            rend="sup">r</hi> le Marquis de la Carte, Capitaine des Gardes de Monsieur, ouvrit la
-          These par une harangue fort éloquente, &amp; qu’il prononça avec beaucoup de dignité. M<hi
-            rend="sup">r</hi> le Curé de Saint Estienne du Mont Chancelier de l’Université ferma la
+          &amp; tres-nombreuse assemblée. M<hi rend="sup">r</hi> l’Abbé de la Carte, Frere de M<hi rend="sup">r</hi> le Marquis de la Carte, Capitaine des Gardes de Monsieur, ouvrit la
+          These par une harangue fort éloquente, &amp; qu’il prononça avec beaucoup de dignité. M<hi rend="sup">r</hi> le Curé de Saint Estienne du Mont Chancelier de l’Université ferma la
           dispute par une autre harangue, dans laquelle il toucha les loüanges du Soutenant &amp; de
           sa Famille, mais particulierement celles de Monsieur, ce qu’il fit d’une maniere tres-vive
           &amp; tres-noble. M<hi rend="sup">r</hi> l’Abbé d’Estampes, qui n’a encore que seize ans,
@@ -961,8 +894,7 @@
         <bibl><title>Mercure galant</title>, août 1698 [tome 8], p. 205-206.</bibl>
         <p>Je vous envoye une seconde Chanson, que l'on chante icy avec plaisir.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L'Air qui commence par, <hi
-              rend="i">Les Prez, les Bois, les Fleurs, &amp; la Verdure</hi>, doit regarder la page
+          <label>AIR NOUVEAU.</label><note resp="author" place="margin">L'Air qui commence par, <hi rend="i">Les Prez, les Bois, les Fleurs, &amp; la Verdure</hi>, doit regarder la page
             205.</note>
           <lg>
             <l rend="i">Les prez, les bois, les fleurs, &amp; la verdure</l>
@@ -1142,5 +1074,4 @@
           reçûs.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

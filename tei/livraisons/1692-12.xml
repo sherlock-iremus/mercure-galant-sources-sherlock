@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1692-12">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, décembre 1692 [tome 15]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1692-12</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>décembre 1692</date> [tome 15].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1692-12"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, décembre 1692 [tome 15].</head>
       <div type="article" xml:id="MG-1692-12_007" resp="wordpro">
@@ -611,8 +547,7 @@
           Claude de Turenne. Les armes de ces deux illustres &amp; anciennes Maisons, sont en divers
           Monumens qui font les les ornemens de Tournon, où la pieté de cette Dame l’engagea à faire
           bastir des Eglises &amp; des Chapelles, en sorte que sa memoire sera long-temps conservée
-          par les inscriptions qui s’y lisent sur quantité de Tables de Marbre. M<hi rend="sup"
-            >r</hi> le Prince de Turenne remplissoit l’esperance de la mesme Ville, estant regardé
+          par les inscriptions qui s’y lisent sur quantité de Tables de Marbre. M<hi rend="sup">r</hi> le Prince de Turenne remplissoit l’esperance de la mesme Ville, estant regardé
           comme le digne Successeur d’une Ayeule si considerable par sa Naissance &amp; par ses
           Vertus, &amp; sa mort arrivée dans le combat du 3 d’Aoust dernier, a changé en Pompes
           funebres les réjoüissances qu’elle avoit faites quelques mois auparavant, dans le temps
@@ -620,8 +555,7 @@
           &amp; depositaires des Tombeaux de ces Seigneurs, commencerent par un Service solemnel,
           dans la Chapelle que Claude de Turenne, Comtesse de Tournon, a fait bastir, &amp; dans
           laquelle est inhumée toute la Famille de Tournon, à présent éteinte. Cette Chapelle estoit
-          toute tenduë de noir avec des lez de velours, semez des Armes de feu M<hi rend="sup"
-            >r</hi> le Prince de Turenne ; &amp; une Representantion au milieu, éclairée d’une
+          toute tenduë de noir avec des lez de velours, semez des Armes de feu M<hi rend="sup">r</hi> le Prince de Turenne ; &amp; une Representantion au milieu, éclairée d’une
           infinité de Flambeaux &amp; de Cierges chargez d’Ecussons. La mesme Ceremonie se fit
           quelques jours aprés dans l’Eglise des Jesuites au College de Tournon, basty par le
           Cardinal de ce mesme Nom, dont la memoire sera éternelle, ayant esté Grand Camerlingue
@@ -629,10 +563,8 @@
           Religieux firent tour à tour les mesmes Prieres, &amp; l’Eglise Collegiale, nommée Saint
           Julien, en fit la clôture avec une pompe où rien ne fut épargné, soit pour les lumieres
           &amp; la tenture, soit pour la beauté du Mausolée. L’Office fut interrompu au milieu de la
-          Messe, par l’Oraison funebre que prononça le Pere Troupet Jesuite. Il prit pour texte, <hi
-            rend="i">consommatus in brevi, explevit tempora multa</hi>. Sa premiere partie eut pour
-          sujet les larmes que versoient les Habitans de Tournon pour la perte de M<hi rend="sup"
-            >r</hi> le Prince de Turenne. Il fit voir son courage, sa valeur &amp; sa generosité
+          Messe, par l’Oraison funebre que prononça le Pere Troupet Jesuite. Il prit pour texte, <hi rend="i">consommatus in brevi, explevit tempora multa</hi>. Sa premiere partie eut pour
+          sujet les larmes que versoient les Habitans de Tournon pour la perte de M<hi rend="sup">r</hi> le Prince de Turenne. Il fit voir son courage, sa valeur &amp; sa generosité
           dans ses premieres Campagnes en Hongrie, chez les Venitiens contre le Turc, &amp; en
           France jusques à la fin, ce qu’il peignit avec une éloquence admirable. Sa seconde partie
           fut sur son éducation, son merite &amp; son esprit, qui l’auroient conduit au plus haut
@@ -645,8 +577,7 @@
           Vin. Le Mausolée qui attira les regards d’une infinité de curieux, estoit du dessein de
             M<hi rend="sup">r</hi> Sevin, que son merite a fait appeller de Paris, pour estre
           premier Peintre de la Ville de Lyon, où il a répondu fort avantageusement à l’attente
-          qu’on avoit de luy. Le dessein qu’il fit il y a quelques années pour la These de M<hi
-            rend="sup">r</hi> le Prince de Turenne luy acquit une fort grande reputation. Aussi
+          qu’on avoit de luy. Le dessein qu’il fit il y a quelques années pour la These de M<hi rend="sup">r</hi> le Prince de Turenne luy acquit une fort grande reputation. Aussi
           n’estoit-ce pas une These à l’ordinaire, puisqu’elle contenoit un Volume remply de
           desseins.</p>
       </div>
@@ -935,5 +866,4 @@
         </ref>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1688-08">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, août 1688 [tome 11]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1688-08</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>août 1688</date> [tome 11].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1688-08"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, août 1688 [tome 11].</head>
       <div type="article" xml:id="MG-1688-08_007" resp="wordpro">
@@ -387,8 +323,7 @@
         <head>La blessure imaginaire</head>
         <bibl><title>Mercure galant</title>, août 1688 [tome 11], p. 112-120</bibl>
         <p/>
-        <p>Il y a des gens sur qui l’imagination est puissante, &amp; l’histoire que M<hi rend="sup"
-            >r</hi> De Vin a mise en Vers en est une preuve. Les noms en sont faux, mais la chose
+        <p>Il y a des gens sur qui l’imagination est puissante, &amp; l’histoire que M<hi rend="sup">r</hi> De Vin a mise en Vers en est une preuve. Les noms en sont faux, mais la chose
           est veritable ; vous la trouverez agreablement contée, &amp; vous n’aurez pas de peine à y
           reconnoistre ce tour aisé qui vous a tant plu dans tous les autres Ouvrages de ce mesme
           Auteur.</p>
@@ -591,8 +526,7 @@
           succinctement &amp; de la maniere qu’on prononce en faveur des Provinciaux &amp; des
           Etrangers, &amp; comme la lecture de ce grand Ouvrage doit estre d’une grande utilité,
           pour en faire tirer plus facilement tous les avantages qu’on s’en peut promettre, on a
-          pris soin de le distinguer par Livres, Chapitres, Sections &amp; Articles, avec le <hi
-            rend="i">Numero</hi> à la marge, &amp; les matieres contenuës en chaque page, afin de
+          pris soin de le distinguer par Livres, Chapitres, Sections &amp; Articles, avec le <hi rend="i">Numero</hi> à la marge, &amp; les matieres contenuës en chaque page, afin de
           servir de memoire locale à ceux qui ne retiennent pas aisément ce qu’ils ont l’eu. Il a
           esté imprimé à Lyon, aux frais du S<hi rend="sup">r</hi> Amaurry Libraire, &amp; il se
           vend à Paris chez le S<hi rend="sup">r</hi> Guerout, Courtneuve du Palais, au Dauphin.</p>
@@ -747,8 +681,7 @@
           jour de sa reception]</head>
         <bibl><title>Mercure galant</title>, août 1688 [tome 11], p. 222-223</bibl>
         <p/>
-        <p>Je vous ay entretenuë plusieurs fois de l’Academie de Villefranche, dont M<hi rend="sup"
-            >r</hi> l’Archevesque de Lyon est Protecteur. On y a receu depuis peu de temps un
+        <p>Je vous ay entretenuë plusieurs fois de l’Academie de Villefranche, dont M<hi rend="sup">r</hi> l’Archevesque de Lyon est Protecteur. On y a receu depuis peu de temps un
           Academicien d’un grand merite. C’est M<hi rend="sup">r</hi> Bernard de Hautmont, de
           Saumur. Il doit vous estre connu par diverses Pieces qu’il a données au Public, &amp; qui
           ont receu beaucoup d’approbation, entre autres un Poëme Heroïque à la loüange du Roy,
@@ -765,10 +698,8 @@
           icy le 4. de ce mois une grande Feste pour cette mesme naissance. On tira un fort beau feu
           d'artifice dans la Place qui est devant la terrasse de son Jardin. [...]</p>
         <p/>
-        <p>L'Assemblée estoit fort belle, &amp; de personnes choisies. On y vit entr'autres M<hi
-            rend="sup">r</hi> le Prince &amp; Madame la Princesse de Mekelbourg, Madame la Princesse
-          d'Izenghien, Madame la Duchesse de Valentinois, Madame la Maréchale d'Estrées, M<hi
-            rend="sup">r</hi> l'Envoyé d'Angleterre &amp; Madame sa Femme, M<hi rend="sup">r</hi> le
+        <p>L'Assemblée estoit fort belle, &amp; de personnes choisies. On y vit entr'autres M<hi rend="sup">r</hi> le Prince &amp; Madame la Princesse de Mekelbourg, Madame la Princesse
+          d'Izenghien, Madame la Duchesse de Valentinois, Madame la Maréchale d'Estrées, M<hi rend="sup">r</hi> l'Envoyé d'Angleterre &amp; Madame sa Femme, M<hi rend="sup">r</hi> le
           Comte de Morstein, plusieurs Milords Anglois, &amp; autres Personnes de la premiere
           qualité des deux Royaumes. [Suit une promenade dans les appartements, puis une collation,
           suivie d'un feu d'artifice.]</p>
@@ -782,8 +713,7 @@
         <bibl><title>Mercure galant</title>, août 1688 [tome 11], p. 259-260</bibl>
         <p/>
         <p>M<hi rend="sup">r</hi> Tonti, Gentilhomme Italien, estant prié par des Dames de faire des
-          Vers sur la magnificence de cette Feste, dont il avoit esté convié, fit ceux-cy en <hi
-            rend="i">In promptu</hi>. On les trouva fort galans, &amp; ils meritent que vous les
+          Vers sur la magnificence de cette Feste, dont il avoit esté convié, fit ceux-cy en <hi rend="i">In promptu</hi>. On les trouva fort galans, &amp; ils meritent que vous les
           voyiez.</p>
         <quote>
           <lg>
@@ -819,8 +749,7 @@
         <bibl><title>Mercure galant</title>, août 1688 [tome 11], p. 282-283</bibl>
         <p/>
         <p>Mademoiselle Boucherat, Fille de M<hi rend="sup">r</hi> Boucherat, Conseiller honoraire
-          au Parlement, seul Frere de M<hi rend="sup">r</hi> le Chancelier, a épousé M<hi rend="sup"
-            >r</hi> de Lisle Conseiller au Grand Conseil. La ceremonie du Mariage fut faite la nuit
+          au Parlement, seul Frere de M<hi rend="sup">r</hi> le Chancelier, a épousé M<hi rend="sup">r</hi> de Lisle Conseiller au Grand Conseil. La ceremonie du Mariage fut faite la nuit
           du 16. au 17. de ce mois, par M<hi rend="sup">r</hi> le Curé de saint Louis dans la
           Chapelle de ce digne Chef de la Justice. Comme il est grand en tout ce qu'il fait, il
           avoit donné un soupé tres-magnifique, aprés lequel il y eut dans sa Galerie une Symphonie
@@ -877,9 +806,7 @@
         <bibl><title>Mercure galant</title>, août 1688 [tome 11], p. 290-291</bibl>
         <p/>
         <p>Le mesme Libraire vend un autre Livre qui doit estre recherché de tout le monde, &amp;
-          sur tout des Dames. Vous en conviendrez quand je vous auray appris qu’il a pour titre, <hi
-            rend="i">Secrets concernant la Beauté &amp; la Santé</hi>. Il est de M<hi rend="sup"
-            >r</hi> de Blegny, dont tous les Ouvrages ont eu un fort grand succés.</p>
+          sur tout des Dames. Vous en conviendrez quand je vous auray appris qu’il a pour titre, <hi rend="i">Secrets concernant la Beauté &amp; la Santé</hi>. Il est de M<hi rend="sup">r</hi> de Blegny, dont tous les Ouvrages ont eu un fort grand succés.</p>
       </div>
       <div type="article" xml:id="MG-1688-08_309" resp="wordpro">
         <head>[Vers sur la mort du celebre Arlequin]</head>
@@ -913,11 +840,9 @@
           plaisirs. Il me faut pour en parler beaucoup plus de temps que je n'en ay, puis que cette
           Feste seule suffit pour remplir un Volume ; ainsi je la remets au mois prochain, afin de
           n'oublier rien de toutes les galantes circonstances dont elle a esté accompagnée. Je vous
-          diray cependant que l'Opera nouveau qu'on y a representé sous le titre d'<hi rend="i"
-            >Orontée</hi>, se vend chez le S<hi rend="sup">r</hi> Coignard, ruë Saint Jacques, à la
+          diray cependant que l'Opera nouveau qu'on y a representé sous le titre d'<hi rend="i">Orontée</hi>, se vend chez le S<hi rend="sup">r</hi> Coignard, ruë Saint Jacques, à la
           Bible d'or. Je suis, Madame, Vostre, &amp;c.</p>
         <p><hi rend="i">A Paris ce 31. Aoust 1688.</hi></p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

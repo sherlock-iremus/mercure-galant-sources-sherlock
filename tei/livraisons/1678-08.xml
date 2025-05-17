@@ -1,73 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1678-08" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, août 1678</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Alexandre De Craim</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name ref="mailto:frederic.glorieux@fictif.org">Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2014"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1678-08/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <publisher>Claude Blageart</publisher>, <date>août,
-            1678</date></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1678"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, août 1678 [tome 8].</head>
       <div type="article" xml:id="MG-1678-08_000a" resp="mercure">
@@ -179,8 +110,7 @@
               de sept ans, nomma des Enfans de qualité de son âge, le Marquis de Bouc pour son
               Lieutenant, &amp; le Chevalier de la Garde pour son Enigme. Ce choix fut reçeu avec
               applaudissement à l’hostel de Ville, &amp; vous pouvez croire qu’on en attendit
-              quelque chose de fort particulier. Le Marquis de Bouc est fils unique de M<hi
-                rend="sup">r</hi> le Premier President de la Cour des Comptes, qui a toûjours aimé
+              quelque chose de fort particulier. Le Marquis de Bouc est fils unique de M<hi rend="sup">r</hi> le Premier President de la Cour des Comptes, qui a toûjours aimé
               la gloire &amp; la dépense. L’Enseigne est Fils d’une illustre Veuve Madame la
               Présidente de la Garde, qui sçait le monde à deux cens lieuës de la Cour, autant que
               beaucoup de Femmes qui passent leur vie à S. Germain.</hi></p>
@@ -426,8 +356,7 @@
           laisse imaginer la beauté. Comme apparemment elle ne s’est pas faite sans symphonie, elle
           me fait souvenir de l’engagement où je me suis mis avec vous de vous envoyer tous les mois
           des Airs nouveaux. En voicy un de la composition de M<hi rend="sup">r</hi> Goüet Maistre
-          de Musique des Dames Religieuses de Lonchamp. On m’a dit que les Paroles estoient de M<hi
-            rend="sup">r</hi> de Lignieres.</p>
+          de Musique des Dames Religieuses de Lonchamp. On m’a dit que les Paroles estoient de M<hi rend="sup">r</hi> de Lignieres.</p>
         <quote>
           <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
               placer les Figures</hi> : l’Air qui commence par <hi rend="i">Ma raison veut que je me
@@ -592,8 +521,7 @@
           d’établir un Ordre Militaire qui portât le nom de la Liberté, pour faire souvenir ceux qui
           en seroient honorez, de l’obligaiton où ils estoient de se defendre sans cesse contre
           l’Amour. L’Ordre fut donc appellé <hi rend="i">Ordre de la Liberté des Cœurs</hi>. Ils
-          prirent pour Devise des Chaînes rompuës, &amp; au dessus de la Devise était écrit <hi
-            rend="i">Liberté</hi>, qui fut pris pour le Cry de guerre. Cela fit, on songea à établir
+          prirent pour Devise des Chaînes rompuës, &amp; au dessus de la Devise était écrit <hi rend="i">Liberté</hi>, qui fut pris pour le Cry de guerre. Cela fit, on songea à établir
           un Grand-Maistre. Les Avis furent partagez. Les Hommes &amp; les Femmes pretendoient
           également à la Grande-Maistrise. Les Hommes disoient que les Dames n’estoient gueres
           propres à conserver la Liberté dans un Cœur.</p>
@@ -869,8 +797,7 @@
           Actions extraordinaires qu’il a faites sur Mer en plusieurs rencontres. Elles cous sont
           connuës, mais vous ne sçaviez peut-estre pas qu’elles luy avoient fait meriter d’estre
           Grand-Croix &amp; Bailly. Cette premiere Cerémonie estant achevée, Monsieur le Chevalier
-          de Vendosme quita sa Robe &amp; le Manteau à bec, &amp; fut conduit dans l’Eglise par M<hi
-            rend="sup">rs</hi> les Commandeurs de Machaut &amp; Davernes. En y entrant, pour marque
+          de Vendosme quita sa Robe &amp; le Manteau à bec, &amp; fut conduit dans l’Eglise par M<hi rend="sup">rs</hi> les Commandeurs de Machaut &amp; Davernes. En y entrant, pour marque
           qu’il prenoit possession du Grand Prieuré, il reçeut l’Eau-benite du Prieur, qui luy
           présenta les Clefs de l’Eglise. Il alla baiser en suite le Grand Autel, sonna la Cloche,
           fut mené à la Place des Grands Prieurs, &amp; un peu apres, dans l’Hostel Prioral dont on
@@ -1049,11 +976,9 @@
       <div type="article" xml:id="MG-1678-08_175" resp="mercure">
         <head>Récit de Basse</head>
         <bibl><title>Mercure galant</title>, août 1678 [tome 8], p. 175.</bibl>
-        <p>Je vous envoye un troisiéme Air que j’ay reçeu de Poitiers. Il est de M<hi rend="sup"
-            >r</hi> Bessant.</p>
+        <p>Je vous envoye un troisiéme Air que j’ay reçeu de Poitiers. Il est de M<hi rend="sup">r</hi> Bessant.</p>
         <quote>
-          <label rend="center">RECIT DE BASSE.</label><note resp="author" place="margin"><hi
-              rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Non,
+          <label rend="center">RECIT DE BASSE.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Non,
               non, disoit un Biberon</hi>, doit regarder la Page 175.</note>
           <lg>
             <l rend="i"><space/>Non, non, disoit un Biberon,</l>
@@ -1107,8 +1032,7 @@
           il vint à Paris, &amp; le trouva étranglé dans le temps qu’il croyoit le faire porter à S.
           Germain. Ainsi il ne pût que donner ce Rondeau au lieu du Loup.</p>
         <quote>
-          <label rend="center">À MONSIEUR <lb/>LE DUC <lb/>DU MAYNE. <hi rend="sc"
-            >Rondeau.</hi></label>
+          <label rend="center">À MONSIEUR <lb/>LE DUC <lb/>DU MAYNE. <hi rend="sc">Rondeau.</hi></label>
           <lg>
             <l rend="i">Au Loup fust-il exposé sans quartier,</l>
             <l rend="i">Le Chien maudit, le barbare meurtrier</l>
@@ -1380,8 +1304,7 @@
         <bibl><title>Mercure galant</title>, août 1678 [tome 8], p. 246-249.</bibl>
         <p>Il est certain que la maniere Italienne a quelque chose de particulier pour la Musique, qui la fait trouver toute agreable. Cela se peut voir par cet Air Italien que le Roy ne pouvoit se lasser d’entendre &amp; qu’on luy a veu admirer toutes les fois qu’il l’a entendu. Vous l’allez trouver icy noté. Il est de feu M<hi rend="sup">r</hi> l’Abbé de la Barre Organiste de la Chapelle du Roy, &amp; assez beau pour faire vivre sa memoire éternellement. Quelques Gens l’ont voulu faire passer pour estre de Luigi Rossy, &amp; ont mesme mis son nom au bas de quelques Copies. Je ne sçay quelle raison les a obligez d’en user ainsi ; mais cet Air estant veritablement de feu M<hi rend="sup">r</hi> de la Barre, ils ne pouvoient porter un témoignage plus glorieux de ses Ouvrages, qu’en leur donnant pour Autheur un des Maistre qui s’est acquis le plus de réputation en Italie. Voicy les Paroles de cet Air.</p>
         <quote>
-          <label>AIR ITALIEN. <lb/>De feu M<hi rend="sup">e</hi> l’Abbé de la Barre.</label><note
-            resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air
+          <label>AIR ITALIEN. <lb/>De feu M<hi rend="sup">e</hi> l’Abbé de la Barre.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air
             Italien doit regarder la Page 248.</note>
           <lg>
             <l rend="i">Dolorosi pensieri,</l>
@@ -1412,9 +1335,7 @@
         <head>Enigme</head>
         <bibl><title>Mercure galant</title>, août 1678 [tome 8], p. 346-347.</bibl>
         <quote>
-          <label>ENIGME<note resp="editor">La solution de cette énigme a été publiée dans le <hi
-                rend="i">Mercure galant</hi> du mois de septembre 1678. Voir <ref target="MG-1678-09_342"
-                >cet article</ref></note>.</label>
+          <label>ENIGME<note resp="editor">La solution de cette énigme a été publiée dans le <hi rend="i">Mercure galant</hi> du mois de septembre 1678. Voir <ref target="MG-1678-09_342">cet article</ref></note>.</label>
           <lg>
             <l rend="i">Mon Corps de bizarre figure,</l>
             <l rend="i">Etale quelquefois une riche parure ;</l>
@@ -1513,8 +1434,7 @@
           tout le monde. Ce succés luy est ordinaire. L’Assemblée, quoy que nombreuse, estoit
           presque toute de gens choisis. M<hi rend="sup">r</hi> l’Abbé Colbert s’y trouva, &amp;
           commença par là de faire connoistre à Messieurs de l’Académie, combien il tenoit à
-          l’honneur d’estre de leur Corps. Il a esté choisy pour remplir la place de feu M<hi
-            rend="sup">r</hi> Esprit. On croit sa Reception remise apres le retour de fontainebleau.
+          l’honneur d’estre de leur Corps. Il a esté choisy pour remplir la place de feu M<hi rend="sup">r</hi> Esprit. On croit sa Reception remise apres le retour de fontainebleau.
           Je ne vous en parleray que dans ce temps-là.</p>
       </div>
       <div type="article" xml:id="MG-1678-08_359" resp="mercure">
@@ -1544,5 +1464,4 @@
           nous permet.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

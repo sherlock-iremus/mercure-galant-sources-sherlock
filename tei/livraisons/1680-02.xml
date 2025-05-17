@@ -1,64 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, février 1680 [tome 3]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2015"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1680-02/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, février <date>1680</date> [tome 3].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1680-02"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1680-02_001" resp="mercure">
         <head>[Avant-propos]</head>
@@ -82,8 +22,7 @@
           faire un Souverain, pour faire éclater la gloire de ses Etats par la grandeur des Festes
           publiques. Il n’y a presque aucun Empereur Romain qui n’en ait laissé l’exemple. Ces
           Maistres du Monde ne croyoient jamais faire mieux paroistre la majesté de leur rang, qu’en
-          donnant des Spectacles à leurs Peuples. Que ne fera point l’auguste <hi rend="sc"
-            >Loüis</hi> qui a toutes les vertus de ces Empereurs sans en avoir les défauts, &amp;
+          donnant des Spectacles à leurs Peuples. Que ne fera point l’auguste <hi rend="sc">Loüis</hi> qui a toutes les vertus de ces Empereurs sans en avoir les défauts, &amp;
           qui est beaucoup plus Maistre du Monde qu’ils ne l’ont esté puis qu’ils l’avoient
           tyranniquement assujety par la force de leurs Armes, &amp; qu’il en a sçeu gagner les
           cœurs, en voulant bien s’arrester au milieu de ses Conquestes, &amp; donner des bornes à
@@ -155,8 +94,7 @@
           formalitez qu’on a de coûtume d’observer, quand un Evesque, Pair &amp; Comte de Beauvais,
           prend possession, mais sa modestie s’y est opposée, &amp; le Chapitre luy a déferé, à la
           charge toutefois que ce retranchement de Cerémonies ne porteroit aucun préjudice pour les
-          autres. La Reception de ce Prélat fut faite le 23. du Mois de Decembre. M<hi rend="sup"
-            >r</hi> le Boucher, Chanoine de la Cathédrale de S. Pierre, ayant reçeu sa Procuration
+          autres. La Reception de ce Prélat fut faite le 23. du Mois de Decembre. M<hi rend="sup">r</hi> le Boucher, Chanoine de la Cathédrale de S. Pierre, ayant reçeu sa Procuration
           le 20 pour prendre possession en son nom, fit connoistre le pouvoir qu’il en avoit, &amp;
           se retira à l’Evesché avec les Officiers du Comté qui le suivirent. M<hi rend="sup">r</hi>
           le Doyen précedé des Massiers, &amp; accompagné de deux Notaires Apostoliques, le vint
@@ -177,8 +115,7 @@
           la Cathédrale. M<hi rend="sup">r</hi> l’Avocat du Roy le harangua ; ensuite dequoy il prit
           possession de la Ville au nom de M<hi rend="sup">r</hi> l’Evesque. Ce Prélat y arriva le
           22. &amp; trouva les Compagnies des Privilégiez assemblées, &amp; les Suisses de la
-          Garnison sous les Armes dans la Place. Il alla sur les quatre heures à l’Evesché, où M<hi
-            rend="sup">r</hi> le Président Vigneron, &amp; M<hi rend="sup">r</hi> le Lieutenant
+          Garnison sous les Armes dans la Place. Il alla sur les quatre heures à l’Evesché, où M<hi rend="sup">r</hi> le Président Vigneron, &amp; M<hi rend="sup">r</hi> le Lieutenant
           General, le haranguérent. Les Echevins le salüerent en suitte, &amp; luy firent les
           Présens accoutûmez, qui sont deux Pieces de Drap, l’une grise, &amp; l’autre blanche, avec
           quantité de Bouteilles de Vin. Le lendemain 23. il parut avec son Habit de Comte de
@@ -227,8 +164,7 @@
           qu’on avoit accoustumé de mener dans toutes les Ruës le jour de la grande Feste de la
           Ville. Quantité de jeunes Gens proprement parez le conduisoient. D’autres s’atroupoient
           pour s’en rendre maîtres, &amp; leur rencontre causoit quelquefois de tres-grands combats.
-          Comme il estoit difficile qu’ils se terminassent sans aucun desordre, feu M<hi rend="sup"
-            >r</hi> le Prince de Conty abolit cette coustume, &amp; elle n’a esté extraordinairement
+          Comme il estoit difficile qu’ils se terminassent sans aucun desordre, feu M<hi rend="sup">r</hi> le Prince de Conty abolit cette coustume, &amp; elle n’a esté extraordinairement
           rétablie que pour rendre plus solemnel le grand jour de cette Feste. Jamais Ville ne fit
           éclater ny tant de zele dans une occasion de cette nature, ny de si parfaites
           réjoüissances. Il sembloit que tout le monde fust de mesme humeur, &amp; de mesme âge. Les
@@ -253,8 +189,7 @@
           tout en feu. M<hi rend="sup">r</hi> Chassaing qui est le Premier Consul, pria plus de
           soixante Personnes à souper. Le Régal fut magnifique, &amp; la Feste se termina par le Bal
           &amp; une tres-belle Collation qu’il donna aux Dames. Le lendemain plusieurs Personnes de
-          qualité, de l’un &amp; de l’autre Sexe, furent régalées superbement par M<hi rend="sup"
-            >r</hi> de Carlencas. Le Bal suivit le Soupé, &amp; ce mesme jour tout Pezenas fut encor
+          qualité, de l’un &amp; de l’autre Sexe, furent régalées superbement par M<hi rend="sup">r</hi> de Carlencas. Le Bal suivit le Soupé, &amp; ce mesme jour tout Pezenas fut encor
           en joye. </p>
       </div>
       <div type="article" xml:id="MG-1680-02_124" resp="mercure">
@@ -393,9 +328,7 @@
             toute cette belle &amp; illustre Compagnie. Ces plaisirs ont continué pendant huit jours
             avec une fort grande diversité. Il y a eu chaque soir Tragedie &amp; Comedie nouvelles,
             nouvelles Décorations, &amp; nouveaux Balets. Mais ce qui s’y est veu de plus plaisant,
-            &amp; qui m’a donné lieu de vous écrire tout cecy, est qu’un soir en représentant <hi
-              rend="i">Crispin Medecin</hi> apres le <hi rend="i">Mitridate</hi> de M<hi rend="sup"
-              >r</hi> Racine, un certain Vieillard de la Compagnie, si passionné d’une jeune
+            &amp; qui m’a donné lieu de vous écrire tout cecy, est qu’un soir en représentant <hi rend="i">Crispin Medecin</hi> apres le <hi rend="i">Mitridate</hi> de M<hi rend="sup">r</hi> Racine, un certain Vieillard de la Compagnie, si passionné d’une jeune
             Demoiselle, qu’il estoit prest, dit-on, d’en faire faire la demande à ses Parens, se
             crût joüé en la Personne de M<hi rend="sup">r</hi> Lisidor. Il s’imagina que c’estoit
             luy-mesme que l’on désignoit ; &amp; le hazard voulant que l’Acteur eust beaucoup de son
@@ -451,8 +384,7 @@
         <p>Apres le Mariage de Monsieur le Prince de Conty &amp; de Mademoiselle de Blois, Son
           Altesse Serénissime résolut de donner un Soupé à ces deux illustres Mariez. L’apresdînée
           du jour que ce Prince choisit pour ce grand Régal, il fit baptiser Mademoiselle de
-          Montmorency, l’une des Princesses ses Filles. La Cerémonie fut faite par M<hi rend="sup"
-            >r</hi> le Curé de S. Sulpice. Monsieur le Prince de la Roche-sur-Yon, &amp; Madame la
+          Montmorency, l’une des Princesses ses Filles. La Cerémonie fut faite par M<hi rend="sup">r</hi> le Curé de S. Sulpice. Monsieur le Prince de la Roche-sur-Yon, &amp; Madame la
           Princesse de Conty, furent Parrain &amp; Marraine, &amp; firent par là entre’eux une
           nouvelle alliance. Tout brilloit en la personne de cette Princesse. Sa jeunesse &amp; sa
           beauté n’éclatoient pas moins que les ornemens qui la paroient. Elle estoit vêtuë de noir,
@@ -535,8 +467,7 @@
         <p>Il est difficile que le bruit que font par tout les choses extraordinaires, ne vous ait
           déjà appris une partie des magnificences qui ont esté faites à Madrid, pour l’Entrée
           publique de la Reyne. Vous sçavez, Madame, qu’en attendant le 13. de Janvier, qui estoit
-          le jour choisy par le Roy pour cette maniere de triomphe, Sa Majesté estoit comme <hi
-            rend="i">incognito</hi> dans le Buen-Retiro, Maison de plaisance qui n’est éloignée de
+          le jour choisy par le Roy pour cette maniere de triomphe, Sa Majesté estoit comme <hi rend="i">incognito</hi> dans le Buen-Retiro, Maison de plaisance qui n’est éloignée de
           la Ville que par le Cours. Ce fut depuis sa principale Porte que commencerent les ornemens
           préparez, ou plûtost par elle-mesme, puis qu'on en a fait une nouvelle, qui soûtient la
           Statuë de cette Princesse, ornée de plusieurs Festons de Fleurs taillez sur le Marbre. Une
@@ -716,8 +647,7 @@
           Prado</hi>,elle y trouva le Marquis de Ugena Corrégidor de Madrid, &amp; les Régidors, qui
           luy présenterent les Clefs de la Ville avec un superbe Dais. Il fut porté sur elle par les
           principaux d'entr'eux. Les autres suivirent à pied. Derriere la Reyne, marcha hors du
-          Dais, la Duchesse de Terranova, en habit de Veuve, ainsi que Doña Laura de Alagon <hi
-            rend="i">Guarda Mayor</hi>. Elles estoient montées sur des Mules ; &amp; en suite
+          Dais, la Duchesse de Terranova, en habit de Veuve, ainsi que Doña Laura de Alagon <hi rend="i">Guarda Mayor</hi>. Elles estoient montées sur des Mules ; &amp; en suite
           paroissoient cinq Filles d'honneur de la Reyne, fort couvertes de Pierreries, &amp;
           accompagnées chacune de deux Gentilshommes de la Chambre, tres-bien montez, qui alloient à
           côté de leurs Chevaux. Ceux de la Garde de la Lancille, tous à cheval, &amp; ayant la
@@ -786,7 +716,7 @@
         <bibl><title>Mercure galant</title>, février 1680 [tome 3], p. 283-285.</bibl>
         <p>Je me souviens que vous m’avez fort vanté les Paroles de deux Chansons, que vous avez
           trouvées parmy beaucoup d’autres dans les Journaux de l’illustre Autheur, qui me fait la
-          grace de m’en donner depuis quelque temps pour toutes mes Lettres<note resp="editor">Selon le <hi  rend="italic"> Mercure galant</hi>, cet air est du même auteur que l'air « Comment pourrais-je voir », attribué de manière certaine à Bacilly (cf. <ref target="MG-1680-03a_015">cet article</ref>).</note>. Ces Paroles commencent
+          grace de m’en donner depuis quelque temps pour toutes mes Lettres<note resp="editor">Selon le <hi rend="italic"> Mercure galant</hi>, cet air est du même auteur que l'air « Comment pourrais-je voir », attribué de manière certaine à Bacilly (cf. <ref target="MG-1680-03a_015">cet article</ref>).</note>. Ces Paroles commencent
           par <hi rend="i">Croyez-moy, croyez-moy, mon cœur, &amp;c. Sortez, petits Oyseaux.
             &amp;c.</hi> J’ay découvert qu’elles sont de Mademoiselle de Saint Jean de Saint Malo,
           &amp; comme il m’en est tombé entre les mains de nouvelles de sa façon, que le mesme
@@ -854,5 +784,4 @@
           Madame.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

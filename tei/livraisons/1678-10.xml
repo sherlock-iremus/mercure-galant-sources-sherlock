@@ -1,73 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1678-10" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, octobre 1678</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d’édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d’édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Alexandre De Craim</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name ref="mailto:frederic.glorieux@fictif.org">Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2014"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1678-10/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <publisher>Claude Blageart</publisher>, <date>octobre,
-            1678</date></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1678"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, octobre 1678 [tome 10].</head>
       <div type="article" xml:id="MG-1678-10_000a" resp="mercure">
@@ -440,8 +371,7 @@
           de politesse, la haute réputation que ses Pieces d’éloquence luy avoient acquise. Il
           s’estoit attiré l’estime de quantité de Personnes de la Naissance la plus relevée. Il les
           complimentoit au nom de la Ville, lors qu’elles passoient par Chartres, &amp; toûjours
-          avec un applaudissement general. Il estoit Pere de l’Illustre M<hi rend="sup"
-          >r</hi> Nicole, connu de tout le monde par les excellens Ouvrages d’érudition &amp; de
+          avec un applaudissement general. Il estoit Pere de l’Illustre M<hi rend="sup">r</hi> Nicole, connu de tout le monde par les excellens Ouvrages d’érudition &amp; de
           pieté qu’il met au jour depuis pres de trente années ; entr’autres par <hi rend="i">la
             Perpetuité de la Foy</hi> &amp; nouvellement par <hi rend="i">les Essais de Morale</hi>.
           Quelques mois avant sa mort, il avoit choisy M<hi rend="sup">r</hi> Noel, Controlleur des
@@ -464,8 +394,7 @@
         <head>[Galanterie en Prose &amp; en Vers sur des Paroles de l’Opéra d’Atis]</head>
         <bibl><title>Mercure galant</title>, octobre 1678 [tome 10], p. 44-55.</bibl>
         <p>Vous allez juger du soin que je prens de vous chercher d’agreables choses, par celuy que
-          j’ay eu de recouvrer une Copie de la Lettre que je vous envoye. Elle est de M<hi
-            rend="sup">r</hi> de Lamathe Avocat au Parlement. De grandes &amp; fâcheuses affaires
+          j’ay eu de recouvrer une Copie de la Lettre que je vous envoye. Elle est de M<hi rend="sup">r</hi> de Lamathe Avocat au Parlement. De grandes &amp; fâcheuses affaires
           l’ont obligé jusqu’icy d’étoufer de fort jolies Pieces dont j’espere que je vous feray
           part à l’avenir. Celle-cy vous fera connoistre combien vous pouvez attendre d’un Génie
           aussi galant que le sien.</p>
@@ -584,8 +513,7 @@
           vous disant que nous verrons bien-tost un Livre de celle de plusieurs Illustres Familles.
           Le Roy a demandé à M<hi rend="sup">r</hi> le Comte d’Armagnac Grand Ecuyer de France, le
           Catalogue de tous ceux qui depuis l’année 1667. jusqu’à aujourd’huy ont eu l’honneur
-          d’estre Pages sous son commandement ; &amp; Monsieur d’Armagnac a ordonné à M<hi
-            rend="sup">r</hi> d’Hozier, Genealogiste des Ecuries de Sa Majesté, de rassembler
+          d’estre Pages sous son commandement ; &amp; Monsieur d’Armagnac a ordonné à M<hi rend="sup">r</hi> d’Hozier, Genealogiste des Ecuries de Sa Majesté, de rassembler
           incessamment les cinq degrez de Genealogie, que chaque Particulier est obligé de fournir
           pour prouver sa Noblesse, avant que d’y pouvoir estre reçeu. Ainsi tous ceux qui ont joüy
           de cet avantage, ont eu ordre d’envoyer à M<hi rend="sup">r</hi> d’Hozier leurs noms de
@@ -600,8 +528,7 @@
           &amp; les occasions où elle s’est signalée. Comme ce recueil de Genealogies regarde un
           tres-grand nombre des plus considérables Familles du Royaume, il ne se peut qu’il ne soit
           tres-curieux. Vous devez estre fort persuadée de l’ordre, de la netteté, &amp; de la
-          verité qu’on y trouvera, apres que je vous ay dit qu’on en laisse le soin à M<hi
-            rend="sup">r</hi> d’Hozier. La profonde capacité qu’il a pour ces fortes de choses est
+          verité qu’on y trouvera, apres que je vous ay dit qu’on en laisse le soin à M<hi rend="sup">r</hi> d’Hozier. La profonde capacité qu’il a pour ces fortes de choses est
           connuë de tout le monde.</p>
       </div>
       <div type="article" xml:id="MG-1678-10_075" resp="mercure">
@@ -624,8 +551,7 @@
       <div type="article" xml:id="MG-1678-10_077" resp="mercure">
         <head>[L’Ombre de l’Empereur Charles-quint en Vers, par M. l’Abbé de la Chaise]</head>
         <bibl><title>Mercure galant</title>, octobre 1678 [tome 10], p. 77-91.</bibl>
-        <p>Vous avez tellement estimé quelques Ouvrages que je vous ay déja envoyez de M<hi
-            rend="sup">r</hi> l’Abbé de la Chaise, que vous ne serez pas fâchée de voir ce qu’il a
+        <p>Vous avez tellement estimé quelques Ouvrages que je vous ay déja envoyez de M<hi rend="sup">r</hi> l’Abbé de la Chaise, que vous ne serez pas fâchée de voir ce qu’il a
           fait sur la consternation où la prise de Gand avoit mis les Espagnols. La Fiction est
           ingénieuse, &amp; vous ne pouvez attendre que beaucoup de plaisir de cette lecture.</p>
         <quote>
@@ -698,13 +624,11 @@
             <l><hi rend="i">Ce Sang qui m’inspiroit cette haute vaillance</hi>, </l>
             <l rend="i">N’estoit-ce pas le Sang de France </l>
             <l><hi rend="i">Que mon Illustre Ayeule avoit porté chez moy</hi> ? </l>
-            <l><hi rend="sc">Anne</hi><hi rend="i">jointe à L</hi><hi rend="i"><hi rend="sc"
-                  >oüis</hi></hi><hi rend="i">le Juste</hi>, </l>
+            <l><hi rend="sc">Anne</hi><hi rend="i">jointe à L</hi><hi rend="i"><hi rend="sc">oüis</hi></hi><hi rend="i">le Juste</hi>, </l>
             <l><hi rend="i">A réüny ce Sang auguste</hi>, </l>
             <l><hi rend="i">Leur Fils peut-il du Ciel n’estre pas Favory</hi> ? </l>
             <l><hi rend="i">De toutes nos vertus &amp; de nostre courage</hi>, </l>
-            <l><hi rend="i">De ce qu’eut de plus grand mesme le Grand</hi><hi rend="i"><hi rend="sc"
-                  >Henry</hi></hi> , </l>
+            <l><hi rend="i">De ce qu’eut de plus grand mesme le Grand</hi><hi rend="i"><hi rend="sc">Henry</hi></hi> , </l>
             <l><hi rend="i">En luy ne voit-on pas un heureux assemblage</hi> ? </l>
           </lg><lg>
             <l><hi rend="i">Comme du plus Grand Roy que l’on ait maintenant</hi>, </l>
@@ -912,8 +836,7 @@
         <p>Voila, Madame, le commencement des fruits de la Paix. La joye qu’elle a répanduë par
           tout, fait qu’on ne pense plus qu’aux plaisirs. Ma derniere Lettre Extraordinaire du 14.
           de ce Mois vous a fait connoistre les réjoüissances qui en ont esté faites icy. Je vous ay
-          parlé du Feu d’Artifice qu’on dressa devant l’Hostel de Ville le jour qu’on chanta le <hi
-            rend="i">Te-Deum</hi>. Je vous en ay mesme envoyé le Dessein gravé ; mais quoy que je
+          parlé du Feu d’Artifice qu’on dressa devant l’Hostel de Ville le jour qu’on chanta le <hi rend="i">Te-Deum</hi>. Je vous en ay mesme envoyé le Dessein gravé ; mais quoy que je
           vous aye marqué de la joye des Peuples, ce que j’apprens tous les jours des témoignages
           qu’ils en ont donnez, me fait voir que je ne vous en ay parlé qu’imparfaitement. On a
           allumé des Feux plus d’une fois dans toutes nos Ruës. On les commença dés le jour de la
@@ -955,8 +878,7 @@
           sujet. Vous aurez de a peine à le trouver, &amp; vous en auriez encor davantage à croire
           qu’en vous l’apprenant je vous apprisse une verité, si je ne vous assurois que la Gazete
           de Bruxelles en a fait un de ses Articles. Je vous ay donné dans ma Lettre du dernier Mois
-          une fort ample Relation de ce qui se passa le 14. d’Aoust entre l’Armée que commande M<hi
-            rend="sup">r</hi> le Duc de Luxembourg, &amp; celle des Alliez. Ils firent leurs
+          une fort ample Relation de ce qui se passa le 14. d’Aoust entre l’Armée que commande M<hi rend="sup">r</hi> le Duc de Luxembourg, &amp; celle des Alliez. Ils firent leurs
           derniers efforts pour secourir Mons, &amp; ne pûrent executer leur dessein. C’est pour
           cela qu’on a chanté le <hi rend="i">Te-Deum</hi> en Espagne. Ce dehors ébloüit les
           Peuples. On a crû par là leur persuader que Mons avoit esté secouru. Comme nous n’estions
@@ -1879,14 +1801,12 @@
           Medailles ont esté faites, avec ce qu’on a veu faire au Roy depuis six ans, il ne se peut
           qu’on ne s’éleve d’autant plus en travaillant pour sa gloire, qu’il passe tout ce qu’on a
           jamais écrit des plus renommez Héros. La matiere est d’une grande étendué, &amp; chacun la
-          peut traiter selon son génie, sans craindre de se rencontrer dans les pensées. <hi
-            rend="sc">Loüis le Grand</hi> a fait voir que ce Titre luy est deû en tout. Il est Grand
+          peut traiter selon son génie, sans craindre de se rencontrer dans les pensées. <hi rend="sc">Loüis le Grand</hi> a fait voir que ce Titre luy est deû en tout. Il est Grand
           en attaquant par luy-mesme. Il l’est dans le Cabinet. Il l’est en donnant la Paix, &amp;
           personne ne l’a jamais esté de la mesme maniere par cet endroit. Il fait fleurir les Arts
           &amp; les Vertus ; &amp; si on a de la peine à le loüer, c’est parce qu’il est trop
           loüable. On fit une Medaille pour Henry IV. un peu avant la mort de ce Prince. Un Monde
-          environné des symboles des Vertus paroissoit dans le Revers, avec ces paroles, <hi
-            rend="i">Reget virtutibus orbem</hi>. Y a-t-il rien qui convienne mieux au Roy ? Quoy
+          environné des symboles des Vertus paroissoit dans le Revers, avec ces paroles, <hi rend="i">Reget virtutibus orbem</hi>. Y a-t-il rien qui convienne mieux au Roy ? Quoy
           qu’on dise de luy, on ne peut trop dire, quand mesme on iroit aussi loin que Philipes II.
           dans la Medaille qu’il fit faire lorsque Charles-quint son Pere se démit de la Couronne
           d’Espagne en sa faveur. Ce Prince estoit representé avec le Globe du Monde sur ses épaules
@@ -2054,8 +1974,7 @@
         <p>Le sejour que le Roy avoit dessein de faire à S. Cloud, ayant esté résolu avant son
           depart pour Fontainebleau, Monsieur qui avoit donné ses ordres pour le logement de toute
           la Cour, s’y rendit le 6. de ce Mois, pour voir s’ils avoient esté bien executez. Il en
-          visita les Appartemens, &amp; ne pût que loüer l’exactitude du S<hi rend="sup"
-          >r</hi> Billon, à qui la direction de cette belle Maison a esté donnée. Son Altesse Royale
+          visita les Appartemens, &amp; ne pût que loüer l’exactitude du S<hi rend="sup">r</hi> Billon, à qui la direction de cette belle Maison a esté donnée. Son Altesse Royale
           alla en suite dans la Gallerie qu’il n’avoit point encor veuë depuis qu’elle est achevée
           &amp; meublée. Elle en demeura si satisfaite, qu’elle souhaita impatiemment la venuë de
           Leurs Majestez. Elles arriverent le 10. dans le Carrosse du Roy, où il n’y avoit avec
@@ -2182,8 +2101,7 @@
           Paris ; L’Amnt desinteressé, de Noyon ; L’Opéra de la Rochelle ; Le Solitaire de
           Picardie ; Le Secretaire fidelle d’Amiens ; &amp; le Triton. Mesdemoiselles de Penavaly de
           Brest &amp; Clarice Genoise, les ont expliquées en Vers, aussi-bien que Messieurs du Mont
-          Avocat de Chaumont, L’Abbé Rathier, Houppin le jeune, Hordé Secretaire de M<hi rend="sup"
-            >r</hi> le Comte de Parabere, Fueillet Avocat à Chartres, Geoffroy le jeune de Loches,
+          Avocat de Chaumont, L’Abbé Rathier, Houppin le jeune, Hordé Secretaire de M<hi rend="sup">r</hi> le Comte de Parabere, Fueillet Avocat à Chartres, Geoffroy le jeune de Loches,
           Catel de la Ruë du Four, de Foresta Colonque, Le Solitaire de Pontoise, le petit Ascagne,
           Hugo de Gournay sur Epte, Baizé le jeune, Le Drüide du Bois de Levantin, &amp; les
           Reformateurs de Bretagne.</p>
@@ -2191,8 +2109,7 @@
       <div type="article" xml:id="MG-1678-10_348" resp="mercure">
         <head>[Deux nouvelles énigmes] *</head>
         <bibl><title>Mercure galant</title>, octobre 1678 [tome 10], p. 348-351.</bibl>
-        <p>Les deux nouvelles Enigmes que je vous envoye sont, la premiere de M<hi rend="sup"
-          >r</hi> Saurin, &amp; l’autre de M<hi rend="sup">r</hi>   Brossard Conseiller au Presidial
+        <p>Les deux nouvelles Enigmes que je vous envoye sont, la premiere de M<hi rend="sup">r</hi> Saurin, &amp; l’autre de M<hi rend="sup">r</hi>   Brossard Conseiller au Presidial
           de Bourg en Bresse.</p>
         <quote>
           <label rend="center">Enigme.</label>
@@ -2232,8 +2149,7 @@
         <bibl><title>Mercure galant</title>, octobre 1678 [tome 10], p. 351-355.</bibl>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : L’Enigme
           en figure doit regarder la page 355.</note>
-        <p>L’Enigme en figure qui represente Daphné fuyant Apollon, n’est autre chose que <hi
-            rend="i">l’Ombre</hi>. Voicy l’Explication que M<hi rend="sup">r</hi> Rault de Roüen en
+        <p>L’Enigme en figure qui represente Daphné fuyant Apollon, n’est autre chose que <hi rend="i">l’Ombre</hi>. Voicy l’Explication que M<hi rend="sup">r</hi> Rault de Roüen en
           a donnée.</p>
         <quote>
           <l>Dans cette Forest verte &amp; Sombre.</l>
@@ -2253,14 +2169,11 @@
             lever l’Etoille du Jour</hi> ; Messieurs Joseph Rey, Geographe de S. A. R de Savoye ;
           Darcises Gentilhomme Beaujollois ; De Lattre Avocat à Guise ; Chappuis, de Monbrison en
           Forest ; Le bon Clerc de Musique de Châlons sur Saône ; &amp; le Triton, <hi rend="i">La
-            Hollande &amp; la Paix donnée par le Roy à cette Province</hi> ; M<hi rend="sup"
-          >r</hi> Eveillard Avocat en Parlement, <hi rend="i">La Paix qui arreste les Conquestes de
+            Hollande &amp; la Paix donnée par le Roy à cette Province</hi> ; M<hi rend="sup">r</hi> Eveillard Avocat en Parlement, <hi rend="i">La Paix qui arreste les Conquestes de
             Loüis le Grand ;</hi> L’Amant nocturne, <hi rend="i">Les Conquestes du Roy</hi> ; Le
           Jaloux de la gloire des Tourangeaux, <hi rend="i">La Gloire poursuivie par les
           Héros</hi> ; Messieurs Houppin le jeune, Merlin de Beauvais, &amp; le Solitaire
-          inconstant, <hi rend="i">La Chasteté</hi> ; M<hi rend="sup">r</hi> Panthot, <hi rend="i"
-            >La Paix victorieuse</hi> ; La Societé des trois Personnes enjoüées de Tours, <hi
-            rend="i">Les Victoires du Roy sur les Peuples du Rhin</hi> ; Hervilson, S. D. V. de
+          inconstant, <hi rend="i">La Chasteté</hi> ; M<hi rend="sup">r</hi> Panthot, <hi rend="i">La Paix victorieuse</hi> ; La Societé des trois Personnes enjoüées de Tours, <hi rend="i">Les Victoires du Roy sur les Peuples du Rhin</hi> ; Hervilson, S. D. V. de
           Troyes, <hi rend="i">La Grape de Verjus</hi> ; Du Mesnil, <hi rend="i">Le Abres &amp; les
             Plantes</hi> ; Thibaud Medecin à Tours, <hi rend="i">Le Sucre</hi>, en Vers ; Le
           Solitaire de Pontoise, <hi rend="i">La Terre &amp; le Soleil</hi>, en Vers ;
@@ -2276,5 +2189,4 @@
         <p rend="i">À Paris ce 31. Octobre 1678. </p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

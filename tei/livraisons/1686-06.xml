@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1686-06">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, juin 1686 [tome 7]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1686-06</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>juin 1686</date> [tome 7].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1686-06"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, juin 1686 [tome 7].</head>
       <div type="article" xml:id="MG-1686-06_001" resp="mercure">
@@ -373,10 +309,8 @@
           Avocat, touchant un Enfant supposé, que le Parlement a declaré Imposteur. Voicy le fait.
             M<hi rend="sup">r</hi> Marsault de Suzencourt en Champagne, ayant esté élevé à Paris
           aprés la mort de son Pere, chez M<hi rend="sup">r</hi> Marsault son Oncle, Contrôleur des
-          Rentes de l’Hostel de Ville, épousa au mois de Novembre 1655. une Fille de M<hi rend="sup"
-            >r</hi> Sauvage, Capitaine de Cavalerie. Le mariage estant fait, ils demeurerent à
-          Suzencourt pendant un an &amp; demy, &amp; au mois de May 1657. M<hi rend="sup"
-          >r</hi> Marsault voulant, comme son Beaupere, suivre la profession des Armes, s’engagea
+          Rentes de l’Hostel de Ville, épousa au mois de Novembre 1655. une Fille de M<hi rend="sup">r</hi> Sauvage, Capitaine de Cavalerie. Le mariage estant fait, ils demeurerent à
+          Suzencourt pendant un an &amp; demy, &amp; au mois de May 1657. M<hi rend="sup">r</hi> Marsault voulant, comme son Beaupere, suivre la profession des Armes, s’engagea
           dans la Compagnie de Cavalerie de M<hi rend="sup">r</hi> du Moulinet. Cette Compagnie
           ayant esté reformée, il fut obligé de revenir en Champagne au mois de Novembre suivant. Un
           an aprés il vint s’établir à Paris, où il s’engagea dans l’Hostel de Ville. Il y travailla
@@ -417,8 +351,7 @@
           la main, &amp; disoit à ses Voisins que son Fils étoit plus beau que les autres ; que son
           Pere s’estant engagé dans le service du Roy, &amp; retiré ensuite à Paris sans l’emmener
           avec luy, le Seigneur de Suzencourt eut la charité de le faire élever dans sa Maison ; que
-          lors qu’il eut assez d’âge pour pouvoir servir, il fut mis Laquais chez M<hi rend="sup"
-            >r</hi> de la Barre, Secretaire du Conseil de Monsieur ; que sa Mere alla le recommander
+          lors qu’il eut assez d’âge pour pouvoir servir, il fut mis Laquais chez M<hi rend="sup">r</hi> de la Barre, Secretaire du Conseil de Monsieur ; que sa Mere alla le recommander
           à la Femme de Chambre ; que pour recompense de ses services, on luy fit apprendre le
           métier de Menuisier chez le nommé Nicolas le Roux ; qu’il y demeura quatorze mois, pendant
           lesquels sa Mere alla le visiter plusieurs fois, &amp; le recommander à son Maistre, &amp;
@@ -436,8 +369,7 @@
           que l’Imposteur alleguoit. Il fit voir que s’il avoit esté le Fils de celle qu’il arresta
           d’abord dans sa Chaise, &amp; à laquelle il demanda de l’argent d’une maniere toute
           furieuse, il ne seroit sorty de sa bouche que des paroles de soûmission, parce que les
-          premieres recherches de la Nature sont toûjours remplies de douceur &amp; de respect. <hi
-            rend="i">Ce sont</hi>, dit-il, <hi rend="i">les premiers mouvemens qu’elle inspire. Un
+          premieres recherches de la Nature sont toûjours remplies de douceur &amp; de respect. <hi rend="i">Ce sont</hi>, dit-il, <hi rend="i">les premiers mouvemens qu’elle inspire. Un
             Enfant se sent doucement attiré vers celle qu’il croit estre sa Mere. Il accompagne
             cette douceur de termes civils &amp; respectueux, &amp; par ces ménagemens innocens, la
             Nature se trouble dans cette premiere veuë. Il se forme une émotion involontaire, qui
@@ -451,8 +383,7 @@
             premiere parole qui sort de la bouche.</hi></p>
         <p>Sur ce que cet Imposteur pretendoit avoir esté exposé par la crainte commune du Mary
           &amp; de la Femme, qui apprehendoient qu’un Enfant né dans le septiéme mois de leur
-          mariage, ne fist répandre des bruits fâcheux contre leur honneur, M<hi rend="sup"
-          >r</hi> Lordelot fit connoistre que ce terme de sept mois estant un terme naturel pour la
+          mariage, ne fist répandre des bruits fâcheux contre leur honneur, M<hi rend="sup">r</hi> Lordelot fit connoistre que ce terme de sept mois estant un terme naturel pour la
           naissance des Enfans, &amp; les Loix Civiles &amp; Canoniques reconnoissant legitimes tous
           ceux qui y naissent, parce que toutes les Femmes sont sujetes à ces sortes d’Accouchemens,
           qui ne dépendent que de la force ou de la foiblesse de leur temperament, il n’y avoit
@@ -480,8 +411,7 @@
           autres, &amp; eust pû ensuite luy voir porter les Livrées, &amp; apprendre le métier de
           Menuisier, tandis qu’elle auroit veu les Domestiques de sa Maison beaucoup plus heureux
           que n’auroit esté son propre Fils. A l’égard des Parens qui l’avoient reconnu pour
-          l’Enfant dont elle estoit accouchée le septiéme mois de son mariage, M<hi rend="sup"
-            >r</hi> Lordelot fit voir l’impossibilité de ce fait, puis qu’il auroit fallu que les
+          l’Enfant dont elle estoit accouchée le septiéme mois de son mariage, M<hi rend="sup">r</hi> Lordelot fit voir l’impossibilité de ce fait, puis qu’il auroit fallu que les
           Témoins qui avoient esté interrogez, eussent déposé qu’il estoit ce mesme Enfant qu’on
           disoit né à sept mois, qui avoit esté nourry au Village de Bergere, élevé jusqu’à neuf ans
           à Suzencourt dans la Maison du Seigneur (ce qui l’en avoit fait croire le Pere) &amp; qui
@@ -496,8 +426,7 @@
           lieu de s’étonner qu’ils l’eussent fait, s’il ne se trouvoit pas tous les jours des
           miserables qui vendent jusqu’à leurs paroles, &amp; dont les bouches sont comme des
           sepulchres ouverts, d’où l’on ne voit sortir que la corruption &amp; la mort.</p>
-        <p>Aprés que tous les Avocats eurent esté entendus pendant quatre Audiences, M<hi rend="sup"
-            >r</hi> Talon, Avocat General, fit un recit de toutes les charges avec une entiere
+        <p>Aprés que tous les Avocats eurent esté entendus pendant quatre Audiences, M<hi rend="sup">r</hi> Talon, Avocat General, fit un recit de toutes les charges avec une entiere
           netteté, &amp; venant à la déposition des Témoins, il dit qu’il estoit difficile de se
           persuader que ce qu’ils assuroient tous sans hesiter, fust veritable ; sçavoir, qu’ils
           avoient reconnu celuy qui se pretendoit Fils de M<hi rend="sup">r</hi> Marsault aussi-tost
@@ -507,8 +436,7 @@
           de cet Enfant dans la maison du Seigneur de Suzencourt jusqu’à l’âge de neuf ans, sans
           qu’aucun de ses pretendus Parens l’eust reclamé, estoit une forte présomption qu’il estoit
           le Fils naturel de ce Seigneur ; que Moïse ayant esté élevé dans la Maison de Pharaon,
-          avoit eu besoin d’une revelation divine pour croire qu’il n’estoit pas son Fils. <hi
-            rend="i">Fide credidit se non esse filium Pharaonis</hi> ; qu’au fonds, la seule preuve
+          avoit eu besoin d’une revelation divine pour croire qu’il n’estoit pas son Fils. <hi rend="i">Fide credidit se non esse filium Pharaonis</hi> ; qu’au fonds, la seule preuve
           par Témoins n’estoit pas suffisante dans les Questions d’estat ; que si cette voye estoit
           admise, elle seroit d’une consequence dangereuse pour le Public, &amp; qu’il n’y auroit
           plus de seureté dans les Familles ; que tous les plus sages Peuples de la Terre avoient
@@ -718,8 +646,7 @@
         <p/>
         <p>Vous m’avez demande des nouvelles de la belle Grecque, que M<hi rend="sup">r</hi> le
           Prince Philippe de Savoye amena en France dans le temps de la prise de Coron. La Lettre
-          que vous allez lire vous en apprendra d’assez importantes. Elle est de M<hi rend="sup"
-            >r</hi> Vignier.</p>
+          que vous allez lire vous en apprendra d’assez importantes. Elle est de M<hi rend="sup">r</hi> Vignier.</p>
         <quote>
           <label>MONSIEUR L’ABBÉ<lb/><hi rend="sc">De Sazilly.</hi></label>
           <p>A Paris ce 8. Juin 1686.</p>
@@ -731,11 +658,9 @@
               pouvoit recevoir, elle ne dust trouver des trésors qui reparassent avantageusement la
               perte qu’elle a faite &amp; de son Mary, &amp; de ses biens. Je vous ay déja mandé
               qu’en revenant de Richelieu nous la trouvâmes à Châtres, où elle accoucha d’une Fille,
-              qui peu de jours aprés eut le bonheur d’entrer dans l’Eglise par le Baptesme. M<hi
-                rend="sup">r</hi> de Raban prit ce soin là, &amp; celuy de ramener la Mere à Paris
+              qui peu de jours aprés eut le bonheur d’entrer dans l’Eglise par le Baptesme. M<hi rend="sup">r</hi> de Raban prit ce soin là, &amp; celuy de ramener la Mere à Paris
               si tost qu’elle fut en estat de souffrir le Carrosse. Sa joye fut grande de réjoindre
-              la jeune Fatmé &amp; le reste de sa Troupe qui estoit dans la Maison de M<hi
-                rend="sup">r</hi> de Raban. Elles ne manquerent pas toutes deux de recevoir force
+              la jeune Fatmé &amp; le reste de sa Troupe qui estoit dans la Maison de M<hi rend="sup">r</hi> de Raban. Elles ne manquerent pas toutes deux de recevoir force
               Visites de l’un &amp; de l’autre Sexe, sur le bruit qui s’estoit répandu par tout de
               leur merite ; mais on remarquoit sur leur visage que si celles des Dames leur
               faisoient plaisir, elles n’en recevoient des hommes qu’avec chagrin &amp; avec
@@ -809,8 +734,7 @@
         <p/>
         <p>Je vous ay déjà fait part de tout ce qui s'est passé à Rome à l'occasion de la Feste
           Générale, faite pour la Réunion des Protestans de France à l'Eglise Catholique. Il me
-          reste à vous parler d'une Féte particulière, qui a fait connoistre le zèle de M<hi
-            rend="sup">r</hi> le Cardinal d'Estrées. Il choisit pour cela l'Eglise de la Trinité du
+          reste à vous parler d'une Féte particulière, qui a fait connoistre le zèle de M<hi rend="sup">r</hi> le Cardinal d'Estrées. Il choisit pour cela l'Eglise de la Trinité du
           Mont, parce qu'il en est Titulaire. Vous sçavez, Madame, que tous les Cardinaux ayant
           chacun le nom d'une Eglise, on dit <hi rend="i">Cardinal au tiltre de etc</hi>. Vous jugez
           bien que la Feste fut d'une magnificence extraordinaire, puisqu'on ne peut soutenir les
@@ -961,8 +885,7 @@
           jours d’une maniere tres-vive &amp; tres-touchante. M<hi rend="sup">r</hi> l’Abbé Robert
           Chanoine de Chattres, preschoit aussi tres-éloquemment. Il faisoit de Sçavans Catechismes,
           &amp; par les manieres insinuantes qu’il prenoit dans ses visites, il avoit le don de
-          persuader les plus difficiles, &amp; de reduire les plus endurcis. Il est Frere de M<hi
-            rend="sup">r</hi> Robert, Procureur du Roy au Chastelet. M<hi rend="sup">r</hi> Tabouret
+          persuader les plus difficiles, &amp; de reduire les plus endurcis. Il est Frere de M<hi rend="sup">r</hi> Robert, Procureur du Roy au Chastelet. M<hi rend="sup">r</hi> Tabouret
           Ecclesiastique, expliquoit les Prieres &amp; les Ceremonies de la Messe, &amp; faisoit la
           Priere publique soir &amp; matin avec tant de zele qu’il inspiroit de la devotion à tous
           ceux qui l’entendoient. M<hi rend="sup">r</hi> le President Saunier, qui estoit venu de
@@ -1000,8 +923,7 @@
           pour engager les Habitans à bien faire leur devoir. M<hi rend="sup">r</hi> Philippes
           Conseiller à Montpellier, se fit un honneur d’estre de la Mission de Sommieres, &amp; crût
           que rien n’estoit plus glorieux pour luy que de travailler à retirer sa Patrie des
-          tenebres de l’erreur, d’où il estoit luy-mesme sorty il y avoit déja cinq ans. M<hi
-            rend="sup">r</hi> Persin Greffier de la Maison de Ville, donna des avis tres-importans,
+          tenebres de l’erreur, d’où il estoit luy-mesme sorty il y avoit déja cinq ans. M<hi rend="sup">r</hi> Persin Greffier de la Maison de Ville, donna des avis tres-importans,
           &amp; fut tres-utile par son application &amp; par son esprit. Madame de Prugneron,
           Hôtesse du Pere de Chevigny, &amp; la plus considerée entre toutes les Dames de la
           Religion, fut la premiere à profiter des Exhortations de son Hôte, &amp; à le prier de
@@ -1173,5 +1095,4 @@
             trouver place dans les Mercures.</hi></p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

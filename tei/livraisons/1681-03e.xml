@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1681-03e">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title>Extraordinaire du Mercure galant, quartier de janvier 1681 [tome XIII]</title>
-   </titleStmt>
-   <editionStmt>
-    <edition>OBVIL/IReMuS</edition>
-    <respStmt>
-     <name>Nathalie Berton-Blivet</name>
-     <resp>Responsable éditorial</resp>
-    </respStmt>
-    <respStmt>
-     <name>Anne Piéjus</name>
-     <resp>Responsable éditorial</resp>
-    </respStmt>
-    <respStmt>
-     <name>Frédéric Glorieux</name>
-     <resp>Informatique éditoriale</resp>
-    </respStmt>
-    <respStmt>
-     <name>Vincent Jolivet</name>
-     <resp>Informatique éditoriale</resp>
-    </respStmt>
-   </editionStmt>
-   <publicationStmt>
-    <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-    <date when="2017"/>
-    <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1681-03e</idno>
-    <availability status="restricted">
-     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-       Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie
-       littéraire » (ci-après dénommé OBVIL).</p>
-      <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les
-       bases de données (L341-1) est mise à disposition de la communauté scientifique internationale
-       par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas
-       d’Utilisation Commerciale - Pas de Modification 3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-      <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de
-       cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de
-       la ressource.</p>
-      <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-       utilisation commerciale est interdite.</p>
-      <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-       électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de
-       versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl><title>Extraordinaire du Mercure galant</title>, quartier de <date>janvier 1681</date>
-     [tome XIII].</bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <creation>
-    <date when="1681-03"/>
-   </creation>
-   <langUsage>
-    <language ident="fre"/>
-   </langUsage>
-  </profileDesc>
- </teiHeader>
- <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
   <body>
    <head><hi rend="i">Extraordinaire du Mercure galant</hi>, quartier de janvier 1681 [tome XIII].</head>
    <div type="article" xml:id="MG-1681-03e_001">
@@ -588,8 +524,7 @@
       enfin entierement.</p>
      <p>Je croy, Madame, que si la pitié qu’on a d’ordinaire pour les Personnes de son Sexe qui sont
       dans le malheur, vous empesche d’estre de mesme sentiment que moy sur la premiere Question,
-      vous pourrez bien ne pas agir de la mesme maniere touchant la seconde, où l’on demande, <hi
-       rend="i">Lequel doit estre estimé le plus malheureux, ou l’Aveugle né, ou celuy qui a perdu
+      vous pourrez bien ne pas agir de la mesme maniere touchant la seconde, où l’on demande, <hi rend="i">Lequel doit estre estimé le plus malheureux, ou l’Aveugle né, ou celuy qui a perdu
        la veuë. On les suppose tout deux à l’âge de raison, &amp; le dernier dans cet âge de raison
        quand il est devenu aveugle.</hi></p>
      <p>Vous pourrez, dis-je, Madame, estre de mon sentiment, quand je vous auray fait connoistre
@@ -1115,8 +1050,7 @@
       car il se trouve biens des Gens qui en condamnent l’usage, quoy que le nombre soit beaucoup
       plus grand de ceux qui le croyent licite &amp; honorable.</p>
      <p>Ceux qui reprouvent l’usage de la Chasse, disent premierement, que cet exercice inspire la
-      cruauté aux Hommes, &amp; les rend sanguinaires. C’est le sentiment de Corneille Agrippa, <hi
-       rend="i">Lib. de Vanit. Scient. cap. 77</hi>. Il l’appelle pour cela un Art cruel &amp;
+      cruauté aux Hommes, &amp; les rend sanguinaires. C’est le sentiment de Corneille Agrippa, <hi rend="i">Lib. de Vanit. Scient. cap. 77</hi>. Il l’appelle pour cela un Art cruel &amp;
       tragique, où l’on se fait un plaisir de sang &amp; de carnage, &amp; où par une volupté plus
       que barbare, on se repaist le cœur &amp; les yeux du desastre &amp; de la mort des pauvres
       Animaux, qui ne l’ont aucunement méritée ; un exercice tout-à-fait détestable, &amp; qui n’a
@@ -1293,8 +1227,7 @@
       rendit depuis si redoutable en la guerre ; Que Philopémen en fit de mesme, &amp; une infinité
       d’autres Princes &amp; grands Capitaines, qui n’ont pas esté moins genéreux Soldats, que
       fameux Chasseurs. Cela fait voir que Pétrarque n’a pas jugé de la Chasse fort sainement, quand
-      il a dit qu’elle n’estoit que l’occupation des Lâches &amp; des Faineans ; ny M<hi rend="sup"
-       >r</hi> de la Hoguete non plus, quand il a avancé que hors la personne du grand Cyrus, d’un
+      il a dit qu’elle n’estoit que l’occupation des Lâches &amp; des Faineans ; ny M<hi rend="sup">r</hi> de la Hoguete non plus, quand il a avancé que hors la personne du grand Cyrus, d’un
       grand Chasseur il ne se fit jamais un grand Conquérant, puis qu’il est certain que l’on a veu
       dans toutes sortes de temps quantité de Roys &amp; de Princes, qui n’ont pas laissé d’estre
       tout-ensemble &amp; grands Chasseurs, &amp; grands Capitaines. Il seroit facile de le
@@ -1427,8 +1360,7 @@
      <p>La Chasse fut encor heureuse pour le regard du salut, au Fils de l’Empereur Frederic, puis
       qu’elle luy servit d’occasion de renoncer au monde, &amp; de fonder la Chartreuse de Sylve en
       Dauphiné, où ce Prince quittant la Pourpre, prit l’Habit de Religieux, &amp; y vescut &amp;
-      mourut saintement. On n’en peut décrire l’Avanture avec plus de pompe que l’a fait M<hi
-       rend="sup">r</hi> Perrin dans sa Chartreuse, ou sainte Solitude. Voicy de quelle maniere il
+      mourut saintement. On n’en peut décrire l’Avanture avec plus de pompe que l’a fait M<hi rend="sup">r</hi> Perrin dans sa Chartreuse, ou sainte Solitude. Voicy de quelle maniere il
       en parle.</p>
      <quote>
       <lg>
@@ -1558,8 +1490,7 @@
       n’est que le Fils adoptif du Duc, se met dans l’esprit qu’il pourroit bien estre le Successeur
       que la voix nocturne luy avoit désigné. Sur ce soupçon, il résout de s’en défaire, &amp; sous
       le prétexte de quelque affaire importante, il le dépesche vers l’Impératrice sa Femme, qui
-      estoit pour lors à Spire, avec une Lettre qui entr’autres choses contenoit ces termes. <hi
-       rend="i">Si la conservation de ma vie vous est chere, faites mourir le Porteur de cette
+      estoit pour lors à Spire, avec une Lettre qui entr’autres choses contenoit ces termes. <hi rend="i">Si la conservation de ma vie vous est chere, faites mourir le Porteur de cette
        Lettre secretement, pour des raisons que je vous diray</hi>. Henry, qui ignoroit, comme Urie,
       qu’il portast l’Arrest de sa mort, le met soudain en chemin pour aller trouver l’Impératrice,
       &amp; ne pouvant arriver le mesme jour, il va loger à deux ou trois lieuës de Spire, dans une
@@ -1636,8 +1567,7 @@
     <head resp="editor">Explications en vers des énigmes précédentes</head>
     <bibl><title>Extraordinaire du Mercure galant</title>, quartier de janvier 1681 [tome XIII],
      p. 259-268.</bibl>
-    <p><hi rend="i">Les Enigmes du Mois de Janvier, dont les Mots estoient</hi> la Bassete, <hi
-      rend="i">&amp; le monosyllabe</hi> On, <hi rend="i">ont donné lieu à ces
+    <p><hi rend="i">Les Enigmes du Mois de Janvier, dont les Mots estoient</hi> la Bassete, <hi rend="i">&amp; le monosyllabe</hi> On, <hi rend="i">ont donné lieu à ces
      Explications.</hi></p>
     <quote>
      <label>I.</label>
@@ -1831,8 +1761,7 @@
     <quote>
      <label>XIV.</label>
      <lg>
-      <l>On <hi rend="i">croit,</hi> On <hi rend="i">dit,</hi> On <hi rend="i">fait,</hi> On <hi
-        rend="i">écrit mille choses,</hi></l>
+      <l>On <hi rend="i">croit,</hi> On <hi rend="i">dit,</hi> On <hi rend="i">fait,</hi> On <hi rend="i">écrit mille choses,</hi></l>
       <l>On <hi rend="i">est Ambassadeur, Monarque, Magistrat,</hi></l>
       <l>On <hi rend="i">est Homme de guerre,</hi> On <hi rend="i">est Home d’Etat,</hi></l>
       <l>On <hi rend="i">invente à son gré mille métamorphoses.</hi></l>
@@ -2067,19 +1996,16 @@
       chifrée sur l’Alphabet ordinaire. Pour ce qui regarde celle de M<hi rend="sup">r</hi> de
       Plancy, avant d’estre chifrée, les lettres en avoient esté transposées sur l’Alphabet
       renversé ; &amp; pour celle-cy, avant aussi d’estre chifrée, les lettres en ont esté
-      transposées sur trois diférens Alphabets reglez par la date de la Lettre du 24. 7<hi
-       rend="sup">bre</hi> 1680. lesquels trois chifres, suivant la maxime de la Lorraine
+      transposées sur trois diférens Alphabets reglez par la date de la Lettre du 24. 7<hi rend="sup">bre</hi> 1680. lesquels trois chifres, suivant la maxime de la Lorraine
       Espagnolete, font 6, 7, &amp; 15, qui est le contrechifre &amp; marque des trois Alphabets
       employez dans cette Lettre, desquels le premier est fait en telle maniere, que la sixiéme
-      lettre qui est <hi rend="i">F</hi>, se trouve mise en la place de la lettre <hi rend="i"
-       >A</hi> ; &amp; la douziéme qui est <hi rend="i">M</hi>, au lieu de <hi rend="i">B</hi> ;
+      lettre qui est <hi rend="i">F</hi>, se trouve mise en la place de la lettre <hi rend="i">A</hi> ; &amp; la douziéme qui est <hi rend="i">M</hi>, au lieu de <hi rend="i">B</hi> ;
       &amp; la dix-huitiéme qui est <hi rend="i">S</hi>, au lieu de <hi rend="i">C</hi> ; &amp;
       ainsi consécutivement de six en six, continuant apres <hi rend="i">Z</hi>, à recommencer par
        <hi rend="i">A</hi>, qui dans le second tour ou second compte se trouve la vingt-quatriéme
       lettre, &amp; par conséquent au lieu du <hi rend="i">D</hi>, &amp; ainsi en continuant
       toûjours à compter jusques à ce que les vingt-trois lettres se trouvent toutes employées. Le
-      second Alphabet est fait de mesme, à la réserve qu’on compte de sept en sept. Ainsi <hi
-       rend="i">G</hi>, qui est la septiéme lettre, est mise pour <hi rend="i">A</hi> ; la lettre
+      second Alphabet est fait de mesme, à la réserve qu’on compte de sept en sept. Ainsi <hi rend="i">G</hi>, qui est la septiéme lettre, est mise pour <hi rend="i">A</hi> ; la lettre
        <hi rend="i">O</hi>, qui est la quatorziéme, pour <hi rend="i">B</hi> ; &amp; ainsi des
       autres ; &amp; par mesme moyen le troisiéme Alphabet se trouve ainsi composé de ses lettres de
       quinze en quinze. Ainsi <hi rend="i">P</hi>, qui est la quinziéme lettre, se rencontre au lieu
@@ -2090,9 +2016,7 @@
      <p>Ces Alphabets ainsi rangez, on prend, pour commencer à déchifrer, les premiers mots de la
       Lettre du Marchand, qui sont</p>
      <quote>
-      <p><hi rend="i">J</hi>, <hi rend="i">a</hi>, <hi rend="i">y</hi>, <hi rend="i">r</hi>, <hi
-        rend="i">e</hi>, <hi rend="i">c</hi>, <hi rend="i">e</hi>, <hi rend="i">u</hi>, <hi rend="i"
-        >d</hi>, <hi rend="i">e</hi>, <hi rend="i">v</hi>, <hi rend="i">o</hi>, <hi rend="i">u</hi>,
+      <p><hi rend="i">J</hi>, <hi rend="i">a</hi>, <hi rend="i">y</hi>, <hi rend="i">r</hi>, <hi rend="i">e</hi>, <hi rend="i">c</hi>, <hi rend="i">e</hi>, <hi rend="i">u</hi>, <hi rend="i">d</hi>, <hi rend="i">e</hi>, <hi rend="i">v</hi>, <hi rend="i">o</hi>, <hi rend="i">u</hi>,
         <hi rend="i">s</hi>, <hi rend="i">&amp;c.</hi></p>
      </quote>
      <p>Apres on ramasse les chifres de la mesme Lettre, dont les premiers sont</p>
@@ -2100,8 +2024,7 @@
       <p>18. 1. 4. 23. 15. 21. 2. 2. 22. 23. 14. 3. 18. 21. &amp;c.</p>
      </quote>
      <p>En suite on compte dans l’Alphabet ordinaire, joignant le premier chifre à la premiere
-      lettre en cette maniere. La dix-huitiéme lettre apres <hi rend="i">I</hi>, est <hi rend="i"
-       >D</hi> ; la premiere apres <hi rend="i">A</hi>, est <hi rend="i">B</hi> ; la quatriéme apres
+      lettre en cette maniere. La dix-huitiéme lettre apres <hi rend="i">I</hi>, est <hi rend="i">D</hi> ; la premiere apres <hi rend="i">A</hi>, est <hi rend="i">B</hi> ; la quatriéme apres
        <hi rend="i">Y</hi>, est <hi rend="i">C</hi> ; la vingt-troisiéme apres <hi rend="i">R</hi>,
       est <hi rend="i">R</hi> elle-mesme, &amp; ainsi des autres ; ou bien, comme vous l’avez
       remarqué dans l’Explication de vostre Lettre, on joint la lettre <hi rend="i">I</hi>, qui vaut
@@ -2112,9 +2035,7 @@
       Lettre du Marchand expliquez par les chifres de la mesme Lettre, donneront premierement ces
       lettres,</p>
      <quote>
-      <p><hi rend="i">d</hi>, <hi rend="i">b</hi>, <hi rend="i">c</hi>, <hi rend="i">r</hi>, <hi
-        rend="i">u</hi>, <hi rend="i">a</hi>, <hi rend="i">g</hi>, <hi rend="i">y</hi>, <hi rend="i"
-        >c</hi>, <hi rend="i">e</hi>, <hi rend="i">l</hi>, <hi rend="i">r</hi>, <hi rend="i">p</hi>,
+      <p><hi rend="i">d</hi>, <hi rend="i">b</hi>, <hi rend="i">c</hi>, <hi rend="i">r</hi>, <hi rend="i">u</hi>, <hi rend="i">a</hi>, <hi rend="i">g</hi>, <hi rend="i">y</hi>, <hi rend="i">c</hi>, <hi rend="i">e</hi>, <hi rend="i">l</hi>, <hi rend="i">r</hi>, <hi rend="i">p</hi>,
         <hi rend="i">q</hi>, <hi rend="i">&amp;c.</hi></p>
      </quote>
      <p>Lesquelles lettres sont les premieres de celles qui avoient esté transposées sur les trois
@@ -2140,8 +2061,7 @@
       marquant un mot ; ce qui en devoit faciliter le déchifrement. Ce qu’il y avoit encor à
       remarquer, c’est que dans les premiers mots de la Lettre <hi rend="i">J’ay reçeu de vous,
        &amp;c.</hi> il n’y avoit pas tant de lettres dans le sens à découvert, comme il y en a dans
-      le sens caché ; mais pour remedier à cela, la derniere lettre du sens à découvert, qui est <hi
-       rend="i">S</hi>, avoit esté redoublée autant de fois que le nombre des chifres surpasse celuy
+      le sens caché ; mais pour remedier à cela, la derniere lettre du sens à découvert, qui est <hi rend="i">S</hi>, avoit esté redoublée autant de fois que le nombre des chifres surpasse celuy
       des lettres du sens à découvert, lesquels chifres surpassant jusqu’au nombre de cinq les
       lettres du sens à découvert, cette mesme lettre <hi rend="i">S</hi> avoit esté multipliée
       autant de fois, afin de pouvoir avec cette mesme lettre, &amp; les cinq derniers chifres,
@@ -2165,8 +2085,7 @@
        Il est mesme extrémement difficile que les Autheurs de ces Lettres, en changeant ainsi
        toûjours d’Alphabet, ne se trompent quelquefois dans le juste raport de chaque chifre, &amp;
        il m’a paru en examinant celle-cy, qu’il y en a quelques-uns manquez. Je pourrois m’estre
-       moy-mesme trompé, en m’embarassant particulierement sur ces mots</hi>, plaira l’examiner, <hi
-       rend="i">&amp; trouvant six chifres au lieu de cinq, plus qu’il n’y a de lettres dans le sens
+       moy-mesme trompé, en m’embarassant particulierement sur ces mots</hi>, plaira l’examiner, <hi rend="i">&amp; trouvant six chifres au lieu de cinq, plus qu’il n’y a de lettres dans le sens
        à découvert ; ce qui broüille tout, à cause du changement des Alphabets ; mais enfin il
        seroit à souhaiter que ceux qui m’ont fait la grace de m’envoyer de Mets, d’Alençon, &amp;
        d’autres lieux, de ces Chifres difficiles, qu’ils nomment eux-mesmes indéchifrables,
@@ -2248,9 +2167,7 @@
        inutile, à la reserve des chifres employez dans le Compte suposé, lesquels chifres valent
        leur valeur ordinaire &amp; naturelle ; c’est à dire que</hi> 12 <hi rend="i">vaut
       douze</hi>, 38 <hi rend="i">trente-huit</hi>, 7 <hi rend="i">sept, &amp;c. mais tous les</hi>
-      zero <hi rend="i">sont inutiles. Ainsi</hi> 20 <hi rend="i">ne vaut que deux</hi> ; 80 <hi
-       rend="i">ne vaut que huit</hi> ; 2700 <hi rend="i">que vingt-vingt-sept</hi> ; 500 <hi
-       rend="i">que cinq, &amp; ainsi du reste. Il faut excepter le chifre</hi> 50, <hi rend="i">qui
+      zero <hi rend="i">sont inutiles. Ainsi</hi> 20 <hi rend="i">ne vaut que deux</hi> ; 80 <hi rend="i">ne vaut que huit</hi> ; 2700 <hi rend="i">que vingt-vingt-sept</hi> ; 500 <hi rend="i">que cinq, &amp; ainsi du reste. Il faut excepter le chifre</hi> 50, <hi rend="i">qui
        vaut effectivement cinquante, &amp; non pas cinq.</hi></p>
     </quote>
    </div>
@@ -2265,8 +2182,7 @@
        de Rien. On ne sçauroit expliquer sa nature, qu’en disant que c’est le Neant, c’est à dire un
        Non-Estre, ou la privation de l’Estre. Il n’y avoit rien avant la création de tout ce grand
        Espace, ou le Monde a esté fait. Selon les Cartésiens, on ne sçauroit plus trouver de Vuide
-       dans la Nature</hi>, (<hi rend="i">le Vuide est la mesme chose que Rien</hi>,) <hi rend="i"
-       >bien que selon les Gassendistes il y ait de petits Vuides presque par tout. Plusieurs Riens
+       dans la Nature</hi>, (<hi rend="i">le Vuide est la mesme chose que Rien</hi>,) <hi rend="i">bien que selon les Gassendistes il y ait de petits Vuides presque par tout. Plusieurs Riens
        ne font jamais qu’un Rien. Les Zero en chifre, qu’on peut appeller ses Cousins germains,
        n’ont aucune valeur d’eux-mesmes, quoy qu’ils augmentent celle des nombres apres lesquels ils
        sont mis.</hi></p>
@@ -2334,8 +2250,7 @@
        <l><hi rend="i">Et d’ailleurs à quoy bon tant contester pour</hi> Rien ?</l>
       </lg>
      </quote>
-     <p><hi rend="i">Cette mesme Histoire a esté encor expliquée sur</hi> le Neant, <hi rend="i"
-       >ou</hi> Rien, <hi rend="i">par Madame de la Tuste &amp; par M<hi rend="sup">rs</hi> Gardien,
+     <p><hi rend="i">Cette mesme Histoire a esté encor expliquée sur</hi> le Neant, <hi rend="i">ou</hi> Rien, <hi rend="i">par Madame de la Tuste &amp; par M<hi rend="sup">rs</hi> Gardien,
        Blanchard de Chasteauroux, Hutuge d’Orleans, &amp; le Bon Clerc de Châlons sur
       Saône.</hi></p>
     </quote>
@@ -3374,5 +3289,4 @@
       expliquer.</hi></p>
    </div>
   </body>
- </text>
-</TEI>
+ </text></TEI>

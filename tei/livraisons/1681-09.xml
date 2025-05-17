@@ -1,66 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1681-09">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title>Mercure galant, septembre 1681 [tome 10]</title>
-   </titleStmt>
-   <editionStmt>
-    <edition>OBVIL/IReMuS</edition>
-    <respStmt>
-     <name>Nathalie Berton-Blivet</name>
-     <resp>Responsable éditorial</resp>
-    </respStmt>
-    <respStmt>
-     <name>Anne Piéjus</name>
-     <resp>Responsable éditorial</resp>
-    </respStmt>
-    <respStmt>
-     <name>Frédéric Glorieux</name>
-     <resp>Informatique éditoriale</resp>
-    </respStmt>
-    <respStmt>
-     <name>Vincent Jolivet</name>
-     <resp>Informatique éditoriale</resp>
-    </respStmt>
-   </editionStmt>
-   <publicationStmt>
-    <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-    <date when="2017"/>
-    <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1681-09</idno>
-    <availability status="restricted">
-     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-       Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie
-       littéraire » (ci-après dénommé OBVIL).</p>
-      <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les
-       bases de données (L341-1) est mise à disposition de la communauté scientifique internationale
-       par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas
-       d’Utilisation Commerciale - Pas de Modification 3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-      <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de
-       cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de
-       la ressource.</p>
-      <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-       utilisation commerciale est interdite.</p>
-      <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-       électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de
-       versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl><title>Mercure galant</title>, <date>septembre 1681</date> [tome 10].</bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <creation>
-    <date when="1681-09"/>
-   </creation>
-   <langUsage>
-    <language ident="fre"/>
-   </langUsage>
-  </profileDesc>
- </teiHeader>
- <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
   <body>
    <head><hi rend="i">Mercure galant</hi>, septembre 1681 [tome 10].</head>
    <div type="article" xml:id="MG-1681-09_001">
@@ -181,8 +119,7 @@
    </div>
    <div type="article" xml:id="MG-1681-09_013">
     <head>[Lettre de Hanover]</head>
-    <bibl><title>Mercure galant</title>, septembre 1681 [tome 10], p. 13-25.<note resp="editor"> <ref target="MG-1681-08_144">Cet article</ref> et <ref
-       target="MG-1681-09_331">celui-ci</ref> relatent ces mêmes divertissements de
+    <bibl><title>Mercure galant</title>, septembre 1681 [tome 10], p. 13-25.<note resp="editor"> <ref target="MG-1681-08_144">Cet article</ref> et <ref target="MG-1681-09_331">celui-ci</ref> relatent ces mêmes divertissements de
       Hanovre.</note></bibl>
     <p>Je vous fis le dernier mois un fort long détail du Balet champestre dancé à Hanover sous le
      titre de <hi rend="i">la Chasse de Diane</hi>, mais ce fut sans vous rien dire de particulier
@@ -293,8 +230,7 @@
      Crillon, &amp; de la Compagnie de M<hi rend="sup">r</hi> de Massot, qui estoient alors en
      quartier à Die. Ces Messieurs tracerent d’abord des Fortifications autour de la Place, &amp;
      quoy que l’ouvrage en fust fort leger, on ne laissoit pas d’y voir toute la figure des mieux
-     travaillée. On y fit loger ensuite quelques petites Pieces de campagne, que M<hi rend="sup"
-      >r</hi> de Ferriol Gouverneur de Die permist qu’on tirast de sa Citadelle. On fit composer
+     travaillée. On y fit loger ensuite quelques petites Pieces de campagne, que M<hi rend="sup">r</hi> de Ferriol Gouverneur de Die permist qu’on tirast de sa Citadelle. On fit composer
      grand nombre de Feux pour faire l’effet des Bombes, des Grenades, &amp; des Petards, &amp; on
      eut mesme le soin de faire creuser des Mines qui devoient enlever des bagatelles, afin de
      marquer la diversité des Attaques. Toutes ces choses estant disposées, on feignit une Lettre de
@@ -336,8 +272,7 @@
      eust dit qu’elle alloit estre toute foudroyée, ne causa aucun dommage au Party du General ;
      &amp; l’ardeur de ses Soldats paroissant toûjours la mesme, il les fit approcher pour donner
      l’Assaut. Quelque Infanterie que le Gouverneur avoit le long des hayes, rendant l’abord de la
-     Place extrémement difficile, on détacha Mesdemoiselles de Chabrieres &amp; de S<hi rend="sup"
-      >t</hi>. Auban, Capitaines du Regiment de Dragons, qui firent faire une décharge si à propos,
+     Place extrémement difficile, on détacha Mesdemoiselles de Chabrieres &amp; de S<hi rend="sup">t</hi>. Auban, Capitaines du Regiment de Dragons, qui firent faire une décharge si à propos,
      que l’Embuscade ne la pouvant soûtenir, se retira dans la Place en confusion. Les avenuës
      estant libres par ce moyen, on avança jusqu’à une Palissade qui alloit estre emportée, si le
      Gouverneur n’eust fait une Mine qui fit reculer les plus avancez. Dans le temps qu’il se tint à
@@ -856,8 +791,7 @@
      origine des anciens Fondateurs de la Ville d’Amiens, que M<hi rend="sup">r</hi> de Charron de
      Monceaux son Grand-Pere, dans l’Histoire qu’il a faite de l’Antiquité de la France &amp; de ses
      Rois, depuis le commencement du Monde, dit avoir esté bastie par une Légion de Soldats Grecs.
-     Leur Chef portoit le nom de Charron, &amp; c’est de luy que la Famille de M<hi rend="sup"
-      >r</hi> de Monceaux est descenduë. Du costé de Dame Anne de Champhuon sa Mere, il estoit venu
+     Leur Chef portoit le nom de Charron, &amp; c’est de luy que la Famille de M<hi rend="sup">r</hi> de Monceaux est descenduë. Du costé de Dame Anne de Champhuon sa Mere, il estoit venu
      de Messire Gilles de Champhuon, Seigneur du Ruisseau, Conseiller d’Etat, Fils d’un Chancelier
      d’Ecosse sous la Reyne Marie Stüart. Le premier employ qu’il eut, fut celuy d’Enseigne
      Colonelle dans le Regiment du Roy, lors de sa creation. On le fit en suite Lieutenant, &amp;
@@ -880,8 +814,7 @@
      <p><hi rend="i">Vous vous plaindriez sans doute de ma négligence, si je diférois à vous faire
        part de ce qui s’est fait icy depuis quelques jours pour une Solemnité qui ne pouvoit estre
        plus éclatante. Avant que d’entrer dans ce détail, je dois vous faire sçavoir que nous avons
-       un Convent de Religieuses de Sainte Elizabeth du Tiers-Ordre de S<hi rend="sup"
-       >t</hi>. François, qui est dans tout le Païs en une fort grande estime. L’affection que feu
+       un Convent de Religieuses de Sainte Elizabeth du Tiers-Ordre de S<hi rend="sup">t</hi>. François, qui est dans tout le Païs en une fort grande estime. L’affection que feu
         M<hi rend="sup">r</hi> de Monceaux avoit pour cette Maison, dans laquelle quatre de ses
        Sœurs ont pris l’Habit, &amp; dont Madame de Boulainvilliers sa Cousine est Prieure,
        l’obligea il y a quelques années d’unir son crédit à celuy du Pere Jerôme de Monceaux
@@ -896,8 +829,7 @@
        ayant esté préparées par les ordres de Sa Majesté ; &amp; la Reyne, Monsieur, Madame la
        Comtesse de Bethune, &amp; d’autres Personnes, ayant bien voulu contribuer à ce qui estoit
        necessaire pour rendre la Cerémonie plus solemnelle ; elle commença le Vendredy 25. de
-       Juillet, apres que le Pere de Monceaux, selon la Commission qu’il avoit reçeuë de M<hi
-        rend="sup">r</hi> l’Archevesque de Roüen, eust mis le Corps de la Sainte dans la Châsse où
+       Juillet, apres que le Pere de Monceaux, selon la Commission qu’il avoit reçeuë de M<hi rend="sup">r</hi> l’Archevesque de Roüen, eust mis le Corps de la Sainte dans la Châsse où
        on le voit à présent. Elle est longue de cinq pieds &amp; demy, doublée de Brocard d’or,
        ainsi que le Matelas &amp; l’Oreiller, &amp; embellie de vingt Cristaux, qui laissent voir la
        Sainte Martyre vêtuë &amp; coifée à la Romaine. Elle est habillée d’une Etofe à fond
@@ -965,16 +897,14 @@
        les Ecclesiastiques des environs venoient en suite, &amp; cette marche estoit terminée par
        les Officiers de la Cerémonie, dont le principal estoit M<hi rend="sup">r</hi> de
        Villetartre. C’est un Homme de qualité, Seigneur de tres-belles Terres, qui employe tout son
-       Bien à faire établir des Missions, &amp; à secourir les Pauvres. M<hi rend="sup"
-       >r</hi> Dorival Curé, qu’on avoit fait Maistre des Cerémonies, estoit toûjours sur les aîles,
+       Bien à faire établir des Missions, &amp; à secourir les Pauvres. M<hi rend="sup">r</hi> Dorival Curé, qu’on avoit fait Maistre des Cerémonies, estoit toûjours sur les aîles,
        aussi-bien que le Pere de Monceaux, qui ne cessoit point de donner ses ordres pour empescher
        la confusion. Douze Hommes bien faits, armez chacun d’une Pertuisane, &amp; commandez par
         M<hi rend="sup">r</hi> Carpentier, faisoient sans cesse écarter la foule ; &amp; quoy
        qu’elle fust fort grande, on vit toûjours la Procession marcher sur deux lignes sans aucun
        trouble. Les Ecclesiastiques &amp; les Ordres Religieux chantoient tour-à-tour, &amp; ne
        commençoient jamais que les Trompetes n’eussent finy leurs fanfares. Apres trois quarts de
-       lieuë toûjours en bel ordre, la Procession arriva en la Paroisse de S<hi rend="sup"
-       >t</hi>. Martin, qui est à l’entrée du Fauxbourg de Chaumont. Le Curé la vint recevoir avec
+       lieuë toûjours en bel ordre, la Procession arriva en la Paroisse de S<hi rend="sup">t</hi>. Martin, qui est à l’entrée du Fauxbourg de Chaumont. Le Curé la vint recevoir avec
        l’Encens, à la teste de ses Prestres. On fit reposer le Corps sur un Lit de parade fort
        propre, dressé dans l’Eglise qu’on trouva parée de ses plus beaux Ornemens. Quelques Prieres
        y furent chantées, &amp; l’on en partit au son des Trompetes pour entrer dans la Ville, dont
@@ -1041,8 +971,7 @@
        passa par le milieu de la Ville au bruit des Salves de la Mousqueterie, qui furent réïterées
        quand la Châsse entra chez les Récolets. Ils la reçeurent comme ils avoient fait la premiere
        fois, &amp; la conduisirent jusque chez les Dames Religieuses, où le Pere Eloy, Prédicateur
-       de la Reyne, Supérieur des Récolets de Versailles, prescha fort éloquemment. M<hi rend="sup"
-        >r</hi> l’Abbé de Villetartre, qui avoit officié à la Procession, officia aussi au Salut.
+       de la Reyne, Supérieur des Récolets de Versailles, prescha fort éloquemment. M<hi rend="sup">r</hi> l’Abbé de Villetartre, qui avoit officié à la Procession, officia aussi au Salut.
        Quand il fut finy, on mit la Châsse entre les mains des Religieuses, qui la reçeurent à la
        Porte de leur Clôture, faisant une double haye, chacune un Cierge à la main, &amp; chantant
        le</hi> Te Deum. <hi rend="i">Depuis qu’elle est resserrée, il ne laisse pas de venir des
@@ -1216,13 +1145,11 @@
      avoit marqué cette année pour Sujet de Prose, les Paroles de l’Ange à la Vierge lors qu’il la
      salüa <hi rend="i">Pleine de grace</hi>, &amp; que celuy de Poësie estoit ce qu’il venoit de
      montrer, <hi rend="i">Qu’on voyoit le Roy toûjours tranquille, quoy que dans un mouvement
-      continuel</hi>. Ces deux grands Sujets avoient produit chacun trente-neuf Pieces, dont M<hi
-      rend="sup">r</hi> l’Abbé Tallemant le jeune lût les deux, qui ayant eu le plus de suffrages,
+      continuel</hi>. Ces deux grands Sujets avoient produit chacun trente-neuf Pieces, dont M<hi rend="sup">r</hi> l’Abbé Tallemant le jeune lût les deux, qui ayant eu le plus de suffrages,
      avoient emporté les Prix. Il commença par celle de Prose, qui reçeut beaucoup d’aplaudissemens.
      Elle est de M<hi rend="sup">r</hi> Toureil, Fils de feu M<hi rend="sup">r</hi> le Procureur
      General du Parlement de Toulouse. C’est un Homme fort peu avancé en âge, &amp; dont l’esprit
-     est fort éclairé. Si vos Amis ont la curiosité de voir cette Piece, ils la trouveront chez M<hi
-      rend="sup">r</hi> le Petit, qui l’a imprimée avec plusieurs autres d’Eloquence &amp; de Poësie
+     est fort éclairé. Si vos Amis ont la curiosité de voir cette Piece, ils la trouveront chez M<hi rend="sup">r</hi> le Petit, qui l’a imprimée avec plusieurs autres d’Eloquence &amp; de Poësie
      qui ont disputé les Prix. Quoy que jusqu’icy on n’eût adjugé celuy des Vers qu’au stile
      héroïque, M<hi rend="sup">rs</hi> de l’Académie ont trouvé à propos de donner pour cette fois
      la préference à une Eglogue qui fut aussi leuë par M<hi rend="sup">r</hi> l’Abbé Tallemant. Les
@@ -1391,11 +1318,9 @@
      Françoise, fait voir que dans nostre Langue il s’est acquis l’heureux Art d’imiter Malherbe.
      C’est à quoy il s’attache particulierement. La Piece que vous venez d’achever de lire, doit
      faire connoistre s’il y réüssit. Les belles Inscriptions Latines qu’il a données pour le
-     Louvre, auront sans-doute esté jusqu’à vous. Apres la distribution des Prix, M<hi rend="sup"
-      >r</hi> Charpentier lût une Version, faite par luy-mesme en Vers François, du Cantique qui le
+     Louvre, auront sans-doute esté jusqu’à vous. Apres la distribution des Prix, M<hi rend="sup">r</hi> Charpentier lût une Version, faite par luy-mesme en Vers François, du Cantique qui le
      matin avoit servy de Motet. Il n’est pas besoin que je vous parle de la beauté ny de la
-     Justesse de cet Ouvrage. Il suffit que je vous aye nommé son Autheur. M<hi rend="sup"
-     >r</hi> Regnier Desmarests, Prieur du Boucher, qui est de l’Académie Françoise, &amp; de celle
+     Justesse de cet Ouvrage. Il suffit que je vous aye nommé son Autheur. M<hi rend="sup">r</hi> Regnier Desmarests, Prieur du Boucher, qui est de l’Académie Françoise, &amp; de celle
      de la Crusca, lût apres luy une autre Piece de Vers, d’une mesure nouvelle. Elle avoit pour
      titre, <hi rend="i">La foiblesse de la Raison</hi>. M<hi rend="sup">r</hi> l’Abbé Tallemant,
      dont le beau génie se fait admirer également en Vers &amp; en Prose, ferma l’Assemblée par une
@@ -1441,8 +1366,7 @@
      estoient habillez de bleu. M<hi rend="sup">r</hi> Bausset Prevost de la Cathédrale, &amp;
      Vicaire General du Diocese, revêtu d’une Chape, &amp; accompagné du Clergé, vint à l’entrée de
      l’Eglise leur faire les Exorcismes. Ils estoient divisez en cinq Quadrilles, &amp; rangez en
-     demy-cercle autour de la Place. Les premieres Cerémonies estant achevées, M<hi rend="sup"
-      >r</hi> le Vicaire General entra dans l’Eglise avec M<hi rend="sup">r</hi> de Vivonne, &amp;
+     demy-cercle autour de la Place. Les premieres Cerémonies estant achevées, M<hi rend="sup">r</hi> le Vicaire General entra dans l’Eglise avec M<hi rend="sup">r</hi> de Vivonne, &amp;
      toute la Compagnie le suivit. M<hi rend="sup">r</hi> l’Abbé de Caux fit alors un beau Discours
      sur les dispositions qu’il faut apporter à une action si sainte, &amp; prit pour son texte ces
      paroles de David : <hi rend="i">Lavabis me, &amp; super nivem dealbabor.</hi> Il fit ensuite un
@@ -1617,8 +1541,7 @@
      entierement dégagée. Elles prenoient leur nourriture par un seul umbilic. Les tégumens du
      ventre, &amp; toutes les parties contenantes, estoient communes à l’une &amp; à l’autre, &amp;
      il n’y avoit aucune séparation entre celles qui y estoient contenuës. Ainsi on peut dire que ce
-     n’estoit qu’un seul ventre, quoy que par l’ouverture qui en a esté faite en présence de M<hi
-      rend="sup">r</hi> Cuchot Medecin (c’est celuy qui en a écrit icy,) &amp; à laquelle
+     n’estoit qu’un seul ventre, quoy que par l’ouverture qui en a esté faite en présence de M<hi rend="sup">r</hi> Cuchot Medecin (c’est celuy qui en a écrit icy,) &amp; à laquelle
      assistoient tous les Chirurgiens de la Ville, avec plusieurs Officiers de la Garnison, &amp;
      d’autres Personnes curieuses, il ait apparu que toutes les parties en estoient doubles, à la
      reserve du foye qui estoit unique, mais plus grand que le naturel ; car il occupoit tout
@@ -1886,8 +1809,7 @@
      <p>18. Que tous les Membres iroient recevoir le Grand Commissaire à la Salle des Gardes, la
       Noblesse en Robes de cerémonie, les Valets &amp; les Chevaux restant dans la Court.</p>
      <p>19. Que le Roy d’Armes Lyon avec sa Cotte, sa Robe, sa Chaîne, &amp; son Bâton, accompagné
-      de six Hérauts, de six Poursuivans, &amp; de six Trompetes, l’iroit aussi recevoir. <hi
-       rend="i">C’est luy qui ordonne toute la Cavalcade.</hi></p>
+      de six Hérauts, de six Poursuivans, &amp; de six Trompetes, l’iroit aussi recevoir. <hi rend="i">C’est luy qui ordonne toute la Cavalcade.</hi></p>
      <p>20. Qu’aussi-tost que le Grand Commissaire seroit prest, le Lord Garde des Registres, ou
       quelqu’autre marqué par luy, &amp; Lyon Roy d’Armes, estant ensemble, chacun un Rôle à la
       main, nommeroient deux des Seigneurs ou Députez, pour marcher chacun selon leur ordre ; qu’un
@@ -1952,8 +1874,7 @@
    </div>
    <div type="article" xml:id="MG-1681-09_331">
     <head>[Suite des Divertissemens de Hanover]</head>
-    <bibl><title>Mercure galant</title>, septembre 1681 [tome 10], p. 331-342.<note resp="editor">Voir <ref target="MG-1681-08_144">cet article</ref> et <ref
-       target="MG-1681-09_013">celui-ci</ref> qui relatent ces mêmes divertissements de
+    <bibl><title>Mercure galant</title>, septembre 1681 [tome 10], p. 331-342.<note resp="editor">Voir <ref target="MG-1681-08_144">cet article</ref> et <ref target="MG-1681-09_013">celui-ci</ref> qui relatent ces mêmes divertissements de
       Hanovre.</note></bibl>
     <p>On m’a fait voir une seconde Lettre de Hanover, dont je vous envoye une Copie. Vous vous
      souviendrez que lors qu’on y parle de la Reyne, c’est de la Reyne Mere de Dannemark qu’on
@@ -2108,8 +2029,7 @@
      n’abonde pas moins en Hommes galans, qu’en Braves. On a fait aussi plusieurs Courses de Chevaux
      autour du Canal &amp; à Moret, qui est à deux lieuës de Fontainebleau. La plus belle de toutes
      a esté faite autour du Canal. Un petit Anglois, Officier de l’Ecurie, couroit pour Monseigneur
-     le Dauphin ; &amp; M<hi rend="sup">r</hi> de la Valée, Ecuyer du Roy, pour M<hi rend="sup"
-      >r</hi> le Grand. Ces Courses ne se faisoient point sans un fort grand nombre de Parys. Ils
+     le Dauphin ; &amp; M<hi rend="sup">r</hi> de la Valée, Ecuyer du Roy, pour M<hi rend="sup">r</hi> le Grand. Ces Courses ne se faisoient point sans un fort grand nombre de Parys. Ils
      firent deux fois le tour du Canal. Dans l’une &amp; dans l’autre Course le petit Anglois laissa
      prendre le devant à M<hi rend="sup">r</hi> de la Valée ; &amp; lors qu’il passoit devant le
      Roy, il poussoit son Cheval si adroitement, qu’il reprenoit le devant. Ainsi Monseigneur le
@@ -2133,8 +2053,7 @@
      je viens de vous nommer se la donnent l’un à l’autre au regard d’Oreste ; mais ils demeurent
      d’accord que ce qu’il y a de plus beau dans cette Piéce est dû aux lumieres, aux conseils,
      &amp; à l’esprit de M<hi rend="sup">r</hi> le Duc de Richelieu. On y a sur tout admiré une
-     grande quantité de beaux Vers, <hi rend="i">la Reconnoissance d’Oreste</hi>, &amp; <hi rend="i"
-      >une Déclaration d’Amour</hi>. M<hi rend="sup">r</hi> le Duc de Richelieu n’est pas le seul
+     grande quantité de beaux Vers, <hi rend="i">la Reconnoissance d’Oreste</hi>, &amp; <hi rend="i">une Déclaration d’Amour</hi>. M<hi rend="sup">r</hi> le Duc de Richelieu n’est pas le seul
      qui ait donné un Divertissement nouveau au Roy. M<hi rend="sup">rs</hi> les Ducs de Nevers
      &amp; de Vivonne ont régale Sa Majesté d’un Opéra, dont M<hi rend="sup">r</hi> de Nevers a
      composé luy-mesme les Vers Italiens. Il est impossible d’exprimer l’empressement avec lequel
@@ -2172,8 +2091,7 @@
      toûjours, sçavoir, le bleu, l’aurore, le feüille-morte, &amp; le rouge, c’estoient quatre
      Fleurs ; une Rose, pour le rouge ; une Tulipe, pour la feüille-morte ; un Soleil, ou Fleur de
      Soucy, pour le jaune ; &amp; un Barbeau pour le bleu. Ces quatre excellens Comiques
-     commencerent à disputer touchant la beauté des Opéra Italiens &amp; François. M<hi rend="sup"
-      >rs</hi> de la Grange &amp; Cinthio voyant que leur querelle alloit jusqu’aux coups, vinrent
+     commencerent à disputer touchant la beauté des Opéra Italiens &amp; François. M<hi rend="sup">rs</hi> de la Grange &amp; Cinthio voyant que leur querelle alloit jusqu’aux coups, vinrent
      pour les séparer ; &amp; afin qu’on pust juger qui d’entr’eux avoit raison, Cinthio leur
      proposa un petit Opéra Italien ; ce qu’ils accepterent. Le premier Acte finy, Arlequin vint
      faire une tres-plaisante Scene avec Scaramouche. Il contrefit le Berger &amp; la Bergere qui
@@ -2196,5 +2114,4 @@
      ont tres fort diverty la Cour.</p>
    </div>
   </body>
- </text>
-</TEI>
+ </text></TEI>

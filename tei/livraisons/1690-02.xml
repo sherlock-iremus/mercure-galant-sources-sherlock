@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1690-02">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, février 1690 [tome 2]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1690-02</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>février 1690</date> [tome 2].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1690-02"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, février 1690 [tome 2].</head>
       <div type="article" xml:id="MG-1690-02_007" resp="wordpro">
@@ -542,8 +478,7 @@
           a l’esprit qu’il faut pour se bien conduire auprés des Ministres, ne leur estre point
           redoutable, &amp; ne faire jamais d’ombrage à un General. Il s’amuse volontiers à voir
           piller un Camp, &amp; il prend sa part du divertissement.</p>
-        <p><hi rend="i">Le Comte de Staremberg</hi>, Maréchal de Camp de l’Empereur (<hi rend="i"
-            >c’est dans l’Armée comme Maréchal de France</hi>) est un homme de beaucoup de courage,
+        <p><hi rend="i">Le Comte de Staremberg</hi>, Maréchal de Camp de l’Empereur (<hi rend="i">c’est dans l’Armée comme Maréchal de France</hi>) est un homme de beaucoup de courage,
           &amp; qui a plusieurs qualitez necessaires pour la guerre. On ne luy donne cependant que
           la valeur, qualité dangereuse à un General quand elle est seule. Il est emporté, violent ;
           il n’est guere plus loüé sur la défense de Vienne, que sur sa mauvaise conduite au Siege
@@ -702,8 +637,7 @@
             &amp; pour ses Anges ; <hi rend="i">Voilà la peine</hi>. Venez, les bien-aimez de mon
             Pere, possedez le Royaume qui vous est preparé depuis la Creation du monde. Le Salut que
             je donne sera éternel, mes Elûs seront comblez d’une éternelle allegresse, ils seront
-            dans la joye, &amp; dans le ravissement, les douleurs fuiront pour toûjours. <hi
-              rend="i">Voilà la recompense.</hi></p>
+            dans la joye, &amp; dans le ravissement, les douleurs fuiront pour toûjours. <hi rend="i">Voilà la recompense.</hi></p>
           <p><hi rend="i">L’Eternité estant ainsi établie, il n’y a rien à quoy on dust penser avec
               plus d’application, &amp; pourtant il n’y a rien à quoy on pense moins. Il semble que
               presque tous les hommes ayent perdu le sens sur cette matiere ; on fait tout pour le
@@ -771,8 +705,7 @@
         <bibl><title>Mercure galant</title>, février 1690 [tome 2], p. 129-151.</bibl>
         <p>On imprime un fort beau Livre touchant l’instruction des Jardins Fruitiers &amp;
           Potagers. Il est de M<hi rend="sup">r</hi> de la Quintinye, qui étoit préposé à la culture
-          de tous les Jardins du Roy, tant Fruitiers que Potagers, sous les ordres de M<hi
-            rend="sup">r</hi> le Sur-Intendant. Son habileté luy avoit donné une fort grande
+          de tous les Jardins du Roy, tant Fruitiers que Potagers, sous les ordres de M<hi rend="sup">r</hi> le Sur-Intendant. Son habileté luy avoit donné une fort grande
           reputation, &amp; comme il est mort depuis un an, M<hi rend="sup">r</hi> de la Quintinye
           son Fils, prend soin de l’Impression de ce Livre. M<hi rend="sup">r</hi> Perrault de
           l’Academie Françoise, lié d’amitié avec toute cette Famille, a fait là-dessus un petit
@@ -780,8 +713,7 @@
           a extremement bien reussi en divers autres Ouvrages, on peut dire qu’il s’est surpassé
           luy-mesme en celuy-cy. Vous en jugerez par la lecture.</p>
         <quote>
-          <label>A MONSIEUR<lb/>DE LA QUINTINYE,<lb/><hi rend="i">SUR SON LIVRE</hi><lb/><hi
-              rend="i">De l’Instruction des Jardins</hi><lb/><hi rend="i">Fruitiers &amp;
+          <label>A MONSIEUR<lb/>DE LA QUINTINYE,<lb/><hi rend="i">SUR SON LIVRE</hi><lb/><hi rend="i">De l’Instruction des Jardins</hi><lb/><hi rend="i">Fruitiers &amp;
               Potagers</hi>.<lb/>IDYLLE.</label>
           <lg>
             <l rend="i">Pendant que vous chantez les Heros de la Guerre,</l>
@@ -1051,8 +983,7 @@
         <p>Rien n’est mieux imaginé, ne marque mieux la grandeur du Roy, &amp; ne peut faire voir
           plus clairement, que les traits que ses Ennemis décochent contre luy, feront aussi peu
           d’effet que ceux que les Medes dardoient contre le Soleil, &amp; contre son image.</p>
-        <p>J’ajoûteray icy l’explication du Jetton des Galeres, dont la Devise a esté faite par M<hi
-            rend="sup">r</hi> Gauthier. C’est un Aiglon qui porte la foudre avec ces mots
+        <p>J’ajoûteray icy l’explication du Jetton des Galeres, dont la Devise a esté faite par M<hi rend="sup">r</hi> Gauthier. C’est un Aiglon qui porte la foudre avec ces mots
           d’Ovide.</p>
         <quote>
           <p><hi rend="i">Quò postulat usus.</hi></p>
@@ -1090,8 +1021,7 @@
           de Turenne, connu pour ce grand Miroir concave qui est à l'Observatoire, dont il fit
           present au Roy il y a quelques années, doit produire au premier jour trois Machines d'une
           invention merveilleuse &amp; d'une fort grande utilité, particulierement deux.</p>
-        <p>La premiere est un instrument de Musique, auquel il a donné le nom de <hi rend="i"
-            >Pandolyre</hi>, parce qu'il renferme tous les divers instrumens qui peuvent entrer dans
+        <p>La premiere est un instrument de Musique, auquel il a donné le nom de <hi rend="i">Pandolyre</hi>, parce qu'il renferme tous les divers instrumens qui peuvent entrer dans
           un Concert. Cette Machine est composée de plusieurs Clavessins rangez les uns sur les
           autres, qui par leur differente harmonie, imitent si parfaitement le son des Luts, des
           Thuorbes, des Clavessins, des Violes &amp; des Violons, qu'on en distingue les accords de
@@ -1117,8 +1047,7 @@
         <head resp="editor">Mort de Mr Miton</head>
         <bibl><title>Mercure galant</title>, février 1690 [tome 2], p. 214-216.</bibl>
         <p>J’ay à vous apprendre une autre mort, qui vous fera regreter la perte que les Gens de
-          Lettres ont faite icy depuis peu de jours. C’est celle du fameux M<hi rend="sup"
-          >r</hi> Miton, dont je sçay que la reputation vous est connuë. Il avoit esté Tresorier
+          Lettres ont faite icy depuis peu de jours. C’est celle du fameux M<hi rend="sup">r</hi> Miton, dont je sçay que la reputation vous est connuë. Il avoit esté Tresorier
           Extraordinaire des Guerres, &amp; il y avoit plus de vingt ans qu’une facheuse paralysie
           luy faisoit garder le lit. Quantité de personnes de la Cour &amp; d’un rang tres-distingué
           qui avoient pour luy beaucoup d’estime, luy rendoient des visites fort frequentes pour le
@@ -1252,5 +1181,4 @@
         </quote>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

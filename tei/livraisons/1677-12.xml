@@ -1,69 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1677-12" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Le Nouveau Mercure galant, décembre 1677, [tome X]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Alexandre De Craim</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2014"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1677-12/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
-    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
-    sur les bases de données (L341-1) est mise à disposition de la communauté
-    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
-    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
-    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-<p>Attribution : afin de référencer la source, toute utilisation ou publication
-    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
-    l’adresse Internet de la ressource.</p>
-<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
-    toute utilisation commerciale est interdite.</p>
-<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-    électronique, notamment en intégrant toutes les contributions extérieures, la
-    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Le Nouveau Mercure galant</title>, <publisher>Theodore Girard</publisher>, <date>décembre, 1677</date></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1677"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Le Nouveau Mercure galant</hi>, décembre 1677 [tome X].</head>
       <div type="article" xml:id="MG-1677-12_000" resp="mercure">
@@ -1232,5 +1167,4 @@
         <p>Comme nous allons entrer dans la Saison des Plaisirs, je croy que j’auray à vous parler le Mois prochain de plusieurs Divertissemens. On n’a veu que les anciens Opéra pendant celuy-cy, &amp; rien n’a paru de nouveau sur le Théatre, à l’exception de l’Electre de M<hi rend="sup">r</hi> Pradon, qui a esté joüée par la Troupe du Fauxbourg S. Germain. Celle de l’Hostel de Bourgogne promet pour le lendemain des Rois sans remise la premiere Representation du Comte d’Essex de M<hi rend="sup">r</hi> de Corneille le jeune. Ce Sujet est grand, &amp; de nostre Siecle, puis que sa disgrace arriva au commencement de l’Année 1601. On dit qu’il n’y a rien de plus touchant que cette Piece. Elle a fait du moins assez de bruit par quelques Lectures, pour obliger l’autre Troupe à promettre aussi un Comte d’Essex qu’elle luy doit opposer. S’il a autant de beautez qu’on assure qu’il y en a dans celuy dont je vous parle, on peut se promettre beaucoup de plaisir de cette opposition. Comme l’Autheur de ce dernier ne se nomme point, quelques-uns veulent que ce soit l’ancien Comte d’Essex de M<hi rend="sup">r</hi> de la Calprenede raccommodé. Il est vray qu’on n’a songé à remettre ce Sujet sur le Théatre de Guenegaud que depuis que les Affiches de l’Hostel ont fait connoistre que M<hi rend="sup">r</hi> de Corneille le jeune l’avoit traité ; mais il importe peu du temps, pourveu que l’Ouvrage soit assez bon pour satisfaire le Public.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

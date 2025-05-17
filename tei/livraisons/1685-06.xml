@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1685-06">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, juin 1685 [tome 6]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1685-06</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>juin 1685</date> [tome 6].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1685-06"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, juin 1685 [tome 6].</head>
       <div type="article" xml:id="MG-1685-06_000" resp="wordpro">
@@ -136,8 +72,7 @@
           souvent en deux lignes, ce qui pourroit faire le sujet d’une Lettre entiere. Ainsi plus je
           vous écris, plus cette riche &amp; noble matiere augmente, &amp; devient considerable. En
           effet, pour peu que l’on fasse de reflexion sur toutes les choses que cét auguste &amp;
-          pieux Monarque a fait demander au Grand Seigneur, dans la derniere Audience que feu M<hi
-            rend="sup">r</hi> de Guilleragues en a euë, on demeurera d’accord que jamais Prince
+          pieux Monarque a fait demander au Grand Seigneur, dans la derniere Audience que feu M<hi rend="sup">r</hi> de Guilleragues en a euë, on demeurera d’accord que jamais Prince
           Chrétien n’a rien fait de plus important &amp; de plus utile pour l’Eglise.</p>
       </div>
       <div type="article" xml:id="MG-1685-06_023" resp="wordpro">
@@ -146,10 +81,8 @@
         <bibl><title>Mercure galant</title>, juin 1685 [tome 6], p. 23-59</bibl>
         <p>M<hi rend="sup">r</hi> Gilbert, Gentilhomme de Die en Dauphiné, apres avoir fait
           plusieurs années la fonction de Ministre, a connu enfin qu’il ne marchoit pas dans la
-          bonne voye. Il a fait son Abjuration depuis quelque temps entre les mains de M<hi
-            rend="sup">r</hi> l’Archevesque de Paris ; &amp; comme il n’a pas changé de Religion,
-          sans estre fortement persuadé des veritez de la nostre, il a voulu faire part à M<hi
-            rend="sup">r</hi> de Salieres, Commissaire Ordinaire de l’Artillerie, son Frere aîné,
+          bonne voye. Il a fait son Abjuration depuis quelque temps entre les mains de M<hi rend="sup">r</hi> l’Archevesque de Paris ; &amp; comme il n’a pas changé de Religion,
+          sans estre fortement persuadé des veritez de la nostre, il a voulu faire part à M<hi rend="sup">r</hi> de Salieres, Commissaire Ordinaire de l’Artillerie, son Frere aîné,
           des raisons qui l’ont porté à ce changement. Elles sont si fortes &amp; si convaincantes,
           que si les Prétendus Reformez les veulent examiner sans prévention, je ne doute point
           qu’ils ne se sentent pressez d’y deférer, &amp; de suivre son exemple.</p>
@@ -175,8 +108,7 @@
               Protestant n’a encore osé le dire ; &amp; s’ils ont obtenu le Salut dans une Communion
               où ces Erreurs &amp; ces faux Cultes que vous reprochez à l’Eglise estoient en vogue,
               la Posterité n’auroit elle pas pû marcher en seureté sur leurs traces ? De quel nom
-              peut-on appeller vostre séparation, que de celuy de Schisme, puis que mesme selon M<hi
-                rend="sup">r</hi> Daillé, le Schisme est une séparation injuste, &amp; qu’il avouë
+              peut-on appeller vostre séparation, que de celuy de Schisme, puis que mesme selon M<hi rend="sup">r</hi> Daillé, le Schisme est une séparation injuste, &amp; qu’il avouë
               qu’elle est telle, lors qu’elle n’est pas indispensable ? Si je pouvois me donner le
               loisir dans une Lettre, de vous demontrer que vostre Fait est en ce point conforme à
               celuy des Donatistes, vous verriez que les reproches des Catholiques du temps de Donat
@@ -780,10 +712,8 @@
           ajoûta que ce Prince qui est l'admiration de toute la Terre, &amp; l'amour de ses Sujets,
           avoit esté heureusement servy dans cette entreprise par les grands talens &amp; les forts
           raisonnemens de M<hi rend="sup">r</hi> l'Evesque de Meaux, dont le bel ouvrage a presque
-          achevé la conviction de ces Obstinez. M<hi rend="sup">r</hi> Bossuet, Frere de M<hi
-            rend="sup">r</hi> de Meaux, qui est depuis quelques jours Intendant de la Province avec
-          une approbation genérale, estoit present à cette Céremonie. Elle finit par le <hi rend="i"
-            >Te Deum</hi> que M<hi rend="sup">r</hi> l'Evesque de Soissons entonna, &amp; qui fut
+          achevé la conviction de ces Obstinez. M<hi rend="sup">r</hi> Bossuet, Frere de M<hi rend="sup">r</hi> de Meaux, qui est depuis quelques jours Intendant de la Province avec
+          une approbation genérale, estoit present à cette Céremonie. Elle finit par le <hi rend="i">Te Deum</hi> que M<hi rend="sup">r</hi> l'Evesque de Soissons entonna, &amp; qui fut
           chanté par la Musique ordinaire, au bruit des Cloches, des Fifres &amp; des Tambours
           [...]</p>
       </div>
@@ -809,8 +739,7 @@
           fut posée sur une Table qui estoit sur une Estrade, autour de laquelle il y avoit une
           Balustrade avec un riche Dais au dessus. On chanta le <hi rend="i">Te Deum</hi>, &amp;
           pendant ce temps les Religieux qui estoient en deux Colomnes au nombre de cent quatorze,
-          vinrent deux à deux baiser la Chasse. Le <hi rend="i">Te Deum</hi> achevé, M<hi rend="sup"
-            >r</hi> le Curé de Saint Sulpice monta en Chaire, &amp; fit l'Eloge du Saint avec un
+          vinrent deux à deux baiser la Chasse. Le <hi rend="i">Te Deum</hi> achevé, M<hi rend="sup">r</hi> le Curé de Saint Sulpice monta en Chaire, &amp; fit l'Eloge du Saint avec un
           zele qui répondoit à sa pieté. La Chasse demeura exposée toute l'Octave, &amp; beaucoup de
           Personnes qui sont venuës reclamer ce Saint, en ont receu des soulagemens extraordinaires.
           [...]</p>
@@ -831,10 +760,8 @@
           elle le seroit en effet sans le monosyllabe suivant, qui joint au mot précedent, en
           renverse la quantité ; de sorte que ce qui estoit long devient bref. C'est ce que Mr de
           Bacilly a expliqué clairement Page 24. de la Réponse à la Critique de son Traité de l'Art
-          de bien chanter. En effet, il n'y auroit pas de difference entre le mot de <hi rend="i"
-            >Finist</hi> au subjonctif, &amp; celuy de <hi rend="i">Finit</hi> à l'indicatif. La
-          seconde Critique est sur ces mots <hi rend="i">Fait languir</hi> dont celuy de <hi
-            rend="i">Fait</hi> se jette sur la premiere syllabe de <hi rend="i">languir</hi> sans la
+          de bien chanter. En effet, il n'y auroit pas de difference entre le mot de <hi rend="i">Finist</hi> au subjonctif, &amp; celuy de <hi rend="i">Finit</hi> à l'indicatif. La
+          seconde Critique est sur ces mots <hi rend="i">Fait languir</hi> dont celuy de <hi rend="i">Fait</hi> se jette sur la premiere syllabe de <hi rend="i">languir</hi> sans la
           séparation nécessaire de ces deux mots. Ainsi l'on trouve <hi rend="i">Fait lan</hi> comme
           si c'estoit le mesme mot : ce qui est une observation tres-délicate, &amp; dont le mesme
           Mr de Bacilly a donné plusieurs exemples page 17. de la Réponse à la Critique. La
@@ -842,8 +769,7 @@
           cheute est mal observée en ce que le mot de <hi rend="i">Trouveray</hi> paroist séparé du
           mot de <hi rend="i">Plus</hi>, ce qui fait un méchant effet, &amp; la derniere est la
           répetition de ces mots, <hi rend="i">Que le Printemps</hi>, laquelle arrestant le sens des
-          paroles suivantes, semble se rapporter aux précedentes, &amp; faire entendre, <hi rend="i"
-            >J'en trouveray plus que le Printemps n'en trouve</hi>. Outre que cette répetition est
+          paroles suivantes, semble se rapporter aux précedentes, &amp; faire entendre, <hi rend="i">J'en trouveray plus que le Printemps n'en trouve</hi>. Outre que cette répetition est
           inutile, &amp; sans aucune nécessité, ce qui est contre la regle qui veut, que l'on ne
           répete rien que fort à propos dans les paroles qu'on chante. Cette dispute se fit en
           presence de plusieurs Personnes qui n'estant pas de la Profession, ny par consequent assez
@@ -980,8 +906,7 @@
             lourdement trompez dans la décision d’une chose si essentielle à l’Homme, &amp; qui
             devoit faire le fondement de toute leur Philosophie ; car comme Ciceron l’a fort bien
             remarqué, L. 5. De Fin. lors qu’on est une fois tombé d’accord dans la Philosophie de ce
-            qui constituë le souverain Bien, toutes choses y sont faciles &amp; ajustées. <hi
-              rend="i">Summo bono constituto in Philosophia, constituta sunt omnia</hi>. Les
+            qui constituë le souverain Bien, toutes choses y sont faciles &amp; ajustées. <hi rend="i">Summo bono constituto in Philosophia, constituta sunt omnia</hi>. Les
             Anacharsis, les Crisippes, les Crates, &amp; tous les autres dont vous venez de me
             rapporter les opinions sur le souverain Bien, ont eu des sentimens si justes sur
             d’autres matieres, &amp; passent dans l’Histoire ancienne pour de si grands Hommes, que
@@ -1064,8 +989,7 @@
           Mortier, avec plusieurs Ouvrages sur ce sujet]</head>
         <bibl><title>Mercure galant</title>, juin 1685 [tome 6], p. 163-168</bibl>
         <p>Je vous parlay la derniere fois de la survivance à la Charge de President au Mortier que
-          le Roy avoit accordée à M<hi rend="sup">r</hi> le President de Bailleul pour M<hi
-            rend="sup">r</hi> de Chasteau-Gontier son Fils. Il a esté receu depuis peu au Parlement,
+          le Roy avoit accordée à M<hi rend="sup">r</hi> le President de Bailleul pour M<hi rend="sup">r</hi> de Chasteau-Gontier son Fils. Il a esté receu depuis peu au Parlement,
           &amp; cette reception a donné lieu à M<hi rend="sup">r</hi> Diereville de faire ces trois
           Madrigaux.</p>
         <quote>
@@ -1283,8 +1207,7 @@
           d’or sur un fond de Velours rouge, estoient sur une mesme ligne, tous deux sur la Natte,
           sans que celuy du Vizir fust sur le Minder. Il prit sa Place sur le Tabouret qui regardoit
           la Porte par où il estoit entré, &amp; le Grand Vizir arriva un peu aprés par une autre
-          Porte qui estoit du costé de l’autre Tabouret. Il monta sur le Sofa, &amp; M<hi rend="sup"
-            >r</hi> l’Ambassadeur se contenta de se lever pendant ce temps sans quitter sa Place,
+          Porte qui estoit du costé de l’autre Tabouret. Il monta sur le Sofa, &amp; M<hi rend="sup">r</hi> l’Ambassadeur se contenta de se lever pendant ce temps sans quitter sa Place,
           quoy que tres-souvent il fust arrivé que les Ambassadeurs estoient demeurez debout au bas
           du Sofa, en attendant l’arrivée du Grand Vizir. Aprés les saluts réciproques, il se remit
           sur son Tabouret dans le mesme temps que le Grand Vizir s’assit sur le sien, &amp; alors
@@ -1327,8 +1250,7 @@
           qui s’estoient trouvez à Andrinople, &amp; que cét Ambassadeur avoit invitez à
           l’accompagner à l’Audience, eurent chacun une de ces Vestes. Cette distribution achevée,
             M<hi rend="sup">r</hi> de Guilleragues se leva, &amp; se retira aprés avoir salüé le
-          Grand Visir, qui se leva dans le même temps, &amp; qui luy dit encore une fois, <hi
-            rend="i">Vous estes le tres-bien venu</hi>. Il retourna à son Palais dans le mesme ordre
+          Grand Visir, qui se leva dans le même temps, &amp; qui luy dit encore une fois, <hi rend="i">Vous estes le tres-bien venu</hi>. Il retourna à son Palais dans le mesme ordre
           qu’il estoit sorty, estant reconduit par les mesmes Officiers, ausquels se joignit
           Seferbec, Interprete de la Porte, que le sieur Fontaine avoit interrompu si adroitement,
           lors qu’il entreprenoit d’interpreter les paroles du Vizir, qu’il ne put en proferer
@@ -1373,8 +1295,7 @@
           plusieurs plats ou grands bassins de Pilau, c’est à dire de ris cuit, regale ordinaire
           qu’on leur fait dans des occasions de cette nature. M<hi rend="sup">r</hi> de
           Guilleragues, sans s’arrester à ce qu’on faisoit d’extraordinaire pour le recevoir,
-          continua son chemin jusques à la Sale du Divan, où il entra, suivy de M<hi rend="sup"
-            >rs</hi> Merille &amp; Noguerres, Secretaires de l’Ambassade, de six de ses Domestiques,
+          continua son chemin jusques à la Sale du Divan, où il entra, suivy de M<hi rend="sup">rs</hi> Merille &amp; Noguerres, Secretaires de l’Ambassade, de six de ses Domestiques,
           &amp; de deux Drogmans. Le grand Visir l’y attendoit avec le Janissaire Aga, le
           Cadilesker, le Tefterdar, &amp; le Rischangi Bachi, tous assis à quelque distance les uns
           des autres, sur un banc de Parquet attaché à la muraille. M<hi rend="sup">r</hi>
@@ -1389,16 +1310,13 @@
           Lorsque le Divan fut achevé, on apporta une petite table ronde devant ce premier Ministre,
           à laquelle il mangea seul avec M<hi rend="sup">r</hi> de Guilleragues, qui y fut conduit
           par le Chaoux Bachi. On en apporta quatre autres en mesme temps, pour le Janissaire Aga,
-          le Cadilesker, le Tefterdar, le Rischangi Bachi, &amp; pour ceux de la suite de M<hi
-            rend="sup">r</hi> l’Ambassadeur. Ses deux Secretaires furent menez à la seconde, deux
+          le Cadilesker, le Tefterdar, le Rischangi Bachi, &amp; pour ceux de la suite de M<hi rend="sup">r</hi> l’Ambassadeur. Ses deux Secretaires furent menez à la seconde, deux
           autres François à la quatriéme, &amp; trois à la cinquiéme. Le Cadilesker mangea seul à la
           troisiéme, comme estant une personne de Loy, qui ne doit jamais manger avec des gens d’une
           Religion differente. On servit toutes ces Tables avec beaucoup de magnificence à la mode
-          du Pays. Les fruits &amp; le ris n’y manquerent pas. Le repas dura une heure, &amp; M<hi
-            rend="sup">r</hi> de Guilleragues employa ce temps bien moins à manger, qu’à
+          du Pays. Les fruits &amp; le ris n’y manquerent pas. Le repas dura une heure, &amp; M<hi rend="sup">r</hi> de Guilleragues employa ce temps bien moins à manger, qu’à
           s’entretenir familierement avec le Visir, qui écoutoit avec grande attention tout ce qu’il
-          luy disoit par la bouche du sieur Fontaine son Drogman. Aprés le repas, M<hi rend="sup"
-            >r</hi> l’Ambassadeur fut revestu d’une riche Veste, &amp; on en distribua trente autres
+          luy disoit par la bouche du sieur Fontaine son Drogman. Aprés le repas, M<hi rend="sup">r</hi> l’Ambassadeur fut revestu d’une riche Veste, &amp; on en distribua trente autres
           à ceux de sa suite. Le grand Visir sortit du Divan, &amp; s’en alla à l’appartement du
           grand Seigneur. M<hi rend="sup">r</hi> l’Ambassadeur y fut conduit un demy-quart d’heure
           aprés, avec son Drogman, ses deux Secretaires, &amp; sept autres personnes de sa suite,
@@ -1465,8 +1383,7 @@
           estant venu, il voulut prendre son Audience de Congé du Grand Visir ; mais des affaires
           importantes à l’Etat, obligerent ce Ministre de faire un voyage de dix jours pour se
           rendre auprés du Grand Seigneur, qui estoit à la Chasse, à moitié chemin de Constantinople
-          &amp; d’Andrinople. Quelques jours aprés qu’il fut revenu de ce voyage, M<hi rend="sup"
-            >r</hi> l’Ambassadeur luy fit demander cette Audience, qui luy fut accordée pour le 29.
+          &amp; d’Andrinople. Quelques jours aprés qu’il fut revenu de ce voyage, M<hi rend="sup">r</hi> l’Ambassadeur luy fit demander cette Audience, qui luy fut accordée pour le 29.
           de ce mesme mois, avec autant de pompe, d’éclat &amp; de distinction qu’il l’avoit euë la
           premiere fois, sans qu’il l’eust sollicitée. En effet, comme il n’avoit pas crû que l’on y
           deust observer la mesme regularité que l’on avoit fait dans la premiere, il avoit déja
@@ -1507,12 +1424,10 @@
           Chevaux, &amp; vingt Chariots pour son retour, quoy que la coûtume soit que les
           Ambassadeurs retournent à Constantinople à leurs dépens. On eut de la peine à trouver ce
           nombre de Chariots, parce qu’ils estoient presque tous employez à la suite du Grand
-          Seigneur, qui continuoit à prendre le divertissement de la Chasse. Ainsi M<hi rend="sup"
-            >r</hi> l’Ambassadeur ne put partir d’Andrinople que le 26. Fevrier. Il trouva les
+          Seigneur, qui continuoit à prendre le divertissement de la Chasse. Ainsi M<hi rend="sup">r</hi> l’Ambassadeur ne put partir d’Andrinople que le 26. Fevrier. Il trouva les
           chemins assez beaux pour la Saison, &amp; arriva le 22. à Constantinople, ayant pour sa
           Personne un Carrosse richement garny, &amp; suspendu à la Polonnoise, dont le Grand Vizir
-          luy avoit fait present. Il descendit de Carrosse au fond du Port, où M<hi rend="sup"
-            >r</hi> l’Archevêque de Cysique, Vicaire Patriarchal, l’attendoit avec les Marchands
+          luy avoit fait present. Il descendit de Carrosse au fond du Port, où M<hi rend="sup">r</hi> l’Archevêque de Cysique, Vicaire Patriarchal, l’attendoit avec les Marchands
           François &amp; Venitiens, &amp; plusieurs autres Personnes affectionnées à la France. Il
           entra en mesme temps dans un Caïque qu’on luy tenoit prest, &amp; qui fut suivy d’un grand
           nombre d’autres. En passant devant Galata, il fut salüé de l’Artillerie &amp; de la
@@ -1599,8 +1514,7 @@
           nature, &amp; qu'ils s'est mesme distingué en beaucoup d'autres occasions [...]</p>
         <p/>
         <p>Ils arriverent le 12. de May à Saint Denys. Le 16. M<hi rend="sup">r</hi> de Bonneüil
-          Introducteur des Ambassadeurs, alla les visiter de la part du Roy, &amp; le 17. M<hi
-            rend="sup">r</hi> le Maréchal de Humieres, &amp; le mesme M<hi rend="sup">r</hi> de
+          Introducteur des Ambassadeurs, alla les visiter de la part du Roy, &amp; le 17. M<hi rend="sup">r</hi> le Maréchal de Humieres, &amp; le mesme M<hi rend="sup">r</hi> de
           Bonneüil, allerent les prendre dans les Carosses de Sa Majesté, &amp; de Madame la
           Dauphine, &amp; les amenerent à Paris. Ces Carosses estoient suivis de trois Carosses de
             M<hi rend="sup">r</hi> le Maréchal de Humieres, de celuy de M<hi rend="sup">r</hi> de
@@ -1615,8 +1529,7 @@
         <p>L'audience estant finie, ces Ambassadeurs furent traitez magnifiquement avec toute leur
           suite par les Officiers de Sa Majesté, &amp; reconduits à Paris avec les mêmes
           ceremonies.</p>
-        <p>Le premier de Juin, ils se rendirent à Versailles, à l'appartement de M<hi rend="sup"
-            >r</hi> Colbert de Croissy. [...]</p>
+        <p>Le premier de Juin, ils se rendirent à Versailles, à l'appartement de M<hi rend="sup">r</hi> Colbert de Croissy. [...]</p>
         <p/>
         <p>[Le jour de cette audience,] on leur fit voir les Eaux, les Jardins, &amp; les
           Appartemens du Château de Versailles. Rien ne se peut ajoûter aux termes dont ils se
@@ -1648,8 +1561,7 @@
         <p/>
         <p>[Un sabre] qui estoit parmy les Presens que les Ambassadeurs Moscovites ont faits au Roy,
           a esté donné par Sa Majesté à M. le Duc de Saint Aignan. Il est garny de Diamans,
-          d'Emeraudes, de Rubis, &amp; de Saphirs. Sa Majesté dit à ce Duc en le luy donnant, <hi
-            rend="i">qu'Elle ne pouvoit le remettre en de meilleures mains.</hi></p>
+          d'Emeraudes, de Rubis, &amp; de Saphirs. Sa Majesté dit à ce Duc en le luy donnant, <hi rend="i">qu'Elle ne pouvoit le remettre en de meilleures mains.</hi></p>
         <p>Vous vous souvenez que le Roy de Pologne luy envoya, il y a quelques temps, celuy du feu
           Grand Visir ; de sorte que deux grands Rois luy ont fait chacun un present semblable. Ce
           Duc avoit donné quelque temps auparavant, une Epée d'or à M. Morel de la Musique du Roy,
@@ -1681,8 +1593,7 @@
         <p/>
         <p>Un Peintre fameux a fait le Portrait d'un homme tres-celebre par ses Ouvrages, &amp; ce
           Portrait a esté gravé par un tres-habile Graveur. Le Peintre est M<hi rend="sup">r</hi>
-          Mignard, fils de feu M<hi rend="sup">r</hi> Mignard d'Avignon, &amp; Neveu de M<hi
-            rend="sup">r</hi> Mignard, qui n'a besoin que d'estre nommé pour estre connu. Jugez si
+          Mignard, fils de feu M<hi rend="sup">r</hi> Mignard d'Avignon, &amp; Neveu de M<hi rend="sup">r</hi> Mignard, qui n'a besoin que d'estre nommé pour estre connu. Jugez si
           celuy dont je vous parle estant digne fils &amp; neveu de deux hommes si illustres, ne
           merite pas luy-même ce titre. Feu M<hi rend="sup">r</hi> Mignard son pere, qui a peint de
           si belles choses dans le Palais des Thuileries, pouvoit disputer dans l'Art dont il se
@@ -1692,12 +1603,9 @@
           aussi ressemblans qu'ils sont, ils pourroient passer pour de bons Tableaux, &amp; se
           vendre sur ce pied-là, ce qui est assez rare, les Peintres qui travaillent aux Portraits
           s'attachant ordinairement beaucoup moins à la bonne Peinture qu'à la ressemblance, qui est
-          ce que l'on cherche le plus dans un Portrait. Quoy que j'en aye veu plusieurs de M<hi
-            rend="sup">r</hi> Mignard, &amp; tous également beaux, je ne m'en fie ny à mes yeux ny à
+          ce que l'on cherche le plus dans un Portrait. Quoy que j'en aye veu plusieurs de M<hi rend="sup">r</hi> Mignard, &amp; tous également beaux, je ne m'en fie ny à mes yeux ny à
           mes lumieres, &amp; je parle sur la foy des plus habiles connoisseurs, &amp; des personnes
-          du meilleur goust. Le Portrait que cet Illustre a fait au naturel, est de M<hi rend="sup"
-            >r</hi> de Lully. Il a esté gravé par M<hi rend="sup">r</hi> Roulet, Eleve de M<hi
-            rend="sup">r</hi> Poilly, qui aprés avoir apris son métier sous un si grand Maistre,
+          du meilleur goust. Le Portrait que cet Illustre a fait au naturel, est de M<hi rend="sup">r</hi> de Lully. Il a esté gravé par M<hi rend="sup">r</hi> Roulet, Eleve de M<hi rend="sup">r</hi> Poilly, qui aprés avoir apris son métier sous un si grand Maistre,
           s'est perfectionné pendant douze ans en Italie. Les Devises qui servent d'ornement à ce
           Portrait, sont de M<hi rend="sup">r</hi> l'Abbé Tallemant le jeune, dont les Ouvrages
           n'ont point besoin d'éloges pour estre estimez. Comme la Poësie convient bien aux
@@ -1730,5 +1638,4 @@
         </ref>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

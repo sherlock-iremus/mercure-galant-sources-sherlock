@@ -1,74 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1678-09e" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Extraordinaire du Mercure galant, quartier de juillet 1678 [tome III]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Alexandre De Craim</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name ref="mailto:frederic.glorieux@fictif.org">Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2014"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1678-09e/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Extraordinaire du Mercure galant</title>, <publisher>Claude
-          Blageart</publisher>, quartier de juillet <date>1678</date> [tome III]. <hi rend="i"
-            >Achevé d’imprimer le 15 octobre 1678</hi>.</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1678"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Extraordinaire du Mercure galant</hi>, quartier de juillet 1678 (tome
         III).</head>
@@ -1958,8 +1888,7 @@
             n’ose plus y paroistre seul, je vous prie de trouver bon que je voyage en sa compagnie.
             Je ne l’incommoderay pas beaucoup, &amp; je vous assure que j’auray autant de docilité
             qu’il le pourra souhaiter. Vous trouverez un Billet de Mars, où vous verrez que les Gens
-            de guerre ne disent pas beaucoup. Il ne vous ennuyera pas tant que celuy de <hi
-              rend="sc">Mercure</hi>.</p>
+            de guerre ne disent pas beaucoup. Il ne vous ennuyera pas tant que celuy de <hi rend="sc">Mercure</hi>.</p>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-09e_164b" resp="mercure">
@@ -2316,9 +2245,7 @@
             fait toûjours quelque gageure qui donne une impatience extrême de voir le suivant. Je
             suis au nombre de ces impatiens Lecteurs, &amp; j’attens avec empressement le premier
             qui viendra pour m’ôter l’inquiétude que me donnent les Enigmes du mois de Juin. La
-            premiere m’a fait resver plus d’un jour ; enfin un de mes Amis a rencontré l’<hi
-              rend="i">Ameçon.</hi> J'en trouve l’application assez juste. Les deux Vers, <hi
-              rend="i">Et toûjours mon nom se donne à ce qui vaut mieux que moy</hi>, nous firent un
+            premiere m’a fait resver plus d’un jour ; enfin un de mes Amis a rencontré l’<hi rend="i">Ameçon.</hi> J'en trouve l’application assez juste. Les deux Vers, <hi rend="i">Et toûjours mon nom se donne à ce qui vaut mieux que moy</hi>, nous firent un
             peu de peine, mais nous les avons donnez aux appas, qui font d’un plus grand prix chez
             une Belle, qu’au bout d’un Filet.</p>
           <p>La seconde est la Couronne d’un Souverain ; &amp; l’Enigme en Figure, veut faire voir
@@ -2719,10 +2646,8 @@
         </quote>
         <p>Tandis que la Paix arrestée avec la Hollande donnoit bien aux Peuples qui composent cette
           Republique de se réjoüir de leur bonheur, M<hi rend="sup">r</hi>  le Marechal de Crequy a
-          remporté de grands avantages sur les Allemens. Il est designé par ce mot de <hi rend="i"
-            >Paladin</hi>, qui estoit autrefois une dignité fort renommée. C'est en effet aux
-          anciens <hi rend="i">Paladin</hi> que les Mareschaux de France ont succedé. <hi rend="i"
-            >Nemetes</hi>, sont les Peuples de la Germanie d’entre les Villes de Strasbourg &amp; de
+          remporté de grands avantages sur les Allemens. Il est designé par ce mot de <hi rend="i">Paladin</hi>, qui estoit autrefois une dignité fort renommée. C'est en effet aux
+          anciens <hi rend="i">Paladin</hi> que les Mareschaux de France ont succedé. <hi rend="i">Nemetes</hi>, sont les Peuples de la Germanie d’entre les Villes de Strasbourg &amp; de
           Mayance, dont César dans ses Commentaires, &amp; Pline liv. 4. chap. 17. ont fait mention.
           Ces curieuses Observations sont deuës à M. Allard, dont vous avez veu plusieurs Lettres
           sous le nom de l’Hermite de S. Giraud.</p>
@@ -2823,8 +2748,7 @@
           Il est de M<hi rend="sup">t</hi> Furdaulx Maitre de Musique de la Cathédrale de Mets &amp;
           trop du temps, pour ne vous en pas régaler extraordinairement.</p>
         <quote>
-          <label rend="center">AIR EN RECIT.</label><note resp="author" place="margin"><hi rend="i"
-              >Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Heros, dont
+          <label rend="center">AIR EN RECIT.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Heros, dont
               les grands Noms embellissoient l’Histoire</hi>, doit regarder la page 301.</note>
           <lg>
             <l rend="i">Heros, dont les grands Noms embellissoient l’Histoire,</l>
@@ -2912,8 +2836,7 @@
         <head>[Réponses aux énigmes]*</head>
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier de juillet 1678 [tome III],
           p. 309-317.</bibl>
-        <p>Voicy comme les Enigmes du <hi rend="i">Clavessin</hi> &amp; du <hi rend="i"
-          >Tournebroche</hi> ont esté expliquées par diférentes Personnes <note resp="editor">Voir <ref target="MG-1678-08_346">cet article</ref> pour
+        <p>Voicy comme les Enigmes du <hi rend="i">Clavessin</hi> &amp; du <hi rend="i">Tournebroche</hi> ont esté expliquées par diférentes Personnes <note resp="editor">Voir <ref target="MG-1678-08_346">cet article</ref> pour
             l'énigme et <ref target="MG-1678-09_342">celui-ci</ref> pour la solution</note>.</p>
         <quote>
           <label rend="center">Explication des Deux.</label>
@@ -3135,8 +3058,7 @@
             j’aye en France. Elle me fait apprendre la Langue en mesme temps qu’elle me divertit
             l’esprit. Je ne les ay leus que quelque temps apres qu’ils ont esté faits, à l’exeption
             de celuy du Mois d’Aoust. J'ay un peu resvé sur les Enigmes que j’y ay trouvées. La
-            premier m’a paru estre <hi rend="i">le Clavessin</hi> ; &amp; la seconde, <hi rend="i"
-              >une Horloge à pendule.</hi> Si je n’ay pas deviné juste, cela doit estre pardonné à
+            premier m’a paru estre <hi rend="i">le Clavessin</hi> ; &amp; la seconde, <hi rend="i">une Horloge à pendule.</hi> Si je n’ay pas deviné juste, cela doit estre pardonné à
             un Estranger, qui a de la peine à entendre le langage. Au moins cecy me fera une
             occasion de vous dire que je suis vostre, &amp;c.</p>
           <p><hi rend="sc">François-Loüis Vander Weillen</hi>, <hi rend="i">Gentilhomme
@@ -3182,8 +3104,7 @@
             pronostiqua de l’année 1588. qu’on nomma la merveilleuse, à cause des prodigieux
             accidens qu’on devoit voir, &amp; de la fameuse Eclypse de Soleil de l’an 1654.
             Neantmoins toutes ces Predictions n’eurent point d’effet, &amp; elles ne servirent qu’à
-            confondre la vaine Science des Astrologues. Je suis, &amp;c. <space> </space><hi
-              rend="sc">De la Tousche.</hi></p>
+            confondre la vaine Science des Astrologues. Je suis, &amp;c. <space> </space><hi rend="sc">De la Tousche.</hi></p>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-09e_332" resp="mercure">
@@ -3262,8 +3183,7 @@
           <label rend="center">LETTRE XXXI.</label>
           <p>JE suis obligé, Monsieur, de vous apprendre le bruit que vostre Mercure fait à Madrid
             parmy les Personnes de la premiere qualité. Voicy ce qu’un Homme de merite qui est dans
-            cette Cour, &amp; à qui je l’envoyay il y a quelque mois, m’en a écrit. <hi rend="i"
-              >J'admire la nouvelle &amp; agreable maniere de s’immortaliser, que l’Autheur du
+            cette Cour, &amp; à qui je l’envoyay il y a quelque mois, m’en a écrit. <hi rend="i">J'admire la nouvelle &amp; agreable maniere de s’immortaliser, que l’Autheur du
               Mercure fournit aux Gens d’esprit, dont je trouve qu’il fait une troisiéme espece de
               Héros.</hi></p>
           <lg>
@@ -3726,8 +3646,7 @@
             <l>Vincer doppo i nemici anco sè stesso</l>
             <l>Siadi <hi rend="sc">Luigi</hi> imcomparabil vanto.</l>
           </lg>
-          <p><hi rend="i">Del Dottore </hi><hi rend="sc">Alfonso Pajoli</hi>, <hi rend="i"
-              >Ferrarese.</hi></p>
+          <p><hi rend="i">Del Dottore </hi><hi rend="sc">Alfonso Pajoli</hi>, <hi rend="i">Ferrarese.</hi></p>
         </quote>
       </div>
       <div type="article" xml:id="MG-1678-09e_373" resp="mercure">
@@ -4013,8 +3932,7 @@
             écrire. Tout ce qui se mesle de Literature vous doit tribut, &amp; j’ay crû puis qu’on
             devoit vous le payer tôt ou tard, qu’il valoit autant que je commençasse aujourd’huy.
             J'ay quelquefois deviné vos Enigmes ; mais sans parler des passez, je croy que ceux du
-            mois d’Aoust sont le <hi rend="i">Clavessin</hi> &amp; le <hi rend="i"
-            >Tournebroche</hi>. Je suis si novice à ce métier &amp; je voy tant d’habiles Gens s’y
+            mois d’Aoust sont le <hi rend="i">Clavessin</hi> &amp; le <hi rend="i">Tournebroche</hi>. Je suis si novice à ce métier &amp; je voy tant d’habiles Gens s’y
             tromper, que je n’oserois me répondre d’avoir pensé juste. Vostre Mercure de Septembre
             m’aprendra ce qui en est. Je me flate aussi d’avoir rencontré l’explication de vostre
             Enigme en Figure. Deux Lettres que j’écrivis là-dessus il y a quelques jours à un de mes
@@ -4086,5 +4004,4 @@
         <p>FIN.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

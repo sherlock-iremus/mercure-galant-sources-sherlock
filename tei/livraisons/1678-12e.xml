@@ -1,74 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="MG-1678-12e" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Extraordinaire du Mercure galant, quartier d'octobre 1678 [tome IV]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Alexandre De Craim</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-        <respStmt>
-          <name ref="mailto:frederic.glorieux@fictif.org">Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2014"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1678-12e/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Extraordinaire du Mercure galant</title>, <publisher>Claude
-            Blageart</publisher>, quartier d'octobre <date>1678</date> [tome IV].<hi rend="i">Achevé
-            d’imprimer le 14 janvier 1679</hi>.</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1678"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Extraordinaire du Mercure galant</hi>, quartier d’octobre 1678 (tome
         IV).</head>
@@ -625,8 +555,7 @@
             &amp; brillant, qu’à accommoder un Festin propre &amp; magnifique. Les Zéphirs s’estant
             acquitez des ordres qu’ils avoient reçeus, assurerent l’Amour que pas-une Divinitez ne
             manqueroit à se rendre à la Feste, à l’exception de Mars &amp; de la Gloire. Ils
-            disoient que la Gloire s’en defendoit sur ce qu’elle n’abandonne point <hi rend="sc"
-              >Loüis le Grand</hi>, &amp; que Mars s’estant retiré avec la Discorde dans le Palais
+            disoient que la Gloire s’en defendoit sur ce qu’elle n’abandonne point <hi rend="sc">Loüis le Grand</hi>, &amp; que Mars s’estant retiré avec la Discorde dans le Palais
             de l’Envie, estoit résolu à n’en point sortir. Ce Dieu de la Guerre, ajoûterent les
             Zéphirs, est tellement chagrin de ce que son regne se passe, qu’il n’est plus capable
             que d’estre un Trouble feste. L'Amour content de n’avoir rien à desirer davantage, se
@@ -1462,8 +1391,7 @@
         <p>Vous devez avoir entendu parler d’une contestation qui s’est émeuë, pour sçavoir si la
           langue Latine avoit quelques avantages sur la Françoise en matiere d’Inscriptions. Force
           habiles Gens soûtiennent que cette derniere ne cede à l’autre en aucune sorte ; &amp; pour
-          le prouver, ils se servent de quatre Traductions de six Vers Latins que M<hi rend="sup"
-            >r</hi> de Santeüil Chanoine de S. Victor, a faits à la priere de la Ville, sur la Pompe
+          le prouver, ils se servent de quatre Traductions de six Vers Latins que M<hi rend="sup">r</hi> de Santeüil Chanoine de S. Victor, a faits à la priere de la Ville, sur la Pompe
           du Pont Nostre-Dame. Ils y sont gravez en lettres d’or, &amp; mériteroient la récompense
           qui fut donnée autrefois à Sannazar pour les six qu’il fit sur Venise à la sollicitation
           du Doge de cette fameuse Republique. Soufrez, je vous prie, que je fasse icy grace au
@@ -1614,8 +1542,7 @@
             un Arbitre, qui est presentement un des plus illustres Prélats du Royaume. On broüilla
             mesme le sujet de la querelle. C'est ce qui arrive presque toûjours dans les
             contestations. Je fis en ce temps-là un voyage à la Trape, &amp; je n’ay pas sçeu ce qui
-            fut prononcé par Monseigneur l’Esveque de Troyes, qui estoit en ce temps-là M<hi
-              rend="sup">r</hi> l’Abbé de Chavigny. Ce seroit neantmoins l’endroit le plus important
+            fut prononcé par Monseigneur l’Esveque de Troyes, qui estoit en ce temps-là M<hi rend="sup">r</hi> l’Abbé de Chavigny. Ce seroit neantmoins l’endroit le plus important
             de la dispute dont je vous fait le recit ; car mesme il y a du plaisir &amp; de
             l’honneur pour ceux qui aiment les belles Lettres, de se souvenir qu’un Docteur d’une si
             profonde érudition, ne les a pas jugées indignes de quelques-uns de ses soins. Mais le
@@ -1886,8 +1813,7 @@
           <l>LOUIS, sans emprunter de lumiere étrangere,</l>
           <l>Connoit tout par Luy-mesme, &amp; voit tout par ses yeux.</l>
         </quote>
-        <p>La troisiéme marquée VIII. est un Soleil qu’un Aigle regarde. Ces mots en font l’ame, <hi
-            rend="i">Aquilam recreat</hi>. Rien ne sçauroit mieux representer le secours que le Roy
+        <p>La troisiéme marquée VIII. est un Soleil qu’un Aigle regarde. Ces mots en font l’ame, <hi rend="i">Aquilam recreat</hi>. Rien ne sçauroit mieux representer le secours que le Roy
           donna à l’Empire, en chassant les Turcs de la Hongrie, &amp; les contraignant à demander
           instamment la Paix, tous insolens qu’ils estoient de leur victoire, apres avoir pris
           quantité de Places fortes sur l’Empereur. Les Troupes que le Roy y envoya sous la conduite
@@ -1904,8 +1830,7 @@
         </quote>
         <p>La quatriéme marquée IX. fait connoistre l’amour du Roy pour la Justice, &amp;
           l’obligation que luy a la France du Code nouveau qu’il a bien voulu prendre soin de luy
-          donner. C'est un Soleil au dessous duquel sont des Balances, avec ces mots, <hi rend="i"
-            >Habet hoc signa inter cœtera fignum.</hi></p>
+          donner. C'est un Soleil au dessous duquel sont des Balances, avec ces mots, <hi rend="i">Habet hoc signa inter cœtera fignum.</hi></p>
         <quote>
           <l><space/>Ce Symbole de la Justice</l>
           <l>Que l’on compte parmy les Signes du Soleil,</l>
@@ -2025,8 +1950,7 @@
           son nom, parce qu’il m’avoit esté caché jusqu’icy. C'est luy qui a fait le Madrigal des
           deux Marys, l’un trop jeune, &amp; l’autre trop vieux, qui est dans ma Lettre du dernier
           Mois. Le Menüet employé dans celle du Mois précedent, qui commence par <hi rend="i">Ne
-            croyez pas, jeune Bergere</hi>, est aussi de luy, ainsi que le Sonnet, <hi rend="i"
-            >Grand Roy, quand tu mettrois le monde sous ta Loy</hi>, avec le Madrigal sur le mesme
+            croyez pas, jeune Bergere</hi>, est aussi de luy, ainsi que le Sonnet, <hi rend="i">Grand Roy, quand tu mettrois le monde sous ta Loy</hi>, avec le Madrigal sur le mesme
           sujet, qui le suit immédiatement, &amp; un autre sur le mal de dents. Ces trois dernieres
           Pieces sont dans le Mercure de Septembre. Je pourrois vous en nommer d’autres, mais je les
           laisse pour venir à ce qu’il a fait pour l’essay des Cadrans Solaires, dont j’ay commencé
@@ -2209,8 +2133,7 @@
           </lg>
         </quote>
         <lb/>
-        <p><hi rend="i">Cette mesme Lettre en chifre a esté ainsi expliquée par M<hi rend="sup"
-              >r</hi> Miconet Avocat à Chalons sur Saone.</hi></p>
+        <p><hi rend="i">Cette mesme Lettre en chifre a esté ainsi expliquée par M<hi rend="sup">r</hi> Miconet Avocat à Chalons sur Saone.</hi></p>
         <quote>
           <lg>
             <l><hi rend="i">Ce n'est pas aux plus fins Esprits</hi></l>
@@ -2529,8 +2452,7 @@
         <p>Cette Fable est encor de M<hi rend="sup">r</hi> Gardien Secretaire du Roy, dont vous avez
           déja veu une premiere sur le mesme sujet, traitée par métamorphose. Il merite assurément
           beaucoup de loüanges, ayant l’esprit galant &amp; vif, &amp; beaucoup d’érudition. Sa
-          galanterie paroist dans les Enigmes du <hi rend="i">Champignon</hi> &amp; du <hi rend="i"
-            >Cœur</hi>, qui sont toutes deux de luy, &amp; dont la derniere a esté trouvée
+          galanterie paroist dans les Enigmes du <hi rend="i">Champignon</hi> &amp; du <hi rend="i">Cœur</hi>, qui sont toutes deux de luy, &amp; dont la derniere a esté trouvée
           admirable. Rien n’approche de la facilité qu’il a toûjours euë à trouver le sens de celles
           que je vous ay proposées dans mes Lettres, je parle des Enigmes en figure aussi bien que
           des autres qui sont en Vers, aucune de ces premieres ne luy ayant encor échapé.</p>
@@ -2558,8 +2480,7 @@
             viens de repasser legerement pour vous donner cette satisfaction. J'y mesleray trés-peu
             du mien, &amp; encor je pretens que ce soit avec une parfaite soumission aux lumieres de
             ceux qui peuvent estre plus éclairez que moy sur ces matieres.</p>
-          <p>Les Devises, les Emblêmes, &amp; les Armes, &amp; tout ce qui s’apelle en Latin <hi
-              rend="i">Insignia</hi>, ont esté dans une grande confusion chez les Anciens, non
+          <p>Les Devises, les Emblêmes, &amp; les Armes, &amp; tout ce qui s’apelle en Latin <hi rend="i">Insignia</hi>, ont esté dans une grande confusion chez les Anciens, non
             seulement pour leurs noms, mais encor pour leurs diférences, avec peu ou point de
             distinction, eu égard à celles qu’elles ont reçeuës dans la suite, soit parce qu’ils les
             employoient toutes à une mesme fin, soit que ces distinctions ayant esté seulement
@@ -2728,8 +2649,7 @@
             quand elle parle de soy-même, comme dans la Devise du Feu, dans lequel est une
             Salamandre, <hi rend="i">nutrisco &amp; extinguor</hi>, je nourris &amp; j’en suis
             éteint ; &amp; en seconde Personne, quand il y a plusieurs Figures, &amp; que l’on fait
-            parler l’une d’elles à l’autre, ou aux autres, comme de la Perle, qui dit au Soleil, <hi
-              rend="i">tu splen dorem</hi>, c’est toy qui me donnes l’éclat, &amp; il ne faut jamais
+            parler l’une d’elles à l’autre, ou aux autres, comme de la Perle, qui dit au Soleil, <hi rend="i">tu splen dorem</hi>, c’est toy qui me donnes l’éclat, &amp; il ne faut jamais
             pervertir cet ordre ; comme par exemple d’une flâme à qui l’on feroit dire d’elle mesme
             comme font certaines Personnes, <hi rend="i">tu brûles &amp; tu éclaires</hi>, ou de qui
             l’Autheur diroit le mesme aussi en seconde Personne, ce qui ne vaudroit rien, &amp; il
@@ -2982,8 +2902,7 @@
             La Coûtume a cessé à l’égard des Sepulchres, mais elle s’est toûjours observée pour ce
             qui est des Edifices de grande consideration.</p>
           <p>Les Monnoyes estoient seulement pour la dépense, &amp; fabriquées avec l’Image du
-            Prince d’un costé ; dans l’autre l’on figuroit pour l’ordinaire le signe public <hi
-              rend="i">Insignia</hi> de la Ville, ou bien son Dieu tutelaire ; quelque Fleuve ou
+            Prince d’un costé ; dans l’autre l’on figuroit pour l’ordinaire le signe public <hi rend="i">Insignia</hi> de la Ville, ou bien son Dieu tutelaire ; quelque Fleuve ou
             Temple considerable ; ou enfin quelqu’autre figure par laquelle ils vouloient que leur
             Monnoye fust connuë, &amp; distinguée de celle des autres Villes, &amp; mesme souvent la
             Ville y faisoit mettre son nom.</p>
@@ -3994,8 +3913,7 @@
           étendu pres de luy. Ce dernier marque la Triple Alliance, &amp; l’on trouve aisément le
           Roy dans cet Hercule, qu’on ne peut attaquer impunément.</p>
         <label rend="center">3.<hi rend="i">Victoris clementia</hi>.</label>
-        <p>On voit une Paix qui retient une petite Victoire. Les mots sont aussi simples que le <hi
-            rend="i">Felicitas populi</hi>, ou <hi rend="i">Securitas publica</hi> des Romains;
+        <p>On voit une Paix qui retient une petite Victoire. Les mots sont aussi simples que le <hi rend="i">Felicitas populi</hi>, ou <hi rend="i">Securitas publica</hi> des Romains;
           Cette belle simplicité, qui ne laisse pas de dire beaucoup, est difficile à trouver.</p>
         <label rend="center">4.<hi rend="i">Unde labor requies</hi>.</label>
         <p>C’est une Gloire appuyée sur une Palme, &amp; assise sur des Lauriers. Cela s’entend
@@ -4115,8 +4033,7 @@
           Leon. Ce mesme Lyon sert d’armes à quelques unes des Villes que sa Majesté a prises.</p>
         <label rend="center">29.<hi rend="i">Creverunt viribus Astri</hi>.</label>
         <p>C’est une Tige de Lys, au haut de laquelle sont trois fleurs. Elles representent la
-          France, &amp; marquent de quelle maniere le Royaume s’est augmenté par la valeur de <hi
-            rend="sc">Loüis le Grand</hi>, representé par le Soleil.</p>
+          France, &amp; marquent de quelle maniere le Royaume s’est augmenté par la valeur de <hi rend="sc">Loüis le Grand</hi>, representé par le Soleil.</p>
         <p><hi rend="i">Le Revers suivant est de M<hi rend="sup">r</hi> Robbe. C’est un nom qui ne
             vous est pas inconnu.</hi></p>
         <label rend="center">30.<hi rend="i">Sic Lodoïx inter Reges</hi>.</label>
@@ -4143,8 +4060,7 @@
         <p><hi rend="i">M<hi rend="sup">r</hi> Roubin de ce qui sont ces quatre Revers, avoit aussi
             appliqué au Roy, dés le temps qu’il me les donna, ces paroles que l’Ecriture applique au
             Soleil, </hi>Nemo est qui se abscondat à calore ejus<hi rend="i">, &amp; celles-cy qui
-            ne conviennent pas moins au Roy qu’à ce bel Astre, </hi>Cursum mora nulla detardat. <hi
-            rend="i">Comme elles sont déja dans la Planche où est l’Epistre adressee à ce Grand
+            ne conviennent pas moins au Roy qu’à ce bel Astre, </hi>Cursum mora nulla detardat. <hi rend="i">Comme elles sont déja dans la Planche où est l’Epistre adressee à ce Grand
             Monarque, j’ay crû ne les devoir point mettre parmy ces Revers, pour ne pas faire voir
             deux fois la mesme chose.</hi></p>
         <p><hi rend="i">Le Revers &amp; l’Inscription qui suivent, sont de M<hi rend="sup">r</hi> de
@@ -4190,8 +4106,7 @@
         <bibl><title>Extraordinaire du Mercure galant</title>, quartier d’octobre 1678 [tome IV], p.
           375-388.</bibl>
         <p><hi rend="i">Voicy quelques Explications des Enigmes proposées dans ma Lettre du Mois de
-            Novembre. Vous vous souvenez que les Mots estoient</hi> la Mouche galante, <hi rend="i"
-            >&amp;</hi> la Calote.</p>
+            Novembre. Vous vous souvenez que les Mots estoient</hi> la Mouche galante, <hi rend="i">&amp;</hi> la Calote.</p>
         <ab type="ornament">**</ab>
         <ab type="ornament">*</ab>
         <lb/>
@@ -4515,5 +4430,4 @@
         <p>A Paris ce 14. Janvier 1679.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

@@ -1,70 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1686-12b">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, Troisième partie du voyage des ambassadeurs de Siam, décembre 1686
-          (deuxième partie) [tome 18]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1686-12b</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant, Troisième partie du voyage des ambassadeurs de Siam</title>,
-            <date>décembre 1686</date> (deuxième partie) [tome 18].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1686-12"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant, Troisième partie du voyage des ambassadeurs de Siam</hi>,
         décembre 1686 (deuxième partie) [tome 18].</head>
@@ -133,8 +67,7 @@
         <p/>
         <p>Béthune</p>
         <p>[...] Ils arresterent le soir M<hi rend="sup">r</hi> de Chanterene [Lieutenant Colonel
-          d'Infanterie] à souper, avec le Capitaine qui commandoit la Garde devant leur logis. M<hi
-            rend="sup">r</hi> de Chanterene fit venir des Violons, qui joüèrent pendant tout le
+          d'Infanterie] à souper, avec le Capitaine qui commandoit la Garde devant leur logis. M<hi rend="sup">r</hi> de Chanterene fit venir des Violons, qui joüèrent pendant tout le
           Repas. [...]</p>
         <p/>
         <p>S. Omer</p>
@@ -148,8 +81,7 @@
             <hi rend="i">une Eglise ancienne qui n'avoit rien d'extraordinaire</hi>. Il s'informa si
             <hi rend="i">M<hi rend="sup">r</hi> l'Evêque y seroit</hi>. M<hi rend="sup">r</hi> Torf
           luy repondit qu'il ne manqueroit assurement pas de s'y trouver, s'il estoit assuré qu'il y
-          dût aller. <hi rend="i">Je veux bien aller</hi>, répondit l'Ambassadeur, <hi rend="i"
-            >&amp; si M<hi rend="sup">r</hi> l'Evêque s'y trouve, l'Eglise me paroistra belle.</hi>
+          dût aller. <hi rend="i">Je veux bien aller</hi>, répondit l'Ambassadeur, <hi rend="i">&amp; si M<hi rend="sup">r</hi> l'Evêque s'y trouve, l'Eglise me paroistra belle.</hi>
           Il y alla, &amp; y fut receu par tout le Clergé en Corps, &amp; par ce Prelat. On fit voir
           aux Ambassadeurs ce que cette Eglise contenoit de plus digne de leur curiosité. Ils
           allerent aussi à la fameuse Abbaye de S. Bertin, où le Prieur leur fit compliment. La
@@ -182,8 +114,7 @@
         <p>[Ils] allèrent souper chez M<hi rend="sup">r</hi> de la Rabliere, qui les avoit invités.
           Ce Repas fut d'une tres-grande magnificence, &amp; accompagné d'une Simphonie, composée
           d'un fort grand nombre d'Instrumens, on y but les Santés de l'Alliance Royales, &amp; l'on
-          recommença plusieurs fois celle du Roy. Il y eût un grand Bal apres le soupé, où M<hi
-            rend="sup">lle</hi> Despierre se fit admirer. On m'a assuré qu'elle est de la force de
+          recommença plusieurs fois celle du Roy. Il y eût un grand Bal apres le soupé, où M<hi rend="sup">lle</hi> Despierre se fit admirer. On m'a assuré qu'elle est de la force de
           tout ce qu'il y a de personnes en France qui dansent le mieux. Les Ambassadeurs ne s'en
           retournerent qu'aprés minuit. [...]</p>
         <p/>
@@ -196,8 +127,7 @@
           mortiers, pour leur faire voir l'effet de deux Bombes, d'un Boulet rouge, &amp; d'une
           Carcasse. Ils admirerent ces machines, &amp; en raisonnerent fort particulierement, se
           faisant instruire de tout, &amp; mesme des moindres choses. Ils monterent sur la muraille,
-          &amp; virent jetter les bombes dans la Campagne avec beaucoup d'admiration. M<hi
-            rend="sup">r</hi> le Comte de Maulevrier les conduisit ensuite dans sa maison, dont ils
+          &amp; virent jetter les bombes dans la Campagne avec beaucoup d'admiration. M<hi rend="sup">r</hi> le Comte de Maulevrier les conduisit ensuite dans sa maison, dont ils
           trouverent le devant de la porte &amp; la Cour fort illuminez. Il les fit monter dans
           l'Appartement de Madame la Comtesse de Medavy &amp; plusieurs Dames. En attendant l'heure
           du soupé, on leur donna le divertissement d'un Concert de musique, composé de tres-belles
@@ -234,8 +164,7 @@
           Maulevrier, &amp; Madame la Comtesse de Medavy, les attendoient avec une vingtaine de
           Dames des mieux faites de la Ville. Ils y donnerent l’ordre à M<hi rend="sup">r</hi> de
           Jearny Major de la Ville, en ces mots : <hi rend="i">Je m’appuiray du bâton en combattant
-            de l’épée</hi>. Ce Mot ainsi que le precedent, est appliqué à la personne de M<hi
-            rend="sup">r</hi> le Comte de Maulevrier. Ce n’est pas à moy à raisonner sur ces mots,
+            de l’épée</hi>. Ce Mot ainsi que le precedent, est appliqué à la personne de M<hi rend="sup">r</hi> le Comte de Maulevrier. Ce n’est pas à moy à raisonner sur ces mots,
           &amp; je n’en dois rien dire, sinon qu’ils furent fort applaudis. On joüa une Piece
           Comique ; mais afin de faire voir de beaux Habits aux Ambassadeurs, M<hi rend="sup">r</hi>
           le Comte de Maulevrier ordonna aux Comediens de se vestir à la Romaine ; ce qui réüssit
@@ -302,5 +231,4 @@
           gravez, qu’on a crû qu’il estoit impossible de les mieux faire.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

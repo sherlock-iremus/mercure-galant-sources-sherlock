@@ -1,65 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1693-05">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, mai 1693 [tome 6]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1693-05</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
-    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
-    sur les bases de données (L341-1) est mise à disposition de la communauté
-    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
-    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
-    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-<p>Attribution : afin de référencer la source, toute utilisation ou publication
-    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
-    l’adresse Internet de la ressource.</p>
-<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
-    toute utilisation commerciale est interdite.</p>
-<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-    électronique, notamment en intégrant toutes les contributions extérieures, la
-    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>mai 1693</date> [tome 6].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1693-05"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
         <head><hi rend="i">Mercure galant</hi>, mai 1693 [tome 6].</head>
         <div type="article" xml:id="MG-1693-05_007" resp="wordpro">
@@ -783,5 +722,4 @@
           <p>Bien que la Musique soit aujourd’huy fort à la mode, &amp; qu’il y ait un tres-grand nombre de Compositeurs, il est certain que les Maistres excellens &amp; originaux sont rares. C’est ce qui fait croire que les vrais Connoisseurs ne seront pas fachez d’estre avertis, que M<hi rend="sup">r</hi> Lorenzani a fait imprimer depuis peu, à la sollicitation de ses Amis, par le S<hi rend="sup">r</hi> Christophe Ballard, un Recueil de plusieurs de ses Motets à une, deux trois, quatre, cinq &amp; six parties, avec les simphonies, le tout en onze volumes dediez au Roy. M<hi rend="sup">r</hi> de Lorenzani remplissoit à Rome avec éclat la place de Maistre de Musique des Jesuites, lorsqu’on luy vint offrir celle de la Cathedrale de Messine, bien plus importante par sa reputation, &amp; par ses revenus, qu’aucune autre d’Italie. M<hi rend="sup">r</hi> le Maréchal de Vivonne, aussi distingué par son esprit &amp; par son bon goust que par ses grands Emplois &amp; par sa naissance, qui commandoit pour lors en Sicile, l’honora bien-tost de son estime &amp; de sa bienveillance, &amp; lors que ce Seigneur revint en France, aprés les revolutions de Messine, il engagea M<hi rend="sup">r</hi> de Lorenzani à le suivre jusqu’à Paris, avant que de retourner à Rome, où la Maistrise de S. Pierre luy estoit offerte. Il le conduisit à la Cour, &amp; le presenta au Roy, auquel il fit entendre des Motets &amp; des Airs Italiens de sa composition, dont Sa Majesté parut si contente, qu’Elle eut la bonté de luy faire dire, que s’il vouloit demeurer en France, Elle auroit soin de sa fortune. Ces paroles furent bientost suivies d’un Present considerable, pour luy faire acheter de M<hi rend="sup">r</hi> Boisset la Charge de Maistre de Musique de la feuë Reine, qu’il a exercée jusqu’à la mort de cette Princesse.</p>
         </div>
       </body>
-  </text>
-</TEI>
+  </text></TEI>

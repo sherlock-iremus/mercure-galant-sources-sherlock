@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1686-05">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, mai 1686 [tome 6]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1686-05</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>mai 1686</date> [tome 6].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1686-05"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, mai 1686 [tome 6].</head>
       <div type="article" xml:id="MG-1686-05_012" resp="wordpro">
@@ -180,8 +116,7 @@
               est dit</hi>, J’eleveray une haute Montagne au dessus des autres, toutes les Nations
             luy viendront rendre hommage, &amp; se soûmettre à son authorité ; <hi rend="i">&amp;
               ailleurs</hi>, Estendez vos Pavillons de plus loin en plus loin, car ils n’auront pas
-            d’autres bornes que celles de l’Univers, &amp; le Monde entier sera vôtre partage. <hi
-              rend="i">En voilà assez pour marquer son étenduë. Sa fecondité n’est elle pas exprimée
+            d’autres bornes que celles de l’Univers, &amp; le Monde entier sera vôtre partage. <hi rend="i">En voilà assez pour marquer son étenduë. Sa fecondité n’est elle pas exprimée
               par ces termes</hi> ? Je multiplieray vostre race comme les Etoiles du Ciel, &amp; les
             grains de Sable de la Mer. Vos Enfans seront établis Princes sur toute la Terre, &amp;
             leur voix sera entenduë jusqu’aux extremitez des Mers ; <hi rend="i">&amp; pour sa
@@ -274,8 +209,7 @@
               comprendre que nostre premier entestement n’estoit qu’un effet de la prevention &amp;
               de l’habitude, &amp; qu’il y avoit de l’aveuglement &amp; de la folie à risquer tout
               ce que nous avions en ce Monde, sans rien amasser pour l’autre que des Trésors de
-              colere. Beny-soit celuy qui a dit</hi>, Cherchez &amp; vous trouverez. <hi rend="i"
-              >Nous avons trouvé, parce que nous avons cherché, &amp; nous n’aurions jamais cherché,
+              colere. Beny-soit celuy qui a dit</hi>, Cherchez &amp; vous trouverez. <hi rend="i">Nous avons trouvé, parce que nous avons cherché, &amp; nous n’aurions jamais cherché,
               si on ne nous y avoit forcez. Cessez donc, mon tres-cher Frere, de donner le nom de
               Persecution à la conduite du Roy à nostre égard, &amp; cessez aussi d’appeller nostre
               Conversion un peché d’infirmité. Vous ne devez point regarder nôtre changement comme
@@ -344,8 +278,7 @@
         <p>On admire icy de plus en plus la magnifique Statuë que M<hi rend="sup">r</hi> le Duc de
           la Feüillade a fait élever à la gloire du Roy. La Relation de la Feste qui fut faite le
           jour qu’on la découvrit, ayant occupé la plus grande partie de ma derniere Lettre, je ne
-          pûs trouver de place pour mettre les Vers que l’on me donna sur ce sujet. M<hi rend="sup"
-            >r</hi> Doujat, Doyen de l’Academie Françoise, a fait les deux Madrigaux que vous allez
+          pûs trouver de place pour mettre les Vers que l’on me donna sur ce sujet. M<hi rend="sup">r</hi> Doujat, Doyen de l’Academie Françoise, a fait les deux Madrigaux que vous allez
           lire ; &amp; le Sonnet qui les suit, est de M<hi rend="sup">r</hi> le Clerc, de la mesme
           Academie.</p>
         <quote>
@@ -584,8 +517,7 @@
           avertit les Spectateurs de l’arrivée de Circé, qui parut assise sur un Dragon. Elle
           s’avança jusques au milieu du Camp, &amp; aprés avoir animé ses Champions au Combat, elle
           se retira pour en estre spectatrice. Alors la Course fut commencée au bruit des Timbales
-          &amp; des Trompettes, &amp; M<hi rend="sup">r</hi> le Duc de Modene, &amp; M<hi rend="sup"
-            >r</hi> le Prince Foreste, le premier armé d’une Lance, &amp; l’autre d’une Zagaïe, les
+          &amp; des Trompettes, &amp; M<hi rend="sup">r</hi> le Duc de Modene, &amp; M<hi rend="sup">r</hi> le Prince Foreste, le premier armé d’une Lance, &amp; l’autre d’une Zagaïe, les
           allerent rompre contre Ulisse &amp; Telegone. Ensuite ne voyant point d’autres ennemis,
           ils firent une grande volte sur le Camp, &amp; pendant ce temps, le Lyon &amp; l’Ours
           sortirent de leurs tanieres. M<hi rend="sup">r</hi> le Duc de Modene courut contre ces
@@ -605,8 +537,7 @@
           Duc de Modene, avec M<hi rend="sup">r</hi> le Prince Foreste, &amp; les autres Chevaliers,
           fit une maniere de Caracol autour du Camp, &amp; tous s’estant mis en suite en Escadron,
           ils sortirent en bon ordre, &amp; rentrerent au Palais. Toute cette Feste se fit sans
-          Comparse, &amp; sans les suites qui sont ordinaires dans les Tournois ; M<hi rend="sup"
-            >r</hi> le Duc n’ayant regardé celuy-cy que comme un simple Divertissement, qui
+          Comparse, &amp; sans les suites qui sont ordinaires dans les Tournois ; M<hi rend="sup">r</hi> le Duc n’ayant regardé celuy-cy que comme un simple Divertissement, qui
           permettoit qu’on se dispensast des Regles.</p>
       </div>
       <div type="article" xml:id="MG-1686-05_110" resp="wordpro">
@@ -870,8 +801,7 @@
           une probité exemplaire, que l’Academie ne pouvant contenir la joye qu’elle ressentoit
           d’avoir donné aux Affaires publiques un sujet de ce merite, s’assembla extraordinairement
           pour l’en faire feliciter, ainsi qu’elle a toûjours fait pour tous les autres de ce mesme
-          Corps, lors qu’ils ont remply de pareils emplois. Elle députa pour cét effet M<hi
-            rend="sup">rs</hi> d’Arbaud Baron de Blanzac, l’Abbé de Verdier, Sabbatier &amp; Gifon.
+          Corps, lors qu’ils ont remply de pareils emplois. Elle députa pour cét effet M<hi rend="sup">rs</hi> d’Arbaud Baron de Blanzac, l’Abbé de Verdier, Sabbatier &amp; Gifon.
             M<hi rend="sup">r</hi> d’Arbaud fut chargé du Compliment dont il s’acquita avec autant
           d’esprit que d’honnesteté, &amp; qui fut receu de la mesme sorte. M<hi rend="sup">r</hi>
           d’Ubaye n’en pouvant venir remercier la Compagnie dés ce mesme jour, tant à cause de
@@ -881,8 +811,7 @@
           des Assemblées de l’Academie. Il s’y rendit sur les trois heures accompagné d’un grand
           nombre de personnes considerables. M<hi rend="sup">rs</hi> le Chevalier de Romieu &amp;
           Giffon furent priez de les recevoir à la premiere porte de l’endroit où l’Academie
-          s’assemble, &amp; les ayant conduits dans la Salle où elle tient ses Séances, M<hi
-            rend="sup">r</hi> d’Ubaye, qui se trouvoit alors Directeur de la Compagnie, prononça un
+          s’assemble, &amp; les ayant conduits dans la Salle où elle tient ses Séances, M<hi rend="sup">r</hi> d’Ubaye, qui se trouvoit alors Directeur de la Compagnie, prononça un
           Discours tres-éloquent, dans lequel il fit voir que les plus grands hommes de tous les
           Siecles devoient leur plus haute élevation, à l’opinion qu’ils avoient sceu établir de
           leur érudition &amp; de leur esprit, ce qu’il appliqua admirablement bien sur les talens
@@ -1075,8 +1004,7 @@
           armes. Surtout, deux Compagnies de Cuirassiers qui sont en Garnison dans les Faux-bourgs
           allèrent le recevoir le Sabre à la main, &amp; il entra dans la Ville avec de Grandes
           Acclamations. M<hi rend="sup">r</hi> d'Argences, Lieutenant Général [de] la Ville &amp; du
-          Vicomté du Ponteaudemer, le vint haranguer à la teste des Echevins, aussi bien que M<hi
-            rend="sup">r</hi> du Bourg, premier Avocat du Roy dans la mesme Vicomté. Le premier
+          Vicomté du Ponteaudemer, le vint haranguer à la teste des Echevins, aussi bien que M<hi rend="sup">r</hi> du Bourg, premier Avocat du Roy dans la mesme Vicomté. Le premier
           presenta à Madame de Beuvron au nom de la Ville des Corbeilles de Confitures, &amp; des
           rafraichissemens de toutes sortes. Il y eut deux jours de réjoüissances publiques, avec
           Cavalcades, grands festins, bruits de Canon &amp; de Mousqueterie, Trompettes, Tambours,
@@ -1144,8 +1072,7 @@
         <p>Il s’est fait depuis peu une Table contenant les principes de la Musique en Dialogue. Non
           seulement elle est facile &amp; divertissante pour ceux qui apprennent cette Science de
           cette maniere, mais elle est aussi fort curieuse pour les Speculatifs, &amp; les plus
-          habiles, qui ont témoigné en faire grand cas. Cette Table se distribuë chez M<hi
-            rend="sup">r</hi> Fleury, qui en est l’Auteur. On y trouve encore d’autres Ouvrages fort
+          habiles, qui ont témoigné en faire grand cas. Cette Table se distribuë chez M<hi rend="sup">r</hi> Fleury, qui en est l’Auteur. On y trouve encore d’autres Ouvrages fort
           considerables, qu’il a faits pour joüer la Basse continuë sur le Theorbe, sur le Lut,
           &amp; sur la Guitarre.</p>
       </div>
@@ -1232,8 +1159,7 @@
               Canons du Chasteau S. Ange feroient leur décharge, &amp; que toutes les Eglises de
               Rome, tant les Basiliques, Patriarcales, Collegiales, que les autres Seculieres &amp;
               Regulieres sans en excepter aucune, sonneroient ensemble toutes leurs Cloches durant
-              l’espace d’une demie heure, ordonnant encore qu’il seroit chanté un</hi> Te Deum <hi
-              rend="i">solemnel le mesme jour dans chacune de ces Eglises à la fin de la grand’
+              l’espace d’une demie heure, ordonnant encore qu’il seroit chanté un</hi> Te Deum <hi rend="i">solemnel le mesme jour dans chacune de ces Eglises à la fin de la grand’
               Messe, qui est l’heure où la devotion attire le plus de monde. Ce jour venu qui fut
               Dimanche dernier</hi> 28. <hi rend="i">d’Avril, M<hi rend="sup">r</hi> le Cardinal
               d’Estrées se rendit le matin de bonne-heure à la Chapelle du Pape, accompagné d’une
@@ -1263,8 +1189,7 @@
               ceux qui visiteroient cette Eglise l’un des trois jours qu’il y demeureroit exposé,
               &amp; qui s’estant mis en état de meriter les graces du Ciel, remerciroient Dieu de
               l’heureux retour des Heretiques de France à l’Eglise Catholique. Pendant ces trois
-              jours il y est venu un nombre infiny de Peuple, &amp; le S<hi rend="sup"
-              >r</hi> Mellani, Maistre de la Musique de cette Eglise, &amp; l’un des plus habiles de
+              jours il y est venu un nombre infiny de Peuple, &amp; le S<hi rend="sup">r</hi> Mellani, Maistre de la Musique de cette Eglise, &amp; l’un des plus habiles de
               Rome, à semblé se surpasser luy-mesme dans cette rencontre où il a voulu faire
               paroistre le zele ardent qu’il a pour l’interest de la Religion, &amp; pour tout ce
               qui regarde l’avantage de la France.</hi></p>
@@ -1311,8 +1236,7 @@
             consolation.</hi></p>
         </quote>
         <p/>
-        <p>Voicy une autre Lettre de M<hi rend="sup">r</hi> Chassebras, écrite à M<hi rend="sup"
-            >r</hi> le Duc de S. Aignan, huit jour aprés la premiere.</p>
+        <p>Voicy une autre Lettre de M<hi rend="sup">r</hi> Chassebras, écrite à M<hi rend="sup">r</hi> le Duc de S. Aignan, huit jour aprés la premiere.</p>
         <quote>
           <p>De Rome le Mardy 7. May 1686.</p>
           <p><hi rend="i">Dimanche dernier 5. de ce mois, les Peres de S. Antoine de Rome
@@ -1331,8 +1255,7 @@
               fanfares avec le son des Timbales, sembloient porter jusqu’au Ciel les loüanges du
               Fils aisné de l’Eglise. Il y avoit une fontaine de vin à la porte du Convent, qui
               coula toute la journée, &amp; l’air retentissoit de tous costez des cris d’alegresse
-              de</hi> Vive la France, <hi rend="i">&amp;</hi> Vive le Roy Tres-Chrestien. <hi
-              rend="i">La nuit venuë, l’on éclaira tout le Convent de lanternes. On alluma des feux
+              de</hi> Vive la France, <hi rend="i">&amp;</hi> Vive le Roy Tres-Chrestien. <hi rend="i">La nuit venuë, l’on éclaira tout le Convent de lanternes. On alluma des feux
               dans la ruë, on tira quantité de fusées, &amp; d’autres Artifices, avec plus de
               quatre-vingt Boëtes &amp; Mortiers, qui s’estoient déja fait entendre le soir du jour
               précedent, &amp; tout le matin de ce jour-là. Ces Peres sont des Chanoines Reguliers
@@ -1370,8 +1293,7 @@
           cette Feste fut de relever une Confrairie érigée à l'honneur de ce Saint, il y a plus de
           trois siècles, &amp; qui avoit esté comme éteinte dans les dernières années. C'est à quoy
           Messire Antoine-Alexandre de Francelles, Docteur de la maison &amp; Société de Sorbonne,
-          &amp; Curé de S. Jean, a fort contribué par ses soins, aussi bien que M<hi rend="sup"
-            >r</hi> l'Abbé Billet, Directeur de cette Confrairie, qui est maintenant administrée par
+          &amp; Curé de S. Jean, a fort contribué par ses soins, aussi bien que M<hi rend="sup">r</hi> l'Abbé Billet, Directeur de cette Confrairie, qui est maintenant administrée par
           les Clercs &amp; Acolytes de la Paroisse. [...]</p>
         <p/>
         <p>[Après la procession,] l'Abbé Morelet fit le panégyrique du Saint avec beaucoup
@@ -1443,8 +1365,7 @@
             S<hi rend="sup">r</hi> Soubiran, Graveur du Cabinet de Monseigneur le Dauphin.</p>
         <p>Les Députez de Bourgogne, dont j’ay commencé à vous parler, furent conduis à l’Audience
           du Roy par M<hi rend="sup">r</hi> de Saintot, Maistre des Ceremonies ; &amp; comme en de
-          pareilles occasions, c’est toûjours le Député du Clergé qui porte la parole, M<hi
-            rend="sup">r</hi> l’Abbé de Maulevrier eut cet honneur, &amp; presenta le Cahier des
+          pareilles occasions, c’est toûjours le Député du Clergé qui porte la parole, M<hi rend="sup">r</hi> l’Abbé de Maulevrier eut cet honneur, &amp; presenta le Cahier des
           Etats à Sa Majesté, qui le remit entre les mains de M<hi rend="sup">r</hi> le Marquis de
           Chasteauneuf, Secretaire d’Etat.</p>
       </div>
@@ -1459,9 +1380,7 @@
           plaisir dans vostre Province. Je croy vous avoir marqué que quand Sa Majesté l’honora de
           cette importante Charge, Elle luy dit de cet air honneste &amp; obligeant dont Elle
           accompagne toutes les graces qu’il luy plaist de faire, qu’Elle ne luy confioit les
-          Sceaux, qu’à la charge qu’il les garderoit long-temps. Il semble que M<hi rend="sup"
-            >r</hi> de la Cour ait voulu se conformer aux intentions du Roy, en dédiant à M<hi
-            rend="sup">r</hi> le Chancelier un Livre qu’il a donné au Public depuis peu, sous le
+          Sceaux, qu’à la charge qu’il les garderoit long-temps. Il semble que M<hi rend="sup">r</hi> de la Cour ait voulu se conformer aux intentions du Roy, en dédiant à M<hi rend="sup">r</hi> le Chancelier un Livre qu’il a donné au Public depuis peu, sous le
           Titre de <hi rend="i">Regime de Santé</hi>. Les reflexions qui sont à faire sur la maxime
             <hi rend="i">à lædentibus &amp; juvantibus</hi>, peuvent contribuer à la conservation
           d’une santé si pretieuse à l’Estat, &amp; à procurer une longue vie à ce digne Chef de la
@@ -1497,5 +1416,4 @@
         </ref>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

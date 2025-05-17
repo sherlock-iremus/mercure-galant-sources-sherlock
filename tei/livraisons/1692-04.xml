@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1692-04">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, avril 1692 [tome 4]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1692-04</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>avril 1692</date> [tome 4].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1692-04"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, avril 1692 [tome 4].</head>
 
@@ -249,8 +185,7 @@
         <p>M<hi rend="sup">r</hi> de Santeüil, Chanoine de S. Victor, a fait des Vers Latins pour le
           Roy. Il ne faut rien vous dire de plus pour vous faire entendre qu’il a fait un fort bel
           Ouvrage, puis qu’il a un genie superieur qui luy attire la faveur des Muses. Je ne doute
-          point, Madame, que vous n’en lisiez la Traduction avec plaisir. Elle est de M<hi
-            rend="sup">r</hi> Diereville, dont vous avez estimé toutes les Pieces que je vous ay
+          point, Madame, que vous n’en lisiez la Traduction avec plaisir. Elle est de M<hi rend="sup">r</hi> Diereville, dont vous avez estimé toutes les Pieces que je vous ay
           envoyées de sa composition.</p>
         <quote>
           <label>LA FRANCE<lb/>A M<hi rend="sup">r</hi>
@@ -966,8 +901,7 @@
               Chancelier de l’Academie, qui remplit tres dignement les devoirs de ces deux Charges,
               &amp; qui ne doit qu’à un vray merite l’estime generale qu’il s’est attirée ? Dans
               l’ardeur qu’il a pour la gloire de la Compagnie, il se voit incessamment secondé par
-              la sage &amp; laborieuse conduite de Messieurs les Recteurs, de M<hi rend="sup"
-                >rs</hi> les Professeurs, de M<hi rend="sup">rs</hi> les autres Officiers, &amp; en
+              la sage &amp; laborieuse conduite de Messieurs les Recteurs, de M<hi rend="sup">rs</hi> les Professeurs, de M<hi rend="sup">rs</hi> les autres Officiers, &amp; en
               general par le zele de tous les Academiciens. Ainsi la Compagnie se proposant de
               reconnoistre selon ses forces l’honneur que le Roy luy fait de la loger dans le
               Louvre, elle trouvera occasion d’y paroistre dans une loüable &amp; modeste
@@ -1174,12 +1108,10 @@
           mots difficiles, comme <hi rend="i">meurtrier, lierre</hi> &amp; autres. Elles sont toutes
           fort justes, &amp; il n’y en a qu’une dont je voy que quelques-uns ne demeurent pas
           d’accord. C’est celle ou l’Auteur dit que ces mots, <hi rend="i">associé, délié,
-            disgracié, domicilié, excommunié, privilegié</hi>, doivent estre regardez, comme <hi
-            rend="i">amitié</hi> &amp; <hi rend="i">pitié</hi>, où <hi rend="i">tié</hi> ne fait
+            disgracié, domicilié, excommunié, privilegié</hi>, doivent estre regardez, comme <hi rend="i">amitié</hi> &amp; <hi rend="i">pitié</hi>, où <hi rend="i">tié</hi> ne fait
           qu’une syllabe, de sorte qu’<hi rend="i">associé</hi> ne devroit avoir que trois syllabes
           non plus qu’<hi rend="i">amitié</hi>. Leur oreille ne s’y peut accoûtumer. Ce Livre qui ne
-          sçauroit estre que d’une fort grande utilité pour les Jeunes Poëtes, se vend chez les S<hi
-            rend="sup">rs</hi> Florentin &amp; Pierre de Laulne, devant l’Eglise de Sorbonne, &amp;
+          sçauroit estre que d’une fort grande utilité pour les Jeunes Poëtes, se vend chez les S<hi rend="sup">rs</hi> Florentin &amp; Pierre de Laulne, devant l’Eglise de Sorbonne, &amp;
           au Palais chez la Veuve Guerout, &amp; Michel Brunet.</p>
       </div>
       <div type="article" xml:id="MG-1692-04_181" resp="wordpro">
@@ -1190,8 +1122,7 @@
         <p>Je vous envoye une Medaille dont le Portrait de Sa Majesté fait la face droite, comme il
           la fait dans toutes les autres. Le revers represente l’Eglise de Nostre Dame de Paris. La
           Nef de ce magnifique Temple y paroist en perspective, avec les Etendarts &amp; Guidons qui
-          sont aux Galeries, &amp; dans le fond, le Jubé avec ces mots au dessous du Crucifix, <hi
-            rend="i">Deo optimo, maximo</hi> ; &amp; autour du revers, <hi rend="i">Hostes in
+          sont aux Galeries, &amp; dans le fond, le Jubé avec ces mots au dessous du Crucifix, <hi rend="i">Deo optimo, maximo</hi> ; &amp; autour du revers, <hi rend="i">Hostes in
             manibus tuis sunt</hi>. Cette legende est tirée du 14. chapitre de la Genese. C’est ce
           que Melchisedech dit à Abraham, aprés la Victoire qu’il avoit remportée avec sa seule
           Famille, sur les Rois confederez contre luy. On lit dans l’Exergue, <hi rend="i">Cæsis
@@ -1236,5 +1167,4 @@
         </ref>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

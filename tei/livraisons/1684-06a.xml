@@ -1,65 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1684-06a">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, juin 1684 (première partie) [tome 6]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1684-06a</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
-    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
-    sur les bases de données (L341-1) est mise à disposition de la communauté
-    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
-    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
-    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-<p>Attribution : afin de référencer la source, toute utilisation ou publication
-    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
-    l’adresse Internet de la ressource.</p>
-<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
-    toute utilisation commerciale est interdite.</p>
-<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-    électronique, notamment en intégrant toutes les contributions extérieures, la
-    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>juin 1684</date> (première partie) [tome 6].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1684-06"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
         <head><hi rend="i">Mercure galant</hi>, juin 1684 (première partie) [tome 6].</head>
         <div type="article" xml:id="MG-1684-06a_002" resp="mercure">
@@ -963,5 +902,4 @@
           <p>Je ne vous dis point ce que vous sçavez il y a longtemps, que dans toutes sortes d’Airs Mr de Bacilly réüssit également. C’est ce qui a obligé deux grands Hommes à faire un mot tout exprés pour exprimer ce qu’ils pensent d’un Génie si universel. Ils disent que de toute la Musique, luy seul n’est point manieré, au lieu que l’on reconnoist la maniere de composer des autres Autheurs, dans chacun des Airs qu’ils mettent au jour. Le grand nombre qu’il en a donnez de sa façon, remplit dix Volumes, qu’on vend au Palais chez les Srs de Luyne, &amp; Blageart. Il a le don d’ajuster les Airs, mesme ceux d’autruy, &amp; d’y donner un tour agreable conformement au sens des paroles, qu’il posséde souverainement, comme on peut le voir par son Livre de l’Art de chanter, si vanté de tout le monde. Cette vérité se connoist mieux que jamais, depuis la mort de Mr de Niere, si renommé pour l’execution &amp; les ornemens du Chant. On sçavoit le commerce qu’ils avoient ensemble depuis trente années, &amp; l’on attribuoit à Mr de Niert tout ce qui estoit de Mr de Bacilly. Cependant on voit bien par ce qu’il fait à présent, qu’il n’emprunte de personne, &amp; quelques petits Airs d’Amadis, &amp; autres du temps, qu’il a ornez, en sont une preuve. Quoy qu’un talent si peu ordinaire pour tout ce qui regarde l’Art de chanter, soit connu de la plûpart des Gens éclairez, ses Envieux qui luy veulent nuire, n’ont pas laissé de faire courir le bruit qu’il n’enseigne plus, &amp; ils l’ont si bien persuadé, qu’on ne s’en détrompe qu’avec peine. Il est pourtant vray qu’il est plus capable d’enseigner, qu’il ne l’a encore esté, &amp; qu’un long usage luy a donné de si grandes &amp; de si vives lumieres, qu’en fort peu de temps il rend une voix capable de tout ce qui se pratique dans le Chant. Il n’est point borné à ses Ouvrages, comme beaucoup d’autres, &amp; enseigne indiféremment tout ce qu’il y a de nouveau.</p>
         </div>
       </body>
-  </text>
-</TEI>
+  </text></TEI>

@@ -1,65 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1705-06">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, juin 1705 [tome 6]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1705-06</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
-    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
-    sur les bases de données (L341-1) est mise à disposition de la communauté
-    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
-    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
-    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-<p>Attribution : afin de référencer la source, toute utilisation ou publication
-    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
-    l’adresse Internet de la ressource.</p>
-<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
-    toute utilisation commerciale est interdite.</p>
-<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-    électronique, notamment en intégrant toutes les contributions extérieures, la
-    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>juin 1705</date> [tome 6].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1705-06"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
         <head><hi rend="i">Mercure galant</hi>, juin 1705 [tome 6].</head>
         <div type="article" xml:id="MG-1705-06_46">
@@ -147,7 +86,7 @@
         <div type="article" xml:id="MG-1705-06_170">
           <head>Air nouveau</head>
           <bibl><title>Mercure galant</title>, juin 1705 [tome 6], p. 170-171.</bibl>
-          <p>Je me trompay le mois passé, &amp; je mis dans ma derniere Lettre les paroles d’un air que je ne vous envoyay pas. Voicy les paroles que je crûs vous avoir envoyées. Vous sçavez qu’elles sont de M<hi rend="sup">r</hi> de Metz qui n’en fait point d’autres que pour le Roy.<note resp="editor" >Les vers avaient été publiés le mois précédent (cf. <ref target="MG-1705-05_251">cet article</ref>) sans planche de musique, erreur que le rédacteur corrige en republiant les vers, cette fois avec l'air noté. Monsieur Maiz en est probablement le compositeur, la musique des airs du <ref target="MG-1704-02_181"><hi rend="i">Mercure</hi> de février 1704</ref>, du <ref target="MG-1704-03_358"><hi rend="i">Mercure</hi> de mars 1704</ref>, du <ref target="MG-1704-07a_98"><hi rend="i">Mercure</hi> de juillet 1704</ref>, du <ref target="MG-1704-08_325"><hi rend="i">Mercure</hi> d'août 1704</ref>, du  <ref target="MG-1705-07_109"><hi rend="i">Mercure</hi> de juin 1705</ref>, du <ref target="MG-1705-08_314"><hi rend="i">Mercure</hi> d'août 1705</ref>, du <ref target="MG-1705-12_5"><hi rend="i">Mercure</hi> de décembre 1705</ref>, sur des poèmes du même auteur, lui sont en effet attribuées.</note></p>
+          <p>Je me trompay le mois passé, &amp; je mis dans ma derniere Lettre les paroles d’un air que je ne vous envoyay pas. Voicy les paroles que je crûs vous avoir envoyées. Vous sçavez qu’elles sont de M<hi rend="sup">r</hi> de Metz qui n’en fait point d’autres que pour le Roy.<note resp="editor">Les vers avaient été publiés le mois précédent (cf. <ref target="MG-1705-05_251">cet article</ref>) sans planche de musique, erreur que le rédacteur corrige en republiant les vers, cette fois avec l'air noté. Monsieur Maiz en est probablement le compositeur, la musique des airs du <ref target="MG-1704-02_181"><hi rend="i">Mercure</hi> de février 1704</ref>, du <ref target="MG-1704-03_358"><hi rend="i">Mercure</hi> de mars 1704</ref>, du <ref target="MG-1704-07a_98"><hi rend="i">Mercure</hi> de juillet 1704</ref>, du <ref target="MG-1704-08_325"><hi rend="i">Mercure</hi> d'août 1704</ref>, du  <ref target="MG-1705-07_109"><hi rend="i">Mercure</hi> de juin 1705</ref>, du <ref target="MG-1705-08_314"><hi rend="i">Mercure</hi> d'août 1705</ref>, du <ref target="MG-1705-12_5"><hi rend="i">Mercure</hi> de décembre 1705</ref>, sur des poèmes du même auteur, lui sont en effet attribuées.</note></p>
           <quote>
             <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Grand Dieu, de qui Loüis</hi>, doit regarder la page, 170.</note>
             <lg>
@@ -226,5 +165,4 @@
           </ref>
         </div>
       </body>
-  </text>
-</TEI>
+  </text></TEI>

@@ -1,66 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1681-02">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title>Mercure galant, février 1681 [tome 2]</title>
-   </titleStmt>
-   <editionStmt>
-    <edition>OBVIL/IReMuS</edition>
-    <respStmt>
-     <name>Nathalie Berton-Blivet</name>
-     <resp>Responsable éditorial</resp>
-    </respStmt>
-    <respStmt>
-     <name>Anne Piéjus</name>
-     <resp>Responsable éditorial</resp>
-    </respStmt>
-    <respStmt>
-     <name>Frédéric Glorieux</name>
-     <resp>Informatique éditoriale</resp>
-    </respStmt>
-    <respStmt>
-     <name>Vincent Jolivet</name>
-     <resp>Informatique éditoriale</resp>
-    </respStmt>
-   </editionStmt>
-   <publicationStmt>
-    <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-    <date when="2017"/>
-    <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1681-02</idno>
-    <availability status="restricted">
-     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-       Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie
-       littéraire » (ci-après dénommé OBVIL).</p>
-      <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les
-       bases de données (L341-1) est mise à disposition de la communauté scientifique internationale
-       par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas
-       d’Utilisation Commerciale - Pas de Modification 3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-      <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de
-       cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de
-       la ressource.</p>
-      <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-       utilisation commerciale est interdite.</p>
-      <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-       électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de
-       versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl><title>Mercure galant</title>, <date>février 1681</date> [tome 2].</bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <creation>
-    <date when="1681-02"/>
-   </creation>
-   <langUsage>
-    <language ident="fre"/>
-   </langUsage>
-  </profileDesc>
- </teiHeader>
- <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
   <body>
    <head><hi rend="i">Mercure galant</hi>, février 1681 [tome 2].</head>
    <div type="article" xml:id="MG-1681-02_001">
@@ -199,8 +137,7 @@
       <l> <hi rend="i">Tircis, que veux-tu davantage ?</hi></l>
      </lg>
     </quote>
-    <p>Ce Dialogue a esté fait par une Personne dont le nom vous est connu. Il est de <hi rend="i"
-      >la Solitaria del Monte Pinceno</hi>. Vous voyez par là que je l’ay reçeu de Rome. On y a fait
+    <p>Ce Dialogue a esté fait par une Personne dont le nom vous est connu. Il est de <hi rend="i">la Solitaria del Monte Pinceno</hi>. Vous voyez par là que je l’ay reçeu de Rome. On y a fait
      depuis peu un illustre Mariage. C’est celuy de M<hi rend="sup">r</hi> le Prince Gaëtan, qui a
      épousé Mademoiselle Barberin, Fille de M<hi rend="sup">r</hi> le Prince de Palestrine,
      Petit-Neveu d’Urbain VIII. &amp; Neveu des fameux Cardinaux, François &amp; Antoine
@@ -546,9 +483,7 @@
     <bibl><title>Mercure galant</title>, février 1681 [tome 2], p. 87-89.</bibl>
     <p>En vous parlant d’un Chef de Justice, il me souvient que vous me demandastes il y a quelques
      mois, des nouvelles d’un Procés qui faisoit alors grand bruit, &amp; pour lequel tout Paris
-     sembloit estre partagé. Il s’agissoit de la Succession de feu Jacques Baudry, Ecuyer S<hi
-      rend="sup">r</hi> du Buc, &amp; de Dame Marie des Hayes, demandée par M<hi rend="sup"
-     >r</hi> Baudry du Buc leur Fils, prétendu Religieux Cordelier ; contre diférens Coheritiers de
+     sembloit estre partagé. Il s’agissoit de la Succession de feu Jacques Baudry, Ecuyer S<hi rend="sup">r</hi> du Buc, &amp; de Dame Marie des Hayes, demandée par M<hi rend="sup">r</hi> Baudry du Buc leur Fils, prétendu Religieux Cordelier ; contre diférens Coheritiers de
      cette mesme Succession. Le détail qu’il auroit falu vous faire de toutes les difficultez qui se
      rencontroient dans ce Procés, estoit si grand, qu’il ne me fut pas possible de satisfaire
      vostre curiosité dans ce temps-là. Vous n’aurez plus rien à souhaiter là-dessus, puis que je
@@ -737,8 +672,7 @@
      sur un fort galant Theatre dressé chez M<hi rend="sup">r</hi> Malo, en présence d’un fort grand
      nombre de Personnes de qualité invitées à ce Spectacle. Les Acteurs estoient des Particuliers,
      qui se sont tous acquitez admirablement de leurs rôles. La Musique des Intermedes qui ont
-     divisé les Actes, est de M<hi rend="sup">r</hi> Lalloüete, Eléve de M<hi rend="sup"
-     >r</hi> Lully. C’est assez dire pour répondre de sa bonté. Voicy en quoy consistent les
+     divisé les Actes, est de M<hi rend="sup">r</hi> Lalloüete, Eléve de M<hi rend="sup">r</hi> Lully. C’est assez dire pour répondre de sa bonté. Voicy en quoy consistent les
      Ornemens qu’on a prestez à la Piece. L’ouverture du Theatre se fait par la Seine, qui commence
      le Prologue. Elle est suivie de ses Nymphes, deux desquelles chantent ces Vers.</p>
     <quote>
@@ -1613,12 +1547,10 @@
     <p>Je vous parlay l’année derniere de l’Opéra intitulé <hi rend="i">Les Amazones dans les Isles
       Fortunées</hi>, que M<hi rend="sup">r</hi> Contarini, Procurateur de S. Marc, avoit fait
      représenter en présence d’un nombre infiny d’Auditeurs illustres, dans sa belle Maison de
-     Piazzola. On l’y a représenté encor cette année, avec un autre, qui a eu pour titre, <hi
-      rend="i">Berénice vindicative</hi>. Piazzola, Madame, n’est autre chose qu’un Bourg à dix
+     Piazzola. On l’y a représenté encor cette année, avec un autre, qui a eu pour titre, <hi rend="i">Berénice vindicative</hi>. Piazzola, Madame, n’est autre chose qu’un Bourg à dix
      milles de Padouë, où ce Noble Venitien, qui est tres-riche, a fait bâtir un Palais superbe. Il
      y a cinq ans que l’on y travaille ; mais quoy que le principal Corps de Logis soit du Dessein
-     du fameux Palladio, ce miracle d’Architecture est presque effacé par les ornemens dont M<hi
-      rend="sup">r</hi> Contarini a pris soin de l’embellir, &amp; par les Bâtimens qu’il y a fait
+     du fameux Palladio, ce miracle d’Architecture est presque effacé par les ornemens dont M<hi rend="sup">r</hi> Contarini a pris soin de l’embellir, &amp; par les Bâtimens qu’il y a fait
      adjoûter des deux costez.</p>
     <p>Ce Palais est dans une situation assez élevée. Il a au devant une Avenuë de pres d’un mille,
      &amp; qu’on doit continuer encor plus loin. Sa largeur est d’environ cent pieds ; ce qui
@@ -1626,8 +1558,7 @@
      &amp; tout le Palais est environné de Canaux d’une eau courante, qui servent aussi de
      Reservoirs, &amp; qui se déchargent tous dans un grand Bassin de figure ronde, entouré de
      grandes Portes, ou Arcades ornées de Statuës. Ce Bassin a tant d’étenduë &amp; de profondeur,
-     que l’on y peut naviger avec de petites Barques ou Gondoles. C’est dans ces Gondoles que M<hi
-      rend="sup">r</hi> Contarini donne des Serenades &amp; des Concerts de Musique pendant l’Eté.
+     que l’on y peut naviger avec de petites Barques ou Gondoles. C’est dans ces Gondoles que M<hi rend="sup">r</hi> Contarini donne des Serenades &amp; des Concerts de Musique pendant l’Eté.
      La Court qui depuis la grande Porte jusqu’à l’Escalier a deux cens cinquante pieds, en a cinq
      cens de largeur. Elle est entourée de trente Voûtes ou Grotes ornées de Coquillages, avec des
      Niches garnies de Statuës, qui seront dans peu de temps autant de Fontaines, dont on ne peut
@@ -1690,8 +1621,7 @@
      s’imaginer, avec tous les Opéra qui ont esté veus jusqu’à présent, soit à Venise, ou ailleurs.
       <hi rend="i">L’Hercule</hi> fait par le S<hi rend="sup">r</hi> Cavali, &amp; représenté à
      Paris pour le divertissement de Sa Majesté, y tient sa place parmy les autres. Il ne faut point
-     s’étonner de cet amas, puis que pour avoir les Instrumens les plus particuliers, M<hi
-      rend="sup">r</hi> Contarini n’a épargné aucune dépense. Les deux Loges dont j’ay parlé au
+     s’étonner de cet amas, puis que pour avoir les Instrumens les plus particuliers, M<hi rend="sup">r</hi> Contarini n’a épargné aucune dépense. Les deux Loges dont j’ay parlé au
      commencement, sont aux deux costez de la Galerie, avec des manieres de Tribunes tout autour,
      pour y mettre des Chœurs de Musique &amp; d’Instrumens, afin de divertir pendant le repas. De
      l’un &amp; l’autre costé de ces Loges, il y a deux Terrasses, avec des Colomnes &amp; des
@@ -1767,8 +1697,7 @@
      donna à tout le monde, chaque Scene se voyoit représentée en Taille-douce. Les Spectateurs
      furent les mesmes du jour précedent. La Représentation dura depuis six heures jusqu’à onze,
      mais avec une admiration si continuelle, qu’aucun Opéra ne fut jamais aplaudy avec tant de
-     marques d’une entiere satisfaction. Quoy que le premier fust beau, celuy-cy, qui estoit <hi
-      rend="i">Berénice vindicative</hi>, le surpassa de beaucoup par la magnificence des Entrées,
+     marques d’une entiere satisfaction. Quoy que le premier fust beau, celuy-cy, qui estoit <hi rend="i">Berénice vindicative</hi>, le surpassa de beaucoup par la magnificence des Entrées,
      &amp; par la richesse des Habits. On y compta jusques à cinq cens Acteurs ; sçavoir, cent
      Piquiers, cent Femmes, cent Cavaliers montans des Chevaux bardez, soixante Hallebardiers, des
      Chasseurs, des Estafiers, des Pages, qui parurent tous dans la premiere Scene du Triomphe. Rien
@@ -1809,9 +1738,7 @@
      avantages. Tous ses Ouvrages en sont une preuve. Je vous envoye la suite de ce qu’il a
      commencé.</p>
     <quote>
-     <label>SECOND COUPLET DES STANCES DU CID,<lb/>mis en Air.</label><note resp="author"
-      place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi
-       rend="i">Que je sens de rudes combats</hi>, doit regarder la page 250.</note>
+     <label>SECOND COUPLET DES STANCES DU CID,<lb/>mis en Air.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Que je sens de rudes combats</hi>, doit regarder la page 250.</note>
      <lg>
       <l> <hi rend="i">Que je sens de rudes combats !</hi></l>
       <l><hi rend="i">Contre mon propre honneur mon amour s’intéresse.</hi></l>
@@ -1834,8 +1761,7 @@
    <div type="article" xml:id="MG-1681-02_251">
     <head>A une Belle, sur une Mouche qu’elle avoit mise</head>
     <bibl><title>Mercure galant</title>, février 1681 [tome 2], p. 251-252.</bibl>
-    <p>Il est peu de Gens qui n’aiment, &amp; bien souvent c’est un rien qui fait aimer. M<hi
-      rend="sup">r</hi> Sanson d’Abbeville, a fait là-dessus un fort joly Madrigal.</p>
+    <p>Il est peu de Gens qui n’aiment, &amp; bien souvent c’est un rien qui fait aimer. M<hi rend="sup">r</hi> Sanson d’Abbeville, a fait là-dessus un fort joly Madrigal.</p>
     <quote>
      <label>A UNE BELLE,<lb/>Sur une Mouche qu’elle avoit mise.</label>
      <lg>
@@ -1879,27 +1805,21 @@
      abondant en plaisirs ainsi qu’en toute autre chose. Ils y ont régné parmy les Grands &amp;
      parmy les Peuples, &amp; plusieurs Ministres Etrangers se sont joints avec quelques Seigneurs
      de la Cour des plus qualifiez, pour se divertir entr’eux, &amp; pour divertir le Public en
-     recevant des Masques. Ces Messieurs estoient au nombre de dix-huit. Voicy leurs noms. M<hi
-      rend="sup">r</hi> de Strasbourg, M<hi rend="sup">r</hi> les Ambassadeurs de Suede &amp; de
-     Venise, M<hi rend="sup">r</hi> Savel Envoyé Extraordinaire d’Angleterre, M<hi rend="sup"
-      >rs</hi> les Ducs de Lesdiguieres, d’Aumont, de Nevers, &amp; de Gesvres, M<hi rend="sup"
-      >rs</hi> les Comtes d’Auvergne &amp; de Bethune, M<hi rend="sup">r</hi> le Prince de Monaco,
+     recevant des Masques. Ces Messieurs estoient au nombre de dix-huit. Voicy leurs noms. M<hi rend="sup">r</hi> de Strasbourg, M<hi rend="sup">r</hi> les Ambassadeurs de Suede &amp; de
+     Venise, M<hi rend="sup">r</hi> Savel Envoyé Extraordinaire d’Angleterre, M<hi rend="sup">rs</hi> les Ducs de Lesdiguieres, d’Aumont, de Nevers, &amp; de Gesvres, M<hi rend="sup">rs</hi> les Comtes d’Auvergne &amp; de Bethune, M<hi rend="sup">r</hi> le Prince de Monaco,
       M<hi rend="sup">rs</hi> les Chevaliers de Tilladet &amp; Cornaro, le dernier est Venitien,
       M<hi rend="sup">r</hi> le Marquis de Grillon ; M<hi rend="sup">r</hi> de Lorance, Noble
-     Venitien ; M<hi rend="sup">rs</hi> de Langlée &amp; Desormes, &amp; M<hi rend="sup"
-     >r</hi> Moriel Gentilhomme Provençal. Ces Messieurs faisoient entr’eux chaque jour une espece
+     Venitien ; M<hi rend="sup">rs</hi> de Langlée &amp; Desormes, &amp; M<hi rend="sup">r</hi> Moriel Gentilhomme Provençal. Ces Messieurs faisoient entr’eux chaque jour une espece
      de Loterie. Tous les Billets estoient noirs, mais ils coûtoient beaucoup plus cher que des
      blancs, parce que chaque Billet contenoit ce que ceux qui les tiroient devoient payer pour le
      Divertissement du soir. La premiere Assemblée se fit chez M<hi rend="sup">r</hi> l’Ambassadeur
      de Venise, qui loge au Marais. Vous sçavez quelle est la beauté de sa Maison, puis que c’est
-     celle que M<hi rend="sup">r</hi> Aubert a fait bâtir. Apres un tres-grand Soupé, l’on joüa <hi
-      rend="i">l’Andromaque</hi> de M<hi rend="sup">r</hi> Racine, Trésorier de France, &amp; la
+     celle que M<hi rend="sup">r</hi> Aubert a fait bâtir. Apres un tres-grand Soupé, l’on joüa <hi rend="i">l’Andromaque</hi> de M<hi rend="sup">r</hi> Racine, Trésorier de France, &amp; la
      petite Comédie de <hi rend="i">la Comete</hi>. Pendant ce temps les Masques vinrent en foule de
      tous les Quartiers de Paris. Le Bal commença en suite, &amp; toute la nuit fut employée à
      dancer. Huit jours apres (car ces Festes ne se faisoient que tous les Jeudis) l’Hôtel de Nevers
      fut le lieu de l’Assemblée. Tous ces grands Apartemens estoient richement meublez, &amp; on les
-     voyoit briller d’un nombre presque infiny de lumieres. <hi rend="i">Le Cinna</hi> de M<hi
-      rend="sup">r</hi> de Corneille l’aîné, fut représenté. Quelques Voix des plus belles de
+     voyoit briller d’un nombre presque infiny de lumieres. <hi rend="i">Le Cinna</hi> de M<hi rend="sup">r</hi> de Corneille l’aîné, fut représenté. Quelques Voix des plus belles de
      l’Opéra en distinguerent les Actes, &amp; tout cela fut suivy de plusieurs Scenes plaisantes
      des Italiens. On ouvrit ensuite aux Masques qui avoient des Billets pour entrer. Comme l’on
      s’estoit fort diverty chez M<hi rend="sup">r</hi> l’Ambassadeur de Venise, &amp; que ces
@@ -1989,8 +1909,7 @@
      de choses, que la plus parfaite en pourroit sçavoir à vingt. La plûpart des Comédies que l’on a
      joüées à S. Germain, ont esté représentées dans l’Antichambre de Madame la Dauphine. Le Roy
      entierement occupé des soins de l’Etat, ausquels ce Prince se donne avec une application
-     inconcevable, ne s’est trouvé à aucune. Sa Majesté a veu seulement la Représentation de <hi
-      rend="i">la Devineresse</hi>, qui s’est joüée sur le Theatre du Balet.</p>
+     inconcevable, ne s’est trouvé à aucune. Sa Majesté a veu seulement la Représentation de <hi rend="i">la Devineresse</hi>, qui s’est joüée sur le Theatre du Balet.</p>
    </div>
    <div type="article" xml:id="MG-1681-02_282">
     <head resp="editor">Mascarade à la cour</head>
@@ -2032,8 +1951,7 @@
      dessus une Veste à la Turque de Drap d’or &amp; vert, doublée d’un Tissu d’or, le tout enrichy
      de Dentelles &amp; de Frange d’or, &amp; garny de Pierreries comme la Coëfure.</p>
     <p>Monsieur le Prince de Conty vint à cette Mascarade, accompagné de M<hi rend="sup">r</hi> le
-     Prince de la Roche-sur-Yon, de M<hi rend="sup">r</hi> le Duc de la Ferté, &amp; de M<hi
-      rend="sup">rs</hi> les Marquis d’Alincourt, de Nangy, &amp; de Molac. Ce Prince représentoit
+     Prince de la Roche-sur-Yon, de M<hi rend="sup">r</hi> le Duc de la Ferté, &amp; de M<hi rend="sup">rs</hi> les Marquis d’Alincourt, de Nangy, &amp; de Molac. Ce Prince représentoit
      un Persan. Sa Veste de Brocard or &amp; vert, estoit retroussée sur les devans. Il avoit sous
      cette Veste un Tonnelet couleur de feu, or &amp; argent, des Manches pendantes d’un tres-riche
      Point de France pareillement or &amp; argent, &amp; tout son Habit de mesme. Rien n’égaloit la
@@ -2041,15 +1959,13 @@
      de Brocard or &amp; blanc, avec un Fronteau de Velours noir enrichy de Pierreries. Les Plumes
      qui couvroient son Turban, estoient de couleur de feu &amp; blanc, accompagnées d’une
      tres-belle Héronniere. L’Habit de M<hi rend="sup">r</hi> le Prince de la Roche-sur-Yon, estoit
-     tout pareil, aussi-bien que ceux des Seigneurs qui les suivoient. Il n’y avoit que M<hi
-      rend="sup">r</hi> de la Ferté qui se fust mis d’une autre maniere. Ce Duc avoit un Habit
+     tout pareil, aussi-bien que ceux des Seigneurs qui les suivoient. Il n’y avoit que M<hi rend="sup">r</hi> de la Ferté qui se fust mis d’une autre maniere. Ce Duc avoit un Habit
      d’ombre or &amp; noir, couvert de Dentelles d’or. Celuy de M<hi rend="sup">r</hi> le Comte de
      Vermandois estoit aussi singulier que riche. Sa Veste de Brocard or &amp; vert, paroissoit
      toute couverte de riches Dentelles, &amp; pour agrément on voyoit sur ces Dentelles une bande
      de Velours noir large d’un doigt, &amp; toute brillante de Pierreries. L’Habit de dessous
      estoit un Brocard couleur de feu &amp; or, avec plusieurs Dentelles plissées. Un Turban de
-     Velours noir tout à jour, garny de Plumes, &amp; orné de Pierreries, faisoit sa Coëfure. M<hi
-      rend="sup">r</hi> le Duc de Crussol avoit un tres bel Habit à la Turcque. Il menoit
+     Velours noir tout à jour, garny de Plumes, &amp; orné de Pierreries, faisoit sa Coëfure. M<hi rend="sup">r</hi> le Duc de Crussol avoit un tres bel Habit à la Turcque. Il menoit
      d’illustres &amp; jeunes Bohëmiennes ; sçavoir, Mademoiselle de Nantes, Mademoiselle de
      Crussol, Mademoiselle de Noailles, Mesdemoiselles d’Epinoy, &amp; Mademoiselle d’Eudicour. On
      n’a jamais rien vû de plus galant que Mademoiselle de Nantes en Bohëmienne. Ses cheveux bouclez
@@ -2096,8 +2012,7 @@
       <l> <hi rend="i">A tenir chez luy</hi> la Bassete ?</l>
      </lg>
     </quote>
-    <p>Plusieurs Personnes ont trouvé ce mesme Mot de <hi rend="i">la Bassete</hi>. Ce sont M<hi
-      rend="sup">rs</hi> Blanchard, de Chasteauroux ; De Giseux, du Païs d’Anjou ; Le Chevalier du
+    <p>Plusieurs Personnes ont trouvé ce mesme Mot de <hi rend="i">la Bassete</hi>. Ce sont M<hi rend="sup">rs</hi> Blanchard, de Chasteauroux ; De Giseux, du Païs d’Anjou ; Le Chevalier du
      Catulé, du Ponteau-de-mer ; Claret, de Roüen ; D. Laurent Raguienne, Prieur de Bethune ; Ha… du
      Mesnil, de Chambrais en Normandie ; Le Hot, Avocat à Caën ; Daurould, Bachelier en Sorbonne,
      d’Abbeville ; Hutuge, d’Orleans ; Le Solitaire de Gimbrois lez Provins ; Les gays Pastoureaux
@@ -2157,8 +2072,7 @@
       <l><hi rend="i">Disant ce qui leur plaist, se déchargent sur</hi> On.</l>
      </lg>
     </quote>
-    <p>Mademoiselle F. Bouvard de Chartres, a trouvé ce mesme Mot, aussi-bien que M<hi rend="sup"
-      >rs</hi> de Lisle Trésorier ancien des Gardes du Corps du Roy ; L. Bouchet, ancien Curé de
+    <p>Mademoiselle F. Bouvard de Chartres, a trouvé ce mesme Mot, aussi-bien que M<hi rend="sup">rs</hi> de Lisle Trésorier ancien des Gardes du Corps du Roy ; L. Bouchet, ancien Curé de
      Nogent le Roy ; Formentin &amp; Caudron, d’Abbeville, qui ont tous expliqué cette Enigme en
      Vers. <hi rend="i">La Gazete, le Mercure Galant, la Renommée, &amp; l’Enigme</hi>, sont
      d’autres sens qu’on luy a donnez. M<hi rend="sup">rs</hi> Regnier, &amp; Coquillart
@@ -2248,10 +2162,8 @@
      de Mademoiselle, se rendirent chez M<hi rend="sup">r</hi> Malo pour la Représentation &amp; les
      Intermedes en Musique de la Comédie <hi rend="i">d’Amphitrion</hi>, dont je vous ay déja parlé
      dans cette Lettre. On leur servit une superbe Collation dans quarante Corbeilles d’argent.
-     Toute cette auguste Cour n’en fut pas moins satisfaite que du compliment de M<hi rend="sup"
-      >r</hi> Malo, Conseiller au Parlement de Mets. Ils sont trois Freres, dont l’un est Conseiller
+     Toute cette auguste Cour n’en fut pas moins satisfaite que du compliment de M<hi rend="sup">r</hi> Malo, Conseiller au Parlement de Mets. Ils sont trois Freres, dont l’un est Conseiller
      à la Grand’Chambre, &amp; l’autre Abbé.</p>
    </div>
   </body>
- </text>
-</TEI>
+ </text></TEI>

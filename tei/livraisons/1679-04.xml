@@ -1,64 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, avril 1679 [tome 4]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2015"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1679-04/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, avril <date>1679</date> [tome 4].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1679-04"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1679-04_001" resp="mercure">
         <head>Relation de l’Entrée de M. L’Archevesque d’Alby dans la ville de ce nom</head>
@@ -115,8 +55,7 @@
             seule passion qui regna dans Alby ce jour-là.</p>
           <p>Monsieur l’Archevesque ayant fait la moitié de sa journée avant midy, disna à Realmont,
             où il se reposa, si c’est toutefois se reposer, Madame, que d’écouter un grand nombre de
-            Harangues. Il trouva dans ce lieu Messieurs les Abbez de son Diocese, M<hi rend="sup"
-              >r</hi> le Viguier d’Alby, les Deputez du Clergé, ceux de son Chapitre, &amp; de celuy
+            Harangues. Il trouva dans ce lieu Messieurs les Abbez de son Diocese, M<hi rend="sup">r</hi> le Viguier d’Alby, les Deputez du Clergé, ceux de son Chapitre, &amp; de celuy
             de S. Salvy, &amp; ceux de la Noblesse &amp; de la Ville d’Alby. Leurs Harangues furent
             fort belles, &amp; il ne vous est pas permis d’en douter. L’on m’a assurée qu’il
             n’estoit pas possible de comprendre avec quelle presence d’esprit, &amp; avec quelle
@@ -238,8 +177,7 @@
             mes Emblêmes contient certaines Prophéties touchant Monsieur d’Alby, qui luy promettent
             les plus grandes élevations ausquelles un grand mérite &amp; un heureux destin peuvent
             conduire un Prélat Illustre.</p>
-          <p>L’on observa pour son Entrée les cerémonies que je vais vous décrire. M<hi rend="sup"
-              >r</hi> le Marquis de S. Sulpice, &amp; M<hi rend="sup">r</hi> de Montmaur, marchoient
+          <p>L’on observa pour son Entrée les cerémonies que je vais vous décrire. M<hi rend="sup">r</hi> le Marquis de S. Sulpice, &amp; M<hi rend="sup">r</hi> de Montmaur, marchoient
             les premiers à la teste de la Noblesse. Ils avoient aupres d’eux nos Vicomtes, le
             Viguier d’Alby, &amp; nos Barons tous montez sur de tres-beaux Chevaux, &amp; dans une
             parure fort éclatante. Nos Bourgeois à cheval parurent en suite vestus le plus
@@ -248,8 +186,7 @@
             presenterent un magnifique Poile qu’il envoya d’abord aux Jacobins. On luy presenta
             aussi les Clefs de la Ville dans un Bassin de vermeil doré, proprement attachées avec
             des Cordons d’or &amp; de soye qui formoient ses Chiffres. Il entra dans la Ville porté
-            dans une Chaise ouverte, ayant à ses côtez tous les Officiers de sa Maison. M<hi
-              rend="sup">r</hi> le Vicomte de Paulo, parfaitement bien monté, accompagné d’une
+            dans une Chaise ouverte, ayant à ses côtez tous les Officiers de sa Maison. M<hi rend="sup">r</hi> le Vicomte de Paulo, parfaitement bien monté, accompagné d’une
             petite Escadre choisie, le précédoit de quelques pas. Les Consuls le suivoient en
             Carrosse, &amp; nos Artisans bordoient les Ruës de la mesme maniere qu’ils avoient bordé
             la Lice. C’est ainsi, Madame, qu’il fut conduit jusques à la grande Eglise, apres avoir
@@ -511,8 +448,7 @@
         <head>[Discours en Prose &amp; en Vers, sur la quatriéme Question du mesme
           Extraordinaire]</head>
         <bibl><title>Mercure galant</title>, avril 1679 [tome 4], p. 76-90.</bibl>
-        <p>La quatriéme de ces Questions a esté traitée à fond d’une maniere fort agreable par M<hi
-            rend="sup">r</hi> de Ravend. Ses raisonnemens vous plairont, &amp; je croirois dérober
+        <p>La quatriéme de ces Questions a esté traitée à fond d’une maniere fort agreable par M<hi rend="sup">r</hi> de Ravend. Ses raisonnemens vous plairont, &amp; je croirois dérober
           beaucoup à vos plaisirs, si je diférois à vous faire part de ce qu’il a écrit sur cette
           matiere.</p>
         <quote>
@@ -808,16 +744,14 @@
           quelquefois beaucoup de désordre.</p>
         <p>Des huit Théatres qui sont à Venise, il y en a eu six occupez dans le dernier Carnaval.
           Deux Troupes de Comédiens des meilleurs de l’Italie, ont representé plusieurs Pieces, sur
-          celuy de S. Samüel, &amp; sur celuy de S. Caëtan. Le premier appartient à M<hi rend="sup"
-            >rs</hi> Grimagni Spaghi, &amp; l’autre à M<hi rend="sup">r</hi> Badoüer. Divers Opéra
+          celuy de S. Samüel, &amp; sur celuy de S. Caëtan. Le premier appartient à M<hi rend="sup">rs</hi> Grimagni Spaghi, &amp; l’autre à M<hi rend="sup">r</hi> Badoüer. Divers Opéra
           ont attiré une foule extraordinaire de Spéctateurs sur les quatre autres Théatres. Celuy
           de S. Anzolo, élevé depuis deux ans par le Sieur Santorini, a servy aux Représentations de
           deux qui avoient pour titre <hi rend="i">Sardanapale, &amp; Circé</hi>. La beauté des
           Machines &amp; des Décorations répondoit à la bonté des Instrumens, &amp; de la Musique.
           Elle avoit esté faite par le sieur Jean Dominique Freschi, Maistre de Chapelle à Vicenze.
           Deux autres Opéra ont paru avec quantité de changemens de Théatre, sur celuy de S. Luco,
-          apartenant à M<hi rend="sup">r</hi> Vendramin. La Musique du premier intitulé <hi rend="i"
-            >Sexte Tarquin</hi>, estoit du Maistre de Chapelle de S.A.S. le Duc de Mantouë &amp;
+          apartenant à M<hi rend="sup">r</hi> Vendramin. La Musique du premier intitulé <hi rend="i">Sexte Tarquin</hi>, estoit du Maistre de Chapelle de S.A.S. le Duc de Mantouë &amp;
           celle du second, ayant pour titre <hi rend="i">Le doe Tiranni</hi>, marquoit l’excellent
           génie du Sieur Antonio Sertorio qui l’avoit faite. C'est un des plus experimentez Maîtres
           de Chapelle qu’il y ait en Italie. Il y avoit plusieurs Machines, &amp; entr'autres un
@@ -839,8 +773,7 @@
         <p>Quant au Théatre de S. Jean Chrisostome, fait cette année mesme, il a remporté le prix
           sur tous les autres, tant pour sa somptuosité que pour la Simphonie, Musiciens,
           Décorations, &amp; Machines. Ce n’est que de l’or au dehors des Loges. Le dedans est
-          tapissé de Velours de Damas, &amp; des plus riches Etofes qui se fassent à Venise. <hi
-            rend="i">Neron</hi> estoit le titre de l’Opéra qui fut representé sur ce Théatre. Le
+          tapissé de Velours de Damas, &amp; des plus riches Etofes qui se fassent à Venise. <hi rend="i">Neron</hi> estoit le titre de l’Opéra qui fut representé sur ce Théatre. Le
           fameux Isape ou Josepin de Bavieres, l’incomparable Jean François Grotti Romain, surnommé
           Siphax, &amp; la Signora Antonia Caratti Romaine, y chantoient. Ces trois avoient pour eux
           seuls mille Pistoles d’or pour leur Carnaval. La Musique estoit de la composition du Sieur
@@ -905,8 +838,7 @@
           Flûtes douces, Trompetes, Timbales, Violes, &amp; Violons, qui se joignant à la grande
           Simphonie de l’Opéra, formoient la plus belle &amp; la plus mélodieuse harmonie qu’on eust
           jamais entenduë.</p>
-        <p>Le dernier jour du Carnaval, apres qu’on eut représenté cet Opéra, M<hi rend="sup"
-            >rs</hi> Grimani, aussi estimez pour leur mérite particulier que pour les avantages de
+        <p>Le dernier jour du Carnaval, apres qu’on eut représenté cet Opéra, M<hi rend="sup">rs</hi> Grimani, aussi estimez pour leur mérite particulier que pour les avantages de
           leur naissance, (ils sont alliez de M<hi rend="sup">r</hi> le Duc de Mantoüe, &amp; de la
           Maison de Gonzague,) donnerent le Bal à toute la Noblesse dans ce lieu mesme. Rien ne
           pouvoit estre plus magnifique. Toutes les Dames qui avoient esté invitées à l’Opéra,
@@ -950,8 +882,7 @@
           beaux Chevaux d’Italie. Les Dames &amp; les Cavaliers qui se trouverent à ce merveilleux
           Spéctacle, estoient dans des Loges faites exprés. Il y avoit de grands Echafauts pour les
           Etrangers, le tout dans le lieu mesme de l’Académie, qui peut contenir jusqu’à quatre
-          mille Personnes. Les seize qui formerent ces quatre Quadrilles, estoient M<hi rend="sup"
-            >r</hi> le Duc de Mantoüe ; M<hi rend="sup">r</hi> Moulin, M<hi rend="sup">rs</hi>
+          mille Personnes. Les seize qui formerent ces quatre Quadrilles, estoient M<hi rend="sup">r</hi> le Duc de Mantoüe ; M<hi rend="sup">r</hi> Moulin, M<hi rend="sup">rs</hi>
           Cornaro, deux Freres ; M<hi rend="sup">rs</hi> Vanieri, deux Freres, &amp; un Cousin ;
             M<hi rend="sup">r</hi> Dolfin, M<hi rend="sup">rs</hi> Morosini, deux Cousins ; &amp;
             M<hi rend="sup">rs</hi> Foscarini, Loredan, Zanobie, Tiepolo, Capello, &amp; Cavabli,
@@ -967,8 +898,7 @@
           Panegyrique dont je vous parle en est une preuve. Elles y sont répanduës par tout. C’est
           ce qui a engagé un fort galant Homme, non pas à le traduire tout à fait en nostre Langue,
           mais à en prendre l’idée genérale &amp; quelques pensées, car pour la fiction elle est
-          traitée diféremment. Cela n’empesche pas qu’il n’avoüe qu’on doit uniquement à M<hi
-            rend="sup">r</hi> de Santeüil cette ingénieuse maniere de loüer M<hi rend="sup">r</hi>
+          traitée diféremment. Cela n’empesche pas qu’il n’avoüe qu’on doit uniquement à M<hi rend="sup">r</hi> de Santeüil cette ingénieuse maniere de loüer M<hi rend="sup">r</hi>
           le Chancelier.</p>
         <quote>
           <label>La Nymphe</label>
@@ -1336,9 +1266,7 @@
             <graphic url="images/1679-04_215a.JPG"/>
           </figure>
         </ref>
-        <quote><l rend="i">Le cruel Hyver fait place, &amp;c.</l><note resp="author" place="margin"
-              ><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i"
-              >Le cruel Hyver fait place</hi>, doit regarder la page 215.</note></quote>
+        <quote><l rend="i">Le cruel Hyver fait place, &amp;c.</l><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : l’Air qui commence par <hi rend="i">Le cruel Hyver fait place</hi>, doit regarder la page 215.</note></quote>
       </div>
       <div type="article" xml:id="MG-1679-04_215b" resp="mercure">
         <head>[Lettre en Vers de Brunaut, Matou banal des environs d’Argentan, à l’aimable Grisete,
@@ -1984,8 +1912,7 @@
           jours en quinze jours, ceux qui doivent recevoir le Bonnet de Docteur. Ils soûtiennent le
           jour precédent, ou quelques jours auparavant, une Vesperie, qui renferme les plus grandes
           Questions de la Theologie, &amp; les endroits les plus difficiles de l’Ancien &amp; du
-          Nouveau Testament. Le lendemain ils soûtiennent une autre These, qu’on nomme <hi rend="i"
-            >Aulica</hi>, parce que ce doit estre chez Monsieur l’Archevesque de Paris ; en suite
+          Nouveau Testament. Le lendemain ils soûtiennent une autre These, qu’on nomme <hi rend="i">Aulica</hi>, parce que ce doit estre chez Monsieur l’Archevesque de Paris ; en suite
           dequoy le Chancelier de l’Université leur donne le Bonnet de Docteur au nom du Pape, &amp;
           les conduits dans l’Eglise Nostre-Dame, à la Chapelle S. Sebastien, où il reçoit le
           Serment qu’ils font de défendre la Verité, mesme aux despens de leur sang. Vous
@@ -2021,8 +1948,7 @@
         <p>La Chambre que je vous ay mandé qui avoit esté établie contre quelques Personnes
           arrestées pour le Poison, a commencé ses Séances à Vincennes. M<hi rend="sup">r</hi>
           Boucherat qui y préside, &amp; M<hi rend="sup">r</hi> Robert qui en est Procureur General,
-          ont fait de tres-beaux Discours à l’ouverture de cette Chambre. On la nomme <hi rend="i"
-            >Chambre ardente</hi>. Beaucoup en demandent la raison, &amp; on la peut demander dans
+          ont fait de tres-beaux Discours à l’ouverture de cette Chambre. On la nomme <hi rend="i">Chambre ardente</hi>. Beaucoup en demandent la raison, &amp; on la peut demander dans
           vostre Province comme on fait icy. Cela vient de ce qu’on jugeoit autrefois les Criminels
           dont la naissance estoit élevée, dans une Chambre toute tenduë de deüil, &amp; qui
           n’estoit éclairée que par des Flambeaux. C’est à cause de ces mesmes Flambeaux que le nom
@@ -2035,9 +1961,7 @@
         <head>Enigme</head>
         <bibl><title>Mercure galant</title>, avril [tome 4], 1679, p. 356-357.</bibl>
         <quote>
-          <label>Enigme<note resp="editor">La solution de cette énigme se trouve dans <ref target="MG-1679-05_335"
-              >cet article</ref> et dans <ref target="MG-1679-06e_249"
-                >celui-ci</ref></note>.</label>
+          <label>Enigme<note resp="editor">La solution de cette énigme se trouve dans <ref target="MG-1679-05_335">cet article</ref> et dans <ref target="MG-1679-06e_249">celui-ci</ref></note>.</label>
           <l><seg type="tab">    </seg>JE n’ay gosier, langue, ny bouche,</l>
           <l><seg type="tab">    </seg>Cependant je m’explique bien ;</l>
           <l><seg type="tab">    </seg>Mais il faut me contraindre, ou je ne diray rien.</l>
@@ -2059,8 +1983,7 @@
       <div type="article" xml:id="MG-1679-04_362a" resp="mercure">
         <head>[Histoire du Grand Theodose, par M. l’Abbé Fléchier]</head>
         <bibl><title>Mercure galant</title>, avril 1679 [tome 4], p. 362.</bibl>
-        <p>La celebre &amp; belle Histoire du <hi rend="i">Grand Theodose</hi>, par M<hi rend="sup"
-            >r</hi> l’Abbé Flechier, se vend depuis quelques jours chez le S<hi rend="sup">r</hi>
+        <p>La celebre &amp; belle Histoire du <hi rend="i">Grand Theodose</hi>, par M<hi rend="sup">r</hi> l’Abbé Flechier, se vend depuis quelques jours chez le S<hi rend="sup">r</hi>
           Cramoisy. Tout le monde court l’acheter en foule. Il y a longtemps qu’il ne s’est rien
           fait de si beau.</p>
       </div>
@@ -2069,8 +1992,7 @@
         <bibl><title>Mercure galant</title>, avril 1679 [tome 4], p. 362-364.</bibl>
         <p>Je ne vous tiendray point la parole que je vous avois donnée de vous faire ce Mois-cy un
           Article de Modes nouvelles. La saison ne le permet pas. Bien loin d’avoir engagé le beau
-          monde aux Promenades, elle a fait courir aux divertissemens de l’Hyver. L'Opéra de <hi
-            rend="i">Bellérophon</hi> a paru tout nouveau, tant les Assemblées ont continué d’y
+          monde aux Promenades, elle a fait courir aux divertissemens de l’Hyver. L'Opéra de <hi rend="i">Bellérophon</hi> a paru tout nouveau, tant les Assemblées ont continué d’y
           estre nombreuses. <hi rend="i">L'Ariane</hi> de M. de Corneille le jeune n’a pas esté
           moins suivie ; &amp; Mademoiselle de Chammeslé, cette inimitable Actrice qui a passé dans
           la Troupe du Fauxbourg Saint Germain, y a tiré plusieurs fois des larmes de la plûpart de
@@ -2082,5 +2004,4 @@
           joüent à Paris, est la meilleure qui soit en France.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

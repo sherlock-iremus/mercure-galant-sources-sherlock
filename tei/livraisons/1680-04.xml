@@ -1,69 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, avril 1680 [tome 6]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2015"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1680-04/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, avril <date>1680</date> [tome 5].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1680-04"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1680-04_034" resp="mercure">
         <head>[Suite des Réjoüissances faites à Naples, pour le Mariage du Roy d’Espagne]</head>
-        <bibl><title>Mercure galant</title>, avril 1680 [tome 5], p. 34-43<note resp="editor"
-          >Le début de la relation<ref target="MG-1680-03a_120">est publié en mars.</ref></note></bibl>
+        <bibl><title>Mercure galant</title>, avril 1680 [tome 5], p. 34-43<note resp="editor">Le début de la relation<ref target="MG-1680-03a_120">est publié en mars.</ref></note></bibl>
         <p>Madrid n’a pas esté le seul lieu de la domination du Roy d’Espagne, où l’on ait donné ces
           sortes de Festes à l’occasion de son Mariage. On en a aussi fait à Naples, apres la
           superbe Cavalcade dont vous avez veu la description dans ma lettre du dernier Mois. Ces
@@ -84,8 +23,7 @@
           Cette Quadrille, ainsi que toutes les autres, consistoit en deux Trompetes, deux Tambours,
           deux Ecuyers qui portoient les Lances, six Estafiers menant des Chevaux de main, deux
           Parrains, &amp; six Chevaux vétus des couleurs du Drapeau de la Quadrille, avec de
-          tres-belles Plumes, &amp; quantité de Gens de Livrée. La seconde Quadrille de M<hi
-            rend="sup">r</hi> le Viceroy, suivoit celle-cy. Le Prince de Vegiano-Sangro la
+          tres-belles Plumes, &amp; quantité de Gens de Livrée. La seconde Quadrille de M<hi rend="sup">r</hi> le Viceroy, suivoit celle-cy. Le Prince de Vegiano-Sangro la
           conduisoit. Son Drapeau estoit couleur de Musc, argent &amp; or, &amp; le corps de sa
           Devise, une Branche de Laurier, avec une autre de Vigne où pendoient des Grapes. Ces
           paroles luy servoient d'ame, <hi rend="i">Gloriosa secondidad</hi>. Le Prince de
@@ -127,11 +65,10 @@
           Ouvrages, &amp; que mes Lettres contiennent la suite du Journal des Nouveautez du Chant,
           que les impressions peu correctes qu’on en faisoit, luy avoient fait interrompre.</p>
         <quote>
-          <label>AIR NOUVEAU.</label><note> resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Trop cruelle saison</hi>, doit regarder la page 50.</note>
+          <label>AIR NOUVEAU.</label><note> resp="author" place="margin"&gt;<hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Trop cruelle saison</hi>, doit regarder la page 50.</note>
             <l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Trop cruelle
               saison,</l>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"
-              > </space>Qu’avec raison</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Qu’avec raison</l>
             <l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Je crains tes
               charmes,</l>
             <l rend="i"><space rend="tab"> </space>Et qu’ils me vont couster de larmes,</l>
@@ -350,8 +287,7 @@
           à qui il n’est pas juste d’en oster la gloire. J’espere qu’il me sera permis de vous les
           nommer, si-tost qu’elle aura paru. Tout ce que je vous en puis dire aujourd’huy, c’est
           qu’un Gentilhomme de Bourges y a bonne part. Quant à la Bassete que nous promet l’Hostel
-          de Bourgogne, elle est de M<hi rend="sup">r</hi> de Hauteroche, Autheur du <hi rend="i"
-            >Crispin Musicien</hi>, qui vous a autrefois si bien divertie. </p>
+          de Bourgogne, elle est de M<hi rend="sup">r</hi> de Hauteroche, Autheur du <hi rend="i">Crispin Musicien</hi>, qui vous a autrefois si bien divertie. </p>
       </div>
       <div type="article" xml:id="MG-1680-04_241" resp="mercure">
         <head>Air nouveau</head>
@@ -394,8 +330,7 @@
         <quote>
           <l><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Ah,
             qu’ils sont courts,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space><space
-              rend="tab"> </space>Les beaux jours</l>
+          <l><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Les beaux jours</l>
           <l><space rend="tab"> </space><space rend="tab"> </space>D’une Fleur printaniere !</l>
           <l>C’est ainsi que s’enfuit la saison des Amours.</l>
           <l>Hastez-vous donc d’aimer, ô jeune Beauté fiere,</l>
@@ -445,13 +380,11 @@
           estoit de M<hi rend="sup">rs</hi> Chaperon, la Lande, &amp; Laloüete ; &amp; à l’Abbaye
           aux Bois, de M<hi rend="sup">r</hi> Charpentier. Je ne vous fait point icy de détail de la
           Cerémonie de la Cene. Comme le Roy la fait tous les ans, &amp; qu’elle est toûjours la
-          mesme, il est impossible que vous n’en soyez instruite. Je vous diray seulement que M<hi
-            rend="sup">r</hi> l'Abbé des Alleurs y a presché cette année avec l'applaudissement de
+          mesme, il est impossible que vous n’en soyez instruite. Je vous diray seulement que M<hi rend="sup">r</hi> l'Abbé des Alleurs y a presché cette année avec l'applaudissement de
           toute la Cour. Le Compliment qu'il fit à Sa Majesté charma tout le monde. Vous sçavez que
           le Pere Bourdalouë Jesuite a presché devant Elle tout le Caresme. Sa réputation est si
           bien &amp; si justement établie, que le plus glorieux éloge qui luy puisse estre donné,
           c'est qu'il presche toûjours également bien.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

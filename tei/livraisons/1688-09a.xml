@@ -1,69 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1688-09a">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, septembre 1688 (première partie) [tome 12]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1688-09a</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>septembre 1688</date> (première partie) [tome
-          12].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1688-09"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, septembre 1688 (première partie) [tome 12].</head>
       <div type="article" xml:id="MG-1688-09a_007" resp="wordpro">
@@ -73,8 +8,7 @@
         <p/>
         <p>Voicy, Madame, un nouveau Portrait du Roy que je vous envoye. L’admiration que vous avez
           toûjours euë pour les grandes qualitez de cet auguste Monarque, me persuade aisément que
-          je ne puis commencer ma Lettre d’une maniere plus agreable pour vous. M<hi rend="sup"
-            >r</hi> Bosquillon dont je vous ay déja envoyé plusieurs Ouvrages, est l’Auteur de
+          je ne puis commencer ma Lettre d’une maniere plus agreable pour vous. M<hi rend="sup">r</hi> Bosquillon dont je vous ay déja envoyé plusieurs Ouvrages, est l’Auteur de
           celuy-cy. Tous ceux qui l’ont veu en ont esté fort contens, &amp; vous avez le
           discernement trop juste, pour n’y découvrir pas les mesmes beautez qu’ils y ont
           trouvées.</p>
@@ -190,8 +124,7 @@
           pour défendre les duels, &amp; pour s’opposer à l’heresie, sa matiere le porta
           naturellement à parler des merveilleuses actions du Roy, &amp; il le fit d’une maniere
           fine &amp; delicate, qui contenta fort tous ses Auditeurs. Il dit en parlant de l’Academie
-          Françoise, dont ce grand Prince vouloit bien estre le Protecteur, que S<hi rend="sup"
-            >t</hi> Loüis avoit aussi étably une Academie, mais qu’elle estoit de Theologiens. Il
+          Françoise, dont ce grand Prince vouloit bien estre le Protecteur, que S<hi rend="sup">t</hi> Loüis avoit aussi étably une Academie, mais qu’elle estoit de Theologiens. Il
           fut aisé de connoistre qu’il parloit du College de Sorbonne, fondé en 1252. par Robert de
           Sorbonne, Aumônier &amp; Confesseur de ce saint Roy, qui par ses bien faits luy avoit
           donné un fort grand éclat. M<hi rend="sup">r</hi> l’Archevesque estant Proviseur de
@@ -205,8 +138,7 @@
           Illustre Prelat l’obligeoit à supprimer quantité de choses glorieuses que la force de la
           verité auroit tirées de sa bouche, s’il n’eust pas esté present, ce ne furent
           qu’applaudissemens de toutes parts qui luy donnerent le temps de reprendre haleine. Il
-          continua avec une égale satisfaction de son Auditoire ; &amp; lors qu’il eut achevé, M<hi
-            rend="sup">r</hi> l’Archevesque donna la Benediction.</p>
+          continua avec une égale satisfaction de son Auditoire ; &amp; lors qu’il eut achevé, M<hi rend="sup">r</hi> l’Archevesque donna la Benediction.</p>
       </div>
 
 
@@ -231,8 +163,7 @@
           magnifique Ballet, dont quatre Divinitez firent l'ouverture. Mars, la Paix, Themis, &amp;
           la Religion, vinrent disputer ensemble la gloire d'avoir le plus contribué à donner au Roy
           le surnom de Grand. Mars entra precedé de deux Trompetes, &amp; furieux de ce qu'on osoit
-          luy contester cet honneur. La Paix pretendit avoir sujet de l'en exclure, puis que <hi
-            rend="sc">Loüis Le Grand</hi> l'avoit banny de la France. Themis &amp; la Religion
+          luy contester cet honneur. La Paix pretendit avoir sujet de l'en exclure, puis que <hi rend="sc">Loüis Le Grand</hi> l'avoit banny de la France. Themis &amp; la Religion
           soûtinrent leurs avantages, &amp; sur l'émulation que ce differend produisit entre eux,
           chacun ayant publié les grandes choses que cet Auguste Monarque avoit faites en sa faveur,
           enfin pour le terminer, on convint de donner la préference à celuy qui réüssiroit le mieux
@@ -677,8 +608,7 @@
             perpetuel. Car dans mon pendule de Mercure, tant le poids de la partie inferieure qui
             est au dessous du mouvement de vibration, que le poids de la partie superieure augmente
             toujours en descendant, &amp; diminuë toujours en remontant. On peut aussi avoir une
-            espece de mouvement perpetuel tres-sensible suivant la figure</hi> 6. <hi rend="i"
-            >de</hi> mon Homme Artificiel, <hi rend="i">Prophete Phisique du changement des temps
+            espece de mouvement perpetuel tres-sensible suivant la figure</hi> 6. <hi rend="i">de</hi> mon Homme Artificiel, <hi rend="i">Prophete Phisique du changement des temps
             qui est dans le Mercure du mois de Mars 1683.</hi></p>
       </div>
       <div type="article" xml:id="MG-1688-09a_192" resp="wordpro">
@@ -1040,8 +970,7 @@
           la digression. Je vous soûtiens que malgré le Grec, nostre Langue veut que nous disions le
           Dialecte Dorique. Et pourquoy, répondit-il, s’attribueroit-elle un droit que la Latine ne
           s’est point donné ? Elle a fait <hi rend="i">Dialectus</hi> feminin, quoy que la
-          terminaison en soit masculine. Laissons là vos feminins, &amp; vostre <hi rend="i"
-            >Dialectus</hi>, répliqua la Dame. Il suffit que l’usage ait decidé pour le Dialecte. Je
+          terminaison en soit masculine. Laissons là vos feminins, &amp; vostre <hi rend="i">Dialectus</hi>, répliqua la Dame. Il suffit que l’usage ait decidé pour le Dialecte. Je
           n’en conviens pas, dit le Cavalier ; &amp; s’il estoit vray que cela fust, il seroit d’une
           grande consequence de s’opposer à un usage si pernicieux. Il n’y a, reprit la Dame, que
             M<hi rend="sup">rs</hi> de l’Academie Françoise qui le puissent faire, &amp; je suis
@@ -1093,8 +1022,7 @@
           pieds de hauteur du parterre, &amp; cinq du plancher sous un riche Dais Dans les bas
           reliefs du Buste, qui est l’ouvrage du S<hi rend="sup">r</hi> Chabry, habile Sculpteur de
           Lyon, on avoit écrit en lettres d’or les deux Quadrains que vous allez lire ; le premier
-          de M<hi rend="sup">r</hi> de Bussy, Directeur de la Compagnie, &amp; l’autre de M<hi
-            rend="sup">r</hi> l’Abbé Baudry, Academicien.</p>
+          de M<hi rend="sup">r</hi> de Bussy, Directeur de la Compagnie, &amp; l’autre de M<hi rend="sup">r</hi> l’Abbé Baudry, Academicien.</p>
         <quote>
           <lg>
             <l rend="i"> C’est là ce grand Heros, le modelle des Rois ;</l>
@@ -1127,8 +1055,7 @@
           personnes distinguées de l’un &amp; de l’autre Sexe. Les Academiciens sortant de leur
           Bibliotheque, allerent prendre leurs places le long d’une grande table couverte d’un riche
           tapis de Perse. M<hi rend="sup">r</hi> de Bussy, comme Directeur de l’Academie, en fit
-          l’ouverture par un beau Discours, dans lequel il fit voir en peu de mots que <hi rend="sc"
-            >Loüis le Grand</hi> remplissant toute la terre du bruit de ses merveilleuses actions
+          l’ouverture par un beau Discours, dans lequel il fit voir en peu de mots que <hi rend="sc">Loüis le Grand</hi> remplissant toute la terre du bruit de ses merveilleuses actions
           &amp; de l’éclat de son nom, faisoit l’occupation continuelle des Academiciens, dont
           l’esprit s’étoit souvent trouvé accablé de ses idées, le sujet en estant si relevé, que
           leur penetration ne le pouvoit suivre. Il ajoûta qu’ils alloient reprendre de nouvelles
@@ -1144,14 +1071,12 @@
           &amp; le toucha d’une maniere fort délicate. Ce fut le sujet que prit il y a trois ans
             M<hi rend="sup">r</hi> de la Barmondiere, l’un des Academiciens, pour un discours de
           demy heure qu’il prononça le jour de S. Loüis dans la mesme Salle, &amp; dont il
-          s’acquitta, comme en toutes occasions avec une approbation generale. M<hi rend="sup"
-            >r</hi> l’Abbé Baudry fit part à la Compagnie d’une Ode de deux cens quarante Vers, qui
+          s’acquitta, comme en toutes occasions avec une approbation generale. M<hi rend="sup">r</hi> l’Abbé Baudry fit part à la Compagnie d’une Ode de deux cens quarante Vers, qui
           fut extrémement applaudie, en sorte qu’ils receurent l’un &amp; l’autre toutes les
           loüanges qui leur estoient deuës. Aprés cela on leut les ouvrages qui au jugement de
           l’Academie avoient merité les prix qu’elle avoit proposez de deux belles Medailles d’or du
           Roy à ceux qui réüssiroient le mieux dans l’Eloquence &amp; dans la Poësie, sur les sujets
-          que je vous marquay dans ma Lettre du mois d’Avril. Le premier fut remporté par M<hi
-            rend="sup">r</hi> de Livonniere Pocquet, de l’Academie Royale d’Angers, &amp; l’autre
+          que je vous marquay dans ma Lettre du mois d’Avril. Le premier fut remporté par M<hi rend="sup">r</hi> de Livonniere Pocquet, de l’Academie Royale d’Angers, &amp; l’autre
           par M<hi rend="sup">r</hi> Magnin, de l’Academie Royale d’Arles, &amp; ancien Conseiller à
           Macon.</p>
       </div>
@@ -1294,8 +1219,7 @@
           pieces par une Devise sans y mettre de nom, &amp; elles finiront par une Priere pour le
           Roy. Toutes personnes seront receuës à pretendre à ces Prix, à la reserve des trente
           Academiciens, qui en seront les Juges. Les pieces seront affranchies de port, &amp; mises
-          dans le dernier de Mars de l’année prochaine entre les mains de M<hi rend="sup"
-          >r</hi> Goureau, ancien Conseiller au Presidial d’Angers, l’un des deux Secretaires de
+          dans le dernier de Mars de l’année prochaine entre les mains de M<hi rend="sup">r</hi> Goureau, ancien Conseiller au Presidial d’Angers, l’un des deux Secretaires de
           l’Academie demeurant dans la même Ville ; il en donnera son receu à ceux qui le
           souhaiteront ; on n’en recevra plus aprés le dernier de Mars passé.</p>
       </div>
@@ -1305,8 +1229,7 @@
           p. 273-279</bibl>
         <p/>
         <p>Comme il y a beaucoup de Sçavans dans vostre Province, il y aussi des gens de Negoce,
-          &amp; je croy, Madame, que vous leur ferez plaisir de les avertir que M<hi rend="sup"
-            >r</hi> Savary vient de donner au Public un Livre qui leur sera d’une grande utilité. Il
+          &amp; je croy, Madame, que vous leur ferez plaisir de les avertir que M<hi rend="sup">r</hi> Savary vient de donner au Public un Livre qui leur sera d’une grande utilité. Il
           a pour titre, <hi rend="i">Pareres, ou Avis &amp; Conseils sur les plus importantes
             matieres du Commerce</hi>. Il contient la resolution des questions les plus difficiles
           sur les Banqueroutes &amp; Faillites ; des Lettres &amp; Billets de change ; des ordres
@@ -1479,8 +1402,7 @@
           trouverez une maxime fort utile à suivre.</p>
         <quote>
           <lg>
-            <l rend="i">Qui veut vivre sans peine,<note resp="author" place="margin"><hi rend="i"
-                  >Avis pour placer les Figures</hi> : la Chanson qui commence par, <hi rend="i">Qui
+            <l rend="i">Qui veut vivre sans peine,<note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence par, <hi rend="i">Qui
                   veut vivre sans peine</hi>, doit regarder la page 330.</note></l>
             <l rend="i">Qu’il vive sans amour.</l>
             <l rend="i">Ce tyran nuit &amp; jour</l>
@@ -1547,5 +1469,4 @@
           manqué pendant quelque temps.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

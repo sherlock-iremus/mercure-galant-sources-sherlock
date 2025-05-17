@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1692-02a">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, février 1692 [tome 2]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1692-02a</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>février 1692</date> [tome 2].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1692-02"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, février 1692 [tome 2].</head>
       <div type="article" xml:id="MG-1692-02a_007" resp="mercure">
@@ -210,7 +146,7 @@
             <l rend="i">Et Saladin luy même enflé de ses exploits,</l>
             <l rend="i">N’auroit pû resister à l’effort de ses armes,</l>
             <l rend="i">Si sa mort, du Tyran n’eust calmé les alarmes,</l>
-            <l><hi rend="i">Et si, comme Alexandre <note resp="author">Alexandre le Grand courut risque de sa vie pour s’être baigné  dans ce fleuve.</note>en tous lieux redouté,</hi></l>
+            <l><hi rend="i">Et si, comme Alexandre <note resp="author">Alexandre le Grand courut risque de sa vie pour s’être baigné&#x2028; dans ce fleuve.</note>en tous lieux redouté,</hi></l>
             <l rend="i">Le Cydnus en son sein ne l’avoit arresté.</l>
             <l rend="i">D’un Esté trop brûlant il crut par cette eau vive,</l>
             <l rend="i">En se baignant dompter la chaleur excessive ;</l>
@@ -264,7 +200,7 @@
             <l rend="i">Ne doit jamais blâmer l’ordre, ny la sagesse,</l>
             <l rend="i">Dieu, peut-estre, exerçant ce Roy plein de vertus,</l>
             <l rend="i">Punissoit les excés des Chrétiens corrompus,</l>
-            <l><hi rend="i">Dont <note resp="author">Saint Bernard. <hi rend="i">de Consid. liv. 2.               chap. 1.</hi></note>le zele apparent, la pieté fardée,</hi></l>
+            <l><hi rend="i">Dont <note resp="author">Saint Bernard. <hi rend="i">de Consid. liv. 2.&#x2028;              chap. 1.</hi></note>le zele apparent, la pieté fardée,</hi></l>
             <l rend="i">N’offroient aux yeux mortels qu’une trompeuse idée,</l>
             <l><hi rend="i">Tandis qu’abandonnez à de sales ardeurs,</hi></l>
             <l rend="i">Ils recouroient à Dieu, qu’ils chassoient de leurs cœurs.</l>
@@ -369,13 +305,11 @@
       <div type="article" xml:id="MG-1692-02a_064" resp="wordpro">
         <head>[Lettre sur la beauté]</head>
         <bibl><title>Mercure galant</title>, février 1692 [tome 2], p. 64-92.</bibl>
-        <p>Je vous envoye un Discours sur la Beauté qui a donné lieu à une Lettre de M<hi rend="sup"
-            >r</hi> Cypiere que vous avez veuë dans l’une des miennes. Il y répondoit par cette
+        <p>Je vous envoye un Discours sur la Beauté qui a donné lieu à une Lettre de M<hi rend="sup">r</hi> Cypiere que vous avez veuë dans l’une des miennes. Il y répondoit par cette
           Lettre, &amp; comme elle a fait souhaiter de voir ce discours, je vous en fais part, en
           ayant heureusement recouvré une Copie.</p>
         <quote>
-          <label>LETTRE<lb/>SUR LA BEAUTÉ<lb/>Ecrite par M<hi rend="sup">r</hi> Bellet à<lb/>M<hi
-              rend="sup">r</hi> Schreuder.</label>
+          <label>LETTRE<lb/>SUR LA BEAUTÉ<lb/>Ecrite par M<hi rend="sup">r</hi> Bellet à<lb/>M<hi rend="sup">r</hi> Schreuder.</label>
           <p><hi rend="sc"><hi rend="i">Monsieur,</hi></hi></p>
           <p><hi rend="i">Je n’aime en moy, ny la qualité d’Auteur, ny celle d’Innovateur. Je n’ay
               point aussi resolu de m’exposer à la Critique, comme font tous ceux qui font paroistre
@@ -529,7 +463,7 @@
               pas dans son cerveau une disposition à prendre le mesme plaisir à la veuë de Sextus,
               qu’elle prenoit à la veuë de quelques autres hommes ? Ouy, Monsieur, c’est là la
               raison de cette Epithete si glorieuse qu’on luy donne, c’est l’origine de sa gloire,
-              &amp; si je l’ose dire, c’est là sa <note resp="author">Voyez le P. le Moine, &amp; les Pensées diverses de M.  Beyle.</note>vertu. Croiriez-vous que ce n’est que cette disposition &amp; l’amour de ce
+              &amp; si je l’ose dire, c’est là sa <note resp="author">Voyez le P. le Moine, &amp; les Pensées diverses de M.&#x2028; Beyle.</note>vertu. Croiriez-vous que ce n’est que cette disposition &amp; l’amour de ce
               plaisir qui firent qu’Helene se laissa enlever par Paris, &amp; que toute la Grece
               s’opiniâtra pendant dix ans à la ruine du florissant Royaume de Priam ? A vostre avis,
               falloit-il faire tant de bruit pour une Coquette ? Croiriez-vous aussi que la descente
@@ -892,8 +826,7 @@
           esté fait dans les premiers tours de la Foire S. Germain. Le Cavalier envoya une Corbeille
           fort proprement travaillée, &amp; fort richement couverte, &amp; separée en neuf petits
           compartimens, un dans le milieu, &amp; huit alentour. Celuy du milieu estoit doublé de
-          blanc, &amp; plein à demy de petits cœurs de sucre sous ce mot, <hi rend="i"
-            >Cordialité</hi> ; sur quoy on voyoit un cœur de cire pendant à un gros nœud gris-delin
+          blanc, &amp; plein à demy de petits cœurs de sucre sous ce mot, <hi rend="i">Cordialité</hi> ; sur quoy on voyoit un cœur de cire pendant à un gros nœud gris-delin
           qui en sortoit. Un costé de ce cœur estoit couleur de feu, portant sur son milieu une
           bougie blanche allumée &amp; ces mots écrits en lettres d’or, <hi rend="i">Je brûleray
             jusqu’à ma fin</hi>. L’autre costé du cœur étoit bleu-mourant, chargé de chaînes
@@ -910,10 +843,8 @@
         </quote>
         <p>L’un des quatre petits compartimens qui faisoient la croix, estoit doublé de couleur de
           feu, &amp; remply de pâtes rouges, avec ce mot, <hi rend="i">Ardeur</hi>. L’autre doublé
-          de vert, &amp; plein de confitures vertes, estoit sous le mot, <hi rend="i"
-          >Esperance</hi>. Le troisiéme estoit doublé d’Aurore avec des pâtes jaunes, &amp; le mot,
-            <hi rend="i">Jeunesse</hi> ; &amp; le quatriéme bleu, avec des pâtes de même, avoit, <hi
-            rend="i">Innocence</hi>. Les quatre autres qui faisoient les coins selon leurs
+          de vert, &amp; plein de confitures vertes, estoit sous le mot, <hi rend="i">Esperance</hi>. Le troisiéme estoit doublé d’Aurore avec des pâtes jaunes, &amp; le mot,
+            <hi rend="i">Jeunesse</hi> ; &amp; le quatriéme bleu, avec des pâtes de même, avoit, <hi rend="i">Innocence</hi>. Les quatre autres qui faisoient les coins selon leurs
           differentes couleurs, avoient chacun un de ces quatre mots, <hi rend="i">Discretion,
             passion, douceur, fidelité</hi>, &amp; estoient garnis de differentes especes de
           dragées, &amp; lardez de fioles d’essence <hi rend="i">de Bergamotte, d’Orange, de Casie,
@@ -1122,8 +1053,7 @@
         <bibl><title>Mercure galant</title>, février 1692 [tome 2], p. 227-229.</bibl>
         <p>Quoy que rien ne soit moins galant que de parler de remedes dans une Lettre comme celles
           que je vous adresse tous les mois, neanmoins l’utile devant l’emporter sur l’agreable, je
-          ne sçaurois m’empêcher de vous parler de celuy qui a esté mis en vogue par M<hi rend="sup"
-            >r</hi> Miracle, Officier ordinaire de la Musique de la Chapelle du Roy. C’est un Baume
+          ne sçaurois m’empêcher de vous parler de celuy qui a esté mis en vogue par M<hi rend="sup">r</hi> Miracle, Officier ordinaire de la Musique de la Chapelle du Roy. C’est un Baume
           pour les Rhumatismes, dont il a seul le secret, &amp; dont la bonté retentit dans tout
           Versailles. Mille gens dignes de foy assurent que personne ne s’en est servy, qui n’en ait
           esté guery, &amp; même si promptement, que ceux qui en ont usé ont regardé leur mal comme
@@ -1138,17 +1068,14 @@
         <p>Le Jeudy 14, de ce mois, M<hi rend="sup">r</hi> de Tourreil, que je vous dis la derniere
           fois avoir esté élu pour remplir la place de M<hi rend="sup">r</hi> le Clerc à l’Academie
           Françoise y fut receu selon la coutume. Il remercia la Compagnie par un Discours tout
-          plein d’éloquence, qui fut extraordinairement applaudy, &amp; M<hi rend="sup"
-          >r</hi> Charpentier, alors Directeur, luy répondit par un autre, qui luy marqua d’une
+          plein d’éloquence, qui fut extraordinairement applaudy, &amp; M<hi rend="sup">r</hi> Charpentier, alors Directeur, luy répondit par un autre, qui luy marqua d’une
           maniere fort fine &amp; fort delicate, que l’Academie en le choisissant n’avoit fait que
           satisfaire aux intentions du Roy, qui vouloit que dans ces sortes d’élections, on rendist
           justice au vray merite, sans aucun égard aux brigues. Je pourray vous en dire davantage le
           mois prochain. Aprés que ces deux Discours eurent esté prononcez, M<hi rend="sup">r</hi>
-          l’Abbé de la Vau leut une suite du Poëme de M<hi rend="sup">r</hi> Perrault, intitulé, <hi
-            rend="i">La Creation du Monde</hi>. L’on y trouva des descriptions fort vives, comme on
+          l’Abbé de la Vau leut une suite du Poëme de M<hi rend="sup">r</hi> Perrault, intitulé, <hi rend="i">La Creation du Monde</hi>. L’on y trouva des descriptions fort vives, comme on
           avoit fait la derniere fois, &amp; cette lecture fut suivie d’une Lettre en Vers, &amp;
-          d’une maniere de Prologue pastoral pour mettre en Musique, l’un &amp; l’autre de M<hi
-            rend="sup">r</hi> Boyer. Ces deux Ouvrages receurent beaucoup d’applaudissemens, &amp;
+          d’une maniere de Prologue pastoral pour mettre en Musique, l’un &amp; l’autre de M<hi rend="sup">r</hi> Boyer. Ces deux Ouvrages receurent beaucoup d’applaudissemens, &amp;
           firent connoistre que le beau feu de l’esprit n’est point sujet aux années.</p>
       </div>
       <div type="article" xml:id="MG-1692-02a_248" resp="wordpro">
@@ -1221,8 +1148,7 @@
           habits, ou brodez, ou de brocard d'or ou d'argent, tout couverts de points de la même
           richesse. Toutes les Dames nommées aussi pour le Bal, avoient des garnitures de
           Pierreries, &amp; il y voit peu de Seigneurs du Bal dont les habits n'en fussent garnis.
-          La ceremonie des Fiançailles fut faite dans le Cabinet de Sa Majesté, par M<hi rend="sup"
-            >r</hi> le Cardinal de Boüillon, Grand Aumônier de France, &amp; le Contrat fut leu par
+          La ceremonie des Fiançailles fut faite dans le Cabinet de Sa Majesté, par M<hi rend="sup">r</hi> le Cardinal de Boüillon, Grand Aumônier de France, &amp; le Contrat fut leu par
             M<hi rend="sup">r</hi> de Ponchartrain, Ministre &amp; Secretaire d'Estat, accompagné de
             M<hi rend="sup">r</hi> le Marquis de Torcy Secretaire d'Estat &amp; signé par le Roy,
           Monseigneur le Dauphin, Monsieur, Madame, Monsieur le Duc de Chartres, Mademoiselle,
@@ -1253,8 +1179,7 @@
           Roy, &amp; par M<hi rend="sup">r</hi> l'Abbé Fleury, Aumosnier de quartier.</p>
         <note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi><lb/> : La
           Figure marquée I. doit regarder la page 324.</note>
-        <p>A la fin de la cérémonie, le Registre de la Paroisse ayant esté apporté au Roy, M<hi
-            rend="sup">r</hi> l'Evêque d'Orleans presenta la plume à Sa Majesté, en presence du
+        <p>A la fin de la cérémonie, le Registre de la Paroisse ayant esté apporté au Roy, M<hi rend="sup">r</hi> l'Evêque d'Orleans presenta la plume à Sa Majesté, en presence du
           Curé. Ce Registre fut signé par le Roy, Monseigneur le Dauphin, Monsieur &amp; Madame,
           Monsieur le Duc de Chartres, Madame la Duchesse de Chartres, &amp; Monsieur le Prince.
           Toute la Cour accompagna ensuite le Roy dans son appartement, &amp; Madame, la Duchesse de
@@ -1323,5 +1248,4 @@
         </quote>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

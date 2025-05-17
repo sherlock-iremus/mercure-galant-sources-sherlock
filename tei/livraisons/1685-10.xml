@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1685-10">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, octobre 1685 [tome 10]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1685-10</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>octobre 1685</date> [tome 10].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1685-10"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, octobre 1685 [tome 10].</head>
       <div type="article" xml:id="MG-1685-10_004" resp="wordpro">
@@ -142,8 +78,7 @@
           que le Cheval n’est appuyé que sur les deux pieds de derriere, que ceux de devant sont en
           l’air, &amp; que par une surprenante invention du Sculpteur, l’équilibre en est si juste,
           que d’un doigt seulement on le fait mouvoir. On ne peut voir ce bel Ouvrage, sans donner à
-            M<hi rend="sup">r</hi> Gobert, qui en est l’Autheur, les Eloges qu’il merite. Aussi M<hi
-            rend="sup">r</hi> le Duc de Richelieu ayant mené disner à Rüel quelques Personnes de
+            M<hi rend="sup">r</hi> Gobert, qui en est l’Autheur, les Eloges qu’il merite. Aussi M<hi rend="sup">r</hi> le Duc de Richelieu ayant mené disner à Rüel quelques Personnes de
           qualité, on trouva ce Madrigal attaché à la Porte qui conduit à la Grotte, sur laquelle
           cette Figure est élevée.</p>
         <quote>
@@ -233,8 +168,7 @@
           une politesse extraordinaire. Il a conçu le premier le dessein d'élever cette Statüe. Il
           l'a fait agréer à Sa Majesté, &amp; voyant l'allegresse genérale, il déclara que tous les
           ans il vouloit solemniser ce jour. La Ville &amp; l'Université s'y engagerent avec la
-          mesme ardeur. Un Concert de Voix &amp; d'Instrumens suivit [le repas que M<hi rend="sup"
-            >r</hi> de Morangis offrit aux gens de la Ville et à la noblesse]. On n'y chanta que des
+          mesme ardeur. Un Concert de Voix &amp; d'Instrumens suivit [le repas que M<hi rend="sup">r</hi> de Morangis offrit aux gens de la Ville et à la noblesse]. On n'y chanta que des
           endroits choisis dans les Prologues des Opera à la gloire du Roy, &amp; cette diversité de
           Loüanges, fit un agréable effet dans une Assemblée remplie d'admiration pour Sa Majesté.
           On partit de chez M<hi rend="sup">r</hi> l'Intendant sur les quatre heures, pour se rendre
@@ -321,8 +255,7 @@
             <l rend="i">Fortunâ, factis, pectere Cæsar adest.</l>
           </lg>
         </quote>
-        <p>Sur la troisiéme face à la gauche du Roy, on lit cette Epigramme de M<hi rend="sup"
-            >r</hi> de la Motte, Lieutenant General à Caën.</p>
+        <p>Sur la troisiéme face à la gauche du Roy, on lit cette Epigramme de M<hi rend="sup">r</hi> de la Motte, Lieutenant General à Caën.</p>
         <quote>
           <lg>
             <l rend="i">Civis opus, patriusque lapis stat Regia magni</l>
@@ -422,8 +355,7 @@
           &amp; perpetuelle Doctrine qu’elle a toûjours professée touchant la Puissance
           Ecclesiastique, conformément aux Libertez de l’Eglise Gallicane, ne se contenta pas
           d’autoriser par sa presence une action si singuliere ; mais elle voulut encore, afin que
-          l’on fust plus asseuré qu’elle parloit par la bouche de son Recteur, que M<hi rend="sup"
-            >r</hi> Berthe répondist, non comme un particulier, &amp; avec quelques marques de
+          l’on fust plus asseuré qu’elle parloit par la bouche de son Recteur, que M<hi rend="sup">r</hi> Berthe répondist, non comme un particulier, &amp; avec quelques marques de
           soûmission, mais en Chef &amp; en Maistre. Il faisoit connoître sa Dignité par la fourrure
           dont il estoit revestu. Cet Acte se fit avec grand éclat, &amp; il s’y trouva un
           tres-grand nombre de Personnes illustres de tous les Ordres, pour y rendre en quelque
@@ -613,14 +545,12 @@
           symphonie agreable par intervalles, &amp; sans interruption du Chant, avec plusieurs
           décharges de Mousqueteries. La Procession estant faite, la Messe fut solemnellement
           celebrée par M<hi rend="sup">r</hi> Collot, Aumonier de la Compagnie de Sezanne, avec
-          l'Orgue, &amp; quelques Motets chantez par de belles Voix accompagnées d'Instrumens. M<hi
-            rend="sup">r</hi> le Marquis de Pleurs alla à l'Offrande, &amp; aprés luy les Cornetes
+          l'Orgue, &amp; quelques Motets chantez par de belles Voix accompagnées d'Instrumens. M<hi rend="sup">r</hi> le Marquis de Pleurs alla à l'Offrande, &amp; aprés luy les Cornetes
           &amp; les Enseignes avec leurs Guidons &amp; leurs Drapeaux. Aprés le disner, toutes les
           Compagnies passerent en reveuë, &amp; on exposa les Prix, qui estoient d'environ seize
           mille livres d'argenterie de toutes pieces, comme Bassins, grosses Eguieres, &amp; autres
           d'une Orphevrerie exquise. Le soir M<hi rend="sup">r</hi> de Villiers, Capitaine de la
-          Compagnie de la Ville, regala la pluspart des Officiers des Bandes avec M<hi rend="sup"
-            >r</hi> de Pleurs, les Magistrats &amp; Officiers de Ville ; ce qu'il continua tous les
+          Compagnie de la Ville, regala la pluspart des Officiers des Bandes avec M<hi rend="sup">r</hi> de Pleurs, les Magistrats &amp; Officiers de Ville ; ce qu'il continua tous les
           jours avec une propreté &amp; une profusion extraordinaire. Ce soupé fut suivy d'un grand
           Bal, où toutes les Dames, tant de la Ville que des environs, se trouverent fort parées. On
           servit ensuite une magnifique Collation dans vingt quatre grands Bassins, avec toutes
@@ -660,8 +590,7 @@
           </lg>
         </quote>
         <p>Pour l’intelligence de ce dernier Vers, on doit sçavoir que chaque Compagnie de
-          Chevaliers a son Roy. Au dessous des Armes de Monseigneur le Dauphin, on lisoit, <hi
-            rend="i">Lauros innectit olivæ</hi>.</p>
+          Chevaliers a son Roy. Au dessous des Armes de Monseigneur le Dauphin, on lisoit, <hi rend="i">Lauros innectit olivæ</hi>.</p>
         <quote>
           <lg>
             <l rend="i">La Paix a ses Lauriers, aussi-bien que la Guerre ;</l>
@@ -773,8 +702,7 @@
           &amp; l'ont commencée cette année par un Service solennel qui fut fait ce jour là dans
           leur Eglise Collegiale. Ils l'avoient parée magnifiquement, &amp; ornée de plusieurs
           Devises &amp; d'Inscriptions à la loüange du Roy. La Messe fut chantée à trois Choeurs de
-          Musique aussi bien que Vespres, &amp; l'on fit une Procession Generale, où M<hi rend="sup"
-            >r</hi> l'Evesque &amp; Comte d'Agde, les Magistrats &amp; autres Corps d'Officiers
+          Musique aussi bien que Vespres, &amp; l'on fit une Procession Generale, où M<hi rend="sup">r</hi> l'Evesque &amp; Comte d'Agde, les Magistrats &amp; autres Corps d'Officiers
           assisterent. [...]</p>
         <p/>
         <p>Aprés la Procession, toute la Bourgeoisie s'estant mise sous les armes, on alluma le Feu
@@ -1232,8 +1160,7 @@
           Auguste Monarque, que la Ville de Richelieu, pour mille raisons, &amp; generales &amp;
           particulieres, n’avoit garde d’oublier dans une occasion publique comme celle-là. Ce
           Soleil estoit posé au dessus d’une Medaille du Roy, le Globe du Ciel entre deux, &amp;
-          celuy de la Terre au dessous de la Medaille de ce Prince, avec cette Devise, <hi rend="i"
-            >Hic Cælo, Iste Solo</hi>. Elle estoit expliquée par ces quatre Vers.</p>
+          celuy de la Terre au dessous de la Medaille de ce Prince, avec cette Devise, <hi rend="i">Hic Cælo, Iste Solo</hi>. Elle estoit expliquée par ces quatre Vers.</p>
         <quote>
           <lg>
             <l rend="i">Tout ce vaste Univers ne charmeroit personne</l>
@@ -1243,8 +1170,7 @@
           </lg>
         </quote>
         <p>Cette Devise &amp; ces Vers estoient repetez dans l’Angle opposé, excepté qu’au lieu de
-          ces mots, <hi rend="i">Hic Cælo, Iste Solo</hi>, on y avoit mis ceux-cy, <hi rend="i"
-            >Dignus uterque præest</hi>. Les deux autres faces faisoient paroistre dans un Ciel fort
+          ces mots, <hi rend="i">Hic Cælo, Iste Solo</hi>, on y avoit mis ceux-cy, <hi rend="i">Dignus uterque præest</hi>. Les deux autres faces faisoient paroistre dans un Ciel fort
           serein quantité d’Etoiles éclatantes qui entouroient un Dauphin celeste, avec ces mots,
             <hi rend="i">Sic Regia posteritas</hi>, &amp; ces autres Vers, qui en donnoient
           l’explication.</p>
@@ -1361,8 +1287,7 @@
           chaque face du Theatre, pendoit un Quadre doré dans lequel estoient representées en
           illumination des Emblêmes, qui avoient du rapport à quatre Devises écrites en lettres de
           feu sur chacune des quatres faces du Theatre. La premiere sur l’aisle droite du costé de
-          l’Eglise representoit un Soleil de Feu chargé dans son fond des Armes de M<hi rend="sup"
-            >r</hi> le Duc de Richelieu, avec ces mots illuminez, <hi rend="i">Regali lumine
+          l’Eglise representoit un Soleil de Feu chargé dans son fond des Armes de M<hi rend="sup">r</hi> le Duc de Richelieu, avec ces mots illuminez, <hi rend="i">Regali lumine
             splendet</hi>. Elle faisoit allusion à celle du Roy, &amp; signifioit que les vertus de
           ce Duc sont toutes Royales. La seconde sur l’aisle gauche representoit les Armes de Madame
           la Duchesse de Richelieu, qui sont des Fleurs de Lys &amp; des Hermines avec ces paroles ;
@@ -1393,8 +1318,7 @@
         <p>Enfin elle arriva à l'Eglise, où le Clergé l'attendoit sur les marches, devant le
           magnifique Portail de ce beau Temple. Il avoit à sa teste le Superieur de Messieurs de la
           Mission, qui la harangua en luy presentant l'Encens &amp; l'Eau Benite. Ensuite il la
-          conduisit au Choeur, &amp; l'on y chanta le <hi rend="i">Te Deum</hi> &amp; le <hi
-            rend="i">Benedictus</hi> au son de toutes les Cloches, ausquelles douze Fauconneaux,
+          conduisit au Choeur, &amp; l'on y chanta le <hi rend="i">Te Deum</hi> &amp; le <hi rend="i">Benedictus</hi> au son de toutes les Cloches, ausquelles douze Fauconneaux,
           autant de Coulevrines, &amp; toute la Mousqueterie répondirent. [...]</p>
         <p/>
         <p>[Après cette cérémonie, la duchesse gagna le château,] où elle fut receuë splendidement
@@ -1444,8 +1368,7 @@
         <p>M<hi rend="sup">r</hi> le Comte de Wielopolski Grand Chancelier &amp; Ambassadeur
           Extraordinaire de Pologne, estant arrivé à Paris, il y a environ un mois, y est demeuré
             <hi rend="i">incognito</hi>, jusqu’à ce que tout ait esté préparé pour son Entrée
-          publique. Il la fit le 17. de ce mois à Fontainebleau, s’estant rendu à Moret, où M<hi
-            rend="sup">r</hi> le Maréchal Duc de Duras, &amp; M<hi rend="sup">r</hi> de Bonneüil
+          publique. Il la fit le 17. de ce mois à Fontainebleau, s’estant rendu à Moret, où M<hi rend="sup">r</hi> le Maréchal Duc de Duras, &amp; M<hi rend="sup">r</hi> de Bonneüil
           Introducteur des Ambassadeurs, allerent le prendre avec les Carrosses du Roy, de Madame la
           Dauphine, de Monsieur, de Madame, &amp; ceux des Princes &amp; Princesses du Sang. Il
           arriva sur les cinq heures aprés midy par la Heroniere, accompagné de vingt-quatre
@@ -1457,8 +1380,7 @@
           du Roy par M<hi rend="sup">r</hi> le Duc de Saint Aignan, premier Gentilhomme de la
           Chambre en année ; au nom de Madame la Dauphine par M<hi rend="sup">r</hi> le Maréchal de
           Belfonds son premier Ecuyer ; au nom de Monsieur par M<hi rend="sup">r</hi> le Marquis de
-          Chastillon premier Gentilhomme de sa Chambre ; &amp; au nom de Madame par M<hi rend="sup"
-            >r</hi> de Grave Maistre de la Garderobe de Monsieur.</p>
+          Chastillon premier Gentilhomme de sa Chambre ; &amp; au nom de Madame par M<hi rend="sup">r</hi> de Grave Maistre de la Garderobe de Monsieur.</p>
       </div>
       <div type="article" xml:id="MG-1685-10_272" resp="mercure">
         <head>[Continuation des Prieres, selon l'usage d'Italie, faites aux Theatins]</head>
@@ -1498,8 +1420,7 @@
           entre les membres de la communauté protestante et les autorités ecclésiastiques de
           l'évêché de Saintes (p. 274-292).]</p>
         <p/>
-        <p>[...] [Pour rendre cette action plus solemnelle, on fit une procession.] M<hi rend="sup"
-            >r</hi> Mathias Bar, Curé Vicaire perpetuel de la Paroisse, avec quelques autres
+        <p>[...] [Pour rendre cette action plus solemnelle, on fit une procession.] M<hi rend="sup">r</hi> Mathias Bar, Curé Vicaire perpetuel de la Paroisse, avec quelques autres
           Ecclesiastiques, estoit précédé de la Croix &amp; de la Baniere. Le Pere Prieur de
           l'Abbaye &amp; toute sa Communauté marchoient ensuite, ayant M. l'Evesque à leur teste en
           habits Pontificaux. M<hi rend="sup">rs</hi> les Magistrats les suivoient vêtus de leurs
@@ -1638,8 +1559,7 @@
           </lg>
         </quote>
         <p>L’Autheur de cette Devise est un jeune Homme de qualité, de dix-sept ans, d’un esprit
-          rare, &amp; d’une application extraordinaire ; c’est le Fils aisné de M<hi rend="sup"
-            >r</hi> le Mazuier, Procureur General au Parlement de Toulouse, dont le zele pour les
+          rare, &amp; d’une application extraordinaire ; c’est le Fils aisné de M<hi rend="sup">r</hi> le Mazuier, Procureur General au Parlement de Toulouse, dont le zele pour les
           interests du Roy &amp; de la Religion est assez connu. Il a soûtenu avec applaudissement
           une de ces Theses universelles, que si peu de personnes entreprennent de soûtenir.</p>
       </div>
@@ -1675,8 +1595,7 @@
         <p>La cour est toûjours à Fontainebleau, où elle doit passer une partie du mois de Novembre.
           Les Chasses, les Promenades, le Jeu, les Bals, la Musique, &amp; les Comedies Françoises
           &amp; Italiennes, y servent de divertissement. Le Roy s'y trouve peu, &amp; fait son
-          unique attachement des affaires de son Etat. On y a dancé un Balet intitulé, <hi rend="i"
-            >Le Temple de la Paix</hi>. Le Sujet &amp; les Vers sont de M<hi rend="sup">r</hi>
+          unique attachement des affaires de son Etat. On y a dancé un Balet intitulé, <hi rend="i">Le Temple de la Paix</hi>. Le Sujet &amp; les Vers sont de M<hi rend="sup">r</hi>
           Quinaut, &amp; la Musique de M<hi rend="sup">r</hi> de Lully. Ce Balet a esté trouvé
           admirable, tant pour l'invention &amp; les Vers ; que pour l'execution. On en a déjà donné
           plusieurs Representations, &amp; elles continueront tant que la Cour sera à
@@ -1715,10 +1634,8 @@
           beaucoup d'endroits du corps de la Piece. Lors qu'elle parut d'abord sur le Theatre du
           Marais, la Musique en avoit esté faite par le fameux M<hi rend="sup">r</hi> Moliere, qui
           travailloit autrefois pour les divertissemens de Sa Majesté. Mais comme il a falu se
-          restraindre au nombre de voix perscrit, on a fait faire de nouveaux Airs par M<hi
-            rend="sup">r</hi> Laloüette, Eleve de M<hi rend="sup">r</hi> de Lully ; &amp; qui ayant
+          restraindre au nombre de voix perscrit, on a fait faire de nouveaux Airs par M<hi rend="sup">r</hi> Laloüette, Eleve de M<hi rend="sup">r</hi> de Lully ; &amp; qui ayant
           toutes ses manieres, doit avoir travaillé selon le goust du Public.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

@@ -1,64 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, mars 1679 [tome 3]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2015"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1679-03/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, mars <date>1679</date> [tome 3].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1679-03"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1679-03_001" resp="mercure">
         <head>[Suite des Divertissemens du Carnaval]</head>
@@ -369,8 +309,7 @@
         <head>Madrigal</head>
         <bibl><title>Mercure galant</title>, mars 1679 [tome 3], p. 43-45.</bibl>
         <p>Si le plaisir de voir renaistre la belle Saison peut estre regardé comme un bien, jugez
-          quels vœux on a esté capable de former pour obtenir la fin de la Guerre. Voicy ce que M<hi
-            rend="sup">r</hi> Brossard de Montaney, Conseiller au Présidial de Bourg en Bresse, a
+          quels vœux on a esté capable de former pour obtenir la fin de la Guerre. Voicy ce que M<hi rend="sup">r</hi> Brossard de Montaney, Conseiller au Présidial de Bourg en Bresse, a
           adressé là-dessus au Roy.</p>
         <quote>
           <label>Madrigal.</label>
@@ -430,13 +369,10 @@
           Seneschal &amp; Présidial, &amp; les Consuls de la Ville aussi en Robes rouges &amp;
           Chaperons, avec leur suite. Elle est de six Valets habillez de rouge, avec leurs
           Pertuisanes ; de quatre Valets de santé, &amp; de six Escudiers, qui ont aussi une Robe
-          rouge, &amp; une longue Masse d’argent sur l’épaule. La Cérémonie se fit par M<hi
-            rend="sup">r</hi> l’Evesque de Montpellier, revestu Pontificalement. Le soir, l’Opéra
+          rouge, &amp; une longue Masse d’argent sur l’épaule. La Cérémonie se fit par M<hi rend="sup">r</hi> l’Evesque de Montpellier, revestu Pontificalement. Le soir, l’Opéra
           que vous avez trouvé dans ma Lettre de Fevrier, fut representé devant Monsieur le Cardinal
           de Bonzi, &amp; toute l’Assemblée des Etats. M<hi rend="sup">r</hi> de Broy Avocat en a
-          fait les Vers. Je croy vous avoir déjà marqué que la Musique estoit de M<hi rend="sup"
-            >r</hi> de la Sabliere.  <note resp="editor">Pour la publication du livret, cf. <ref
-              target="MG-1679-02_005">cet article</ref>.</note>Comme chaque premier jour de l’An
+          fait les Vers. Je croy vous avoir déjà marqué que la Musique estoit de M<hi rend="sup">r</hi> de la Sabliere.  <note resp="editor">Pour la publication du livret, cf. <ref target="MG-1679-02_005">cet article</ref>.</note>Comme chaque premier jour de l’An
           on fait de nouveaux Consuls de Mer, on élit aussi un nouveau Guidon à Montpellier. Celuy
           qui a esté nommé la derniere fois, a paru avec un grand éclat dans la Cerémonie de la
           Publication de la Paix. Sa Garniture de gris-de-lin, &amp; les Plumes &amp; les Echarpes
@@ -579,8 +515,7 @@
       <div type="article" xml:id="MG-1679-03_074" resp="mercure">
         <head>[Vers de M. de Corneille l’aisné]</head>
         <bibl><title>Mercure galant</title>, mars 1679 [tome 3], p. 74-85.</bibl>
-        <p>Je ne puis mieux finir cet Article que par les Vers que l’incomparable M<hi rend="sup"
-            >r</hi> de Corneille l’aisné a présentez à Sa Majesté sur la gloire qu’Elle s’est
+        <p>Je ne puis mieux finir cet Article que par les Vers que l’incomparable M<hi rend="sup">r</hi> de Corneille l’aisné a présentez à Sa Majesté sur la gloire qu’Elle s’est
           acquise par ce qui donne lieu à toutes ces réjoüissances. Il n’est point besoin de vous
           dire qu’ils ont esté admirez de toute la Cour. Vous sçavez qu’il ne part rien que d’achevé
           de la plume de ce grand Homme.</p>
@@ -773,8 +708,7 @@
           ou dans la Robe, ou dans l’Epée, à laquelle il ne fust allié. Il estoit aussi Doyen de
           l’Académie Françoise, dans laquelle il avoit esté reçeu il y a quarante-quatre ans. Elle
           luy doit d’autant plus, que ce fut sur les curieuses Assemblées qu’il faisoit chez luy,
-          composées de Gens de qualité, &amp; des plus beaux Esprits du Royaume, que M<hi rend="sup"
-            >r</hi> le Cardinal de Richelieu forma le dessein de son Institution. Il y laisse une
+          composées de Gens de qualité, &amp; des plus beaux Esprits du Royaume, que M<hi rend="sup">r</hi> le Cardinal de Richelieu forma le dessein de son Institution. Il y laisse une
           Place vacante par sa mort. J’auray à vous entretenir la premiere fois du mérite de son
           Successeur.</p>
       </div>
@@ -940,8 +874,7 @@
           capable de porter les armes. On sçait de quelle maniere il se distingua à la Bataille
           d’Espoüille, où il fit des merveilles avec son Regiment, dans la fonction de Brigadier, en
           la place de M<hi rend="sup">r</hi> de S. André qui s’estoit jetté dans Bellegarde. Ainsi
-          on peut dire qu’il partagea en quelque façon l’honneur de cette Victoire avec M<hi
-            rend="sup">r</hi> le Duc de Navailles son General &amp; son Pere, aussi-bien qu’au
+          on peut dire qu’il partagea en quelque façon l’honneur de cette Victoire avec M<hi rend="sup">r</hi> le Duc de Navailles son General &amp; son Pere, aussi-bien qu’au
           premier Assaut de Puycerda, où M<hi rend="sup">r</hi> le Bret Lieutenant General fut
           témoin de sa valeur. Elle luy avoit déja acquis deux Charges, l’une de Colonel
           d’Infanterie, &amp; l’autre de Brigadier de l’Armée. Il est mort sans fievre, &amp; sans
@@ -952,8 +885,7 @@
           l’embrasser. Madame la Duchesse sa Mere, qui travailloit à luy choisir un Party digne de
           luy, estant allée au devant de l’un &amp; de l’autre, fut arrestée en chemin par la
           funeste nouvelle de cette mort. M<hi rend="sup">r</hi> de Navailles a reçeu ce coup avec
-          une fermeté surprenante. Voicy un Fragment de ce que luy a écrit là-dessus M<hi rend="sup"
-            >r</hi> Raginay Procureur du Roy à Lyon.</p>
+          une fermeté surprenante. Voicy un Fragment de ce que luy a écrit là-dessus M<hi rend="sup">r</hi> Raginay Procureur du Roy à Lyon.</p>
         <quote>
           <label>Fragment d’une</label>
           <label>Lettre écrite à Monsieur le</label>
@@ -997,8 +929,7 @@
           Roy envoya à M<hi rend="sup">r</hi> le Duc de S. Aignan son Pere, un Brevet qui luy
           confirma tous les honneurs des Pairs dont il joüissoit auparavant, &amp; le lendemain un
           second Brevet, par lequel Sa Majesté luy accordoit cinquante mille Ecus de retenuë sur son
-          Gouvernement du Havre. Madame la Duchesse de Beauvilliers, seconde Fille de M<hi
-            rend="sup">r</hi> Colbert, alla prendre le Tabouret chez la Reyne le Samedy quatriéme du
+          Gouvernement du Havre. Madame la Duchesse de Beauvilliers, seconde Fille de M<hi rend="sup">r</hi> Colbert, alla prendre le Tabouret chez la Reyne le Samedy quatriéme du
           mesme Mois.</p>
       </div>
       <div type="article" xml:id="MG-1679-03_145" resp="mercure">
@@ -1040,8 +971,7 @@
           Article, je ne vous apprenois ce qui luy arriva d’assez extraordinaire au commencement de
           ce Mois. Le Roy, dont les entretiens sont toûjours proportionnez à sa Dignité &amp; à
           l’élevation de son Esprit, estant dans une conversation fort sérieuse sur le sujet de
-          l’Académie Françoise, qu’il a bien voulu honorer de sa protection, &amp; parlant à M<hi
-            rend="sup">rs</hi> les Marquis &amp; Abbé d’Angeau, &amp; à M<hi rend="sup">r</hi> Rose
+          l’Académie Françoise, qu’il a bien voulu honorer de sa protection, &amp; parlant à M<hi rend="sup">rs</hi> les Marquis &amp; Abbé d’Angeau, &amp; à M<hi rend="sup">r</hi> Rose
           Secretaire du Cabinet, en présence de beaucoup de Personnes, M<hi rend="sup">r</hi> de S.
           Aignan entra, &amp; Sa Majesté ayant dit d’abord, <hi rend="i">Voicy encor un
             Académicien</hi>, luy demanda s’il n’avoit point retenu un Sonnet dont on luy avoit
@@ -1050,8 +980,7 @@
           entendu une fois. Surquoy il repartit galamment : <hi rend="i">Sire, le sujet en est si
             grand &amp; si relevé, &amp; l’on en a tant fait avec beaucoup de raison à la loüange de
             Vostre Majesté, que l’un fait oublier l’autre</hi>. Le Roy ayant répliqué en soûriant,
-          qu’il luy en fist un, puis qu’il ne sçavoit point celut qu’il luy demandoit, M<hi
-            rend="sup">r</hi> Rose luy donna les Bouts-rimez que vous allez voir. Ce Duc jetta
+          qu’il luy en fist un, puis qu’il ne sçavoit point celut qu’il luy demandoit, M<hi rend="sup">r</hi> Rose luy donna les Bouts-rimez que vous allez voir. Ce Duc jetta
           seulement les yeux dessus, &amp; sans sortir du Cabinet de Sa Majesté, il vint à bout du
           Sonnet en aussi peu de temps qu’il luy en falut pour l’écrire.</p>
         <quote>
@@ -1084,8 +1013,7 @@
       <div type="article" xml:id="MG-1679-03_154" resp="mercure">
         <head>Sonnet</head>
         <bibl><title>Mercure galant</title>, mars 1679 [tome 3], p. 155-156.</bibl>
-        <p>On voulut en faire l’épreuve <note resp="editor">Du fait que « plus les Rimes que l’on donnoit estoient communes &amp; faciles, plus le Sonnet estoit malaisé », cf. <ref target="MG-1679-03_149">cet article</ref>.</note> ; &amp; le lendemain lors que M<hi rend="sup"
-            >r</hi> le Duc de S. Aignan rentroit chez luy, il trouva les Bouts-Rimez qui suivent,
+        <p>On voulut en faire l’épreuve <note resp="editor">Du fait que « plus les Rimes que l’on donnoit estoient communes &amp; faciles, plus le Sonnet estoit malaisé », cf. <ref target="MG-1679-03_149">cet article</ref>.</note> ; &amp; le lendemain lors que M<hi rend="sup">r</hi> le Duc de S. Aignan rentroit chez luy, il trouva les Bouts-Rimez qui suivent,
           &amp; fit ce second Sonnet sur la mesme matiere aussi promptement qu’il avoit fait
           l’autre.</p>
         <quote>
@@ -1236,8 +1164,7 @@
           vint se ranger dans la grande Court du Palais, par où le grand Carrosse passa pour se
           rendre au pied de l’Escalier qui conduit au plus bel Apartement du Chasteau. On l’avoit
           préparé pour Madame la Duchesse de Meklebourg. M<hi rend="sup">r</hi> l’Evesque
-          d’Osnabruch donna la main à cette Princesse en descendant de Carrosse. M<hi rend="sup"
-            >r</hi> de Hannover la donna à Madame d’Osnabruch ; le Prince aisné d’Osnabruch, à
+          d’Osnabruch donna la main à cette Princesse en descendant de Carrosse. M<hi rend="sup">r</hi> de Hannover la donna à Madame d’Osnabruch ; le Prince aisné d’Osnabruch, à
           Madame de Hannover ; &amp; le grand Mareschal de la Cour, à la jeune Princesse
           d’Osnabruch. La mesme civilité a continué dans toutes les rencontres pendant douze jours
           que Madame la Duchesse de Meklebourg a passez à Hannover, &amp; qui ont esté employez en
@@ -1293,8 +1220,7 @@
           en plusieurs manieres, &amp; que c’est assez de le porter pour faire bruit dans le monde.
           Le mesme Graveur a aussi donné quatre Pieces au Public de pareille largeur &amp; hauteur
           que les précedentes. Ces Pieces sont le Printemps, l’Eté, l’Automne, &amp; l’Hyver. Elles
-          peuvent passer pour Originales, n’estant gravées d’apres aucuns Tableaux, &amp; M<hi
-            rend="sup">r</hi> le Pautre le Pere en ayant fait les Desseins. Je ne puis finir sans
+          peuvent passer pour Originales, n’estant gravées d’apres aucuns Tableaux, &amp; M<hi rend="sup">r</hi> le Pautre le Pere en ayant fait les Desseins. Je ne puis finir sans
           vous parler encor de quatre autres Tailles-douces aussi larges &amp; aussi hautes. Elles
           representent la Mort, le Purgatoire, l’Ame bienheureuse, &amp; l’Ame damnée. Elles sont
           faites d’apres les Tableaux peints par le Frere Luc Récolet. Toutes ces Tailles-douces
@@ -1318,8 +1244,7 @@
           &amp; qu’on n’épargne rien pour le reste, il est impossible que cet Opéra manque de
           succés ; &amp; c’est par cette raison que celuy de Bellérophon a esté au delà de tout ce
           qu’on a veu jusqu’icy de cette nature. Je vous dis vray en vous mandant la derniere fois
-          que Monseigneur le Dauphin qui l’avoit veu le jour de sa Mascarade chez M<hi rend="sup"
-            >r</hi> le Prince de Strasbourg, en estoit sorty tres-satisfait. On n’en peut douter,
+          que Monseigneur le Dauphin qui l’avoit veu le jour de sa Mascarade chez M<hi rend="sup">r</hi> le Prince de Strasbourg, en estoit sorty tres-satisfait. On n’en peut douter,
           puis qu’il l’a voulu revoir depuis trois semaines. Il en parla encor plus avantageusement
           qu’il n’avoit fait la premiere fois. Les Dames qui estoient avec luy n’en furent pas moins
           contentes, &amp; cette Representation leur fut un fort agreable divertissement. Ce jeune
@@ -1429,8 +1354,7 @@
         <head>[Vers contre la seiziéme Conclusion des Theses galantes du Mercure du Mois de
           Fevrier]</head>
         <bibl><title>Mercure galant</title>, mars 1679 [tome 3], p. 202-207.</bibl>
-        <p>Les Theses galantes employées dans ma Lettre du dernier Mois, ont engagé M<hi rend="sup"
-            >r</hi> Gardien Secretaire du Roy, à répondre ce qui suit sur la seixiéme Conclusion.
+        <p>Les Theses galantes employées dans ma Lettre du dernier Mois, ont engagé M<hi rend="sup">r</hi> Gardien Secretaire du Roy, à répondre ce qui suit sur la seixiéme Conclusion.
           Elle porte, <hi rend="i">Que bien souvent les Amans souhaitent des imperfections dans ce
             qu’ils aiment, afin que l’envie ne trouble point leur bonheur</hi>.</p>
         <quote>
@@ -1748,8 +1672,7 @@
           quinze jours au Public]</head>
         <bibl><title>Mercure galant</title>, mars 1679 [tome 3], p. 281-290.</bibl>
         <p>Vous donnerez avis, s’il vous plaist ; à tous vos Amis de Province qui viendront icy,
-          qu’ils pourront prendre part à un fort agreable concert de Guitarres, que M<hi rend="sup"
-            >r</hi> Médard va faire chez luy tous les quinze jours. Il a donné au Public un Livre
+          qu’ils pourront prendre part à un fort agreable concert de Guitarres, que M<hi rend="sup">r</hi> Médard va faire chez luy tous les quinze jours. Il a donné au Public un Livre
           gravé de ses Pieces, &amp; les plus fins Connoisseurs tombent d’accord qu’il a trouvé le
           plus beau caractere de cet Instrument. Ce Concert sera diversifié par le Dialogue suivant
           qui se chantera. Il est sur le sujet de la Paix. M<hi rend="sup">r</hi> Fleury de Châteaudun
@@ -1947,5 +1870,4 @@
           pour ne me donner pas toûjours à choisir sur cette matiere.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

@@ -1,69 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1688-11a">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, novembre 1688 (première partie) [tome 15]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1688-11a</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>novembre 1688</date> (première partie) [tome
-          15].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1688-11"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, novembre 1688 (première partie) [tome 15].</head>
       <div type="article" xml:id="MG-1688-11a_017" resp="wordpro">
@@ -720,8 +655,7 @@
               contraire : Car tel est nostre plaisir. Et afin que ce soit chose ferme &amp; stable à
               toujours, nous avons fait mettre nostre Scel à cesdites Presentes. Donné à Versailles
               au mois de Mars l’an de grace mil six cens quatre vingt-huit, &amp; de nostre regne le
-              quarante cinquiéme. Signé, LOUIS, &amp; plus bas, par le Roy</hi>, Phelippeaux. <hi
-              rend="i">Es à costé. Visa</hi>, Boucherat : <hi rend="i">&amp; au dessous, Pour
+              quarante cinquiéme. Signé, LOUIS, &amp; plus bas, par le Roy</hi>, Phelippeaux. <hi rend="i">Es à costé. Visa</hi>, Boucherat : <hi rend="i">&amp; au dessous, Pour
               Lettres patentes portant reglement pour le College Mazarin, &amp; scellées en lacs de
               soye du grand Sceau de cire verte.</hi></p>
         </quote>
@@ -1399,11 +1333,9 @@
         <p>La Chambre des Comptes de Bretagne établie à Nantes, qui signala son zele avec tant
           d'éclat, lors que toute la France rendit graces à Dieu du recouvrement de la Santé du Roy,
           si precieuse à tous ses Sujets, a voulu donner des témoignages particuliers de sa joye
-          pour les conquestes de Monseigneur. Ainsi elle ne s'est pas contentée d'assister au <hi
-            rend="i">Te Deum</hi> qu'on a chanté dans la Cathédrale ; elle se rendit le Lundy 15. de
+          pour les conquestes de Monseigneur. Ainsi elle ne s'est pas contentée d'assister au <hi rend="i">Te Deum</hi> qu'on a chanté dans la Cathédrale ; elle se rendit le Lundy 15. de
           ce mois en habits de ceremonie dans le Palais de la Chambre, d'où elle alla sur les trois
-          heures aprés midy, à l'Eglise des Cordeliers, où le <hi rend="i">Te Deum</hi> &amp; l'<hi
-            rend="i">Exaudiat</hi> furent chantez par une excellente Musique, accompagnée d'une
+          heures aprés midy, à l'Eglise des Cordeliers, où le <hi rend="i">Te Deum</hi> &amp; l'<hi rend="i">Exaudiat</hi> furent chantez par une excellente Musique, accompagnée d'une
           simphonie charmante. On alla de là à l'Hostel de M<hi rend="sup">r</hi> de la Busnelais,
           premier President de la Chambre, d'où deux fontaines de vin coulerent le reste du jour.
           Sur les sept heures du soir, toute la Compagnie, avec M<hi rend="sup">r</hi> le Marquis de
@@ -1528,8 +1460,7 @@
         <p/>
         <p>L’Academie Françoise a fait publier que le 25. jour d’Aoust de l’année prochaine, elle
           donnera le prix d’éloquence à celuy qui aura le mieux reussy dans un Discours dont le
-          sujet, conformément à l’intention de feu M<hi rend="sup">r</hi> de Balzac, sera, <hi
-            rend="i">Du merite &amp; de la Dignité du Martyre</hi>. Il faudra que le Discours ne
+          sujet, conformément à l’intention de feu M<hi rend="sup">r</hi> de Balzac, sera, <hi rend="i">Du merite &amp; de la Dignité du Martyre</hi>. Il faudra que le Discours ne
           soit que d’une demy-heure de lecture tout au plus, &amp; qu’il finisse par une
           courte-Priere à J. C. Le mesme jour elle donnera un autre prix pour la Poësie Françoise,
           dont le sujet, selon l’intention de ceux qui l’ont envoyé, sera ; <hi rend="i">Les Nations
@@ -1575,12 +1506,9 @@
           en celuy de Paris en 1639. Il estoit Historiographe Latin de S. M. &amp; avoit eu
           l’honneur, il y a vingt ans, de contribuer aux Estudes de Monseigneur le Dauphin, sous
             M<hi rend="sup">r</hi> le President de Perigny, Premier Precepteur de ce Prince. Aussi
-          avoit-il merité des pensions considerables de la Cour, du Clergé &amp; de M<hi rend="sup"
-            >rs</hi> les Chanceliers de France. Je ne vous parle point de sa Famille qui a fourny
-          des hommes qui se sont distinguez depuis long-temps dans l’Eglise &amp; dans la Robe. M<hi
-            rend="sup">rs</hi> Doujat de Paris le reconnoissent pour leur parent. Il est mort âgé de
-          79. ans, &amp; comme il est temps de finir ma Lettre, je vous renvoye à ce que M<hi
-            rend="sup">r</hi> Pelisson a déja écrit de luy dans son Histoire de l’Academie
+          avoit-il merité des pensions considerables de la Cour, du Clergé &amp; de M<hi rend="sup">rs</hi> les Chanceliers de France. Je ne vous parle point de sa Famille qui a fourny
+          des hommes qui se sont distinguez depuis long-temps dans l’Eglise &amp; dans la Robe. M<hi rend="sup">rs</hi> Doujat de Paris le reconnoissent pour leur parent. Il est mort âgé de
+          79. ans, &amp; comme il est temps de finir ma Lettre, je vous renvoye à ce que M<hi rend="sup">r</hi> Pelisson a déja écrit de luy dans son Histoire de l’Academie
           Françoise, où il a marqué une partie des Ouvrages que M<hi rend="sup">r</hi> Doujat a
           donnez au Public ; &amp; à ce qu’on ne manquera pas de dire d’un si habile homme, lors
           qu’on remplira les places qu’il laisse vacantes, entre autres la Chaire de Droit Civil
@@ -1589,5 +1517,4 @@
         <p><hi rend="i">A Paris ce 30. Novembre</hi> 1688.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

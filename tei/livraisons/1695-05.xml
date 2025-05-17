@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1695-05">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, mai 1695 [tome 5]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1695-05</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>mai 1695</date> [tome 5].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1695-05"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, mai 1695 [tome 5].</head>
       <div type="article" xml:id="MG-1695-05_007" resp="wordpro">
@@ -303,8 +239,7 @@
             dans le sens qu’il luy a donné, &amp; dont il se fait un scrupule, je veux bien luy dire
             ma pensée la-dessus, &amp; je le fais d’autant plus volontiers, que cela peut servir à
             l’intelligence des Bouts-rimez, &amp; pour les justifier auprés de ceux qui sont
-            prévenus contre ce genre de Poësie. Il est surprenant que M<hi rend="sup"
-            >r</hi> Bellocq, qui se récrie tant contre la bizarrerie des Bouts-rimez, ait rendu
+            prévenus contre ce genre de Poësie. Il est surprenant que M<hi rend="sup">r</hi> Bellocq, qui se récrie tant contre la bizarrerie des Bouts-rimez, ait rendu
             celuy de <hi rend="i">Robuste</hi> barbare, de propre &amp; simple qu’il estoit, par
             l’application metaphorique qu’il en a faite. A le bien prendre, les Bouts-rimez doivent
             estre composez de termes propres, naturels &amp; usitez, quoy qu’ils paroissent
@@ -341,8 +276,7 @@
             Generaux, &amp; ses Troupes taillées en pieces dans la Plaine de Grenelle, n’ont pû
             abattre &amp; ruiner ce parti. Cette Plaine a esté comme le Champ de Cadmus, qui a
             produit de nouveaux Soldats qui l’ont relevé, &amp; qui le soutiendront toûjours malgré
-            tous ses ennemis. Les Bouts-rimez, semblables aux Gots à qui M<hi rend="sup"
-            >r</hi> Bellocq les compare si plaisamment, ont reparu de temps en temps, &amp; fait des
+            tous ses ennemis. Les Bouts-rimez, semblables aux Gots à qui M<hi rend="sup">r</hi> Bellocq les compare si plaisamment, ont reparu de temps en temps, &amp; fait des
             courses sur le Parnasse François, où ils ont bien la mine de regner plus long-temps, que
             ne firent ces Peuples dans les Gaules : &amp; comme s’ils avoient la mesme destinée, ils
             ont choisi aussi-bien qu’eux le Languedoc, &amp; la Ville de Toulouse pour retraite,
@@ -461,8 +395,7 @@
             &amp; d’affecté, &amp; sont placez dans cette raisonnable œconomie que je demande. Aussi
             ont-ils produit des Sonnets fort justes &amp; fort beaux ; mais quelquefois on échouë
             sur de certaines rimes pour trop de rafinement, &amp; pour ne vouloir pas s’en servir
-            dans leur sens naturel. C’est ce que la pluspart ont fait au mot de <hi rend="i"
-              >Buste</hi> dans les rimes des Lanternistes. Monsieur le Duc, M<hi rend="sup">r</hi>
+            dans leur sens naturel. C’est ce que la pluspart ont fait au mot de <hi rend="i">Buste</hi> dans les rimes des Lanternistes. Monsieur le Duc, M<hi rend="sup">r</hi>
             l’Abbé Brunet, l’ont pris figurément pour le mot de <hi rend="i">corps</hi>, dans leurs
             beaux Sonnets pour Madame la Princesse de Conty. Je n’ay garde de reprendre cela comme
             une faute, dans des Sonnets dont le stile est si pur, &amp; la construction si aisée,
@@ -911,8 +844,7 @@
             <l rend="i">Et son illustre exemple a prévenu ta voix.</l>
           </lg>
         </quote>
-        <p>Le même M<hi rend="sup">r</hi> Bosquillon a adressé ce troisiéme Madrigal à M<hi
-            rend="sup">r</hi> l’Evêque d’Agen.</p>
+        <p>Le même M<hi rend="sup">r</hi> Bosquillon a adressé ce troisiéme Madrigal à M<hi rend="sup">r</hi> l’Evêque d’Agen.</p>
         <quote>
           <lg>
             <l rend="i">Des hommes distinguez par la haute naissance,</l>
@@ -937,8 +869,7 @@
           de René de Rieux, Seigneur de Sourdeac, Marquis d’Oixant, Chevalier des Ordres du Roy,
           Lieutenant General en Bretagne, Gouverneur de Brest, &amp; de Suzanne de Sainte-Melaine.
           La Maison de Rieux est une des plus illustres de cette Province, &amp; a donné des
-          Mareschaux de France, des Evesques, &amp; des premiers Officiers dans l’épée. M<hi
-            rend="sup">r</hi> le Marquis de Sourdeac avoit épousé Helene de Clere, Dame d’un fort
+          Mareschaux de France, des Evesques, &amp; des premiers Officiers dans l’épée. M<hi rend="sup">r</hi> le Marquis de Sourdeac avoit épousé Helene de Clere, Dame d’un fort
           grand merite, qui s’est toûjours distinguée par son esprit &amp; par sa vertu, &amp; dont
           il laisse un Fils vivant, à present Marquis de Sourdeac, &amp; quatre Filles, dont il y en
           a deux Religieuses ; l’une au calvaire du Fauxbourg Saint Germain, &amp; l’autre aux
@@ -965,19 +896,16 @@
           profession, fit representer le 16. jour de Mars dernier une Piece en trois Actes, sous le
           nom d’<hi rend="i">Apotheose de Laodamas</hi>, à la memoire de M<hi rend="sup">r</hi> le
           Mareschal Duc de Luxembourg, avec des Intermedes convenables au sujet, dont les paroles
-          furent trouvées tres-agreables, aussi bien que la Musique, composée par M<hi rend="sup"
-            >r</hi> Charpentier. Cette Piece fut representée aux flambeaux par un nombre de
+          furent trouvées tres-agreables, aussi bien que la Musique, composée par M<hi rend="sup">r</hi> Charpentier. Cette Piece fut representée aux flambeaux par un nombre de
           Rhetoriciens choisis entre les disciples de ce Pere, qui pour honorer le merite d’un Heros
           qui a rendu de si grands services à l’Estat, avoit pris un dessein qui representoit d’une
           maniere allegorique &amp; propre au Theatre, ce que Dieu &amp; les hommes avoient fait à
           sa mort pour la rendre plus glorieuse. Ce dessein renfermoit, non seulement l’amour &amp;
-          la confiance que les Soldats de son Armée ont euë de tout temps pour M<hi rend="sup"
-            >r</hi> de Luxembourg, mais aussi l’estime que la France a toûjours faite de sa valeur,
+          la confiance que les Soldats de son Armée ont euë de tout temps pour M<hi rend="sup">r</hi> de Luxembourg, mais aussi l’estime que la France a toûjours faite de sa valeur,
           &amp; la justice que Dieu a voulu rendre aux Victoires qu’il a remportées contre les
           ennemis de la Religion, en luy donnant tout le temps de se preparer à aller joüir de la
           gloire immortelle qu’elles meritent dans le Ciel. On soutint l’Allegorie, en representant
-          ce Mareschal sous le nom de <hi rend="i">Laodamas</hi>, qui veut dit <hi rend="i"
-            >Vainqueur des Peuples</hi>, nom dont il a si bien remply la signification, ayant gagné
+          ce Mareschal sous le nom de <hi rend="i">Laodamas</hi>, qui veut dit <hi rend="i">Vainqueur des Peuples</hi>, nom dont il a si bien remply la signification, ayant gagné
           jusqu’à dix Batailles contre differens Peuples de l’Europe. La qualité de Chef &amp; de
           Maistre des Pasteurs luy fut donnée, parce qu’il a commandé les Troupes en chef, &amp; on
           representa l’Isle de France, lieu où il nâquit, &amp; la Flandre conquise, qui a esté le
@@ -1268,8 +1196,7 @@
           par un grand nombre de Lustres &amp; de Bougies. Il y avoit deux tables de grandeur égale,
           de trente couverts chacune, &amp; un buffet d’une extrême magnificence. La Mariée, &amp;
           toutes le Dames se mirent à une même table, &amp; tous les Homme à l’autre, avec cette
-          circonstance, que cette table se trouvant plus remplie qu’il ne falloit, M<hi rend="sup"
-            >r</hi> de Mesme en fit dresser un troisiéme où il se mit avec M<hi rend="sup">r</hi> le
+          circonstance, que cette table se trouvant plus remplie qu’il ne falloit, M<hi rend="sup">r</hi> de Mesme en fit dresser un troisiéme où il se mit avec M<hi rend="sup">r</hi> le
           Duc d’Elbeuf, &amp; deux ou trois autres personnes. Les viandes furent servies par
           quarante Suisses divisez en quatre quadrilles, distinguées par quatre differentes
           couleurs. Quatre Maistres d’hostel avoient soin de servir chaque table, &amp; quarante
@@ -1308,5 +1235,4 @@
         </ref>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1685-03">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, mars 1685 [tome 3]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1685-03</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>mars 1685</date> [tome 3].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1685-03"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, mars 1685 [tome 3].5</head>
       <div type="article" xml:id="MG-1685-03_020" resp="wordpro">
@@ -100,8 +36,7 @@
         <head resp="editor">Sonnet en bouts-rimés</head>
         <bibl><title>Mercure galant</title>, mars 1685 [tome 3], p. 22-24</bibl>
         <p>Voicy un Sonnet fort heureusement remply, sur les Bouts-rimez Latins qui ont cours. Comme
-          il est fait pour le Roy, il ne sçauroit manquer de vous plaire. M<hi rend="sup"
-          >r</hi> Blanchard, Curé de Fissé aux Environs de Dijon, en est l’Autheur.</p>
+          il est fait pour le Roy, il ne sçauroit manquer de vous plaire. M<hi rend="sup">r</hi> Blanchard, Curé de Fissé aux Environs de Dijon, en est l’Autheur.</p>
         <quote>
           <lg>
             <l><hi rend="i">Estre en tout &amp; par tout</hi>
@@ -440,8 +375,7 @@
           Ambassadeur Extraordinaire du Roy à Lisbonne. L'Eglise Nationale de S. Antoine des
           Portugais ayant esté destinée pour cette fonction, par M<hi rend="sup">r</hi> le Cardinal
           d'Estrées, Protecteur des Affaires de Portugal, &amp; par Dom Domingos Darreiros Leita,
-          Resident de ce Royaume, Son Eminence concerta la Décoration de l'Eglise, avec M<hi
-            rend="sup">r</hi> l'Abbé Benedetti, Agent de France, à qui il donna le soin de
+          Resident de ce Royaume, Son Eminence concerta la Décoration de l'Eglise, avec M<hi rend="sup">r</hi> l'Abbé Benedetti, Agent de France, à qui il donna le soin de
           l'execution. Il s'en acquitta parfaitement bien, estant assisté de M<hi rend="sup">r</hi>
           l'abbé Mesquira, &amp; du sieur Antonio Gherardi, Architecte &amp; peintre,
           fameux.[...]</p>
@@ -603,8 +537,7 @@
         <p>Depuis qu’on a veu <hi rend="i">les Dialogues des Morts</hi>, tous les Dialogues sont
           devenus du goust du Public. On les aime avec raison, puis qu’en peu de mots, &amp; d’une
           maniere agréable, on y apprend l’Histoire, les Mœurs, &amp; les Coûtumes de divers Païs,
-          &amp; quantité d’autres choses qui sont d’érudition. En voicy un de M<hi rend="sup"
-          >r</hi> B.… On m’en promet d’autres du mesme Autheur, &amp; si l’on me tient parole, vous
+          &amp; quantité d’autres choses qui sont d’érudition. En voicy un de M<hi rend="sup">r</hi> B.… On m’en promet d’autres du mesme Autheur, &amp; si l’on me tient parole, vous
           me verrez ponctuel à vous en donner une Copie.</p>
         <quote>
           <label>DES CHOSES<lb/>DIFFICILES A CROIRE.<lb/><hi rend="i">DIALOGUE I</hi>.<lb/>LAMBRET,
@@ -650,8 +583,7 @@
             contracter le Mariage, l’Epoux tailloit le bout de l’oreille droite à son Epouse, &amp;
             l’Epouse celuy de l’oreille gauche à son Epoux.</p>
           <label><hi rend="sc">Belorond.</hi></label>
-          <p>Vous sçavez ce que c’est lors que les oreilles cornent, ce que Plaute appelle <hi
-              rend="i">Tinnimentum</hi>, ou lors que, comme dit Celsus, <hi rend="i">Aures sonant
+          <p>Vous sçavez ce que c’est lors que les oreilles cornent, ce que Plaute appelle <hi rend="i">Tinnimentum</hi>, ou lors que, comme dit Celsus, <hi rend="i">Aures sonant
               intra se ipsas</hi>. Vous sçavez encore qu’on dit, que lors que l’oreille droite nous
             corne, c’est signe que l’on parle bien de nous, &amp; qu’au contraire, lors que c’est la
             gauche, nous sommes les objets de la médisance de quelqu’un. C’est là une superstition,
@@ -1150,8 +1082,7 @@
           soir, étoit de dix Seigneurs Chinois, &amp; de cinq Dames Chinoises, avec des habits aussi
           magnifiques, que bien imaginez. Voicy les Noms de ceux qui composoient cette Mascarade ;
           Monsieur le Duc du Mayne, Monsieur le Comte de Thoulouse, M<hi rend="sup">r</hi> de
-          Mancini, M<hi rend="sup">r</hi> le Comte de Crussol, M<hi rend="sup">r</hi> de Duras, M<hi
-            rend="sup">r</hi> Sully, M<hi rend="sup">r</hi> de Grignan, M<hi rend="sup">r</hi> le
+          Mancini, M<hi rend="sup">r</hi> le Comte de Crussol, M<hi rend="sup">r</hi> de Duras, M<hi rend="sup">r</hi> Sully, M<hi rend="sup">r</hi> de Grignan, M<hi rend="sup">r</hi> le
           Marquis de la Vrilliere, M<hi rend="sup">r</hi> de Soyecourt, M<hi rend="sup">r</hi>
           Bontemps, Mademoiselle de Nantes, Mademoiselle de Blois, Mademoiselle d'Usez, Mademoiselle
           de Senneterre, Mademoiselle de Chasteauneuf. Quelques jours avant la fin du Carnaval
@@ -1167,15 +1098,10 @@
           bordez d'or, &amp; toutes les plumes tant des Hommes que des Chevaux étoient blanches,
           &amp; les garnitures de mesme. M<hi rend="sup">r</hi> le Marquis de Dangeau, sous le nom
           de Charlemagne, entra le premier comme Juge du Camp. Monseigneur le Dauphin, estoit sous
-          le nom de Zerbin ; M<hi rend="sup">r</hi> le Prince de Tingry, sous celuy de Renaud ; M<hi
-            rend="sup">r</hi> de la Roche-Guyon, sous celuy d'Aquilan le noir ; M<hi rend="sup"
-            >r</hi> le Marquis de Liancour, sous celuy de Grifon le blanc ; &amp; M<hi rend="sup"
-            >r</hi> le Marquis d'Antin, sous celuy de Roland. La seconde Quadrille entra aussi-tost
+          le nom de Zerbin ; M<hi rend="sup">r</hi> le Prince de Tingry, sous celuy de Renaud ; M<hi rend="sup">r</hi> de la Roche-Guyon, sous celuy d'Aquilan le noir ; M<hi rend="sup">r</hi> le Marquis de Liancour, sous celuy de Grifon le blanc ; &amp; M<hi rend="sup">r</hi> le Marquis d'Antin, sous celuy de Roland. La seconde Quadrille entra aussi-tost
           apres, précedée de ses Trompettes, &amp; de ses Timbales. Les couleurs de cette Quadrille
-          estoient or &amp; vert, avec des plumes blanches, &amp; mouchetées de vert. M<hi
-            rend="sup">r</hi> le Duc de Gramont estoit Juge du Camp. Il entra le premier sous le nom
-          d'Agramant, Monsieur le Prince de la Roche-sur-Yon, avoit celuy de Mandricard, M<hi
-            rend="sup">r</hi> le Duc de Vandosme, celuy de Gradasse ; M<hi rend="sup">r</hi> le
+          estoient or &amp; vert, avec des plumes blanches, &amp; mouchetées de vert. M<hi rend="sup">r</hi> le Duc de Gramont estoit Juge du Camp. Il entra le premier sous le nom
+          d'Agramant, Monsieur le Prince de la Roche-sur-Yon, avoit celuy de Mandricard, M<hi rend="sup">r</hi> le Duc de Vandosme, celuy de Gradasse ; M<hi rend="sup">r</hi> le
           Prince de Turenne, celuy de Roger ; M<hi rend="sup">r</hi> le Comte de Briône, celuy de
           Rodomont ; &amp; M<hi rend="sup">r</hi> le Marquis d'Alincour, celuy de Sacripant. On ne
           peut avoir plus de satisfaction que cette Course en donna aux Spectateurs, ny meriter plus
@@ -1183,8 +1109,7 @@
           meilleure grace les Armes à la main. Apres une fort longue dispute, le Prix demeura à la
           seconde Quadrille, &amp; ceux qui la composoient le disputerent long-temps entr'eux ; mais
           enfin, M<hi rend="sup">r</hi> le Prince de Turenne l'emporta, &amp; reçut de la main du
-          Roy, au son des Timbales, &amp; des Trompettes, une Epée d'or avec de riches Boucles. M<hi
-            rend="sup">r</hi> du Mont Ecuyer de Monseigneur le Dauphin, montoit un Cheval nud qu'il
+          Roy, au son des Timbales, &amp; des Trompettes, une Epée d'or avec de riches Boucles. M<hi rend="sup">r</hi> du Mont Ecuyer de Monseigneur le Dauphin, montoit un Cheval nud qu'il
           gouvernoit, comme auroit pû faire le plus habile Ecuyer à qui rien n'auroit manqué, pour
           bien manier un Cheval, sur lequel il auroit esté monté. Je croy que vous sçavez de quelle
           maniere se fait cette Course de testes. Il faut d'abord en emporter une avec la Lance ;
@@ -1344,8 +1269,7 @@
           de vous marquer, il y avoit encore à cette Marche quatre vingt Tambours du Regiment, &amp;
           plusieurs Hautbois, vestus des Livrées du Roy. On se rendit en cet équipage dans le Chœur
           de Nostre-Dame, où les Drapeaux furent portez au bruit de tous ces instrumens, &amp; les
-          Enseignes les ayant pris de mains des Portes-Enseignes, les mirent aux pieds de M<hi
-            rend="sup">r</hi> l'archevesque de Paris, qui fit la Ceremonie de les Benir.</p>
+          Enseignes les ayant pris de mains des Portes-Enseignes, les mirent aux pieds de M<hi rend="sup">r</hi> l'archevesque de Paris, qui fit la Ceremonie de les Benir.</p>
       </div>
       <div type="article" xml:id="MG-1685-03_319" resp="wordpro">
         <head>Sur les Soins que le Roy prend de détruire l’Heresie</head>
@@ -1390,5 +1314,4 @@
         <p><hi rend="i">A Paris ce 31. Mars 1685.</hi></p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

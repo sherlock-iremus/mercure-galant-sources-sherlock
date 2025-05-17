@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1697-03">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, mars 1697 [tome 3]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1697-03</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>mars 1697</date> [tome 3].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1697-03"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, mars 1697 [tome 3].</head>
       <div type="article" xml:id="MG-1697-03_007" resp="wordpro">
@@ -374,8 +310,7 @@
             pour moy je pense icy tout autrement, &amp; je tiens au contraire, que parce que Romulus
             a esté nourri par une Louve, la raison ne veut pas qu’il porte la peau, ny de cet
             animal, ny de cette nourrice. Je ne dois pas repeter ce que j’ay déja dit sur cet
-            article dans mes deux Lettres precedentes ; mais j’ay des additions à y faire. <hi
-              rend="i">En honesta Litteratorum oblectamenta Voila</hi>, dit-on, <hi rend="i">les
+            article dans mes deux Lettres precedentes ; mais j’ay des additions à y faire. <hi rend="i">En honesta Litteratorum oblectamenta Voila</hi>, dit-on, <hi rend="i">les
               plaisirs honnestes que prennent les gens de Lettres</hi>. Il me semble donc qu’il n’y
             a déja que trop du Loup dans la maniere dont Romulus a esté nourri, sans pousser la
             chose plus loin. Il n’y a que trop du lait de la Louve, sans y joindre encore sa peau.
@@ -408,8 +343,7 @@
           </quote>
           <p><hi rend="i">Factum improbum</hi>, dit un sçavant Interprete, comme si c’estoit
             l’action cruelle d’un Loup emportant des agneaux. Aussi pour corriger le cours &amp; le
-            venin de cette vicieuse nourriture, les Historiens ajoûtent à la Louve des Poëtes, <hi
-              rend="i">lupæ nutricis Acca Laurentia</hi>, Femme de Faustulus, comme une seconde
+            venin de cette vicieuse nourriture, les Historiens ajoûtent à la Louve des Poëtes, <hi rend="i">lupæ nutricis Acca Laurentia</hi>, Femme de Faustulus, comme une seconde
             nourrice substituée à la premiere, qui formast dans Romulus un nouveau sang, &amp; qui
             luy fist recouvrer un temperament humain, lequel avoit esté alteré &amp; corrompu par le
             lait d’une Louve. Outre l’opposition remarquable d’une Femme à une Louve, il y a de plus
@@ -497,8 +431,7 @@
             car enfin l’une est nommée, &amp; l’autre ne l’est pas. De dire que l’individu est mis
             là pour l’espece, c’est ce qui ne se peut comprendre. Où il est parlé d’une femelle, on
             ne peut pas la prendre pour le masle. Une Louve n’est pas un Loup. De plus, c’est une
-            Louve <hi rend="i">nourrice, Lupæ nutricis</hi>. Un Loup ne peut pas estre <hi rend="i"
-              >nourrice</hi>. Ainsi demeurant d’accord qu’on ne peut pas icy entendre la peau de la
+            Louve <hi rend="i">nourrice, Lupæ nutricis</hi>. Un Loup ne peut pas estre <hi rend="i">nourrice</hi>. Ainsi demeurant d’accord qu’on ne peut pas icy entendre la peau de la
             Louve, &amp; celle d’un Loup luy pouvant estre encore moins substituée, il faut
             necessairement chercher un autre sens qui convienne au sujet.</p>
           <p>Je l’ay proposé, ce sens nouveau ; sçavoir d’entendre par <hi rend="i">tegmine</hi>,
@@ -523,11 +456,9 @@
             particulier où je trouve des feüilles de chesne, parce que j’en tire une induction
             glorieuse pour Romulus. Je répons que les feuïlles de chesne sont dans les bois où se
             retirent les Loups. Cette allegation le prouve pour le Pays Latin. Horace dit qu’il
-            rencontra dans la Forest Sabine un grand Loup, plus terrible qu’aucun autre qui fust <hi
-              rend="i">dans la guerriere Apulie, toute couverte de chesnes. Quale portentum, neque
+            rencontra dans la Forest Sabine un grand Loup, plus terrible qu’aucun autre qui fust <hi rend="i">dans la guerriere Apulie, toute couverte de chesnes. Quale portentum, neque
               militaris Daunia in latis alit esculetis</hi>. On s’arme aussi de la grammatication
-            contre moy, &amp; on me dit qu’il n’y a dans le Vers de Virgile que <hi rend="i"
-              >tegmine</hi>, &amp; non pas <hi rend="i">tegmine frondis</hi>. Mais qui ne sçait que
+            contre moy, &amp; on me dit qu’il n’y a dans le Vers de Virgile que <hi rend="i">tegmine</hi>, &amp; non pas <hi rend="i">tegmine frondis</hi>. Mais qui ne sçait que
             dans les Poëtes, &amp; dans Virgile luy même, l’expression est souvent coupée pour la
             structure &amp; la mesure du Vers, &amp; qu’un mot en présuppose un autre.</p>
           <quote>
@@ -539,14 +470,10 @@
             un <hi rend="i">cheval</hi>, mais il faut supposer <hi rend="i">equi</hi> pour le sens,
             parce qu’il est parlé en cet endroit de la machine nommée le Cheval de Troye. Ainsi
             pourquoy ne pas sous-entendre aprés <hi rend="i">tegmine</hi> des feuïlles, puis que le
-            sujet y conduit, par tant de raisons cy-devant alleguées ; même en François, <hi
-              rend="i">un Pays couvert</hi>, s’entend couvert d’arbres. Il n’y a que le terme <hi
-              rend="i">couvert</hi>, mais ce terme-là seul fait qu’on suppose pour le sens un autre
-            terme, sçavoir celuy <hi rend="i">d’arbres</hi>. Il s’agit icy d’une couverture, <hi
-              rend="i">tegmine</hi>, couverture qui vient d’une Louve. Qui empêche qu’on n’entende
+            sujet y conduit, par tant de raisons cy-devant alleguées ; même en François, <hi rend="i">un Pays couvert</hi>, s’entend couvert d’arbres. Il n’y a que le terme <hi rend="i">couvert</hi>, mais ce terme-là seul fait qu’on suppose pour le sens un autre
+            terme, sçavoir celuy <hi rend="i">d’arbres</hi>. Il s’agit icy d’une couverture, <hi rend="i">tegmine</hi>, couverture qui vient d’une Louve. Qui empêche qu’on n’entende
               <hi rend="i">couverture de feüilles</hi>, parce que c’est l’unique couverture que peut
-            faire la Louve, &amp; qu’elle a de coutume de faire. On continuë de m’objecter que <hi
-              rend="i">fulvo</hi> n’est pas l’épithete des feuïlles. Je l’avouë, des feuïlles qui
+            faire la Louve, &amp; qu’elle a de coutume de faire. On continuë de m’objecter que <hi rend="i">fulvo</hi> n’est pas l’épithete des feuïlles. Je l’avouë, des feuïlles qui
             sont encore sur l’arbre. Je le nie <hi rend="i">de frondibus deciduis</hi>, des feuïlles
             qui sont tombées. C’est la même couleur qu’on leur donne lors qu’on les fait servir
             d’ornemens dans des ouvrages de Sculpture, soit en pierre, soit en bois ; car on ne les
@@ -554,8 +481,7 @@
             il n’y ait point de changement. Enfin on ne veut point que <hi rend="i">lætus</hi> soit
             un terme de présage. Je pourrois opposer à cette negative l’autorité de Festus, qui le
             dit positivement ; mais je puis en particulier le soutenir par un exemple de Virgile.
-            Qu’on lise dans sa quatriéme Eglogue ce qu’il dit d’un celebre Enfant : <hi rend="i"
-              >Incipe, parve puer, risu cognoscere, &amp;c.</hi> Le ris est là dans sa suite un
+            Qu’on lise dans sa quatriéme Eglogue ce qu’il dit d’un celebre Enfant : <hi rend="i">Incipe, parve puer, risu cognoscere, &amp;c.</hi> Le ris est là dans sa suite un
             terme de présage. Pourquoy dans le même Poëte, <hi rend="i">lætus</hi> ne le seroit-il
             pas pour un autre Enfant encore plus illustre, sçavoir Romulus, &amp; qui est regardé
             dans un avenir d’une puissance &amp; d’une gloire extraordinaire ? Voilà, Monsieur,
@@ -806,8 +732,7 @@
         <head>[Reflexions sur le Ridicule]</head>
         <bibl><title>Mercure galant</title>, mars 1697 [tome 3], p. 155-158.</bibl>
         <p>Rien ne prouve mieux la bonté d’un Livre, que le grand nombre d’Editions qu’on en fait.
-          C’est ce qui ne sçauroit manquer d’arriver à celuy qui a pour titre, <hi rend="i"
-            >Reflexions sur le Ridicule, &amp; sur les moyens de l’éviter</hi>. Il y a fort peu de
+          C’est ce qui ne sçauroit manquer d’arriver à celuy qui a pour titre, <hi rend="i">Reflexions sur le Ridicule, &amp; sur les moyens de l’éviter</hi>. Il y a fort peu de
           temps qu’il fut imprimé pour la premiere fois, &amp; il vient de l’estre de nouveau avec
           des augmentations considerables. La matiere en est excellente, &amp; cet Ouvrage a
           d’autant plus de quoy plaire, que les differens caracteres &amp; les mœurs des personnes
@@ -856,8 +781,7 @@
           lecture, &amp; les autres s’y instruiront de ce qu’ils ne sçavent pas. C’est même un
           secours qu’ils recevront pour connoistre ce qui leur est utile de remarquer dans les
           Livres, les traits d’Histoire &amp; de Morale, qui peuvent contribuer à polir l’esprit, à
-          regler les mœurs, &amp; à apprendre aux hommes comment ils se doivent conduire. <hi
-            rend="i">Les Modeles de Conversations</hi>, ainsi que <hi rend="i">les Reflexions sur le
+          regler les mœurs, &amp; à apprendre aux hommes comment ils se doivent conduire. <hi rend="i">Les Modeles de Conversations</hi>, ainsi que <hi rend="i">les Reflexions sur le
             Ridicule</hi>, se debitent chez le Sieur Jean Guignard, à l’entrée de la grand’ Salle du
           Palais, à l’Image de Saint Jean.</p>
       </div>
@@ -873,8 +797,7 @@
           au Marais, prés le petit Marché, &amp; chez le Sieur Foucaut, Marchand, ruë Saint Honoré,
           à la Regle d’or, prés le Cimetiere de Saint Innocent. Il sera suivi d’autres Recueils de
           differens caracteres, comme Motets, Leçons de Tenebres, Concerts détachez, &amp; Airs à
-          boire, à voix seule &amp; à deux &amp; trois parties, mélez de simphonies. Le nom de M<hi
-            rend="sup">r</hi> Gillier fait son éloge. On sçait combien il excelle en son art par
+          boire, à voix seule &amp; à deux &amp; trois parties, mélez de simphonies. Le nom de M<hi rend="sup">r</hi> Gillier fait son éloge. On sçait combien il excelle en son art par
           l’harmonie &amp; la modulation naturelle de ses chants, par les accompagnements expressifs
           &amp; recherchez, &amp; par la belle metode, qui imite d’aussi prés qu’il se peut, celle
           de l’incomparable Lambert, sous lequel il a esté élevé Page de la Musique de la Chambre du
@@ -1012,13 +935,11 @@
       <div type="article" xml:id="MG-1697-03_176" resp="mercure">
         <head>Cris d’Allegresse d’un Berger du rivage de la Seine</head>
         <bibl><title>Mercure galant</title>, mars 1697 [tome 3], p. 176-179.</bibl>
-        <p>Voicy des Vers qui ont esté mis en air par un habile homme. Ils sont de M<hi rend="sup"
-            >r</hi> Dader de Toulouse, &amp; ils ont esté faits sur l’arrivée de Madame la Princesse
+        <p>Voicy des Vers qui ont esté mis en air par un habile homme. Ils sont de M<hi rend="sup">r</hi> Dader de Toulouse, &amp; ils ont esté faits sur l’arrivée de Madame la Princesse
           de Savoye en France. Je vous envoye un quatrain noté, qui vous servira à chanter les
           autres.</p>
         <quote>
-          <label>CRIS D’ALLEGRESSE<lb/> d’un Berger du rivage<lb/> de la Seine.</label><note
-            resp="author" place="margin">L’Air doit regarder la page 176.</note>
+          <label>CRIS D’ALLEGRESSE<lb/> d’un Berger du rivage<lb/> de la Seine.</label><note resp="author" place="margin">L’Air doit regarder la page 176.</note>
           <lg>
             <l rend="i">En quittant la Savoye</l>
             <l rend="i">Pour nous donner des Loix,</l>
@@ -1223,10 +1144,8 @@
         <head>Epitre</head>
         <bibl><title>Mercure galant</title>, mars 1697 [tome 3], p. 209-218.</bibl>
         <p>Les Vers qui ont paru de M<hi rend="sup">r</hi> Danchet depuis quelques années, sont dans
-          une estime si generale, que vous ne serez pas fâchée de voir ceux qu’il adresse à M<hi
-            rend="sup">r</hi> Poultier, de l’Academie Royale de Peinture &amp; de Sculpture, au
-          sujet d’un Buste representant Adam &amp; Eve, placé dans le jardin de M<hi rend="sup"
-            >r</hi> Tera, Chancelier de Son Altesse Royale Monsieur.</p>
+          une estime si generale, que vous ne serez pas fâchée de voir ceux qu’il adresse à M<hi rend="sup">r</hi> Poultier, de l’Academie Royale de Peinture &amp; de Sculpture, au
+          sujet d’un Buste representant Adam &amp; Eve, placé dans le jardin de M<hi rend="sup">r</hi> Tera, Chancelier de Son Altesse Royale Monsieur.</p>
         <quote>
           <label>EPITRE.</label>
           <lg>
@@ -1405,5 +1324,4 @@
         <p><hi rend="i">A Paris, ce 31. Mars 1697.</hi></p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

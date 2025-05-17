@@ -1,69 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1686-02a">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, février 1686 (première partie) [tome 2]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1686-02a</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>février 1686</date> (première partie) [tome
-          2].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1686-02"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, février 1686 (première partie) [tome 2].</head>
       <div type="article" xml:id="MG-1686-02a_000" resp="louise">
@@ -386,8 +321,7 @@
           dedié son Histoire de l’Academie Françoise.</p>
         <p><hi rend="i">Jules Cæsar de Fain</hi>, Marquis de Peraud, Maréchal de Camp aux Armées du
           Roy. Lors qu’on fit l’Etablissement de l’Academie, il en fut fait le Secretaire ; mais son
-          absence est cause que cette Charge est presentement entre les mains de M<hi rend="sup"
-            >r</hi> de Saurin.</p>
+          absence est cause que cette Charge est presentement entre les mains de M<hi rend="sup">r</hi> de Saurin.</p>
         <p><hi rend="i">Henri Cassagnes</hi>, Conseiller du Roy Honoraire en la Senéchaussée &amp;
           Siege Presidial de Nismes, &amp; Tresorier du Domaine en la mesme Senéchaussée. Il donnera
           au Public dans peu de temps sa Traduction Françoise du Courtisan de Baltasar Castalioni.
@@ -412,8 +346,7 @@
           Cleves ; la Vie de Sainte Rose ; la derniere Traduction Françoise de la Vie de Lazarille
           de Tormes, &amp; quelques autres Traductions de Livres Italiens.</p>
         <p><hi rend="i">Jacob Spon</hi>, Docteur aggregé au College des Medecins de Lyon, &amp; à
-          l’Academie des <hi rend="i">Ricovrati</hi> de Padoüe. Il a publié un Traité <hi rend="i"
-            >De Aris Deorum incognitorum</hi>, l’Histoire de Geneve ; son Voyage de Grece, en trois
+          l’Academie des <hi rend="i">Ricovrati</hi> de Padoüe. Il a publié un Traité <hi rend="i">De Aris Deorum incognitorum</hi>, l’Histoire de Geneve ; son Voyage de Grece, en trois
           volumes ; les Recherches curieuses d’Antiquité ; la Recherche des Antiquitez &amp;
           Curiositez de la Ville de Lyon. <hi rend="i">Aphorismi novi ex Hippocratis Operibus
             collecti</hi>, avec des Notes ; un Traité des Fiévres &amp; des Fébrifuges, &amp; un
@@ -553,14 +486,12 @@
           p. 54-62</bibl>
         <p/>
         <p>Le 27. du mois passé, M<hi rend="sup">r</hi> du Tertre soûtint une These dédiée à
-          Monsieur le Duc de Bourbon, &amp; s’en acquitta avec beaucoup de succés. M<hi rend="sup"
-            >r</hi> l’Abbé le Pelletier, Cadet de M<hi rend="sup">r</hi> l’Abbé le Pelletier qui
+          Monsieur le Duc de Bourbon, &amp; s’en acquitta avec beaucoup de succés. M<hi rend="sup">r</hi> l’Abbé le Pelletier, Cadet de M<hi rend="sup">r</hi> l’Abbé le Pelletier qui
           presidoit à cet Acte, tous deux Fils de M<hi rend="sup">r</hi> le Controlleur General,
           ouvrit la dispute par un Discours qu’il fit à l’honneur de ce jeune Prince. Il y fit
           entrer l’Eloge des Heros de l’Illustre Maison de Condé, &amp; parla avec une netteté &amp;
           une éloquence que tout le monde admira. On applaudit fort le Soûtenant. Ses Réponses
-          furent justes, &amp; il n’y eut point de difficulté qu’il ne resolust. Il est Fils de M<hi
-            rend="sup">r</hi> du Tertre, l’un des plus celebres Chirurgiens de Paris, &amp; qui a
+          furent justes, &amp; il n’y eut point de difficulté qu’il ne resolust. Il est Fils de M<hi rend="sup">r</hi> du Tertre, l’un des plus celebres Chirurgiens de Paris, &amp; qui a
           toûjours esté entierement attaché au service des Princes qui portent l’auguste Nom de
           Condé. L’Acte se fit dans les Ecoles de S. Thomas, les plus spacieuses de l’Université,
           &amp; qui avoient esté choisies exprés à cause du grand nombre de personnes qu’on y avoit
@@ -568,8 +499,7 @@
           Lustres de cristal, dont les lumieres faisoient un tres-agreable effet. On avoit élevé sur
           la droite un Dais magnifique, sous lequel estoit la These, dans un Cadre d’un goust fort
           particulier. Il y avoit aussi une Estrade couverte d’un tres beau Tapis de Perse, &amp;
-          sur laquelle estoit un Fauteüil, preparé pour Monsieur le Duc de Bourbon. M<hi rend="sup"
-            >r</hi> le Nonce du Pape assista à cette Action, ainsi que plusieurs Prelats, &amp; un
+          sur laquelle estoit un Fauteüil, preparé pour Monsieur le Duc de Bourbon. M<hi rend="sup">r</hi> le Nonce du Pape assista à cette Action, ainsi que plusieurs Prelats, &amp; un
           nombre infiny de personnes des plus distinguées de Paris. Je vous envoye la Traduction de
           l’Epître qui estoit au bas des Theses, adressée à Monsieur le Duc de Bourbon.</p>
         <quote>
@@ -1278,10 +1208,8 @@
           de ce nombre. La Ceremonie a esté faite à Rosoy prés de Soissons.</p>
         <p>Mademoiselle Dorte, dont la fermeté pour la Religion Protestante paroissoit
           insurmontable, &amp; qui mesme l’a fait connoistre par des actions trop hardies pour une
-          personne de son Sexe, a fait aussi Abjuration à Metz entre les mains de M<hi rend="sup"
-            >r</hi> l’Evesque dans l’Eglise des Ursulines. Mademoiselle de Montigny abjura en mesme
-          temps. M<hi rend="sup">r</hi> Duchat Conseiller au Parlement, &amp; M<hi rend="sup"
-          >r</hi> Bancelin Capitaine &amp; proche Parent d’un Ministre de Mets, se sont convertis
+          personne de son Sexe, a fait aussi Abjuration à Metz entre les mains de M<hi rend="sup">r</hi> l’Evesque dans l’Eglise des Ursulines. Mademoiselle de Montigny abjura en mesme
+          temps. M<hi rend="sup">r</hi> Duchat Conseiller au Parlement, &amp; M<hi rend="sup">r</hi> Bancelin Capitaine &amp; proche Parent d’un Ministre de Mets, se sont convertis
           dans la mesme Ville.</p>
       </div>
       <div type="article" xml:id="MG-1686-02a_209" resp="wordpro">
@@ -1316,8 +1244,7 @@
         <bibl><title>Mercure galant</title>, février 1686 (première partie) [tome 2],
           p. 214-231</bibl>
         <p/>
-        <p>Entre toutes ces Conversions, il n’y en a point eu de plus éclatante que celle de M<hi
-            rend="sup">r</hi> le Comte de Madaillan de Lespare, aussi distingué par les vives
+        <p>Entre toutes ces Conversions, il n’y en a point eu de plus éclatante que celle de M<hi rend="sup">r</hi> le Comte de Madaillan de Lespare, aussi distingué par les vives
           lumieres de son esprit, que par les glorieux avantages qu’il tire de sa naissance Il a
           voulu s’éclaircir à fond des Veritez Catholiques, &amp; il en a esté si pleinement
           convaincu, que ne se contentant pas de renoncer à l’Erreur, il a voulu que ce qui avoit
@@ -1358,8 +1285,7 @@
           <p><hi rend="i">Comme les Pretendus Reformez iugent du sens des Ecritures par eux-mesmes,
               &amp; non par aucune authorité</hi> (<hi rend="i">sans que je veuille decider rien la
               dessus</hi>) <hi rend="i">je pourrois leur demander pourquoy ils expliquent
-              litterallement le passage de l’Ecriture qui dit</hi> que <hi rend="sc"
-              >Jesus-Christ</hi> est Dieu, <hi rend="i">&amp; qu’ils n’expliquent pas tout de mesme
+              litterallement le passage de l’Ecriture qui dit</hi> que <hi rend="sc">Jesus-Christ</hi> est Dieu, <hi rend="i">&amp; qu’ils n’expliquent pas tout de mesme
               litterallement celuy qui dit</hi>, que le Pain est sa Chair, <hi rend="i">puis qu’il y
               a plus loin de l’Humanité de</hi>
             <hi rend="sc">Jesus-Christ</hi>, <hi rend="i">à la Divinité, que de la substance du Pain
@@ -1397,8 +1323,7 @@
               Esprit par la Foy.</hi></p>
           <p><hi rend="i">Ainsi les P.R. regardant, &amp; recevant ce Pain par la Foy, comme
               representant réellement l’Esprit vivifiant de Dieu, je ne trouve aucune difficulté à
-              luy rendre le mesme Culte que s’il y estoit au sens des Catholiques</hi>, (<hi
-              rend="i">supposé qu’ils s’y trompassent</hi>) <hi rend="i">puisque les P.R. demeurent
+              luy rendre le mesme Culte que s’il y estoit au sens des Catholiques</hi>, (<hi rend="i">supposé qu’ils s’y trompassent</hi>) <hi rend="i">puisque les P.R. demeurent
               persuadez qu’il y est par la seule chose qui le rend adorable, qui est son Esprit
               vivifiant, &amp; que là, il se donne à nous d’une façon toute particuliere, ce qu’il
               ne fait point ainsi dans tous les autres lieux du Monde, quoy qu’il ne laisse pas de
@@ -1476,8 +1401,7 @@
         <p/>
         <p>Je vous parlay il y a un mois, de quelques Conversions, qui n’estoient encore que
           commencées. Elles se sont faites depuis ce temps-là. Je ne puis pourtant vous bien
-          asseurer, que celle de M<hi rend="sup">r</hi> de la Bastide soit de ce nombre. M<hi
-            rend="sup">r</hi> l’Abbé Genest, dont le merite vous est connu, luy a adressé une Lettre
+          asseurer, que celle de M<hi rend="sup">r</hi> de la Bastide soit de ce nombre. M<hi rend="sup">r</hi> l’Abbé Genest, dont le merite vous est connu, luy a adressé une Lettre
           en Vers, qui passe pour un Chef-d’œuvre. Quoy qu’elle soit admirable en tout ce qu’elle
           contient, je ne vous en envoyeray que ce qui regarde le Roy. Aprés beaucoup de fortes
           raisons, soûtenuës d’un tour de Vers aussi naturel que majestueux, par lesquelles il tâche
@@ -1584,8 +1508,7 @@
         <bibl><title>Mercure galant</title>, février 1686 (première partie) [tome 2], p.
           258-259</bibl>
         <p/>
-        <p>Je reçois avis tout présentement, que le Dimanche troisième jour de ce mois, M<hi
-            rend="sup">r</hi> l'Evesque d'Amiens fit chanter le <hi rend="i">Te Deum</hi> dans sa
+        <p>Je reçois avis tout présentement, que le Dimanche troisième jour de ce mois, M<hi rend="sup">r</hi> l'Evesque d'Amiens fit chanter le <hi rend="i">Te Deum</hi> dans sa
           Cathédrale, pour rendre grâce à Dieu de l'entière Conversion des Religionnaires de son
           Dioscèse. [...]</p>
       </div>
@@ -1685,8 +1608,7 @@
               à l’Eglise les droits &amp; les prérogatives qu’il s’efforce de luy oster.</hi></p>
           <p><hi rend="i">Cet Autheur ne se contente pas de peindre des plus noires couleurs la plus
               grande, la plus éclatante, &amp; la plus loüable de toutes les actions, son esprit
-              inquiet &amp; malin ne peut souffrir que ceux qu’il appelle</hi> Tombez, <hi rend="i"
-              >joüissent de la tranquillité que leur conversion leur a procurée ; il tasche par
+              inquiet &amp; malin ne peut souffrir que ceux qu’il appelle</hi> Tombez, <hi rend="i">joüissent de la tranquillité que leur conversion leur a procurée ; il tasche par
               toutes sortes de moyens d’alarmer leur conscience, d’ébranler leur fidelité, &amp; de
               les porter à la des obeïssance &amp; à la revolte. C’est icy qu’oubliant qu’il est né
               le Sujet de nostre auguste Prince, il déploye tous les traits de son éloquence, &amp;
@@ -1699,8 +1621,7 @@
           <p><hi rend="i">Heureusement il ne s’adresse qu’à ceux qui sont tombez par la force des
               tourmens, &amp; il declare qu’il n’entend point parler à ces lâches Chrestiens, qui
               vont d’eux-mesmes porter leurs noms</hi>, parce, <hi rend="i">dit-il</hi>, qu’il n’y a
-            plus pour eux de sacrifice, mais une attente terrible des Jugemens de Dieu, <hi rend="i"
-              >sans se souvenir que cette délicatesse qu’il affecte en cette occasion, n’a jamais
+            plus pour eux de sacrifice, mais une attente terrible des Jugemens de Dieu, <hi rend="i">sans se souvenir que cette délicatesse qu’il affecte en cette occasion, n’a jamais
               esté en usage dans sa Communion, où l’on a toûjours receu indifferemment toutes sortes
               de Relaps ; mais pour donner plus de poids à sa Lettre, il ne falloit pas qu’il s’en
               tinst là. Consolons-nous donc, puisqu’il veut bien se restraindre aux seuls Tombez par
@@ -1741,8 +1662,7 @@
             assis dans les Cieux à la dextre de Dieu son Pere ; elle l’attend au dernier jour pour
             juger le Monde, &amp; espere de sa grace la bien-heureuse immortalité. Elle donne à ses
             Enfans le Baptême qu’il nous a institué. Elle les repaist de l’Eucharistie. Elle leur
-            recommande la pieté envers luy, &amp; la charité envers les hommes, &amp;c. Certes, <hi
-              rend="i">ajoûte-t-il</hi>, nous ne pouvons ny ne voulons nier que l’Eglise Romaine ne
+            recommande la pieté envers luy, &amp; la charité envers les hommes, &amp;c. Certes, <hi rend="i">ajoûte-t-il</hi>, nous ne pouvons ny ne voulons nier que l’Eglise Romaine ne
             croye encore aujourd’huy toutes ces saintes veritez. <hi rend="i">Qu’on juge aprés cela
               si c’est renier Jesus-Christ, que de se joindre à une Societé qui enseigne toutes les
               choses que nous venons de rapporter.</hi></p>
@@ -1820,8 +1740,7 @@
           Entrées, ne pouvoit manquer de plaire ; &amp; ce qui faisoit encore une agreable varieté
           dans ce spectacle, c’est qu’il estoit fait de maniere que l’on y pouvoit toûjours mesler
           une Comedie en trois Actes. Ainsi on y en a meslé deux nouvelle pendant le cours de ce
-          Divertissement. Elles estoient de l’Autheur des Vers du Balet, ausquels M<hi rend="sup"
-            >r</hi> Quinaut n’a point travaillé. Il estoit alors occupé par ordre du Roy à achever
+          Divertissement. Elles estoient de l’Autheur des Vers du Balet, ausquels M<hi rend="sup">r</hi> Quinaut n’a point travaillé. Il estoit alors occupé par ordre du Roy à achever
           l’Opera <hi rend="i">d’Armide</hi> qui avoit esté commandé d’abord pour Versailles. Comme
           il n’a pû y estre representé, à cause de l’autre Divertissement qu’on a commencé plus tard
           que l’on ne croyoit, il a paru à Paris dans les derniers jours du Carnaval sur le Theatre
@@ -1852,12 +1771,9 @@
           au soin des affaires de son Etat, &amp; tous les Conseils se sont tenus comme de coûtume.
           La grossesse de Madame la Dauphine a esté cause que cette Princesse s’est privée de
           beaucoup de plaisirs.</p>
-        <p>Les Divertissemens de Paris, outre l’Opera <hi rend="i">d’Armide</hi>, ont esté <hi
-            rend="i">Alcibiade</hi>, dont les Representations continuent encore, &amp; <hi rend="i"
-            >l’Homme à bonne Fortune</hi>, qui est un Portrait fort naturel, &amp; tres bien touché
+        <p>Les Divertissemens de Paris, outre l’Opera <hi rend="i">d’Armide</hi>, ont esté <hi rend="i">Alcibiade</hi>, dont les Representations continuent encore, &amp; <hi rend="i">l’Homme à bonne Fortune</hi>, qui est un Portrait fort naturel, &amp; tres bien touché
           des Personnes de ce caractere. Il y a eu quantité de Bals, &amp; l’on s’est
           tres-agreablement diverty en plusieurs Maisons particulieres.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

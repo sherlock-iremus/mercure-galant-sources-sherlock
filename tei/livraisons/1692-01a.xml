@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1692-01a">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, janvier 1692 [tome 1]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1692-01a</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title> Mercure galant</title>, <date>janvier 1692</date> [tome 1].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1692-01"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i"> Mercure galant</hi>, janvier 1692 [tome 1].</head>
       <div type="article" xml:id="MG-1692-01a_081" resp="wordpro">
@@ -305,8 +241,7 @@
           de sçavoir de quelle nature pouvoit estre un Oiseau si petit &amp; si tranquille ; mais
           elle fut bien surprise de n’y trouver que trois pains de cire gros comme le bout du doigt,
           &amp; arrangez au fond de la Boëte. Le premier estoit blanc, le second rouge, &amp; le
-          troisiéme vert. Elle leut sur le premier, <hi rend="i">Simplicité</hi>, sur le second, <hi
-            rend="i">d’un feu</hi>, &amp; sur le troisiéme, <hi rend="i">qui se nourrit
+          troisiéme vert. Elle leut sur le premier, <hi rend="i">Simplicité</hi>, sur le second, <hi rend="i">d’un feu</hi>, &amp; sur le troisiéme, <hi rend="i">qui se nourrit
             d’esperance</hi>. Ces mots estoient écrits sur la Cire en un caractere fort net, quoy
           que fort petit, &amp; avoient rapport aux couleurs des petits pains sur lesquels on les
           lisoit ; la Simplicité au blanc, le Feu, figure de l’amour, au rouge, &amp; l’Esperance au
@@ -339,8 +274,7 @@
           Demoiselle &amp; du Cavalier estoient sur le couvercle, entrelacez avec beaucoup de
           delicatesse, &amp; couronnez d’une Guirlande dont les liens les entouroient. Au dessous de
           ces Chifres, il y avoit un Cœur enflamé, percé d’une Fleche, dont la pointe sembloit
-          menacer un autre Cœur, qui n’estoit point enflamé avec ces mots à l’entour, <hi rend="i"
-            >S’il pouvoit y estre sensible</hi>. A costé des Chifres estoient de petits vases
+          menacer un autre Cœur, qui n’estoit point enflamé avec ces mots à l’entour, <hi rend="i">S’il pouvoit y estre sensible</hi>. A costé des Chifres estoient de petits vases
           brûlans, avec ces mots au dessus, <hi rend="i">Rien de plus pur</hi>, tout cela en or sur
           l’Azur, &amp; travaillé avec une propreté charmante. Aussi la Belle ne put-elle revoir
           celuy qui luy avoit fait ce galant Present, sans luy dire entre autres choses que la veuë
@@ -446,8 +380,7 @@
           de luy. Sa capacité est assez connuë par le Livre qu'il a composé sur le mélange des
           couleurs. Ils choisirent M<hi rend="sup">r</hi> l'Archevêque de Bordeaux pour leur
           Protecteur, &amp; M<hi rend="sup">r</hi> l'Abbé Bardin, Archidiacre de cette Eglise, leur
-          donna une Salle dans le College de Guienne, dont il est Principal, avec l'agrément de M<hi
-            rend="sup">rs</hi> les Jurats, qui sont les Patrons de ce College. Par un Reglement de
+          donna une Salle dans le College de Guienne, dont il est Principal, avec l'agrément de M<hi rend="sup">rs</hi> les Jurats, qui sont les Patrons de ce College. Par un Reglement de
           leurs Statuts, ils sont obligez de faire celebrer tous les ans une Messe solemnelle pour
           la conservation de la Personne sacrée du Roy. Ils voulurent faire l'ouverture de leur
           Academie par une action digne de leur zele, &amp; choisirent pour cela le Dimanche 16. du
@@ -482,19 +415,16 @@
         <head>Livres nouveaux [Poème de l’abbé Villiers sur l’amitié]*</head>
         <bibl><title>Mercure galant</title>, janvier 1692 [tome 1], p. 166-169.</bibl>
         <p>Je viens à un Livre que vous attendez depuis long-temps, &amp; pour lequel le bruit qu’il
-          a fait dans les lectures, vous a prevenuë avec beaucoup de justice. C’est un Poëme de M<hi
-            rend="sup">r</hi> l’Abbé de Villiers sur l’Amitié. Il est divisé en quatre Chants. Le
+          a fait dans les lectures, vous a prevenuë avec beaucoup de justice. C’est un Poëme de M<hi rend="sup">r</hi> l’Abbé de Villiers sur l’Amitié. Il est divisé en quatre Chants. Le
           premier renferme une description des avantages de l’Amitié en general. Le second roule sur
           le choix des Amis ; le troisiéme sur les Vices qui peuvent corrompre l’Amitié, &amp;
           favoriser l’entestement, ou la lâcheté des Amis, &amp; le quatriéme enseigne quels sont
-          les principaux devoirs de l’Amitié. Vous sçavez par tout ce que vous avez veu de M<hi
-            rend="sup">r</hi> l’Abbé de Villiers, qu’il a l’esprit fin, aisé, délicat, &amp; que
+          les principaux devoirs de l’Amitié. Vous sçavez par tout ce que vous avez veu de M<hi rend="sup">r</hi> l’Abbé de Villiers, qu’il a l’esprit fin, aisé, délicat, &amp; que
           tous ses Vers partent de Source. Combien a-t-on fait d’éditions de <hi rend="i">l’Art de
             Prescher</hi>, &amp; avec quel plaisir ne l’a-t-on pas leu, quoy qu’elles ayent esté
           faites sur une Copie dérobée, &amp; par consequent imparfaite &amp; peu correcte. On en a
           déja fait trois des <hi rend="i">Reflexions sur les Défauts d’autruy</hi>, &amp; il ne
-          faut rien de plus pour justifier de quelle beauté sont ses Ouvrages. Le dernier <hi
-            rend="i">de l’Amitié</hi>, est assurément digne de luy. Vous y verrez du sublime &amp;
+          faut rien de plus pour justifier de quelle beauté sont ses Ouvrages. Le dernier <hi rend="i">de l’Amitié</hi>, est assurément digne de luy. Vous y verrez du sublime &amp;
           de l’agreable. Aussi peut on dire qu’il a trouvé l’art d’y conserver tout le sel, &amp;
           tout l’agrément de la Satyre, en y obligeant pourtant tout le monde. Je vous parlerois
           plus amplement de cet excellent Ouvrage, si je n’estois asseuré qu’en le lisant, vous le
@@ -528,8 +458,7 @@
           changemens regardent ce qu’il a trouvé dans ses Pieces de moins correct pour la Langue,
           &amp; sur tout plusieurs façons de parler, qui estoient encore autorisées par l’Usage il y
           a vingt ans, comme <hi rend="i">alors que</hi>, pour <hi rend="i">lors que, lors</hi> pour
-            <hi rend="i">alors, dedans, dessus</hi>, &amp; <hi rend="i">dessous</hi>, pour <hi
-            rend="i">dans, sur</hi> &amp; <hi rend="i">sous</hi>. Le quatriéme Volume a esté
+            <hi rend="i">alors, dedans, dessus</hi>, &amp; <hi rend="i">dessous</hi>, pour <hi rend="i">dans, sur</hi> &amp; <hi rend="i">sous</hi>. Le quatriéme Volume a esté
           augmenté <hi rend="i">du Festin de Pierre</hi>, dont les Comediens donnent chaque année
           plusieurs representations, &amp; qui n’est pourtant de luy, qu’en ce qu’il a mis en Vers
           la Prose du fameux Moliere, à l’exception de quelques endroits un peu délicats, &amp; des
@@ -555,8 +484,7 @@
           l’excellente traduction qu’il nous a donnée des Harangues de Demostene, l’a fait voir
           tres-digne de la réputation qu’il s’estoit déja acquise ; mais ce qui est au dessus de
           tout, c’est de voir qu’un grand Ministre, infiniment éclairé en toutes choses, l’ait
-          choisi comme un homme de Lettres, &amp; d’un merite distingué pour l’attacher à M<hi
-            rend="sup">r</hi> son Fils. Il sera receu le mois prochain dans la Compagnie, &amp; ce
+          choisi comme un homme de Lettres, &amp; d’un merite distingué pour l’attacher à M<hi rend="sup">r</hi> son Fils. Il sera receu le mois prochain dans la Compagnie, &amp; ce
           sera un nouvel article pour la premiere Lettre que vous recevrez de moy.</p>
       </div>
       <div type="article" xml:id="MG-1692-01a_191" resp="wordpro">
@@ -599,8 +527,7 @@
             M<hi rend="sup">r</hi> le Duc de Barvik, &amp; toute sa suite par M<hi rend="sup">r</hi>
           de Miromenil qui loge dans cette Maison. Le lendemain Elle entendit la Messe au Tombeau de
           S. Martin. M<hi rend="sup">rs</hi> du Chapitre, qui est un des plus anciens, &amp; des
-          plus nombreux du Royaume, l’attendoient à la porte de leur Eglise, où M<hi rend="sup"
-            >r</hi> l’Abbé Bernin qui en est Tresorier &amp; Chanoine, &amp; M<hi rend="sup">r</hi>
+          plus nombreux du Royaume, l’attendoient à la porte de leur Eglise, où M<hi rend="sup">r</hi> l’Abbé Bernin qui en est Tresorier &amp; Chanoine, &amp; M<hi rend="sup">r</hi>
           l’Abbé de Gallizon qui en est Chantre &amp; aussi Chanoine, luy donna une portion de la
           vraye Croix à baiser. Ensuite ces deux Messieurs, tout le Clergé &amp; le Peuple qui
           estoit accouru en foule, conduisirent ce Monarque au Tombeau de Saint Martin, où la Messe
@@ -870,8 +797,7 @@
             <l rend="i"> Bien commencer, &amp; bien finir.</l>
           </lg>
         </quote>
-        <p>Voicy encore trois Madrigaux sur cette mesme matiere. Le premier est de M<hi rend="sup"
-            >r</hi> de Lorme, Avocat au Parlement de Grenoble.</p>
+        <p>Voicy encore trois Madrigaux sur cette mesme matiere. Le premier est de M<hi rend="sup">r</hi> de Lorme, Avocat au Parlement de Grenoble.</p>
         <quote>
           <label>SUR LA PRISE<lb/>de Montmeillan, &amp; sur les<lb/>vains efforts de la
             Ligue.<lb/>MADRIGAL.</label>
@@ -991,8 +917,7 @@
           gens d’esprit, &amp; de personnes d’un rang distingué de la Cour &amp; de la Ville. Si la
           lecture ne luy donnoit pas toutes les graces que les Ouvrages de cette nature ont
           accoûtumé de recevoir sur le Theatre, des differens Acteurs qui les representent, elle
-          avoit en récompense les ornemens d’une excellente Musique, de la composition de M<hi
-            rend="sup">r</hi> Oudot. Tous les Chœurs estoient chantez, &amp; le chant s’accommodoit
+          avoit en récompense les ornemens d’une excellente Musique, de la composition de M<hi rend="sup">r</hi> Oudot. Tous les Chœurs estoient chantez, &amp; le chant s’accommodoit
           si bien aux paroles, qu’il estoit impossible de ne pas entrer dans les mouvemens de
           crainte, de douleur, ou de joye qu’elles exprimoient, selon ce qui se passoit
           successivement. Aussi peut-on dire que cet Ouvrage a receu une approbation generale, &amp;
@@ -1058,5 +983,4 @@
           afin de satisfaire ceux qui aiment les nouveautez.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

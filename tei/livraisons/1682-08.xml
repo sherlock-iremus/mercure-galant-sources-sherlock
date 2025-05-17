@@ -1,64 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1682-08" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, août 1682 [tome 8]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2016"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1682-08/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>août 1682</date> [tome 8].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1682-08"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1682-08_np">
         <head>Avis</head>
@@ -215,14 +155,11 @@
           se trouverent à Nostre-Dame sur les quatres heures ; le Parlement en Robes rouges, &amp;
           les autres Corps avec leurs Robes de cerémonie. M<hi rend="sup">r</hi> le Chancelier s'y
           rendit à la teste du Conseil. Les Ministres Etrangers y vinrent dans le plus leste
-          appareil qu'il leur fut possible pour honorer cette Feste. Ces Ministres furent M<hi
-            rend="sup">r</hi> Foscarini, Ambassadeur de Venise; M<hi rend="sup">r</hi> le Marquis
+          appareil qu'il leur fut possible pour honorer cette Feste. Ces Ministres furent M<hi rend="sup">r</hi> Foscarini, Ambassadeur de Venise; M<hi rend="sup">r</hi> le Marquis
           Ferreiro, Ambasadeur de Savoye; M<hi rend="sup">r</hi> le Bailly de Hautefeuïlle,
-          Ambassadeur de Malte; Dom Salvador Taborda, Envoyé de Portugal; &amp; M<hi rend="sup"
-            >r</hi> le Conte Bagliani, Envoyé du Duc de Mantouë. Plusieurs autres Envoyez y
+          Ambassadeur de Malte; Dom Salvador Taborda, Envoyé de Portugal; &amp; M<hi rend="sup">r</hi> le Conte Bagliani, Envoyé du Duc de Mantouë. Plusieurs autres Envoyez y
           assisterent <hi rend="i">incognito</hi>.</p>
-        <p>M<hi rend="sup">r</hi> l'Archevesque, revétu de ses Habits Pontificaux, commença le <hi
-            rend="i">Te Deum</hi>, &amp; la Musique le continua. Elle avoit esté faite exprés. La
+        <p>M<hi rend="sup">r</hi> l'Archevesque, revétu de ses Habits Pontificaux, commença le <hi rend="i">Te Deum</hi>, &amp; la Musique le continua. Elle avoit esté faite exprés. La
           nouvelle grosse Cloche sonna pour la premiere fois. On eut beaucoup de peine à la mettre
           en branle, parce qu'on n'avoit pris des mesures que pour la faire sonner le jour de
           l'Assomption. A la fin du <hi rend="i">Te Deum</hi>, le Canon tira dans tous les lieux
@@ -337,8 +274,7 @@
           entendre. On le tire trois fois à trois diférens temps dans les jours choisis pour chanter
           le <hi rend="i">Te Deum</hi>, &amp; les Réjoüissances ne vont pas plus loin ; mais dans
           cette occasion, le Dimanche 9. &amp; le Lundy 10. furent celébrez de la mesme sorte que le
-          Samedy, &amp; on tira le Canon à la pointe du jour, à midy, &amp; sur le soir. M<hi
-            rend="sup">r</hi> de Besmaux, Gouverneur de la Bastille, fit dresser un grand Bucher
+          Samedy, &amp; on tira le Canon à la pointe du jour, à midy, &amp; sur le soir. M<hi rend="sup">r</hi> de Besmaux, Gouverneur de la Bastille, fit dresser un grand Bucher
           devant la Porte de cette Forteresse. M<hi rend="sup">r</hi> le Marquis de Besmaux son
           Fils, y mit le feu. Il y eut du Pain &amp; du Vin distribué, &amp; l'on donna le
           divertissement d'un Feu d'artifice d'une grandeur extraordinaire. Je puis parler ainsi de
@@ -430,12 +366,10 @@
           crû devoir donner l’Opéra au Public. On y entroit par un Arc de triomphe, &amp; c’estoit
           veritablement triompher, que de pouvoir passer par dessous, tant il y avoit de périls à
           essuyer pour y parvenir. On pourroit dire qu’il y vint un Monde entier. La diférence de ce
-          qui s’est présenté de Peuple à la Comédie &amp; à l’Opéra, quand on luy a donné <hi
-            rend="i">gratis</hi> l’un &amp; l’autre, fait connoistre la grande fortune que le mérite
+          qui s’est présenté de Peuple à la Comédie &amp; à l’Opéra, quand on luy a donné <hi rend="i">gratis</hi> l’un &amp; l’autre, fait connoistre la grande fortune que le mérite
           des Ouvrages de M<hi rend="sup">r</hi> de Lully luy fait faire. Comme il est le plus
           habile qui ait jamais paru en son genre, il est bien juste que le Public le distingue par
-          l’empressement qu’il a de voir ce qu’il fait. Apres la Représentation de <hi rend="i"
-            >Persée</hi>, le grand Portique par dessous lequel on estoit entré, &amp; deux
+          l’empressement qu’il a de voir ce qu’il fait. Apres la Représentation de <hi rend="i">Persée</hi>, le grand Portique par dessous lequel on estoit entré, &amp; deux
           Obélisques qui estoient aux deux costez, parurent tout en feu, &amp; un Soleil s’éleva peu
           à peu au dessus. Ce Soleil estoit composé de plus de mille Lumieres vives, c’est à dire
           sans estre couvertes. On tira en suite plus de soixante Fusées d’honneur les unes apres
@@ -475,8 +409,7 @@
           celle de Minerve, les Pied-d'estaux de marbre, &amp; les Statuës d'or. Ces deux Divinitez
           estoient mises là comme pour défendre l'entrée du Temple, &amp; ne la laisser libre qu'à
           ceux qui par leurs vertus se seroient rendus dignes d'y avoir place. C'est ce qui avoit
-          donné lieu d'écrire sur le Pied-d'estal en lettres d'or, du costé d'Hercule, <hi rend="i"
-            >Portae patent virtuti</hi>, &amp; du costé de Minerve, <hi rend="i">Procul hinc
+          donné lieu d'écrire sur le Pied-d'estal en lettres d'or, du costé d'Hercule, <hi rend="i">Portae patent virtuti</hi>, &amp; du costé de Minerve, <hi rend="i">Procul hinc
             profani</hi>. </p>
         <p>Entre les Pilastres, en quatre endroits diférens, estoient des Ovales ou Cartouches, dans
           lesquelles il y avoit des Devises faites par M<hi rend="sup">r</hi> l’Abbé Tallemant le
@@ -489,8 +422,7 @@
         <p>Une Fusée volante faisoit le Corps de la seconde Devise. Elle avoit ces mots pour Ame,
             <hi rend="i">Quo non accepto ardore feretur ?</hi> Pour dire que de mesme que cette
           Fusée qui a en soy une matiere combustible, brillera dans l’air dés qu’on y aura mis le
-          feu. Monseigneur le Duc de Bourgogne, qui a dans les veines le Sang illustre de <hi
-            rend="sc">Loüis le Grand</hi>, fera briller son nom &amp; ses vertus, quand Sa Majesté y
+          feu. Monseigneur le Duc de Bourgogne, qui a dans les veines le Sang illustre de <hi rend="sc">Loüis le Grand</hi>, fera briller son nom &amp; ses vertus, quand Sa Majesté y
           aura adjoûté ses leçons &amp; ses exemples.</p>
         <p>La troisiéme estoit un Lys, avec un autre petit Lys fleury sortant de sa tige, &amp; ces
           mots d’Ovide, <hi rend="i">Patrij candoris Imago</hi>. Ce jeune Lys est la vraye Image de
@@ -590,8 +522,7 @@
         <head resp="editor">Compliments du duc de Saint-Aignan.</head>
         <bibl><title>Mercure galant</title>, août 1682 [tome 8], p. 144-146.</bibl>
         <p/>
-        <p>M<hi rend="sup">r</hi> le Duc de S. Aignan estant dans le Chasteau d’Alincourt, que M<hi
-            rend="sup">r</hi> le Maréchal de Villeroy luy avoit presté pour prendre des Eaux de
+        <p>M<hi rend="sup">r</hi> le Duc de S. Aignan estant dans le Chasteau d’Alincourt, que M<hi rend="sup">r</hi> le Maréchal de Villeroy luy avoit presté pour prendre des Eaux de
           Forges, y reçeut avis, par un Courrier exprés, de l’accouchement de Madame la Dauphine. Il
           envoya aussitost un Gentilhomme en Cour, pour y témoigner sa joye, &amp; fit sur le champ
           une Ballade fort galante, qu’il adressa à Madame la Duchesse de Richelieu. A son retour il
@@ -644,8 +575,7 @@
           aussi-bien que les Hôtels de Chaunes, de Duras, &amp; de Dangeau, où l'on a fait des
           choses extraordinaires. On ne s'est pas moins distingué à l'Hôtel de la Feuïllade, &amp;
           l'on défonça jusques à sept ou huit muids de Vin à l'Hôtel de Villeroy. Les Festes furent
-          presques égales chez toutes les Personnes de qualité. Les Violons que M<hi rend="sup"
-            >r</hi> le Prevost des Marchands avoit envoyez dans le Jardin des Tuilleries, à la Place
+          presques égales chez toutes les Personnes de qualité. Les Violons que M<hi rend="sup">r</hi> le Prevost des Marchands avoit envoyez dans le Jardin des Tuilleries, à la Place
           Royale, &amp; en plusieurs autres endroits de la Ville, n'avoient pas peu contribué à
           mettre le Peuple en joye ; &amp; ce qui est assez surprenant, c'est que dés les trois
           premiers jours, des Particuliers firent de tres-beaux Feux d'artifice malgré le peu de
@@ -817,10 +747,8 @@
           de Garde au Roy, estoient en haye. Ces Ministres passerent par le magnifique Escalier, qui
           doit toutes ses beautez à M<hi rend="sup">r</hi> le Brun, &amp; dont je vous envoyay une
           Description si-tost qu’il fut achevé. Le Roy estoit assis dans son Trône d’argent. Ceux
-          qui occupoient les premieres Places aupres de ce Prince, estoient d’un costé, M<hi
-            rend="sup">r</hi> le Duc de Boüillon, Grand Chambellan, M<hi rend="sup">r</hi> le Duc de
-          Créquy, &amp; M<hi rend="sup">r</hi> le Prince de Marsillac ; &amp; de l’autre, M<hi
-            rend="sup">r</hi> le Duc d’Aumont, M<hi rend="sup">r</hi> le Duc de S. Aignan, &amp;
+          qui occupoient les premieres Places aupres de ce Prince, estoient d’un costé, M<hi rend="sup">r</hi> le Duc de Boüillon, Grand Chambellan, M<hi rend="sup">r</hi> le Duc de
+          Créquy, &amp; M<hi rend="sup">r</hi> le Prince de Marsillac ; &amp; de l’autre, M<hi rend="sup">r</hi> le Duc d’Aumont, M<hi rend="sup">r</hi> le Duc de S. Aignan, &amp;
             M<hi rend="sup">r</hi> le Marquis de Gesvres.</p>
       </div>
       <div type="article" xml:id="MG-1682-08_184" copyOf="JLB_MG-1682-08_176">
@@ -833,8 +761,7 @@
           à cheval, &amp; fit en suite le tour du Parc de S. Mandé, où il tua six ou sept Levraux,
           &amp; plus de quarante Perdreaux. Il se rendit de là à Vincennes, &amp; dîna dans la
           grande Salle. Quinze ou vingt Personnes du premier rang, eurent l'honneur de dîner avec
-          luy. Monseigneur le Prince de Conty, M<hi rend="sup">r</hi> le Grand, M<hi rend="sup"
-            >r</hi> le Prince de Conigsmark, M<hi rend="sup">rs</hi> les Maréchaux de Schomberg
+          luy. Monseigneur le Prince de Conty, M<hi rend="sup">r</hi> le Grand, M<hi rend="sup">r</hi> le Prince de Conigsmark, M<hi rend="sup">rs</hi> les Maréchaux de Schomberg
           &amp; de Belfond, &amp; M<hi rend="sup">r</hi> le Comte de Lausun, estoient de ce nombre.
           Apres le dîné, ce Prince alla à la Ménagerie de Vincennes, &amp; y vit combatre plusieurs
           Animaux les uns contre les autres. Des Chiens combatirent d'abord contre un Ours, &amp;
@@ -843,8 +770,7 @@
           mesme avantage contre une Lionne, &amp; puis contre un Tygre. Apres cela, on la fit
           combatre contre un Lyon. Elle l'attaqua, &amp; quoy qu'il luy eust dépoüillé la hanche,
           &amp; qu'elle en fust demeurée boiteuse, elle ne laissa pas de le vaincre, aussi-bien
-          qu'un Loup, qu'elle combatit encor. On la fit retirer, &amp; l'on amena un Levrier de M<hi
-            rend="sup">r</hi> le Grand Louvetier, pour combatre contre le Loup. Le Levrier fit
+          qu'un Loup, qu'elle combatit encor. On la fit retirer, &amp; l'on amena un Levrier de M<hi rend="sup">r</hi> le Grand Louvetier, pour combatre contre le Loup. Le Levrier fit
           merveilles. Il mordoit sans cesse les jarets du Loup, &amp; le coleta à vingt reprises. Le
           lendemain, Monseigneur vint à la Foire de S. Laurens, &amp; alla en suite voir la
           Réprésentation de l'Andromede de M<hi rend="sup">r</hi> de Corneille l'aîné. Je vous ay
@@ -862,8 +788,7 @@
           qu'on prévint dans quelques-unes le Mandement de M<hi rend="sup">r</hi> l'Archevêque, en
           chantant le <hi rend="i">Te Deum</hi> sans en avoir reçeu l'ordre. Comme il devoit estre
           solemnel, ceux qui l'avoient déjà chanté, le recommencement [sic], apres que le Mandement
-          eut esté donné. Le jour que l'Eglise de Paris s'acquita de ce devoir, M<hi rend="sup"
-            >r</hi> l'Archevesque qui avoit déjà fait plusieurs libéralitez, les redoubla. Le devant
+          eut esté donné. Le jour que l'Eglise de Paris s'acquita de ce devoir, M<hi rend="sup">r</hi> l'Archevesque qui avoit déjà fait plusieurs libéralitez, les redoubla. Le devant
           de son Palais fut tout couvert de Lumieres, &amp; l'on tira un Feu, dont on admira les
           Fusées volantes. Huit Muids de Vin furent défoncez, &amp; l'on en donna à tout le monde.
           Ce Prélat avoit ordonné à ses Officiers de distribuer en mesme temps une somme d'argent au
@@ -884,9 +809,7 @@
         <p><hi rend="i">Messieurs les Chanoines de cette Abbaye Royale, voulant à l'envy témoigner
             leur zele &amp; leur joye sur la Naissance de ce Prince, firent chanter dans leur Choeur
             un</hi> Te Deum <hi rend="i">en Musique par quatre-vingts Voix, accompagnées de
-            Clavessins, Théorbes, Basses de Violes, Violons, &amp; Basson. Il fut entonné par M<hi
-              rend="sup">r</hi> de la Lane, Grand Prieur de cette Abbaye ; &amp; M<hi rend="sup"
-              >r</hi> Minoret Maistre de la Musique de S. Germain l'Auxerrois, dont le mérite est
+            Clavessins, Théorbes, Basses de Violes, Violons, &amp; Basson. Il fut entonné par M<hi rend="sup">r</hi> de la Lane, Grand Prieur de cette Abbaye ; &amp; M<hi rend="sup">r</hi> Minoret Maistre de la Musique de S. Germain l'Auxerrois, dont le mérite est
             connu de tous ceux qui ont le goust fin pour la belle Musique, les conduisoit. Il s'y
             trouva un si grand nombre de Personnes de qualité, qu'on eut bien de la peine à trouver
             place pour les Joüeurs d'Instrumens, &amp; pour les Musiciens.</hi></p>
@@ -924,9 +847,7 @@
           <p><hi rend="i">Messieurs les Chanoines de cette Abbaye Royale, voulant à l’envy témoigner
               leur zele &amp; leur joye sur la Naissance de ce Prince, firent chanter dans leur
               Chœur un</hi> Te Deum <hi rend="i">en Musique par quatre-vingts Voix, accompagnées de
-              Clavessins, Théorbes, Basses de Violes, Violons, &amp; Basson. Il fut entonné par M<hi
-                rend="sup">r</hi> de la Lane, Grand Prieur de cette Abbaye ; &amp; M<hi rend="sup"
-                >r</hi> Minoret Maistre de la Musique de S. Germain l’Auxerrois, dont le mérite est
+              Clavessins, Théorbes, Basses de Violes, Violons, &amp; Basson. Il fut entonné par M<hi rend="sup">r</hi> de la Lane, Grand Prieur de cette Abbaye ; &amp; M<hi rend="sup">r</hi> Minoret Maistre de la Musique de S. Germain l’Auxerrois, dont le mérite est
               connu de tous ceux qui ont le goust fin pour la belle Musique, les conduisoit. Il s’y
               trouva un si grand nombre de Personnes de qualité, qu’on eut bien de la peine à
               trouver place pour les Joüeurs d’Instrumens, &amp; pour les Musiciens.</hi></p>
@@ -1071,8 +992,7 @@
           estoient en tres-grand nombre, à demander à Dieu pour Monseigneur le Duc de Bourgogne, une
           longue vie, la pieté de Saint Loüis, toutes les vertus de ses augustes Ayeux, &amp; le
           zele pour l'extirpation de l'Hérésie, qui fait le caractere particulier de LOÜIS LE GRAND.
-          En suite il entonna le <hi rend="i">Te Deum</hi> suivant les ordres de M<hi rend="sup"
-            >r</hi> l'Archevesque.</p>
+          En suite il entonna le <hi rend="i">Te Deum</hi> suivant les ordres de M<hi rend="sup">r</hi> l'Archevesque.</p>
         <p>Les Chanoines Réguliers de S. Augustin de l'Ordre de Saint Antoine, dont le Supérieur de
           Paris est Frere de M<hi rend="sup">r</hi> l'Abbé de Maulevrier Langeron, Aûmônier de
           Madame la Dauphine, firent la mesme cerémonie du <hi rend="i">Te Deum</hi> le Mardy 11. de
@@ -1082,8 +1002,7 @@
           voyoit les Etendards de France, de Dauphiné, de Baviere, &amp; de Bourgogne. Le Balcon de
           la Ruë Saint Antoine fut aussi éclairé ; &amp; tout le Quartier prenant part à cette
           Feste, toutes les Fenetres du voisinage furent remplies de Lumieres. Le lendemain 12. il y
-          eut une Messe solemnelle, qui fut celebrée par le Seigneur de S. Mandez, Oncle de M<hi
-            rend="sup">r</hi> le Président de l'Arche, âgé de quatre-vingt-dix ans, à qui la joye de
+          eut une Messe solemnelle, qui fut celebrée par le Seigneur de S. Mandez, Oncle de M<hi rend="sup">r</hi> le Président de l'Arche, âgé de quatre-vingt-dix ans, à qui la joye de
           la Naissance du Prince avoit donné de nouvelles forces. Ensuite on entendit la décharge de
           deux douzaines de Boëtes, &amp; l'on vit couler une Fontaine de Vin, qui fit boire tout le
           Peuple à la santé du Roy, &amp; de Monseigneur le Duc de Bourgogne, pendant que les
@@ -1121,9 +1040,7 @@
           de Sainte Genevieve du Mont, on fit des aumônes à tous les Pauvres qui se présenterent.
           Ils vinrent au nombre de plus de huit cens.</p>
         <p/>
-        <p>Tous les Religieux des Convents dont je viens de vous parler, ont chanté le <hi rend="i"
-            >Te Deum</hi>, chacun un Cierge à la main, &amp; y ont adjoûté l'<hi rend="i"
-            >Exaudiat</hi>. On a fait la mesme chose dans tous les autres Convents. Il me seroit
+        <p>Tous les Religieux des Convents dont je viens de vous parler, ont chanté le <hi rend="i">Te Deum</hi>, chacun un Cierge à la main, &amp; y ont adjoûté l'<hi rend="i">Exaudiat</hi>. On a fait la mesme chose dans tous les autres Convents. Il me seroit
           inutile de vous les nommer.</p>
       </div>
       <div type="article" xml:id="MG-1682-08_215">
@@ -1139,10 +1056,8 @@
           Particulier, y assiterent. Les Syndics Genéraux des Marchands Privilégiez de la Maison du
           Roy, firent celébrer une grande Messe avec beaucoup de solemnité le 25. de ce mois, jour
           de la Feste de S. Loüis. Ils choisirent pour cela l'Eglise des Filles Penitentes. Apres la
-          Messe, on chanta le <hi rend="i">Te Deum</hi>, dont la Musique estoit admirable. M<hi
-            rend="sup">r</hi> le Lieutenant General, M<hi rend="sup">r</hi> le Procureur du Roy,
-          &amp; plusieurs Officiers de la Prevosté de l'Hostel du Roy, s'y trouverent. Le <hi
-            rend="i">Te Deum</hi> fut suivy d'un Concert de Trompetes, de Timbales, de Violons, de
+          Messe, on chanta le <hi rend="i">Te Deum</hi>, dont la Musique estoit admirable. M<hi rend="sup">r</hi> le Lieutenant General, M<hi rend="sup">r</hi> le Procureur du Roy,
+          &amp; plusieurs Officiers de la Prevosté de l'Hostel du Roy, s'y trouverent. Le <hi rend="i">Te Deum</hi> fut suivy d'un Concert de Trompetes, de Timbales, de Violons, de
           Hautbois, &amp; de plusieurs autres Instrumens.</p>
       </div>
       <div type="article" xml:id="MG-1682-08_223">
@@ -1380,8 +1295,7 @@
           tout Paris le lendemain, choisirent le Mercredy 26. pour la grande Feste qu'ils avoient
           fait préparer. La Court estoit remplie d'Ornemens dans ses quatre faces. [...]</p>
         <p>La Court estant presque toute remplie de Spéctateurs, &amp; le jour commençant à
-          s'abaisser, les Trompetes &amp; les Timbales firent connoistre qu'on alloit chanter le <hi
-            rend="i">Te Deum</hi>, les Musiciens estoient sur un Théatre dressé au milieu de la Face
+          s'abaisser, les Trompetes &amp; les Timbales firent connoistre qu'on alloit chanter le <hi rend="i">Te Deum</hi>, les Musiciens estoient sur un Théatre dressé au milieu de la Face
           où est l'Eglise. Il estoit orné de Tapisseries, &amp; éclairé par plusieurs Lustres de
           Cristal que l'on avoit suspendus. Ce <hi rend="i">Te Deum</hi> fut chanté à divers Choeurs
           de Musique, &amp; meslé d'une Symphonie tres-agreable de Violons, de Hautbois, &amp; de
@@ -1454,9 +1368,7 @@
         <head resp="editor">Sur le livre Le Napolitain.</head>
         <bibl><title>Mercure galant</title>, août 1682 [tome 8], p. 337.</bibl>
         <p/>
-        <p>Adieu, Madame. Je vous envoye <hi rend="i">le Napolitain</hi>, que le S<hi rend="sup"
-            >r</hi> Blageart debite depuis quelques jours, &amp; suis vostre, &amp;c.</p>
+        <p>Adieu, Madame. Je vous envoye <hi rend="i">le Napolitain</hi>, que le S<hi rend="sup">r</hi> Blageart debite depuis quelques jours, &amp; suis vostre, &amp;c.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

@@ -1,66 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1681-01">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title>Mercure galant, janvier 1681 [tome 1]</title>
-   </titleStmt>
-   <editionStmt>
-    <edition>OBVIL/IReMuS</edition>
-    <respStmt>
-     <name>Nathalie Berton-Blivet</name>
-     <resp>Responsable éditorial</resp>
-    </respStmt>
-    <respStmt>
-     <name>Anne Piéjus</name>
-     <resp>Responsable éditorial</resp>
-    </respStmt>
-    <respStmt>
-     <name>Frédéric Glorieux</name>
-     <resp>Informatique éditoriale</resp>
-    </respStmt>
-    <respStmt>
-     <name>Vincent Jolivet</name>
-     <resp>Informatique éditoriale</resp>
-    </respStmt>
-   </editionStmt>
-   <publicationStmt>
-    <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-    <date when="2017"/>
-    <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1681-01</idno>
-    <availability status="restricted">
-     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-       Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie
-       littéraire » (ci-après dénommé OBVIL).</p>
-      <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les
-       bases de données (L341-1) est mise à disposition de la communauté scientifique internationale
-       par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas
-       d’Utilisation Commerciale - Pas de Modification 3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-      <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de
-       cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de
-       la ressource.</p>
-      <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-       utilisation commerciale est interdite.</p>
-      <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-       électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de
-       versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl><title>Mercure galant</title>, <date>janvier 1681</date> [tome 1].</bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <creation>
-    <date when="1681-01"/>
-   </creation>
-   <langUsage>
-    <language ident="fre"/>
-   </langUsage>
-  </profileDesc>
- </teiHeader>
- <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
   <body>
    <head><hi rend="i">Mercure Galant</hi>, janvier 1681 [tome 1]</head>
    <div type="article" xml:id="MG-1681-01_001">
@@ -116,8 +54,7 @@
    <div type="article" xml:id="MG-1681-01_025">
     <head>[Madrigaux sur le Procès qu’il a plû au Roy de perdre]</head>
     <bibl><title>Mercure galant</title>, janvier 1681 [tome 1], p. 25-28.</bibl>
-    <p>J’ay oublié de vous dire que quand il plût à Sa Majesté de perdre le sien, M<hi rend="sup"
-      >r</hi> de Lamoignon de Baville, Fils de feu M<hi rend="sup">r</hi> le Premier Président,
+    <p>J’ay oublié de vous dire que quand il plût à Sa Majesté de perdre le sien, M<hi rend="sup">r</hi> de Lamoignon de Baville, Fils de feu M<hi rend="sup">r</hi> le Premier Président,
      &amp; Frere de M<hi rend="sup">r</hi> l’Avocat General qui porte ce nom, fit le Raport de cette
      importante Affaire, avec une netteté qui charma le Roy, &amp; tout son Conseil. Cette glorieuse
      Perte a donné lieu à Mademoiselle de Scudéry, de faire le Madrigal que j’adjoûte icy.</p>
@@ -239,8 +176,7 @@
       pensée en France ; Que M<hi rend="sup">r</hi> le Chancelier de Lhôpital avoit proposé
       autrefois de fonder des Colleges dans Paris, pour y enseigner les Sciences en nostre Langue ;
       Que M<hi rend="sup">r</hi> le Cardinal du Perron poussé par le mesme zele, avoit formé le
-      mesme dessein ; mais que l’accomplissement de ce grand Projet estoit réservé à M<hi rend="sup"
-       >r</hi> le Tellier, aujourd’huy Chancelier de France ; que son jugement qui conduit toûjours
+      mesme dessein ; mais que l’accomplissement de ce grand Projet estoit réservé à M<hi rend="sup">r</hi> le Tellier, aujourd’huy Chancelier de France ; que son jugement qui conduit toûjours
       l’inclination qu’il a de faire du bien, luy avoit fait trouver ce noble secret, de joindre à
       la gloire du Roy le bonheur de ses Sujets, &amp; d’attirer à Sa Majesté les benédictions de
       tous ceux qui vivent, ou qui viendront apres nous, en reconnoissance du bien que cet
@@ -273,8 +209,7 @@
      <label>A Rome ce 4. Dec. 1680.</label>
      <p><hi rend="i">Je ne puis m’empêcher, Monsieur, de vous faire part d’une Vision que j’ay euë
        en songe, assez singuliere pour mériter de vous estre écrite. J’estois occupée à la lecture
-       d’un fort beau Livre imprimé depuis un mois, sous le Titre</hi> Della Spada d’Orione, <hi
-       rend="i">contenant les Vies des Hommes Illustres qui ont vécu dans les derniers Siecles ;
+       d’un fort beau Livre imprimé depuis un mois, sous le Titre</hi> Della Spada d’Orione, <hi rend="i">contenant les Vies des Hommes Illustres qui ont vécu dans les derniers Siecles ;
        &amp; m’estant arrestée à celle de Loüis le Juste, j’admirois le bonheur de ce Monarque,
        d’avoir donné à la Terre le plus Grand Prince qui ait jamais monté sur le Trône ; lors que le
        sommeil m’ayant insensiblement fermé les yeux, il m’a semblé estre transportée dans une
@@ -574,8 +509,7 @@
      geométriquement avec la regle &amp; le compas, la solution de la duplication du Cube, ce fameux
      Probléme proposé autrefois par l’Oracle d’Apollon aux Habitans de l’Isle de Délos pour estre
      délivrez de la Peste. Ce Livre est dédié à M<hi rend="sup">r</hi> Colbert, &amp; imprimé à
-     Paris en 1677. Il en a donné un autre au Public en l’année 1678. sous le titre de <hi rend="i"
-      >la nouvelle &amp; facile Instruction pour réunir l’Eglise Pretenduë Reformée à l’Eglise
+     Paris en 1677. Il en a donné un autre au Public en l’année 1678. sous le titre de <hi rend="i">la nouvelle &amp; facile Instruction pour réunir l’Eglise Pretenduë Reformée à l’Eglise
       Romaine</hi>, qui fait connoistre son zele pour ce qui regarde la Religion. Le Traité que je
      vous envoye estant d’un si habile Homme, ne peut vous donner qu’un fort grand plaisir.</p>
     <quote>
@@ -628,18 +562,15 @@
      <p>Les Cometes ne sont donc pas du nombre de ces Signes menaçans, envoyez pour effrayer les
       Habitans de la Terre. Le Prophete Jeremie détruit tout à coup les funestes présages que le
       Peuple attribuë aux Cometes. Il nous affranchit de la peur qui est le seul mal qu’elles soient
-      capables de causer aux Esprits trop crédules. <hi rend="i">Ne craignez point</hi>, dit-il, <hi
-       rend="i">les Signes du Ciel, que les Gentils apprehendent</hi>. C’est blasphémer, que
-      d’attribuer les Guerres à l’apparition des Cometes, puis que l’Ecriture nous aprend, <hi
-       rend="i">que le Cœur du Roy est en la main de Dieu, &amp; qu’il l’incline &amp; porte à tout
+      capables de causer aux Esprits trop crédules. <hi rend="i">Ne craignez point</hi>, dit-il, <hi rend="i">les Signes du Ciel, que les Gentils apprehendent</hi>. C’est blasphémer, que
+      d’attribuer les Guerres à l’apparition des Cometes, puis que l’Ecriture nous aprend, <hi rend="i">que le Cœur du Roy est en la main de Dieu, &amp; qu’il l’incline &amp; porte à tout
        ce qu’il veut.</hi></p>
      <p>Le Prophete Royal chante bien, <hi rend="i">que les Cieux nous racontent la Gloire de
        Dieu</hi> ; mais dans aucun lieu de l’Ecriture, il n’est fait mention ny de Comete, ny
       d’aucun Astre, qui soit le Signe de la Colere Celeste, &amp; le présage des malheurs qui
       arrivent sur la Terre. En effet, comment ces Globes de feu pourroient-ils estre des Signes de
       malheurs ? L’Empyrée, qui est le sejour des Bienheureux, est tout enflâmé. Les Seraphins, les
-      plus nobles de tous les Esprits, tirent leur nom d’un mot Hébreu, qui signifie <hi rend="i"
-       >brûler</hi>. Le Prophete Elie a esté enlevé au Ciel dans un Chariot de feu. Dieu a étably
+      plus nobles de tous les Esprits, tirent leur nom d’un mot Hébreu, qui signifie <hi rend="i">brûler</hi>. Le Prophete Elie a esté enlevé au Ciel dans un Chariot de feu. Dieu a étably
       son Trône dans le Soleil. Non seulement il habite une Lumiere inaccessible, mais il est la
       Lumiere du Monde ; &amp; dans une Colomne de feu il fut luy-mesme pendant la nuit, le
       Conducteur de son Peuple, à la sortie de la captivité d’Egypte.</p>
@@ -672,8 +603,7 @@
       pouvoit tirer des prédictions, quand il nous a dit, <hi rend="i">Si vous voulez deviner, dites
        justement le contraire de ce que les Astrologues promettent.</hi></p>
      <p>Pour démontrer par raison physique, que les Cometes ne luisent point pour nous annoncer la
-      mort des Grands, je veux me servir des termes de Guinisius, traduits en nostre Langue. <hi
-       rend="i">Parlons sans flater</hi>, dit-il ; <hi rend="i">les testes mesme des Empereurs, ne
+      mort des Grands, je veux me servir des termes de Guinisius, traduits en nostre Langue. <hi rend="i">Parlons sans flater</hi>, dit-il ; <hi rend="i">les testes mesme des Empereurs, ne
        sont pas de si grande consequence au Ciel, qu’il faille qu’elles soient frapées d’un Glaive
        celeste, que semblent former les queuës des Cometes. C’est un effet de la vanité des Hommes,
        que mesme dans le dernier des malheurs, ils aiment jusqu’à ce point le faste &amp; la pompe,
@@ -708,8 +638,7 @@
       jour natal par des Sacrifices &amp; des Jeux publics, de peur que la superstition du Peuple
       n’en tirast un mauvais augure.</p>
      <p>Les Cometes ont leur cours aussi bien reglé que les autres Planetes, bien que la science de
-      leurs mouvemens ne soit pas encor bien établie ; <hi rend="i">car</hi>, comme dit Seneque, <hi
-       rend="i">c’est une nouvelle observation des Corps Celestes qui est venuë depuis peu de temps
+      leurs mouvemens ne soit pas encor bien établie ; <hi rend="i">car</hi>, comme dit Seneque, <hi rend="i">c’est une nouvelle observation des Corps Celestes qui est venuë depuis peu de temps
        en Grece</hi>. Il adjoûte, <hi rend="i">qu’il viendroit un jour quelque Astronome qui
        montreroit en quels endroits les Cometes errent, pourquoy elles sont écartées des autres
        Planetes, &amp; de quelle grandeur elles sont.</hi></p>
@@ -721,8 +650,7 @@
      <p>Mais l’Astrologie est un vil amusement, une vaine observation indigne d’un Homme de bon
       sens, &amp; punissable dans la personne des Chrestiens, qui en voulant sonder les secrets de
       l’avenir, entreprennent, selon Tertullien, de voler la Divinité.</p>
-     <p>Il suffit, pour détruire les présages des Astrologues, d’en raporter icy quelques-uns. <hi
-       rend="i">Les Cometes</hi>, disent-ils, <hi rend="i">estant dans le Signe du Belier, malheur à
+     <p>Il suffit, pour détruire les présages des Astrologues, d’en raporter icy quelques-uns. <hi rend="i">Les Cometes</hi>, disent-ils, <hi rend="i">estant dans le Signe du Belier, malheur à
        l’Orient</hi>, mais chaque Païs est oriental à l’égal d’un autre. <hi rend="i">Si elles se
        font voir au Signe du Taureau, malheur à l’Occident &amp; au Septentrion, &amp;c. Si elles
        vont contre l’ordre des Signes, elles présagent l’établissement de nouvelles Loix. Si elles
@@ -781,8 +709,7 @@
       de la Comete qui parut à Rome pendant qu’Auguste faisoit des Jeux en l’honneur de Vénus, il
       dit que cette Etoile cheveluë fut à la Terre un Astre bienfaisant.</p>
      <p>Junetin rapporte que sous César-Auguste le Ciel alluma une grande Comete, dans laquelle la
-      Sybille Tiburtine montrant un Enfant entre les bras d’une Vierge, dit à l’Empereur, <hi
-       rend="i">Adore cet Enfant, parce qu’il est plus grand que toy.</hi></p>
+      Sybille Tiburtine montrant un Enfant entre les bras d’une Vierge, dit à l’Empereur, <hi rend="i">Adore cet Enfant, parce qu’il est plus grand que toy.</hi></p>
      <p>Anchise faisant des vœux pour ceux qui restoient des Ruines de Troye, vit une Comete à
       laquelle il rendit des honneurs pareils à ceux qu’il devoit à ses Dieux, &amp; se promit de
       cette Etoile cheveluë la felicité &amp; la grandeur de sa Race dans le Païs Latin.</p>
@@ -1185,20 +1112,17 @@
      profonde érudition. Il a composé le Penitentiel de Theodore. C’est un Livre qui a eu
      l’aprobation de tous les Sçavans, &amp; qui représente en tres-peu de mots &amp; dans un bel
      ordre, ce que l’Eglise Orientale &amp; Occidentale a de plus particulier. Plusieurs Pieces
-     curieuses y sont ajoûtées pour l’expliquer, &amp; c’est ce qu’on doit aux soins de M<hi
-      rend="sup">r</hi> l’Abbé Petit. Il a une connoissance parfaite des Langues Greque, Latine,
+     curieuses y sont ajoûtées pour l’expliquer, &amp; c’est ce qu’on doit aux soins de M<hi rend="sup">r</hi> l’Abbé Petit. Il a une connoissance parfaite des Langues Greque, Latine,
      &amp; Françoise, &amp; sur tout des Droits de l’Eglise, &amp; de ceux du Roy, qu’il soûtient
      d’une maniere admirable, par les Memoires qu’il fournit actuellement à M<hi rend="sup">r</hi>
      le Cardinal d’Estrées pour la Régale.</p>
     <p>L’estime que cette mesme Académie s’est acquise par les soins continuels qu’elle prend de
      n’oublier rien, pour répondre aux desseins que Sa Majesté a eus en l’établissant, ayant fait
-     souhaiter à M<hi rend="sup">r</hi> le Président de Montmiral de Lubieres, &amp; à M<hi
-      rend="sup">r</hi> de Faure-Fondamente, d’y estre reçeus en qualité d’externes, on en écrivit à
+     souhaiter à M<hi rend="sup">r</hi> le Président de Montmiral de Lubieres, &amp; à M<hi rend="sup">r</hi> de Faure-Fondamente, d’y estre reçeus en qualité d’externes, on en écrivit à
       M<hi rend="sup">r</hi> le Duc de Saint Aignan, &amp; à M<hi rend="sup">r</hi> le Marquis de
      Robias d’Estoublon, Secretaire perpétuel de la Compagnie, qui estoit alors en Cour. Leur
      Reception ayant esté résoluë dans les formes ordinaires, ces Messieurs furent conduits dans la
-     Salle où se tenoit l’Assemblée, &amp; apres la lecture des Statuts qui fut faite par M<hi
-      rend="sup">r</hi> Giffon, Secretaire Substitut en l’absence de M<hi rend="sup">r</hi> le
+     Salle où se tenoit l’Assemblée, &amp; apres la lecture des Statuts qui fut faite par M<hi rend="sup">r</hi> Giffon, Secretaire Substitut en l’absence de M<hi rend="sup">r</hi> le
      Marquis de Robias, &amp; le Serment presté par l’un &amp; par l’autre de les observer de point
      en point, M<hi rend="sup">r</hi> de Beaumont qui se trouva Directeur, fit l’ouverture de
      l’Académie par un Discours si plein d’érudition &amp; d’éloquence, qu’il charma tous ceux qui
@@ -1208,11 +1132,9 @@
      Président de Lubieres. Les pensées nobles &amp; les vives expressions dont il estoit soûtenu,
      remplirent avec beaucoup d’avantage tout ce qu’on avoit attendu de luy. C’estoit un Remercîment
      à la Compagnie, de l’honneur qu’il recevoit d’y estre admis. M<hi rend="sup">r</hi> de
-     Faure-Fondamente parla apres luy. C’est ce sublime &amp; sçavant Génie, à qui M<hi rend="sup"
-      >r</hi> Pelisson adresse son Histoire de l’Académie Françoise. Il fit connoistre par tout ce
+     Faure-Fondamente parla apres luy. C’est ce sublime &amp; sçavant Génie, à qui M<hi rend="sup">r</hi> Pelisson adresse son Histoire de l’Académie Françoise. Il fit connoistre par tout ce
      qu’il dit, que peu de Personnes possedent aussi parfaitement que luy toutes les délicatesses de
-     nostre Langue. Avant qu’on se séparast, comme c’estoit au commencement de l’année, M<hi
-      rend="sup">r</hi> de Giffon proposa à la Compagnie de proceder, selon l’usage ordinaire, à
+     nostre Langue. Avant qu’on se séparast, comme c’estoit au commencement de l’année, M<hi rend="sup">r</hi> de Giffon proposa à la Compagnie de proceder, selon l’usage ordinaire, à
      l’élection d’un nouveau Directeur. Le Sort tomba sur M<hi rend="sup">r</hi> d’Urbaye-Vachieres,
      qui ne songea plus qu’à bien remplir son Employ. Il en commença les fonctions le Jeudy 9. de ce
      Mois, dans l’Assemblée la plus nombreuse qu’on eust veuë depuis longtemps. Ce fut un concours
@@ -1302,8 +1224,7 @@
      Fils de M<hi rend="sup">r</hi> le Marquis de Robias, que je vous ay déja dit estre Secretaire
      perpétuel de l’Académie d’Arles, &amp; qui est Frere de M<hi rend="sup">r</hi> d’Estoublon, de
      l’illustre Maison de Grilles. Il y a dans cette Maison beaucoup d’esprit, de valeur, &amp; de
-     naissance. Ce jeune Page qui n’avoit point encor fait de Vers, résolut de remercier M<hi
-      rend="sup">r</hi> le Duc de S. Aignan par un Madrigal, de la grace qu’il luy avoit faite, en
+     naissance. Ce jeune Page qui n’avoit point encor fait de Vers, résolut de remercier M<hi rend="sup">r</hi> le Duc de S. Aignan par un Madrigal, de la grace qu’il luy avoit faite, en
      le choisissant pour avoir l’honneur de servir le Roy dans un Employ d’autant plus glorieux pour
      ceux qui l’exercent, qu’il donne lieu d’approcher de la Personne de ce Grand Prince. Voicy quel
      fut son Remercîment.</p>
@@ -1395,8 +1316,7 @@
    <div type="article" xml:id="MG-1681-01_246a">
     <head resp="editor">Mort de M. Langeais</head>
     <bibl><title>Mercure galant</title>, janvier 1681 [tome 1], p. 246.</bibl>
-    <p>A propos de Musique, elle a fait une grande perte en la personne de M<hi rend="sup"
-     >r</hi> Langeais, tres-estimé de tous ceux qui prennent plaisir à ce divertissement. Il estoit
+    <p>A propos de Musique, elle a fait une grande perte en la personne de M<hi rend="sup">r</hi> Langeais, tres-estimé de tous ceux qui prennent plaisir à ce divertissement. Il estoit
      de celle du Roy, &amp; mourut quelques jours avant la premiere représentation du Balet.</p>
    </div>
    <div type="article" xml:id="MG-1681-01_246b">
@@ -1408,9 +1328,7 @@
      dont chaque Mois il donnera un Couplet. Voicy le premier noté.</p>
     <quote>
      <lg>
-      <l><hi rend="i">Percé jusques au fond du cœur,</hi><note resp="author" place="margin"><hi
-         rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence [par] <hi rend="i"
-         >Percé jusques au fond du cœur</hi>, doit regarder la page 244.</note></l>
+      <l><hi rend="i">Percé jusques au fond du cœur,</hi><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : la Chanson qui commence [par] <hi rend="i">Percé jusques au fond du cœur</hi>, doit regarder la page 244.</note></l>
       <l><hi rend="i">D’une atteinte impréveuë aussibien que mortelle,</hi></l>
       <l><hi rend="i">Misérable Vangeur d’une juste querelle,</hi></l>
       <l><hi rend="i">Et malheureux Objet d’une injuste rigueur,</hi></l>
@@ -1477,8 +1395,7 @@
      Sujet ; &amp; dans la seconde, je vous ay marqué les noms des Personnes de qualité qui en
      devoient estre. Elles y ont dancé toutes, à la reserve de trois ou quatre qui ont eu permission
      de s’en retirer pour quelques raisons de bienséance. Je ne vous repéteray point leurs noms. Le
-     Livre du Balet est public, on peut les y voir. Je vous diray seulement que la Musique de M<hi
-      rend="sup">r</hi> de Lully a esté trouvée tres-belle, aussi-bien que les Habits. La galanterie
+     Livre du Balet est public, on peut les y voir. Je vous diray seulement que la Musique de M<hi rend="sup">r</hi> de Lully a esté trouvée tres-belle, aussi-bien que les Habits. La galanterie
      y a paru à l’envy avec la magnificence, le tout varié d’une maniere si agreable, qu’on est
      demeuré d’accord que le génie de M<hi rend="sup">r</hi> Berrin ne peut s’épuiser, quand il
      s’est meslé de quelque chose. Je croy vous avoir déja mandé que le Sujet du Balet, &amp; les
@@ -1547,15 +1464,12 @@
      parure, sans pourtant estre masquées, reçoivent les Masques chez Madame la Dauphine.
      Monseigneur le Dauphin y alla dernierement vétu en Sauvage. Son Habit estoit tres-bien entendu,
      &amp; l’on fut longtemps sans reconnoistre ce Prince. Il estoit accompagné de Monsieur le
-     Prince de la Roche-sur-Yon, de M<hi rend="sup">r</hi> le Comte de Brionne, de M<hi rend="sup"
-      >r</hi> le Marquis d’Alincour, de M<hi rend="sup">r</hi> le Marquis de Moüy, de M<hi
-      rend="sup">r</hi> le Comte de Fiesque, &amp; de M<hi rend="sup">r</hi> de Mimeures. Il y eut
+     Prince de la Roche-sur-Yon, de M<hi rend="sup">r</hi> le Comte de Brionne, de M<hi rend="sup">r</hi> le Marquis d’Alincour, de M<hi rend="sup">r</hi> le Marquis de Moüy, de M<hi rend="sup">r</hi> le Comte de Fiesque, &amp; de M<hi rend="sup">r</hi> de Mimeures. Il y eut
      plusieurs autres Mascarades le mesme jour tres-magnifiques, &amp; entr’autres celle de Monsieur
      le Comte de Vermandois, dont estoient M<hi rend="sup">r</hi> &amp; Madame de Mortemar, Madame
      la Marquise de Seignelay, &amp; plusieurs autres. Les Bals regnent aussi à Paris où il y a
      beaucoup d’Assemblées tous les soirs. La Comédie y en attire toûjours de fort grandes malgré la
-     rigueur de la Saison, &amp; <hi rend="i">Arlequin Mercure Galant</hi>, autrement, <hi rend="i"
-      >Dieu Mercure</hi>, fait fort admirer cet incomparable Acteur.</p>
+     rigueur de la Saison, &amp; <hi rend="i">Arlequin Mercure Galant</hi>, autrement, <hi rend="i">Dieu Mercure</hi>, fait fort admirer cet incomparable Acteur.</p>
    </div>
    <div type="article" xml:id="MG-1681-01_297">
     <head>[Zaïde, Princesse de Grenade]</head>
@@ -1588,8 +1502,7 @@
       <l><hi rend="i">Sinon un bel Habit, du moins</hi> la Petite-Oye.</l>
      </lg>
     </quote>
-    <p>Ce mesme Mot a esté trouvé par Mademoiselle Lonmeau, du Mans ; &amp; par M<hi rend="sup"
-      >rs</hi> Samson, d’Abbeville ; F. Ha… du Mesnil, de Chambrais en Normandie ; De Languedoc,
+    <p>Ce mesme Mot a esté trouvé par Mademoiselle Lonmeau, du Mans ; &amp; par M<hi rend="sup">rs</hi> Samson, d’Abbeville ; F. Ha… du Mesnil, de Chambrais en Normandie ; De Languedoc,
      Procureur au Parlement de Bretagne ; L’Hermite de Sacé, pres de Pontorçon ; &amp; le Solitaire
      de la Ruë des Arcis ; les cinq derniers en Vers.</p>
     <p>On a aussi expliqué cette mesme Enigme sur <hi rend="i">la Mode, la Veste, les Lettres
@@ -1613,8 +1526,7 @@
      Estienne en Forest ; &amp; Mesdames de la Tuste, &amp; de la Guette. Quelques-uns ont crû que
      c’estoient <hi rend="i">les Dents, les Cartes, les Plumes, les Passions, &amp; les
       Marionnetes.</hi></p>
-    <p>Plusieurs ont expliqué l’une &amp; l’autre dans leur vray sens, &amp; ce sont M<hi rend="sup"
-      >rs</hi> le Roux, Peintre dans la Ruë Royale ; Le Bon Clerc de Châlons sur Saône ;
+    <p>Plusieurs ont expliqué l’une &amp; l’autre dans leur vray sens, &amp; ce sont M<hi rend="sup">rs</hi> le Roux, Peintre dans la Ruë Royale ; Le Bon Clerc de Châlons sur Saône ;
      L’Inconstant de Profession ; Le Perroquet des Muses ; La belle Drion, de Provins ; L’aimable
      Euterpe ; L’Amante sans amour ; La Spirituelle Calliope ; La belle Recluse, &amp; Plautine la
      Cadete. En Vers, M<hi rend="sup">rs</hi> le Chevalier Blondel ; L’Abbé de le Ruë Montmartre ;
@@ -1625,8 +1537,7 @@
    <div type="article" xml:id="MG-1681-01_306">
     <head>[Enigme]</head>
     <bibl><title>Mercure galant</title>, janvier 1681 [tome 1], p. 306-307.</bibl>
-    <p>Voicy deux nouvelles Enigmes en Vers que je vous propose. La premiere est de M<hi rend="sup"
-      >r</hi> de la Mare-Chennevarin de Roüen.</p>
+    <p>Voicy deux nouvelles Enigmes en Vers que je vous propose. La premiere est de M<hi rend="sup">r</hi> de la Mare-Chennevarin de Roüen.</p>
     <quote>
      <label>ENIGME.</label>
      <lg>
@@ -1690,8 +1601,7 @@
     <head>[Petite Comédie de la Comete]</head>
     <bibl><title>Mercure galant</title>, janvier 1681 [tome 1], p. 328.</bibl>
     <p>Ceux qui voudront se guérir de la peur de la Comete, peuvent aller voir la petite Comédie que
-     la Troupe Royale des Comédiens François a commencé de représenter, sous le mesme titre de <hi
-      rend="i">la Comete</hi>, avec beaucoup de succés. Elle fait connoistre qu’on n’a aucun lieu de
+     la Troupe Royale des Comédiens François a commencé de représenter, sous le mesme titre de <hi rend="i">la Comete</hi>, avec beaucoup de succés. Elle fait connoistre qu’on n’a aucun lieu de
      s’en effrayer, &amp; marque d’une maniere tres-enjoüée, l’opinion du fameux Descartes sur cette
      matiere.</p>
    </div>
@@ -1748,8 +1658,7 @@
     <bibl><title>Mercure galant</title>, janvier 1681 [tome 1], p. 340-341.</bibl>
     <p>Le Livre de M<hi rend="sup">r</hi> de Blegny, intitulé, <hi rend="i">La Découverte de
       l’admirable Remede Anglois,</hi> a donné lieu à M<hi rend="sup">r</hi> Spon, fameux par
-     quantité de sçavans Ouvrages, d’en faire imprimer un autre qui a pour Titre, <hi rend="i"
-      >Observations sur les Fievres &amp; les Fébrifuges</hi>. Ces Observations sont aussi utiles
+     quantité de sçavans Ouvrages, d’en faire imprimer un autre qui a pour Titre, <hi rend="i">Observations sur les Fievres &amp; les Fébrifuges</hi>. Ces Observations sont aussi utiles
      que curieuses, &amp; se vendent chez le Sieur Blageart, Court-neuve du Palais, au Dauphin.</p>
    </div>
    <div type="article" xml:id="MG-1681-01_341">
@@ -1771,5 +1680,4 @@
     <p><hi rend="i">A Paris ce 31. Janvier 1681.</hi></p>
    </div>
   </body>
- </text>
-</TEI>
+ </text></TEI>

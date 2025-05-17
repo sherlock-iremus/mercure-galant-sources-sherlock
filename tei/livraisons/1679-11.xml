@@ -1,64 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, novembre 1679 [tome 12]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2015"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1679-11/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, novembre <date>1679</date> [tome 12].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1679-11"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1679-11_np" resp="mercure">
         <head>Le libraire au lecteur</head>
@@ -76,8 +16,7 @@
       <div type="article" xml:id="MG-1679-11_014" resp="mercure">
         <head>[Voyage de M. de Guilleragues Ambassadeur pour le Roy à Constantinople]</head>
         <bibl><title>Mercure galant</title>, novembre 1679 [tome 12], p. 14-40.</bibl>
-        <p>Je passe à un autre Article d’Ambassadeur. Je vous ay déja mandé que M<hi rend="sup"
-            >r</hi> de Guilleragues estoit party pour Constantinople. Un Gentilhomme qui
+        <p>Je passe à un autre Article d’Ambassadeur. Je vous ay déja mandé que M<hi rend="sup">r</hi> de Guilleragues estoit party pour Constantinople. Un Gentilhomme qui
           l’accompagne, a donné icy des nouvelles d’une partie de son Voyage. On m’a fait part de sa
           Lettre, &amp; j’en ay tiré la Relation que je vay vous faire.</p>
         <p>Le Lundy 11. de Septembre, cet Ambassadeur s’embarqua à la Rade de Toulon, avec Madame
@@ -86,8 +25,7 @@
           estoit Amiral de la petite Flote qui se mit à la voile le lendemain, composée d’un
           Vaisseau de guerre, de trois Vaisseaux Marchands, d’une Fluste, d’une Tartane, d’une
           Polacre, &amp; de deux Barques. C’êtoient neuf Voiles en tout. M<hi rend="sup">r</hi> le
-          Commandeur d’Ervieux, que sa Majesté envoye Consul à Alep, s’embarqua aussi avec M<hi
-            rend="sup">r</hi> de Guilleragues. Le Vendredy 15. sur les quatre heures du soir, ils
+          Commandeur d’Ervieux, que sa Majesté envoye Consul à Alep, s’embarqua aussi avec M<hi rend="sup">r</hi> de Guilleragues. Le Vendredy 15. sur les quatre heures du soir, ils
           découvrirent la Coste de Sardagne à leur gauche, &amp; le lendemain à deux heures du
           matin, l’Isle de S. Pierre qui en dépend. Sur les six heures ils passerent à une lieuë
           pres d’un Ecueil nommé <hi rend="i">la Vache</hi>, derriere lequel il y en a un autre
@@ -123,8 +61,7 @@
           mal située, mais elle est peu forte. Le Lundy 25. ils perdirent cette Isle de veuë, &amp;
           enfin ils apperçeurent celle de Gory le Mercredy 27. sur les deux heures du matin. On la
           nomme le Jardin des Corsaires. Elle n’est qu’à trente milles de Malte, où l’on arriva sur
-          les deux heures apres midy à l’un des Ports, car il y en a sept également beaux. M<hi
-            rend="sup">r</hi> de la Porte fit tirer force coups de Canon en y abordant, &amp; on luy
+          les deux heures apres midy à l’un des Ports, car il y en a sept également beaux. M<hi rend="sup">r</hi> de la Porte fit tirer force coups de Canon en y abordant, &amp; on luy
           répondit de la Ville. Monsieur, Madame, &amp; Mademoiselle de Guilleragues, furent logez
           au Palais d’un Neveu de M<hi rend="sup">r</hi> le Grand-Maistre, qu’on traite là
           d’Eminence, &amp; qui les fit régaler à ses dépens. Il y eut douze Couverts à la premiere
@@ -135,8 +72,7 @@
           dix-septiéme année de sa Grand’Maîtrise, en laquelle il succeda en 1662. à son Frere
           Raphaël, qui ne fut Grand-Maistre que trois ans. Le lendemain au matin sur les neuf
           heures, M<hi rend="sup">r</hi> de Guilleragues accompagné du Neveu de cette Eminence,
-          &amp; suivy d’un fort beau Cortege, se rendit en son Palais, &amp; salüa M<hi rend="sup"
-            >r</hi> le Grand-Maistre dans son Lit. Quoy qu’il y allast à pied, il ne laissoit pas
+          &amp; suivy d’un fort beau Cortege, se rendit en son Palais, &amp; salüa M<hi rend="sup">r</hi> le Grand-Maistre dans son Lit. Quoy qu’il y allast à pied, il ne laissoit pas
           d’avoir cinq de ses Carrosses derriere luy, sçavoir, celuy du Corps attelé de six Chevaux,
           un autre attelé de quatre Mules, &amp; les trois autres de deux chacun. L’entreveuë fut de
           demy-heure, apres laquelle il luy présenta tous les Gentilhommes de sa suite.
@@ -180,8 +116,7 @@
           Chevaliers, leur combat n’auroit peut-estre finy que par la mort de l’un &amp; de l’autre.
           Ils arriverent bien à propos, car il n’est permis à aucun autre de separer des
           Grands-Croix, ny des Chevaliers qui se batent.</p>
-        <p>Le mesme jour que M<hi rend="sup">r</hi> l’Ambassadeur alla visiter M<hi rend="sup"
-            >r</hi> le Grand-Maistre, M<hi rend="sup">r</hi> le Commandeur d’Ervieux luy fit
+        <p>Le mesme jour que M<hi rend="sup">r</hi> l’Ambassadeur alla visiter M<hi rend="sup">r</hi> le Grand-Maistre, M<hi rend="sup">r</hi> le Commandeur d’Ervieux luy fit
           demander Audiance par son Grand Ecuyer qui est Grand-Croix, &amp; l’obtint sur l’heure. Il
           en fut reçeu avec tous les honneurs qu’il méritoit. M<hi rend="sup">r</hi> le
           Grand-Maistre l’entretint toûjours debout, malgré sa goute, &amp; l’embrassa en sortant,
@@ -198,8 +133,7 @@
           d’où ils avoient fuy plusieurs fois, &amp; leur procura la Paix par l’amitié que les
           Arabes &amp; leur Prince Turabey avoient pour luy. Apres avoir employé quinze ans à tous
           ses voyages, il revint en France, d’où il fut envoyé à Tunis par ordre du Roy. Il y
-          rétablit le Consul &amp; le Commerce, fit executer le Traité de Paix que feu M<hi
-            rend="sup">r</hi> le Duc de Beaufort y avoit fait, délivra 318. Esclaves François,
+          rétablit le Consul &amp; le Commerce, fit executer le Traité de Paix que feu M<hi rend="sup">r</hi> le Duc de Beaufort y avoit fait, délivra 318. Esclaves François,
           reçeut de grands carresses du Roy, &amp; de tous les Princes du Païs, &amp; retourna à
           Marseille avec un aplaudissement genéral. Ce fut alors qu’il s’attacha à la Cour. Il
           servit le Roy sous M<hi rend="sup">r</hi> de Lionne dans les Négotiations Etrangeres ;
@@ -224,8 +158,7 @@
         <bibl><title>Mercure galant</title>, novembre 1679 [tome 12], p. 40-43.</bibl>
         <p>La Saison qui commence à rendre la Campagne desagreable, en fait revenir la plûpart des Belles. Les Amans en font éclater leur joye. Vous le pouvez connoistre par ce Rondeau mis en Air, dont je vous envoye les Notes gravées.</p>
         <quote>
-          <label type="head">AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i"
-              >Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Je suis prest
+          <label type="head">AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Je suis prest
               de revoir les beaux yeux de Silvie</hi>, doit regarder la page 41.</note>
           <lg>
             <l rend="i">Je suis prest de revoir les beaux yeux de Sylvie,</l>
@@ -516,12 +449,10 @@
         <bibl><title>Mercure galant</title>, novembre 1679 [tome 12], p. 73-75.</bibl>
         <p>Je ne puis vous parler de Mariage sans me souvenir de celuy pour lequel vous m’avez mandé
           ces derniers jours, qu’un de vos Amis avoit besoin de quelque Expédition en Cour de Rome.
-          S’il veut estre parfaitement éclairé sur cette matiere, il n’a qu’à lire le Livre que M<hi
-            rend="sup">r</hi> Pelletier Avocat en Parlement, &amp; pourvû d’un des Offices de
+          S’il veut estre parfaitement éclairé sur cette matiere, il n’a qu’à lire le Livre que M<hi rend="sup">r</hi> Pelletier Avocat en Parlement, &amp; pourvû d’un des Offices de
           Banquier Expéditionnaire, vient de donner au Public. Il y trouvera plusieurs modeles
           d’Actes, avec le prix que chaque Expédition doit couster, suivant le Tarif arresté du
-          Conseil du Roy. Ce qu’il y a de fort commode quand on les passe chez M<hi rend="sup"
-            >r</hi> Pelletier, c’est qu’il envoye à Rome tous les Lundys &amp; tous les Mardys au
+          Conseil du Roy. Ce qu’il y a de fort commode quand on les passe chez M<hi rend="sup">r</hi> Pelletier, c’est qu’il envoye à Rome tous les Lundys &amp; tous les Mardys au
           matin, &amp; que ses envoys y arrivent aussitost que ceux du Vendredy précedent. Rien ne
           peut estre plus avantageux pour les affaires pressées. Son Livre se vend chez le Sieur
           Blageart dans la Court neuve du Palais, &amp; a pour titre, <hi rend="i">Instruction
@@ -572,8 +503,7 @@
           Cavalier remonterent à cheval pour courir la Bague. Celuy qui donnoit la Feste, emporta la
           Course pour les Dames ; &amp; un autre reçeut de la Belle à qui les honneurs estoient
           deférez dans cette Partie, une faveur de Rubans couleur de Cerise &amp; blancs. C’estoit
-          le prix destiné au Victorieux. A ce divertissement succeda la représentation de <hi
-            rend="i">l’Inconnu</hi>, avec tout ce qu’on y peut mesler d’agrémens en Province. De
+          le prix destiné au Victorieux. A ce divertissement succeda la représentation de <hi rend="i">l’Inconnu</hi>, avec tout ce qu’on y peut mesler d’agrémens en Province. De
           jeunes Gentilshommes en danserent les Entrées, &amp; on n’oublia rien de ce qui pouvoit
           donner de l’éclat à cette galante Piece. On servit en suite un Soupé aussi magnifique
           qu’avoit esté le Dîné. Les Violons, les Flustes, &amp; les Hautbois, s’y firent entendre,
@@ -758,8 +688,7 @@
       <div type="article" xml:id="MG-1679-11_159" resp="mercure">
         <head>Epitaphe pour la Belle Mademoiselle ***</head>
         <bibl><title>Mercure galant</title>, novembre 1679 [tome 12], p. 159-160.</bibl>
-        <p>Voicy ce qui a esté fait depuis peu de jours pour mettre sur celle<note resp="editor"
-              >La sépulture.</note> d’une fort aimable Personne.</p>
+        <p>Voicy ce qui a esté fait depuis peu de jours pour mettre sur celle<note resp="editor">La sépulture.</note> d’une fort aimable Personne.</p>
         <quote>
           <label type="head">Epitaphe <lb/>pour la Belle <lb/>Mademoiselle ***</label>
           <l><space rend="tab"> </space><space rend="tab"> </space>Ny la vertu, ny les appas,</l>
@@ -952,8 +881,7 @@
           parfaitement l’Histoire, les Intérests des Princes, la Géographie, &amp; le Blason, danse
           avec un air charmant, touche le Clavessin de mesme, &amp; possede assez la Musique pour
           chanter à Livre ouvert. On ne devoit pas moins attendre des Hommes choisis qui ont
-          travaillé à son éducation. M<hi rend="sup">r</hi> des Airs pour la Danse, feu M<hi
-            rend="sup">r</hi> Hardel &amp; M<hi rend="sup">r</hi> d’Anguelberg pour le Clavessin,
+          travaillé à son éducation. M<hi rend="sup">r</hi> des Airs pour la Danse, feu M<hi rend="sup">r</hi> Hardel &amp; M<hi rend="sup">r</hi> d’Anguelberg pour le Clavessin,
           &amp; M<hi rend="sup">r</hi> Clement pour la Musique, sont ceux qui ont esté employez à
           luy montrer ces beaux Arts. M<hi rend="sup">r</hi> l’Abbé Testu a pris soin du reste,
           &amp; a trouvé de si belles dispositions dans son esprit, qu’on peut dire qu’il n’a eu
@@ -1169,8 +1097,7 @@
           Chauton s’y fit remarquer, &amp; Madame de Carcen mesla tant d’esprit à l’enjoüement
           qu’elle a naturel, qu’il n’y eut personne qui ne luy applaudit sur son mérite. Cependant
           l’honnesteté qu’eut la Reyne pour toutes les Dames qui demanderent permission de la voir,
-          ayant donné lieu à toute la Ville de s’étendre sur ses grandes qualitez, M<hi rend="sup"
-            >r</hi> du Camp Dorgas fit ces Vers qui luy furent leûs par Madame la Prince
+          ayant donné lieu à toute la Ville de s’étendre sur ses grandes qualitez, M<hi rend="sup">r</hi> du Camp Dorgas fit ces Vers qui luy furent leûs par Madame la Prince
           d’Harcourt.</p>
         <quote>
           <l>Auguste &amp; charmante Princesse,</l>
@@ -1212,8 +1139,7 @@
             Religion &amp; la Pieté régnoient avec grand éclat ; &amp; que quelque fine que fust la
             politique des Espagnols, sa prudence leur donneroit des lumieres qui leur avoient
             toûjours esté inconnuës.</hi> La Messe finie, elle remonta à cheval, &amp; estant sortie
-          de la Ville une heure apres au bruit du Canon, elle prit la route de Dacqx. M<hi
-            rend="sup">r</hi> le Marquis de Poyane, Gouverneur de cette derniere Ville, alla au
+          de la Ville une heure apres au bruit du Canon, elle prit la route de Dacqx. M<hi rend="sup">r</hi> le Marquis de Poyane, Gouverneur de cette derniere Ville, alla au
           devant d’elle jusqu’à un petit Village appelé Pontome, deux lieuës en deça de Dacqx. Il
           estoit à la teste d’une tres-leste Noblesse, &amp; suivy d’un équipage de Chasse qu’il
           avoit amené pour la Reyne, comme elle luy avoit témoigné le souhaiter lors qu’il eut
@@ -1297,17 +1223,13 @@
           Roy, &amp; eurent beaucoup de peine à se laisser détromper. Apres deux jours passez à
           Bayonne, la Reyne alla à S. Jean de Luz, &amp; y arriva le Dimanche 29. Elle y fit faire
           un Inventaire de ses Pierreries, que l’on fait monter à six cens mille Ecus. Quelques-uns
-          ont dit qu’il devoit estre signé par M<hi rend="sup">r</hi> de los Balbasés, par M<hi
-            rend="sup">r</hi> le Duc d’Ossonne son Grand Ecuyer, &amp; par M<hi rend="sup">r</hi> le
+          ont dit qu’il devoit estre signé par M<hi rend="sup">r</hi> de los Balbasés, par M<hi rend="sup">r</hi> le Duc d’Ossonne son Grand Ecuyer, &amp; par M<hi rend="sup">r</hi> le
           Marquis d’Astorga Grand-Maistre de sa Maison mais vous pouvez ne pas croire ce que je ne
           sçay point avec certitude. Ce qui est tres-assuré, c’est qu’on fit un plus long sejour à
-          S. Jean de Luz, qu’on n’avoit dessein de faire à cause des diférens qu’il y eut entre M<hi
-            rend="sup">r</hi> le Prince d’Harcourt, &amp; M<hi rend="sup">r</hi> de los Balbasés,
+          S. Jean de Luz, qu’on n’avoit dessein de faire à cause des diférens qu’il y eut entre M<hi rend="sup">r</hi> le Prince d’Harcourt, &amp; M<hi rend="sup">r</hi> de los Balbasés,
           qui vouloient tous deux avoir la droite dans la cerémonie de la Délivrance de la Reyne.
-          Pour accommoder ce diférent, il fus arresté que la Reyne seroit dans un Fauteüil, M<hi
-            rend="sup">r</hi> l’Ambassadeur à sa droite, &amp; M<hi rend="sup">r</hi> le Prince
-          d’Harcourt derriere elle ; &amp; que lors que les Espagnols entreroient, M<hi rend="sup"
-            >r</hi> de los Balbasés cederoit la droite à M<hi rend="sup">r</hi> le Prince
+          Pour accommoder ce diférent, il fus arresté que la Reyne seroit dans un Fauteüil, M<hi rend="sup">r</hi> l’Ambassadeur à sa droite, &amp; M<hi rend="sup">r</hi> le Prince
+          d’Harcourt derriere elle ; &amp; que lors que les Espagnols entreroient, M<hi rend="sup">r</hi> de los Balbasés cederoit la droite à M<hi rend="sup">r</hi> le Prince
           d’Harcourt, qui délivreroit la Reyne. Elle passa cinq jours à S. Jean de Luz, &amp; y fut
           traitée avec une si grande magnificence dans le dernier Repas que les Officiers du Roy luy
           firent servir, que ce qu’on dit qu’il coûta est presque incroyable. La profusion y fut
@@ -1347,8 +1269,7 @@
         <bibl><title>Mercure galant</title>, novembre 1679 [tome 12], p. 283-285.</bibl>
         <p>Les Ouvrages de M<hi rend="sup">r</hi> Spon Medecin à Lyon, ont fait tant de bruit, qu’il
           est difficile que son nom ne soit pas connu dans vostre Province. Son <hi rend="i">Voyage
-            de Grece &amp; de Dalmatie</hi>, a esté fort estimé, aussi bien que ses <hi rend="i"
-            >Antiquitez de Lyon</hi>, qui sont remplies de Figures. Il traite les choses tellement à
+            de Grece &amp; de Dalmatie</hi>, a esté fort estimé, aussi bien que ses <hi rend="i">Antiquitez de Lyon</hi>, qui sont remplies de Figures. Il traite les choses tellement à
           fond, &amp; s’applique avec un soin si exact à les éclaircir, que la lecture de tout ce
           qu’il fait n’est pas moins utile qu’elle est agreable. Le dernier Livre qu’il a donné au
           Public, &amp; qui a pour titre, <hi rend="i">Histoire de la Ville &amp; de Etat de
@@ -1361,10 +1282,8 @@
         <head>[Remarque sur la langue française] *</head>
         <bibl><title>Mercure galant</title>, novembre 1679 [tome 12], p. 287-289.</bibl>
         <p>J'oubliay de vous répondre il y a deux ou trois mois, sur le doute que ces mesmes Amies
-          vous engagerent à me proposer touchant ce commencement d’une de mes Lettres, <hi rend="i"
-            >Voila ce que c’est que de vous avoir accoûtumée aux miracles.</hi> Elles prétendoient
-          que le second <hi rend="i">que</hi> estoit superflu, &amp; qu’il suffisoit de dire, <hi
-            rend="i">de vous avoir accoûtumée aux miracles</hi>. Elles prétendoient que le second
+          vous engagerent à me proposer touchant ce commencement d’une de mes Lettres, <hi rend="i">Voila ce que c’est que de vous avoir accoûtumée aux miracles.</hi> Elles prétendoient
+          que le second <hi rend="i">que</hi> estoit superflu, &amp; qu’il suffisoit de dire, <hi rend="i">de vous avoir accoûtumée aux miracles</hi>. Elles prétendoient que le second
             <hi rend="i">que</hi> estoit superflu &amp; qu'il suffisoit de dire, <hi rend="i">de
             vous avoir accoûtumée aux miracles.</hi> Je vous ay déja priée de ne prendre point party
           sur mes façons de parler. Les Mémoires qu’on m’adresse ne m’estant jamais rendus que tard,
@@ -1461,8 +1380,7 @@
           Mirande, Fille puînée de Galeas Pie Prince de la Mirande, &amp; d'Hipolite de Gonsague. De
           ce Mariage est sorty François, Cardinal de la Rochefoucaut, Sous-Doyen du Sacré College,
           Grand Aumônier de France, Commandeur de l'Ordre du S. Esprit, Evesque de Clermont, Abbé de
-          Tournus, &amp; de Sainte Geneviéve de Paris, où se voit sa Sepulture. On dit de luy, <hi
-            rend="i">qu'il n'estoit pas moins illustre par sa pieté, &amp; par son érudition, que
+          Tournus, &amp; de Sainte Geneviéve de Paris, où se voit sa Sepulture. On dit de luy, <hi rend="i">qu'il n'estoit pas moins illustre par sa pieté, &amp; par son érudition, que
             par sa Noblesse.</hi> Jean-Loüis de la Rochefoucaut, Comte de Randan, Fils aîné de
           Charles, Comte de la Rochefoucaut, &amp; Frere du Cardina, épousa Isabelle de la
           Rochefoucaut, Fille puînée de François III. du nom, Comte de la Rochefoucaut, &amp; de
@@ -1578,8 +1496,7 @@
         <p>Je ne puis vous envoyer rien de plus nouveau que la Chanson à boire que vous allez
           voir.</p>
         <quote>
-          <label type="head">CHANSON A BOIRE.</label><note resp="author" place="margin"><hi rend="i"
-              >Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Premier objet
+          <label type="head">CHANSON A BOIRE.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Premier objet
               de ma tendresse</hi>, doit regarder la page 332.</note>
           <lg>
             <l rend="i"><space rend="tab"> </space>Premier objet de ma tendresse,</l>
@@ -1742,8 +1659,7 @@
           <l>Ne craignez pas l’éclat, &amp; les vertus si rares,</l>
           <l>De vos teméritez voyez l’échantillon ;</l>
           <l>Ou si vous en voulez un Portrait plus fidelle,</l>
-          <l><space rend="tab"> </space><space rend="tab"> </space>Voyez le sort d’un <hi rend="i"
-              >Papillon</hi>,</l>
+          <l><space rend="tab"> </space><space rend="tab"> </space>Voyez le sort d’un <hi rend="i">Papillon</hi>,</l>
           <l><space rend="tab"> </space><space rend="tab"> </space>Quand il se brûle à la
             chandelle.</l>
         </quote>
@@ -1757,5 +1673,4 @@
           de tous ses Enfans, est la nouvelle Enigme en Tableau que je vous propose.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

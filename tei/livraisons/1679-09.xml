@@ -1,64 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, septembre 1679 [tome 9]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable d'édition</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2015"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1679-09/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, septembre <date>1679</date> [tome 9].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1679-09"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1679-09_001" resp="mercure">
         <head>[Avant propos]</head>
@@ -99,9 +39,7 @@
           Cour ; &amp; en restituant des Places qu’il les obligeoit Luy seul de rendre, ils n’ont
           pas laissé de l’admirer. Admirons-le aussi, Madame, &amp; disons qu’un Prince qui garde
           une si exacte fidélité pour ceux qu’il reçoit dans son Alliance, est digne de commander à
-          toute la Terre. Cette Paix fut signée à Fontainebleau le deuxiéme de ce Mois par M<hi
-            rend="sup">r</hi> de Pompone Ministre &amp; Secretaire d’Etat, &amp; par M<hi rend="sup"
-            >r</hi> de Meyerkron Envoyé Extraordinaire de Dannemarc.</p>
+          toute la Terre. Cette Paix fut signée à Fontainebleau le deuxiéme de ce Mois par M<hi rend="sup">r</hi> de Pompone Ministre &amp; Secretaire d’Etat, &amp; par M<hi rend="sup">r</hi> de Meyerkron Envoyé Extraordinaire de Dannemarc.</p>
       </div>
       <div type="article" xml:id="MG-1679-09_009" resp="mercure">
         <head>[Madrigal]</head>
@@ -127,20 +65,16 @@
           jour-là cette illustre &amp; sçavante Compagnie fait faire un Panégyrique de Sa Majesté,
           en forme de Sermon, dans la Chapelle du Louvre. Elle choisit toûjours pour cela un
           Prédicateur dont la haute réputation réponde à la grandeur du Sujet. Vous jugez bien qu’il
-          doit estre des plus estimez, pour prêcher devant un Corps qui est tout Esprit. M<hi
-            rend="sup">r</hi> l’Abbé de la Broüe, nommé à l’Evesché de Mirepoix, s’en est acquité
+          doit estre des plus estimez, pour prêcher devant un Corps qui est tout Esprit. M<hi rend="sup">r</hi> l’Abbé de la Broüe, nommé à l’Evesché de Mirepoix, s’en est acquité
           cette année, avec un succés qui a dignement remply l’attente que ces Messieurs en avoient.
           L'apresdînée l’Académie s’estant assemblée, fit la distribution des Prix qu’elle donne
           tous les deux ans à pareil jour. Le Sujet du premier, qui est celuy de la Prose, estoit
           sur <hi rend="i">la fausse &amp; la vraye humilité.</hi> La Piece qui remporta le Prix
           estoit de M<hi rend="sup">r</hi> l’Abbé Savary Chanoine de Saint Maur, &amp; fut leuë par
             M<hi rend="sup">r</hi> l’Abbé de Lavau devant une Assemblée aussi illustre que
-          spirituelle. Je croy vous avoir déjà dit dans quelqu’une de mes Lettres, que M<hi
-            rend="sup">r</hi> de Balzac a laissé un fonds pour donner ce Prix tous les deux ans. On
+          spirituelle. Je croy vous avoir déjà dit dans quelqu’une de mes Lettres, que M<hi rend="sup">r</hi> de Balzac a laissé un fonds pour donner ce Prix tous les deux ans. On
           l’appelle le Prix de l’Eloquence. Le Sujet de celuy des Vers, estoit sur <hi rend="i">ce
-            que les Conquestes du Roy l’ont rendu facile à faire la Paix.</hi> M<hi rend="sup"
-            >r</hi> l’Abbé du Jary Angoumois, remporta le Prix. Ses Vers furent lûs par M<hi
-            rend="sup">r</hi> le Clerc, &amp; reçeurent de tres grands applaudissemens. Ce Prix est
+            que les Conquestes du Roy l’ont rendu facile à faire la Paix.</hi> M<hi rend="sup">r</hi> l’Abbé du Jary Angoumois, remporta le Prix. Ses Vers furent lûs par M<hi rend="sup">r</hi> le Clerc, &amp; reçeurent de tres grands applaudissemens. Ce Prix est
           donné par un des plus illustres, &amp; des plus honnestes Hommes de l’Académie. Il y a peu
           de Personnes en France à qui sa réputation ne soit connuë, &amp; ce n’est pas sans
           contrainte que je défere à la modestie qui luy fait cacher son nom. Apres qu’on eut leu
@@ -149,12 +83,10 @@
           Ouvrages, ayant choisy deux Personnes de leur Corps pour les apporter, ces deux Messieurs
           en firent eux-mesmes la lecture. Le premier estoit un Panégyrique du Roy, dans lequel
           estoient renfermées avec beaucoup d’ordre, toutes les grandes Actions de ce Monarque. Le
-          second estoit une Eglogue, sur le sujet de la Guerre, &amp; de la Paix. M<hi rend="sup"
-            >r</hi> de Besons Conseiller d’Etat, Directeur de l’Académie, leur dit ensuite en peu de
+          second estoit une Eglogue, sur le sujet de la Guerre, &amp; de la Paix. M<hi rend="sup">r</hi> de Besons Conseiller d’Etat, Directeur de l’Académie, leur dit ensuite en peu de
           paroles, mais avec beaucoup de justesse, <hi rend="i">Que puis que pendant la Guerre leurs
             Muses n’estoient pas demeurées oisives, il y avoit lieu d’esperer qu’elles n’auroient
-            pas moins d’ardeur à s’occuper pendant la Paix.</hi> Ce Compliment achevé, M<hi
-            rend="sup">r</hi> l’Abbé Tallemant le jeune, dont l’éloquence est connuë, &amp; qui ne
+            pas moins d’ardeur à s’occuper pendant la Paix.</hi> Ce Compliment achevé, M<hi rend="sup">r</hi> l’Abbé Tallemant le jeune, dont l’éloquence est connuë, &amp; qui ne
           parle pas avec moins de hardiesse &amp; de bonne grace, qu’il écrit fortement &amp; avec
           justesse, fit un autre Panégyrique du Roy, où il se proposa seulement de loüer la
           modération qui luy avoit fait donner la Paix à l’Europe. Il y réüssit à son ordinaire,
@@ -227,8 +159,7 @@
           Mariage que je ne vous puis laisser ignorer. C'est celuy de M<hi rend="sup">r</hi> le
           Comte de Maulevrier avec Mademoiselle de Monthelon, Fille de M<hi rend="sup">r</hi> de
           Monthelon qui estoit Maistre d’Hostel ordinaire de la feuë Reyne, Mere de Sa Majesté. La
-          naissance des deux Parties est trop illustre pour ne vous en rien dire. M<hi rend="sup"
-            >r</hi> le Comte de Maulevrier tire son extraction de l’ancienne Maison du Faï en
+          naissance des deux Parties est trop illustre pour ne vous en rien dire. M<hi rend="sup">r</hi> le Comte de Maulevrier tire son extraction de l’ancienne Maison du Faï en
           Normandie, qui a possedé pendant plusieurs Races la Charge de Bailly de Roüen, qui est le
           premier Bailliage de cette Province. Il est Fils de feu M<hi rend="sup">r</hi> le Comte de
           Maulevrier, qui à l’imitation de ses Ancestres a passé toute sa vie dans les Armes. Il
@@ -352,14 +283,11 @@
           Genéral qui porte ce nom, aida à donner les ordres. Mademoiselle Davigno sa Fille estoit
           avec elle. C’est une Personne bien faite, jeune, d’une taille dégagée, qui se connoist
           finement en toutes choses, &amp; qui se distingue encor plus par les charmes de son
-          Esprit, que par les avantages de la Nature. Ce fut dans cette Maison que M<hi rend="sup"
-            >r</hi> Billard Président au Présidial, &amp; Maire d’Auxerre, vint complimenter M<hi
-            rend="sup">r</hi> le Duc. Il estoit suivy d’un bon nombre des principaux Bourgeois à
+          Esprit, que par les avantages de la Nature. Ce fut dans cette Maison que M<hi rend="sup">r</hi> Billard Président au Présidial, &amp; Maire d’Auxerre, vint complimenter M<hi rend="sup">r</hi> le Duc. Il estoit suivy d’un bon nombre des principaux Bourgeois à
           cheval. Le Prevost des Mareschaux s’estoit déjà rendu à Rejane, &amp; ce Prince en partit
           précedé des uns et des autres, pour aller à Auxerre, où le mesme M<hi rend="sup">r</hi>
           Billard, Homme de beaucoup d’érudition, donna de nouvelles marques de son esprit par un
-          second Compliment. Tous les autres Corps rendirent aussi leurs devoirs à M<hi rend="sup"
-            >r</hi> le Duc, qui partit en suite au bruit du mesme Canon qu’on avoit fait entendre à
+          second Compliment. Tous les autres Corps rendirent aussi leurs devoirs à M<hi rend="sup">r</hi> le Duc, qui partit en suite au bruit du mesme Canon qu’on avoit fait entendre à
           son Entrée. Les Ruës estoient bordées d’une double haye de Bourgeois armez. Il reçeut de
           pareils honneurs dans les petites Villes où il passa jusqu’à Châlons. Il y arriva le
           Samedy 15. du mois. M<hi rend="sup">r</hi> Joly Maire &amp; Avocat de la Ville, &amp; les
@@ -388,8 +316,7 @@
           au milieu de la Course qui se fait avec toute la vîtesse possible. Les Champions sont
           placez sur le derriere du Bateau. Ainsi le plus foible tombe nécessairement dans la
           Riviere, &amp; bien souvent tous les deux ensemble, quand ils se trouvent d’une force
-          égale. Les Jousteurs qui avoient esté choisis pour donner ce divertissement à M<hi
-            rend="sup">r</hi> le Duc, estoient fort proprement habillez à la Matelote, de Toile
+          égale. Les Jousteurs qui avoient esté choisis pour donner ce divertissement à M<hi rend="sup">r</hi> le Duc, estoient fort proprement habillez à la Matelote, de Toile
           Indienne, avec quantité de Rubans aux couleurs de la Ville. Ils estoient quarante qui
           jousterent tous, &amp; il y en eut quinze qui ne pûrent estre renversez dans l’eau. Apres
           la Jouste corps contre corps, ils rompirent la Lance contre un pieu planté au milieu de la
@@ -399,8 +326,7 @@
           l’un de ces Animaux, y demeure suspendu, &amp; apres tous ses efforts qui sont souvent
           inutiles, il tombe dans l’eau, ou s’il est plus heureux, il s’y jette luy-mesme avec sa
           proye. Ces trois Animaux furent arrachez, mais le Chat laissa des marques de ses grifes à
-          la plûpart de ceux qui s’attacherent à luy. Les plaisirs de la Riviere estant finis, M<hi
-            rend="sup">r</hi> le Duc alla se promener dans la Prairie avec les Dames jusques à la
+          la plûpart de ceux qui s’attacherent à luy. Les plaisirs de la Riviere estant finis, M<hi rend="sup">r</hi> le Duc alla se promener dans la Prairie avec les Dames jusques à la
           nuit qu’il vint souper, &amp; incontinent apres il se rendit sur le Rampart de Sainte
           Marie, pour voir un Feu d’artifice dressé au milieu de la Saône sur deux grands Bateaux.
           C’estoit une Pyramide garnie de Fusées &amp; Lances à feu, qui avoit aux quatre costez les
@@ -434,11 +360,8 @@
           &amp; de Hautbois champestres, &amp; reçeurent des marques de sa libéralité, comme en
           avoient déja reçeu ceux qui avoient jousté sur la Saône. Quelques Dames d’une petite Ville
           de Bresse s’estoient meslées parmy les Païsannes de cette Troupe. Son Altesse les
-          distingua, &amp; leur fit honnesteté. J’aurois trop à vous dire du Régal que luy fit M<hi
-            rend="sup">r</hi> Briord. Ce fut une profusion surprenante de toutes choses, &amp; un si
-          grand ordre en mesme temps, qu’à peine s’apperçeut-on des préparatifs. M<hi rend="sup"
-            >r</hi> de Choin Gouverneur de Bourg &amp; Bailly de Bresse, vint salüer M<hi rend="sup"
-            >r</hi> le Duc dans cette Maison, &amp; en reçeut cet accueil satisfaisant qui luy gagne
+          distingua, &amp; leur fit honnesteté. J’aurois trop à vous dire du Régal que luy fit M<hi rend="sup">r</hi> Briord. Ce fut une profusion surprenante de toutes choses, &amp; un si
+          grand ordre en mesme temps, qu’à peine s’apperçeut-on des préparatifs. M<hi rend="sup">r</hi> de Choin Gouverneur de Bourg &amp; Bailly de Bresse, vint salüer M<hi rend="sup">r</hi> le Duc dans cette Maison, &amp; en reçeut cet accueil satisfaisant qui luy gagne
           tous les cœurs. Ce Prince arriva le lendemain à Mascon sur les dix heures du matin,
           précedé de M<hi rend="sup">r</hi> Berrurier Avocat, &amp; premier Echevin, qui suivy d’un
           nombre d’Habitans à cheval, l’avoit rencontré à demy lieuë de la Ville, &amp; luy avoit
@@ -454,8 +377,7 @@
           partit dans le mesme ordre &amp; avec le mesme éclat qu’Elle y estoit entrée, &amp; alla
           coucher à Neufville, chez M<hi rend="sup">r</hi> l’Archevesque de Lyon. C’est une Maison
           admirable, dont le Parc, l’Orangerie, les Terrasses, &amp; tous les dehors, vont de pair
-          avec tout ce qu’il y a de plus beau en France. Je ne vous dis point de quelle maniere M<hi
-            rend="sup">r</hi> le Duc fut reçeu. Vous connoissez la magnificence du grand Prélat que
+          avec tout ce qu’il y a de plus beau en France. Je ne vous dis point de quelle maniere M<hi rend="sup">r</hi> le Duc fut reçeu. Vous connoissez la magnificence du grand Prélat que
           je viens de vous nommer. Il est Frere de M<hi rend="sup">r</hi> le Maréchal Duc de
           Villeroy, &amp; de M<hi rend="sup">r</hi> l’Evesque de Chartres. Son Ecurie n’est pas la
           moindre chose qu’il y ait à voir dans cette belle Maison, où l’on trouve les meilleures
@@ -464,16 +386,14 @@
           que de deux lieües. Il y arriva en Bateau le Samedy 22. &amp; n’eut pas si-tost mis pied à
           terre, que M<hi rend="sup">r</hi> de Monceaux Prevost des Marchands, accompagné des
           Echevins de la Ville, le complimenta. La joye des Habitans s’expliqua par la bouche du
-          Canon pendant qu’on le conduisit à l’Hôtel du Gouverneur, où il fut harangué par M<hi
-            rend="sup">r</hi> le Comte de Marillac, Doyen de la Cathédrale, à la teste des
+          Canon pendant qu’on le conduisit à l’Hôtel du Gouverneur, où il fut harangué par M<hi rend="sup">r</hi> le Comte de Marillac, Doyen de la Cathédrale, à la teste des
           Chanoines. Vous sçavez, Madame, qu’ils sont tous Gens de la premiere Qualité du Royaume
           &amp; qu’ils doivent l’estre par les Statuts de leur Eglise, qui les obligent à faire des
           preuves exactes de leur Noblesse, lors qu’ils en sont reçeus Chanoines &amp; Comtes de
           Lyon. C’est une qualité qui leur est acquise depuis longtems, &amp; qui leur a esté
           confirmée par nos Rois, qu’ils ont l’honneur d’avoir pour premiers Chanoines. Je n’ay
           point appris l’ordre des autres Harangues. Je sçay seulement que M<hi rend="sup">r</hi>
-          Gayot qui porta la parole pour M<hi rend="sup">rs</hi> les Trésoriers de France, dit, <hi
-            rend="i">Que la Province d’où venoit S. A. S. &amp; qui luy obeït avec plaisir, ne
+          Gayot qui porta la parole pour M<hi rend="sup">rs</hi> les Trésoriers de France, dit, <hi rend="i">Que la Province d’où venoit S. A. S. &amp; qui luy obeït avec plaisir, ne
             devoit, &amp; ne pouvoit pas envier à Lyon l’honneur &amp; la joye de le recevoir, parce
             que les avantages de sa naissance &amp; de son mérite, la rendoient comme un bien
             universel, dont le propre est de se répandre</hi>. M<hi rend="sup">rs</hi> du Présidial
@@ -482,8 +402,7 @@
           rien qui n’ait un caractere d’autorité &amp; d’éloquence. Il dit, <hi rend="i">Que sa
             Compagnie se monteroit bien indigne d’avoir reçeu du Roy l’administration de sa justice,
             si elle-mesme manquoit à l’observation de se Loix principales, qui veulent qu’on rende
-            au Sang auguste de nos Souverains, l’estime &amp; l’hommage qui luy sont dûs</hi>. M<hi
-            rend="sup">r</hi> le Prevost des Marchands fit une seconde Harangue, à la teste de tout
+            au Sang auguste de nos Souverains, l’estime &amp; l’hommage qui luy sont dûs</hi>. M<hi rend="sup">r</hi> le Prevost des Marchands fit une seconde Harangue, à la teste de tout
           le Consulat, &amp; dit, <hi rend="i">Que quand il n’y auroit à considerer dans la Personne
             de M<hi rend="sup">r</hi> le Duc, que le Sang &amp; le Nom de nos Rois, il n’en faudroit
             pas davantage pour engager tous les Citoyens à une profonde venération ; mais que son
@@ -515,8 +434,7 @@
           Bal. Les Dames s’y trouverent en fort grand nombre, aussi parées que bien faites. La belle
           Mademoiselle Pecoil, Fille du Conseiller de ce nom, s’y fit distinguer. Le 23. il alla
           coucher à la Sausaye. C’est une autre Maison de Chasse, tres-belle, &amp; qui sert comme
-          de relais. Elle est aussi à M<hi rend="sup">r</hi> l’Archevesque de Lyon. M<hi rend="sup"
-            >r</hi> le Duc y fut reçeu par les soins de ce Prélat avec la mesme magnificence qu’il
+          de relais. Elle est aussi à M<hi rend="sup">r</hi> l’Archevesque de Lyon. M<hi rend="sup">r</hi> le Duc y fut reçeu par les soins de ce Prélat avec la mesme magnificence qu’il
           l’avoit esté à Neufville. Le lendemain 24 estant monté en Carrosse à six heures du matin,
           pour se rendre à Bourg Capitale de la Bresse, qui fait une partie de son Gouvernement, il
           fut rencontré à deux lieuës de la Ville par le corps de la Noblesse, composé de
@@ -533,16 +451,14 @@
           ensuite à la teste du Corps de Ville, &amp; d’environ deux cens des principaux Bourgeois
           tous bien montez. Il y a tant d’esprit dans les Ouvrages que je vous ay envoyez de luy,
           qu’il suffit que je vous le nomme pour vous persuader qu’il fit un tres-beau Discours. Ces
-          Harangues faites, on marcha jusqu’à une Plaine à deux mille pas de la Ville, où M<hi
-            rend="sup">r</hi> le Duc rencontra un Bataillon de six cens Bourgeois tous tres-propres,
+          Harangues faites, on marcha jusqu’à une Plaine à deux mille pas de la Ville, où M<hi rend="sup">r</hi> le Duc rencontra un Bataillon de six cens Bourgeois tous tres-propres,
           &amp; les Officiers couverts de tours de Plumes &amp; de Rubans de ses couleurs. Ses
           Gardes qui estoient depuis quelques jours à Bourg, se rendirent dans le mesme lieu, &amp;
           suivirent le Carrosse. Tout estant passé, ce Bataillon fit une décharge qui ne parut pas
           d’une Bourgeoisie. Son Altesse mesme s’en expliqua, &amp; entra dans la Ville au bruit du
           Canon, entre une double haye de Bourgeois, commandez par des Officiers parez des mesmes
           couleurs que les premiers, &amp; tous les Sergens ayant des Echarpes Isabelles, garnies
-          &amp; renoüées de Rubans couleur de feu. M<hi rend="sup">r</hi> le Duc descendit chez M<hi
-            rend="sup">r</hi> de Choin Gouverneur de la Ville, où il fut logé dans un magnifique
+          &amp; renoüées de Rubans couleur de feu. M<hi rend="sup">r</hi> le Duc descendit chez M<hi rend="sup">r</hi> de Choin Gouverneur de la Ville, où il fut logé dans un magnifique
           Apartement. Il y reçeut les Complimens du Présidial, du Corps des Eleus, &amp; des autres
           Compagnies, avec le Présent de Ville ordinaire, qui est de Vin, de Gibier, &amp; de Fruit.
           Il y eut Bal le soir. M<hi rend="sup">r</hi> Brossard de Montaney le commença avec
@@ -589,8 +505,7 @@
           Symphonie y est admirable, &amp; peu de Personnes en France l’emportent sur ces illustres
           Musiciens. Le 15. M<hi rend="sup">r</hi> le Duc assista à la Procession genérale. Je ne
           vous parle point des Régals qui luy ont esté faits par M<hi rend="sup">r</hi> le Premier
-          Président Brulart, par M<hi rend="sup">r</hi> l’Evesque d’Auxerre, &amp; par M<hi
-            rend="sup">r</hi> l’Intendant. Ce Prince ayant à travailler à l’accommodement de Madame
+          Président Brulart, par M<hi rend="sup">r</hi> l’Evesque d’Auxerre, &amp; par M<hi rend="sup">r</hi> l’Intendant. Ce Prince ayant à travailler à l’accommodement de Madame
           Royale, comme Marquise de quelques Terres en Bugey, avec le Bailliage de ce Païs-là, cette
           illustre Souveraine qui avoit remis ses interest entre ses mains, luy envoya le Fils de
             M<hi rend="sup">r</hi> le Premier Président de la Perrouse, qui s’acquita de sa
@@ -800,10 +715,8 @@
           costé maternel, elle a l’honneur d’avoir eu pour Ayeule Eleonor d’Orleans, Princesse de la
           Maison de Longueville, qui estoit Fille d’une Marie ou Marguerite de Bourbon, Tante de
           Henry IV. La Feste qui suivit ce Mariage fut des plus pompeuses. M<hi rend="sup">r</hi> le
-          Duc de Beauvilliers, &amp; Madame la Duchesse de Chevreuse, s’y trouverent ; &amp; M<hi
-            rend="sup">r</hi> de Matignon, Lieutenant de Roy en Normandie, fit connoistre par une
-          dépense digne de luy, qu’il n’oublioit rien pour honorer en la personne de M<hi rend="sup"
-            >r</hi> de Segnelay son Gendre, le Fils de M<hi rend="sup">r</hi> Colbert Ministre
+          Duc de Beauvilliers, &amp; Madame la Duchesse de Chevreuse, s’y trouverent ; &amp; M<hi rend="sup">r</hi> de Matignon, Lieutenant de Roy en Normandie, fit connoistre par une
+          dépense digne de luy, qu’il n’oublioit rien pour honorer en la personne de M<hi rend="sup">r</hi> de Segnelay son Gendre, le Fils de M<hi rend="sup">r</hi> Colbert Ministre
           d’Etat. Ce grand Homme alla attendre cette Compagnie à Sceaux le Lundy 11. de ce Mois.
           Elle remplissoit neuf Carrosses à six Chevaux, &amp; trouva dans la magnifique Reception
           qui luy fut faite avec un ordre admirable, que jamais personne ne sçeut mieux que luy
@@ -929,8 +842,7 @@
           Femme de M<hi rend="sup">r</hi> le Comte de Coigné-Franquetot, qui commande un des
           Regimens du Roy. Elle a de la beauté, de l’esprit, &amp; de cet esprit doux &amp; agreable
           qui se fait aimer par tout.</p>
-        <p>Il faut présentement vous parler de ceux qui se trouverent à cette Feste du costé de M<hi
-            rend="sup">r</hi> Colbert.</p>
+        <p>Il faut présentement vous parler de ceux qui se trouverent à cette Feste du costé de M<hi rend="sup">r</hi> Colbert.</p>
         <p>Mademoiselle de Blois. Tout ce qu’on peut dire de cette Princesse, ne sçauroit donner
           qu’une idée tres-imparfaite de son mérite. On voit briller dans ses yeux l’auguste Sang
           qui l’anime, &amp; elle est d’une beauté &amp; d’une grace si extraordinaire, qu’on ne la
@@ -941,8 +853,7 @@
           &amp; la sagesse de sa conduite est marquée particulierement par la bonne éducation
           qu’elle a donnée à Mademoiselle de Blois, une des plus parfaites Princesses du monde.</p>
         <p>M<hi rend="sup">rs</hi> les Ducs de Chevreuse, de Beauvilliers, &amp; de Mortemar,
-          Gendres de M<hi rend="sup">r</hi> Colbert, avec Mesdames leurs Femmes, M<hi rend="sup"
-            >r</hi> l’Abbé Colbert Docteur de Sorbonne, &amp; M<hi rend="sup">r</hi> l’Ambassadeur
+          Gendres de M<hi rend="sup">r</hi> Colbert, avec Mesdames leurs Femmes, M<hi rend="sup">r</hi> l’Abbé Colbert Docteur de Sorbonne, &amp; M<hi rend="sup">r</hi> l’Ambassadeur
           Colbert, Président à Mortier. Je vous ay parlé de ce dernier dans cette Lettre &amp; du
           mérite de tous les autres, dans plusieurs Articles que vous avez veus en divers temps.</p>
         <p>M<hi rend="sup">r</hi> le Comte de Menarts. Il est Frere de Madame Colbert, Maistre des
@@ -1004,8 +915,7 @@
         <p>J’ajoûte icy des Paroles mises en Air depuis peu. J’en ay fait graver les Notes pour
           vous.</p>
         <quote>
-          <label type="head">AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i"
-              >Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Aimables
+          <label type="head">AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour placer les Figures</hi> : l’Air qui commence par <hi rend="i">Aimables
               Lieux, paisible Solitude</hi>, doit regarder la page 247.</note>
           <lg>
             <l rend="i">Aimables Lieux, paisible Solitude,</l>
@@ -1056,8 +966,7 @@
           d’Espagne, sur le mesme dessein qui a servy à faire l’Habit qu’elle avoit le jour de son
           Mariage, &amp; vous l’envoyeray dans le mesme temps.</p>
         <p>Je viens à ce qui se fit le soir de ce grand jour, qui fut le Jeudy 31. d’Aoust. La
-          Troupe des Italiens représenta une de leurs plus plaisantes Comedies, qui a pour Titre <hi
-            rend="i">le Medecin du temps</hi>. Apres ce divertissement, le Roy fit passer les
+          Troupe des Italiens représenta une de leurs plus plaisantes Comedies, qui a pour Titre <hi rend="i">le Medecin du temps</hi>. Apres ce divertissement, le Roy fit passer les
           Reynes, &amp; toute la Cour, dans la Galerie d’Ulisse. On l’appelle ainsi, à cause que les
           Travaux d’Ulisse y sont dépeints en 58. Tableaux, dont les sujets sont tirez d’Homere.
           Leurs Majestez virent de là un Feu d’artifice, dressé dans la Court du Cheval blanc, par
@@ -1147,8 +1056,7 @@
           Le Lundy, elle partit de Fontainebleau, &amp; apres avoir dîné au Bouchet (c’est une
           Maison qui apartient à Madame la Marquise de Clairambaut, Dame d’Honneur de Madame) elle
           arriva à Paris. Elle estoit dans un Carrosse du Roy, avec Monsieur, Madame, &amp;
-          Mademoiselle, ayant pour escorte cent Gardes-du-Corps, commandez par M<hi rend="sup"
-            >r</hi> du Repaire Lieutenant, &amp; par deux Exempts. M<hi rend="sup">r</hi> du Saussoy
+          Mademoiselle, ayant pour escorte cent Gardes-du-Corps, commandez par M<hi rend="sup">r</hi> du Repaire Lieutenant, &amp; par deux Exempts. M<hi rend="sup">r</hi> du Saussoy
           Ecuyer du Roy, nommé par sa Majesté pour la conduire jusque sur la Frontiere, estoit dans
           le second Carrosse. Celuy des Ecuyers est appellé second Carrosse, quoy qu'il précede
           toûjours. Les Gardes du Corps avoient l'Epée haute quand elle entra dans la Ville, comme
@@ -1194,9 +1102,7 @@
           Elle soupa en public dés le soir mesme de son arrivée, &amp; elle y a presque toûjours
           mangé jusqu'à son départ, quoy que la confusion ait esté si grande, qu'à peine pouvoit-on
           respirer dans le lieu où on la servoit.</p>
-        <p>Le Mardy elle reçeut les visites de M<hi rend="sup">r</hi> le Prince, &amp; de M<hi
-            rend="sup">r</hi> le Duc, &amp; leur fit donner des Chaises à dos. M<hi rend="sup"
-            >r</hi> le Cardinal d'Estrées la vint voir le mesme jour. Il estoit en Camail &amp; en
+        <p>Le Mardy elle reçeut les visites de M<hi rend="sup">r</hi> le Prince, &amp; de M<hi rend="sup">r</hi> le Duc, &amp; leur fit donner des Chaises à dos. M<hi rend="sup">r</hi> le Cardinal d'Estrées la vint voir le mesme jour. Il estoit en Camail &amp; en
           Rocher, &amp; il eut pareillement une Chaise à dos. Cette Princesse alla ensuite aux
           Carmelites du Fauxbourg Saint Jacques, voir la Mere Marie-Loüise de la Miséricorde,
           autrefois Duchesse de la Valliere. Elle se rendit de là au Val de Grace, où repose le Cœur
@@ -1208,8 +1114,7 @@
           premiers, leurs Officiers en teste. En suite paroissoient douze Archers portant quatre
           grandes Manes couvertes de Taffetas blanc, dont il y en avoit deux remplies de six
           douzaines de Flambeaux de Cire blanche, &amp; les deux autres de six douzaines de Boëtes
-          de Confitures seches. Apres les Présens, venoient six Carrosses où estoient M<hi
-            rend="sup">rs</hi> les Prevost des Marchands, &amp; Echevins, revétus de leurs Robes de
+          de Confitures seches. Apres les Présens, venoient six Carrosses où estoient M<hi rend="sup">rs</hi> les Prevost des Marchands, &amp; Echevins, revétus de leurs Robes de
           velours my-parties, quelques Conseillers, &amp; le Procureur du Roy de la Ville. À costé
           de chacun de ces six Carrosses, marchoient quatre Archers, dont il y avoit encor grand
           nombre à leur suite. Pendant que tout ce grand Corps estoit en marche, la Reyne d'Espagne
@@ -1239,8 +1144,7 @@
             n'estoit pas moins recommandable par sa valeur &amp; par le mérite de sa Personne, que
             par la gloire de sa Naissance.</hi> Il finit en disant, <hi rend="i">que c'estoit par le
             commandement du Roy, &amp; au nom de tous les François, qu'il luy venoit offrir ses
-            respects.</hi> Ce Discours attira de grands aplaudissemens. La Reyne en remercia M<hi
-            rend="sup">r</hi> de Pommereüil Prevost des Marchands, d'un air qui luy fit connoistre
+            respects.</hi> Ce Discours attira de grands aplaudissemens. La Reyne en remercia M<hi rend="sup">r</hi> de Pommereüil Prevost des Marchands, d'un air qui luy fit connoistre
           qu'elle en estoit extrémement satisfaite. Il luy presenta en suite les Echevins, qui en
           reçeurent un tres-favorable accueil.</p>
         <p>Le mesme jour M<hi rend="sup">r</hi> le Duc de Pastrane luy donna le Présent de Nôces du
@@ -1255,8 +1159,7 @@
             M<hi rend="sup">r</hi> de Saintot, la complimenta ce mesme jour à la teste de son
           Chapitre. M<hi rend="sup">r</hi> Joly Chantre, &amp; M<hi rend="sup">r</hi> l'Abbé de la
           Motte Archidiacre de l'Eglise de Paris, estoient derriere luy, &amp; les Chanoines en
-          suite. La Reyne d'Espagne l'écouta debout. Il tourna son Compliment sur ce <hi rend="i"
-            >qu'il estoit juste que la voyant assise sur un des plus grands Trônes de l'Univers,
+          suite. La Reyne d'Espagne l'écouta debout. Il tourna son Compliment sur ce <hi rend="i">qu'il estoit juste que la voyant assise sur un des plus grands Trônes de l'Univers,
             apres une Céremonie des plus éclatantes &amp; des plus augustes, l'Eglise de Paris dont
             elle estoit Fille par le Baptesme, &amp; qui l'avoit fait Chrestienne, luy vint
             témoigner sa joye par sa bouche.</hi> Il fit en suite une courte description de tout ce
@@ -1284,8 +1187,7 @@
           &amp; entra dans le grand Cabinet de la Reyne d'Espagne. On n’a jamais rien veu de si
           magnifique qu’estoient les Dames qui l’environnoient. Il y en avoit quatre Rangs sur
           l’Estrade à chaque costé de cette Princesse, &amp; elles estoient toutes couvertes de
-          Pierreries, parce qu’apres les Audiences elles devoient aller au Bal chez M<hi rend="sup"
-            >r</hi> de los Balbases. Le Lieutenant des Gardes estoit derriere le Fauteüil de la
+          Pierreries, parce qu’apres les Audiences elles devoient aller au Bal chez M<hi rend="sup">r</hi> de los Balbases. Le Lieutenant des Gardes estoit derriere le Fauteüil de la
           Reyne</p>
         <p>Monsieur le Premier Président, dont le stile est si serré, qui ne dit pas un mot inutile,
           &amp; qui faisant toûjours entendre beaucoup de choses en peu de paroles, ne parle jamais
@@ -1379,8 +1281,7 @@
           dans un Sallon où l’on avoit fait dresser un Théatre. La Troupe du Roy, appellée de
           Guenégaud, y représenta <hi rend="i">Phedre &amp; Hipolite</hi> de M<hi rend="sup">r</hi>
           Racine. Quelques Airs Italiens servirent à distinguer les Actes. Pendant la Comédie, on
-          donna la Colation dans des Corbeilles fort galantes qui demeurerent aux Dames. M<hi
-            rend="sup">r</hi> l’Ambassadeur en présenta à genoux à la Reyne. La représentation du
+          donna la Colation dans des Corbeilles fort galantes qui demeurerent aux Dames. M<hi rend="sup">r</hi> l’Ambassadeur en présenta à genoux à la Reyne. La représentation du
             <hi rend="i">Sicilien</hi> ayant finy les Divertissemens du Théatre, on monta dans
           l’Apartement d’enhaut. Le grand nombre de lumieres qui l'éclairoient, répandoit une tres
           grande clarté dans la Court &amp; dans le Jardin. On admira en passant la magnificence
@@ -1395,8 +1296,7 @@
           Repas, elle passa dans l’Apartement de Madame l’Ambassadrice, qu’elle admira pour la
           richesse &amp; la somptuosité de ses Meubles ; apres quoy elle se rendit dans la Salle
           qu’on avoit préparée pour le Bal. La Tapisserie estoit d’un Velours vert, tout couvert de
-          Broderie or &amp; argent. La Reyne fut menée par Monsieur ; Madame, par M<hi rend="sup"
-            >r</hi> le Grand ; &amp; Mademoiselle, par M<hi rend="sup">r</hi> le Duc de S. Pierre.
+          Broderie or &amp; argent. La Reyne fut menée par Monsieur ; Madame, par M<hi rend="sup">r</hi> le Grand ; &amp; Mademoiselle, par M<hi rend="sup">r</hi> le Duc de S. Pierre.
           On dança pendant deux heures, &amp; la Reyne en se retirant, témoigna beaucoup de
           satisfaction à M<hi rend="sup">r</hi> l’Ambassadeur. Le Vendredy elle alla à la Messe à
           Nostre-Dame, &amp; fut reçeuë par M<hi rend="sup">r</hi> l’Archevesque, en Chape &amp; en
@@ -1406,8 +1306,7 @@
           conduisit jusqu'à son Prie-Dieu, où il luy donna la benédiction, &amp; se retira. Elle fut
           reconduite apres la Messe par M<hi rend="sup">r</hi> l'Abbé de la Motte Archidiacre, qui
           l'entretint jusqu'à son Carrosse. Elle ne pouvoit assez s'étonner de la foule incroyable
-          du Peuple qu'elle découvroit de tous costez. En montant en Carrosse elle dit à M<hi
-            rend="sup">r</hi> l'Abbé de la Motte, qu'elle se recommandoit aux Prieres du Chapitre.
+          du Peuple qu'elle découvroit de tous costez. En montant en Carrosse elle dit à M<hi rend="sup">r</hi> l'Abbé de la Motte, qu'elle se recommandoit aux Prieres du Chapitre.
           L’apresdînée elle alla à S. Cloud, avec Monsieur &amp; Madame, &amp; y demeura jusqu‘au
           Dimanche 10. de ce Mois qu’elle en partit pour aller à Versailles, apres avoir esté
           haranguée par le Chapitre de S. Cloud. M<hi rend="sup">r</hi> Bontemps la traita de la
@@ -1486,8 +1385,7 @@
           d’achevé.</p>
         <p>Apres avoir reçeu ces deux Complimens, la Reyne alla rendre visite à Mademoiselle
           d’Orleans. Ensuite elle passa aux P. de l’Oratoire, où le P. Carmagnole Supérieur de cette
-          Maison, la complimenta à la teste de toute la Communauté. Elle vit encor l’Opéra de <hi
-            rend="i">Bellérophon</hi> dans une seconde Représentation extraordinaire qu’elle en
+          Maison, la complimenta à la teste de toute la Communauté. Elle vit encor l’Opéra de <hi rend="i">Bellérophon</hi> dans une seconde Représentation extraordinaire qu’elle en
           demanda. Le Mardy, qui estoit le jour de son départ, le Corps de Ville se rendit au Palais
           Royal. Elle en sortit toute en larmes sur les onze heures &amp; dit à Monsieur le Duc de
           Chartres, en l’embrassant, <hi rend="i">qu’elle ne le reverroit jamais</hi>. Mademoiselle
@@ -1534,8 +1432,7 @@
           harnois des Chevaux, &amp; tout ce qui est ordinairement de cuir, estoit de velours
           cramoisy, avec des Chifres de vermeil. Ses Livrées estoient d'écarlate, &amp; pour
           ornement, un Galon aurore &amp; vert, meslé d'un autre or &amp; argent. Il fut reçeu comme
-          tous les Ambassadeurs Extraordinaires des Couronnes, &amp; logé dans l'Apartement de M<hi
-            rend="sup">r</hi> de Louvoys, à qui son indisposition n'a pas permis de se trouver à
+          tous les Ambassadeurs Extraordinaires des Couronnes, &amp; logé dans l'Apartement de M<hi rend="sup">r</hi> de Louvoys, à qui son indisposition n'a pas permis de se trouver à
           Fontainebleau. Cet Ambassadeur y fut traité pendant trois jours, non pas par présens,
           comme c'est la coûtume d'en user pour ceux qui font leur Entrée dans une Ville, mais comme
           il se pratique lors qu'on est à la Campagne, c'est à dire, que les Officiers du Roy
@@ -1572,8 +1469,7 @@
           Vaillac. Elle se promena le reste du jour autour du Parc. Toutes ces Courses n'estoient
           que pour promener son inquiétude. Les refléxions continuelles qu'elle faisoit sur ce
           qu'elle se voyoit prête à s'éloigner du Roy pour toûjours, la mettoient dans une agitation
-          qui ne se peut concevoir. Elle vit le soir la Comédie. On joüoit <hi rend="i"
-            >Sertorius</hi>. Ainsi c’est par une Piece du grand Corneille qu’elle a pris pour la
+          qui ne se peut concevoir. Elle vit le soir la Comédie. On joüoit <hi rend="i">Sertorius</hi>. Ainsi c’est par une Piece du grand Corneille qu’elle a pris pour la
           derniere fois ce divertissement en France. Quoy qu'elle l'ait toûjours fort aimé, le
           trouble de son esprit ne luy laissa pas prêter grande attention. On la vit presque
           toûjours pleurer, &amp; elle s'abandonna tellement à sa douleur, que si on ne l'eust
@@ -1667,8 +1563,7 @@
           de la seconde Médaille, on voit trois Figures. Celle du milieu est la liberté des Etats
           Genéraux, representée en Déesse, tenant de la main droite une Pique qui a sur sa pointe un
           Chapeau, &amp; les Armes des Sept Provinces, qui sont sept Fleches attachées ensemble.
-          Elle a sous ses pieds le Lyon Belgique, qui paroist estre en repos. Les mots Latins, <hi
-            rend="i">Libertas Pacis soboles, &amp;c</hi>. n’ont pas besoin d’explication. Cette
+          Elle a sous ses pieds le Lyon Belgique, qui paroist estre en repos. Les mots Latins, <hi rend="i">Libertas Pacis soboles, &amp;c</hi>. n’ont pas besoin d’explication. Cette
           Déesse tient la Prudence embrassée de sa main gauche, ayant les Armes de la ville
           d’Amstredam à son costé, &amp; paroist recevoir la France sous la figure de la Paix. On la
           connoît aisément au Rameau d’Olive qu’elle porte, à sa Corne d’abondance, &amp; à sa Robe
@@ -1769,5 +1664,4 @@
           <hi rend="i">Septembre 1679.</hi></p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

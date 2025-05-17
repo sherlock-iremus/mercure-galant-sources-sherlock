@@ -1,65 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1701-05a">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, mai 1701 [première partie] [tome 6]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1701-05a</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
-    Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-<p>Cette ressource électronique protégée par le code de la propriété intellectuelle
-    sur les bases de données (L341-1) est mise à disposition de la communauté
-    scientifique internationale par l’OBVIL, selon les termes de la licence Creative
-    Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
-    3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-<p>Attribution : afin de référencer la source, toute utilisation ou publication
-    dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
-    l’adresse Internet de la ressource.</p>
-<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
-    toute utilisation commerciale est interdite.</p>
-<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-    électronique, notamment en intégrant toutes les contributions extérieures, la
-    diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>mai 1701</date> [première partie] [tome 6].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1701-05"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, mai 1701 [première partie] [tome 6].</head>
         <div type="article" xml:id="MG-1701-05a_005" resp="wordpro">
@@ -1254,5 +1193,4 @@
           <p>Le second jour de ce mois mourut une Fille illustre, dont la memoire ne mourra jamais. Elle estoit connuë de tout le monde sous le nom de la seconde Sapho, fort égale à la premiere pour la beauté de l’esprit, mais en même temps fort superieure pour la pureté des mœurs. Vous voyez bien que je parle de Mademoiselle de Scuderi, si celebre &amp; si estimée dans toute l’Europe. Elle estoit âgée de quatre-vingt-quinze ans, &amp; dans un âge si avancé elle répondoit encore avec beaucoup de feu en Vers &amp; en Prose, à tous ceux qui entretenoient commerce avec elle. Son merite luy avoit acquis quantité d’Amis, &amp; le Roy l’avoit honorée d’une pension. Ses Livres, qu’on a lûs avec tant d’empressement, &amp; qui ont esté traduits en diverses Langues, doivent estre regardez bien moins comme des Romans, que comme des Poëmes Epiques en Prose, s’il est permis de parler ainsi. Ce sont des Histoires veritables sous des noms cachez, &amp; si l’on examine l’<hi rend="i">Artamene</hi> ou <hi rend="i">le Grand Cyrus</hi>. On y trouvera toute la vie de feu Monsieur le Prince. Il y a de mesme une Clef dans le grand Ouvrage qui a pour Titre, <hi rend="i">Clelie</hi>. Il renferme quantité de traits qui ont rapport à tout ce qu’il y avoit alors d’illustre &amp; de distingué en France dans l’un &amp; dans l’autre sexe. Rien n’est plus utile pour bien apprendre le monde que les conversations dont cet Ouvrage est rempli. Loin d’avoir rien qui corompe, non plus que le Grand Cyrus, ce qui est imputé aux Romans, tout y est conforme aux bonnes mœurs, &amp; la vertu y brille dans un si haut point, qu’on l’y trouve comme impraticable, tant elle y paroist rigide. Si ceux qui ont lû ces beaux Ouvrages les ont regardez du bon costé, ils doivent en avoir tiré beaucoup de profit. Ils ont paru sous le nom de M<hi rend="sup">r</hi> de Scuderi son frere, mort Gouverneur de Nostre-Dame de la Garde, proche de Marseille, qui a donné au public seize pieces de Theatre, entre autres l’Amour tyranique, si vantée par feu M<hi rend="sup">r</hi> Sarrasin ; mais le stile de l’Almahide, qui est veritablement de luy, est si different du stile aisé de Cirus &amp; de Clelie, qu’il est facile de connoistre que ces trois Ouvrages n’ont pû partir de la mesme plume. Mademoiselle de Scudery en a fait encore plusieurs autres, comme des Entretiens sur differentes matieres, &amp; la Promenade de Versailles, &amp; tous ont esté tres-approuvez. Elle estoit constante &amp; fidelle Amie, mesme au préjudice de ses interests ; &amp; quoy qu’elle eust tout l’esprit qu’on peut avoir cet avantage estoit égalé par la bonté de son cœur, &amp; par la droiture de ses sentimens. On l’avoit mise de toutes les Academies où les femmes sont receues, &amp; tous ceux qui ont un peu de nom dans le monde se faisoient une gloire d’en estre connus. Elle estoit d’une Maison noble &amp; ancienne.</p>
         </div>
       </body>
-  </text>
-</TEI>
+  </text></TEI>

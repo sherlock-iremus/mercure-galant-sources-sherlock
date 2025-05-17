@@ -1,64 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, octobre 1680 [tome 13]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2015"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1680-10/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, octobre <date>1680</date> [tome 13].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1680-10"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1680-10_029" resp="mercure">
         <head>[Régal donné à Chastillon sur Seine]</head>
@@ -133,24 +73,15 @@
             <l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Couler avec si peu de
               jus?</l>
             <l rend="i"><space rend="tab"> </space>Nous n’en aurons pas en abondance,</l>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"
-              > </space>Mais en récompense</l>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"
-              > </space>Nostre Vin nouveau</l>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"
-              > </space>Vendangé sans eau,</l>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"
-                > </space><space rend="tab"> </space>Sera si fin,</l>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"
-                > </space><space rend="tab"> </space><space rend="tab"> </space>Si divin,</l>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"
-              > </space>Si fort, si puissant,</l>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"
-              > </space>Si bon, si charmant,</l>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"
-                > </space><space rend="tab"> </space>Si brillant,</l>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"
-                > </space><space rend="tab"> </space>Si petillant,</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Mais en récompense</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Nostre Vin nouveau</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Vendangé sans eau,</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Sera si fin,</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Si divin,</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Si fort, si puissant,</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Si bon, si charmant,</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Si brillant,</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Si petillant,</l>
             <l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Qu’un seul Verre dans
               un Ecot,</l>
             <l rend="i">Fera plus de fracas que n’auroit fait un Pot.</l>
@@ -187,8 +118,7 @@
           aussi-bien que la Chaise du Docteur, estoient garni d'un Drap bleu, avec des Chifres de
           soye &amp; d'or en plusieurs endroits. Ces Chifres servirent d'abord d'amusement à la
           Compagnie chacun s'attachant à les expliquer. On en vint à bout sans beaucoup de peine.
-            [On]<note resp="editor">Mot manquant dans le <hi rend="i"
-            >Mercure galant</hi>.</note> recherchoit une Fille de naissance, &amp; cette recherche estant
+            [On]<note resp="editor">Mot manquant dans le <hi rend="i">Mercure galant</hi>.</note> recherchoit une Fille de naissance, &amp; cette recherche estant
           approuvée, on connut bien-tost que c'estoit son Nom entrelassé avec celuy de la Belle. Le
           Pavé estoit parsemé de Laurier &amp; d'Herbes, avec force Fleurs. On observa les
           Cerémonies accoûtumées à le recevoir Docteur. On sortit ensuite, &amp; on le remena chez
@@ -299,9 +229,7 @@
           de M<hi rend="sup">r</hi> le Landgrave de Hesse-Cassel, où la considération
           tres-particuliere qu’on a partout pour le Roy, l’a fait recevoir comme Ambassadeur, c’est
           à dire, avec les mesmes honneurs que l’on rend à ceux qui ont cette qualité. Je vous diray
-          sur l'origine du mot de Landgrave, que les Allemans appellent les Comtes <hi rend="i"
-            >Graven</hi>, qui en vieux langage, signifie Juge &amp; les Latins les appelle <hi
-            rend="i">Comites</hi>, parce qu'anciennement la justice estoit renduë à la Cour, &amp;
+          sur l'origine du mot de Landgrave, que les Allemans appellent les Comtes <hi rend="i">Graven</hi>, qui en vieux langage, signifie Juge &amp; les Latins les appelle <hi rend="i">Comites</hi>, parce qu'anciennement la justice estoit renduë à la Cour, &amp;
           que ces Juges accompagnoient toûjours l'Empereur. Phatlzgrave, Markgrave, &amp; Burgrave,
           sont d'autres noms composez du mot <hi rend="i">Graven</hi> ainsi que Landgrave, &amp;
           restraints par ceux de <hi rend="i">Phaltz, Mark, Land, &amp; Burg</hi>, qui veulent dire,
@@ -395,8 +323,7 @@
               pust manquer. Apres le Repas, il alla rendre visite au Prince Philippe, &amp; à toutes
               les Princesses séparement, &amp; fut charmé de la beauté, &amp; de l'esprit de la
               Princesse de Curlande, qui répondit en François aux complimens qu'il luy fit. En suite
-              on le conduisit dans un tres superbe Apartement de plein pied, à celuy de M<hi
-                rend="sup">r</hi> le Landgrave, qui luy rendit sa visite dés ce mesme jour. Il a
+              on le conduisit dans un tres superbe Apartement de plein pied, à celuy de M<hi rend="sup">r</hi> le Landgrave, qui luy rendit sa visite dés ce mesme jour. Il a
               continué de manger avec le Prince, &amp; les Princesses, &amp; l'on a remarqué que
               Madame la Landgrave Regente, pour luy faire plus d'honneur, a presque tous les jours
               changé d'Habit. Elle en mettoit de tres-magnifiques, que Madame la Princesse de
@@ -445,11 +372,9 @@
               souvenir de sa Cour, il luy a fait présent de six grands Gobelets, d'un grand Bassin
               cizelé, &amp; d'une Eguiere faite en Autruche qui est sur une Montagne, avec un petit
               Cupidon sur le dos de cette Autruche, tui tient une Chaîne pour estre son Guide. C'est
-              un travail qu'on peut dire rare, &amp; qui surpasse infiniment la matiere. M<hi
-                rend="sup">r</hi> de Gombaut a répondu à cette libéralité, en donnant quantité de
+              un travail qu'on peut dire rare, &amp; qui surpasse infiniment la matiere. M<hi rend="sup">r</hi> de Gombaut a répondu à cette libéralité, en donnant quantité de
               Médailles qui contiennent les grandes Actions du Roy dans ses dernieres Campagnes,
-              &amp; faisant d'extraordinaires largesses à une partie des Officiers de M<hi
-                rend="sup">r</hi> le Landgrave, qui a eu la genérosité de défrayer tout son Train,
+              &amp; faisant d'extraordinaires largesses à une partie des Officiers de M<hi rend="sup">r</hi> le Landgrave, qui a eu la genérosité de défrayer tout son Train,
               pendant le temps qu'il a esté à Cassel. Il est retourné à Munster, où l'Evesque de ce
               nom luy donne des marques de son estime, &amp; reconnoist en sa Personne l'honneur
               qu'il reçoit d'avoir aupres de luy, de la part du Roy de France, un Envoyé dont le
@@ -473,34 +398,24 @@
           <lg>
             <l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Ne fripez poan mon
               Bavolet,</l>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"
-              > </space>C’est aujordy Dimanche.</l>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"
-              > </space>Je vous le dis tout net,</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>C’est aujordy Dimanche.</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Je vous le dis tout net,</l>
             <l rend="i"><space rend="tab"> </space><space rend="tab"> </space>J’ay des éplingues sur
               ma manche,</l>
             <l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Ma main peze autant
               qu’al est blanche,</l>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"
-              > </space>Et vous gagnerez un souflet,</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Et vous gagnerez un souflet,</l>
             <l rend="i"><space rend="tab"> </space><space rend="tab"> </space>Ne fripez poan mon
               Bavolet,</l>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"
-              > </space>C’est aujordy Dimanche.</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>C’est aujordy Dimanche.</l>
             <l/>
             <l rend="i">Attendez à demain que je vaze à la Ville,</l>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"
-              > </space>J’auray mes vieux habits,</l>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"
-                > </space><space rend="tab"> </space>Et les Lundis,</l>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"
-              > </space>Je ne sis pas si difficile ;</l>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"
-              > </space>Mais à présent, tout franc,</l>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"
-              > </space>Si vous faites l’impartinent ;</l>
-            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"
-              > </space>Si vous gastez mon linge blanc ;</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>J’auray mes vieux habits,</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Et les Lundis,</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Je ne sis pas si difficile ;</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Mais à présent, tout franc,</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Si vous faites l’impartinent ;</l>
+            <l rend="i"><space rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Si vous gastez mon linge blanc ;</l>
             <l rend="i">Je vous barray comme il faut de la haste,</l>
             <l rend="i">Je vous bateray, pinceray, piqueray,</l>
             <l rend="i">Je vous moudray, grugeray, pilleray,</l>
@@ -529,5 +444,4 @@
           une maniere de joüer plus propre à toucher le cœur.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

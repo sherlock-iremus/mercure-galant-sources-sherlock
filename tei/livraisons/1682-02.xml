@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1682-02">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, février 1682 [tome 2]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1682-02</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>février 1682</date> [tome 2].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1682-02"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, février 1682[tome 2].</head>
       <div type="article" xml:id="MG-1682-02_042" resp="mercure">
@@ -172,8 +108,7 @@
         <p>Rien n'est plus digne de suivre un Article si glorieux à la France, que les Paroles que
           je vous envoye. Tout est de M<hi rend="sup">r</hi> de Bassilly, qui les a faites à
           l'honneur du Roy. C'est ce qui luy arrive presque toûjours de composer l'un &amp; l'autre
-          ensemble. Il promet encor un Livre d´Airs qui sera gravé pour le mois de Mars,<note
-            resp="editor">Voir <ref target="MG-1682-06_083">cet article</ref> qui
+          ensemble. Il promet encor un Livre d´Airs qui sera gravé pour le mois de Mars,<note resp="editor">Voir <ref target="MG-1682-06_083">cet article</ref> qui
             annonce la parution effective de ce recueil.</note> &amp; qui fera connoistre au Public qu´il a toûjours le
           mesme génie pour le Chant, pour les Paroles, &amp; pour les seconds Couplets en
           diminution. Ce Livre sera intitulé, <hi rend="i">Second Mélange</hi>. Aucun des Airs qu'on
@@ -414,8 +349,7 @@
           en son Païs. Pendant qu'il considéroit ces Cartes, on luy apporta la Caisse dans laquelle
           les Pierres des Taillez sont conservées. Il en témoigna beaucoup de surprise, tant à cause
           du grand nombre, que de la prodigieuse grosseur de quelques-unes, y en ayant du poids de
-          dix onces. Il en mania trois ou quatre ; &amp; lors qu'on luy eut nommé M<hi rend="sup"
-            >r</hi> Janot pour le principal &amp; le plus expert des Opérateurs &amp; Chirurgiens de
+          dix onces. Il en mania trois ou quatre ; &amp; lors qu'on luy eut nommé M<hi rend="sup">r</hi> Janot pour le principal &amp; le plus expert des Opérateurs &amp; Chirurgiens de
           cette Maison, il écarta les mains, &amp; baissa les yeux, comme par signe d'admiration. Le
           Pere Prieur luy demanda s'il desiroit voir l'Eglise. Il répondit, <hi rend="i">que comme
             il n'estoit permis qu'à ceux de leur Religion de visiter leurs Mosquées, il faisoit
@@ -453,12 +387,10 @@
           attentif à voir la maniere d'enlever de gros blocs de Marbre. Estant dans la Bibliotheque,
           on luy montra deux Exemplaires du Camus, ou Ocean, qui est un Dictionnaire Arabe, &amp;
           plusieurs Livres dans la mesme Langue, entr'autres un Alcoran, &amp; des Livres de Prieres
-          à l'usage des Turcs ; mais rien ne l'arresta davantage, que les deux Volumes de <hi
-            rend="i">Flandria Illustrata</hi>, tres-beaux &amp; tres-bien enluminez. Celuy qui les
+          à l'usage des Turcs ; mais rien ne l'arresta davantage, que les deux Volumes de <hi rend="i">Flandria Illustrata</hi>, tres-beaux &amp; tres-bien enluminez. Celuy qui les
           luy montroit, luy fit remarquer jusqu'où le Roy avoit porté ses conquestes. Il remarqua
           luy-mesme la jonction de la Sambre &amp; de la Meuse ; &amp; comme s'il n'eust eu plus
-          rien à voir apres les Conquestes de Sa Majesté, il ferma le Livre, &amp; dit en riant, <hi
-            rend="i">Tomus secundus</hi>, de la mesme sorte qu'on le prononce à Paris. Il fut
+          rien à voir apres les Conquestes de Sa Majesté, il ferma le Livre, &amp; dit en riant, <hi rend="i">Tomus secundus</hi>, de la mesme sorte qu'on le prononce à Paris. Il fut
           reconduit jusqu'à ses Carrosses qui l'attendoient dans la Court. Il a veu la Foire, &amp;
           y remarquant tant de Richesses, il estoit surpris de ce que toutes les Boutiques de Paris
           ne laissoient pas d'estre ouvertes, comme si ceux qui en avoient à la Foire eussent dû
@@ -526,5 +458,4 @@
           lieu où ils doivent s'embarquer.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

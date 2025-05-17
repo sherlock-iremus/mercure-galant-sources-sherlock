@@ -1,65 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MG-1682-09a" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, septembre 1682 (première partie) [tome 9]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2016"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1682-09a/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>septembre 1682</date> (première partie) [tome
-          9].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1682-09"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1682-09a_np">
         <head>Au Lecteur</head>
@@ -182,8 +121,7 @@
           Secours qu’elle preste à ceux qui sont oppressez, mesme aux Princes &amp; aux Roys, font
           assez connoistre le sens que renferme cette Inscription. La voicy avec son Titre.</p>
         <quote>
-          <label>LUDOVICO MAGNO,<lb/>REGI<lb/>CHRISTIANISSIMO,<lb/><hi rend="sc"
-            >Versaliæ</hi>.</label>
+          <label>LUDOVICO MAGNO,<lb/>REGI<lb/>CHRISTIANISSIMO,<lb/><hi rend="sc">Versaliæ</hi>.</label>
           <lg>
             <l><hi rend="i">Regia sum</hi> Phœbi, <hi rend="i">sublimibus ampla triumphis,</hi></l>
             <l><hi rend="i">Qui fert auxilium</hi>
@@ -196,8 +134,7 @@
         <bibl><title>Mercure galant</title>, septembre 1682 (première partie) [tome 9],
           p. 12-13.</bibl>
         <p/>
-        <p>Rien n’estant plus difficile que de bien faire le Portrait du Roy, voicy un avis que M<hi
-            rend="sup">r</hi> Bonpart, S<hi rend="sup">r</hi> de S. Victor, de Clermont en Auvergne,
+        <p>Rien n’estant plus difficile que de bien faire le Portrait du Roy, voicy un avis que M<hi rend="sup">r</hi> Bonpart, S<hi rend="sup">r</hi> de S. Victor, de Clermont en Auvergne,
           donne aux Sculpteurs, &amp; aux Peintres.</p>
         <quote>
           <lg>
@@ -365,8 +302,7 @@
             Cloud</hi>, &amp; estoit ornée de Balets, de Machines, &amp; de changemens de Theatre.
           Le Prologue estoit sur la Naissance de Monseigneur le Duc de Bourgogne. Je vous l’envoye.
           On dit que M<hi rend="sup">r</hi> Compoint le jeune en a fait les Vers. Leur lecture vous
-          fera juger de leur bonté. Il doit donner dans peu un Livre au Public sous le nom de <hi
-            rend="i">la Philosophie des Dames</hi>. La Décoration de ce Prologue représentoit dans
+          fera juger de leur bonté. Il doit donner dans peu un Livre au Public sous le nom de <hi rend="i">la Philosophie des Dames</hi>. La Décoration de ce Prologue représentoit dans
           les costez du Theatre, des Bois &amp; des Plaines, &amp; dans l’enfoncement, un magnifique
           Palais plein de Feux &amp; d’artifice, &amp; environné de Fontaines de Vin jalissantes. La
           Nymphe de Versailles, &amp; la Nymphe de S. Cloud, parurent sur ce Theatre, &amp;
@@ -547,8 +483,7 @@
         <p>Toutes les Communautez, &amp; tous les Corps, ayant témoigné leur zele en faisant chanter
           le <hi rend="i">Te Deum</hi>, M<hi rend="sup">rs</hi> de l’Académie Françoise, qui ont
           l’honneur d’avoir le Roy pour Protecteur de leur Compagnie, en ont fait chanter un en
-          Musique dans la Chapelle du Louvre. Il estoit de la composition de M<hi rend="sup"
-          >r</hi> Oudot, dont je vous ay déja parlé plusieurs fois, &amp; il fut exécuté par plus de
+          Musique dans la Chapelle du Louvre. Il estoit de la composition de M<hi rend="sup">r</hi> Oudot, dont je vous ay déja parlé plusieurs fois, &amp; il fut exécuté par plus de
           soixante Personnes, Joüeurs d’Instrumens, &amp; Musiciens. La plûpart de ces Messieurs se
           sont distinguez en cette occasion par leurs Ouvrages.</p>
       </div>
@@ -775,8 +710,7 @@
         <p/>
         <p>Vous me demandez des nouvelles de l’Académie de Musique. Les Assemblées y sont fort
           nombreuses. Cependant on n’y représente qu’<hi rend="i">Alceste</hi>, qui n’est pas
-          nouveau. Il est vray qu’il l’est par les Machines, ausquelles M<hi rend="sup"
-          >r</hi> Bérain a parfaitement réüssy. C’est à luy que nous devons l’invention des Lumieres
+          nouveau. Il est vray qu’il l’est par les Machines, ausquelles M<hi rend="sup">r</hi> Bérain a parfaitement réüssy. C’est à luy que nous devons l’invention des Lumieres
           vives pour les Illuminations. Le Soleil qui parut devant la Porte de l’Opéra le jour que
             M<hi rend="sup">r</hi> de Lully le donna libéralement au Peuple, estoit composé de plus
           de mille Lampes. Il en fit un essay devant sa Porte, dés les premiers jours qu’on fit icy
@@ -814,8 +748,7 @@
           source de tous les bonheurs dont joüit la France. La chose fut exécutée de cette maniere
           par les soins de M<hi rend="sup">r</hi> de Lenglet, Syndic de ce sçavant Corps, qui fut
           chargé de l'ordre de toute la Cerémonie.</p>
-        <p>M<hi rend="sup">r</hi> Tavernier Recteur, apres avoir fait agréer à M<hi rend="sup"
-            >r</hi> l'Archevesque de Paris que l'Université fit chanter un <hi rend="i">Te
+        <p>M<hi rend="sup">r</hi> Tavernier Recteur, apres avoir fait agréer à M<hi rend="sup">r</hi> l'Archevesque de Paris que l'Université fit chanter un <hi rend="i">Te
           Deum</hi>, &amp; à M<hi rend="sup">rs</hi> les Doyen &amp; Chapitre qu'elle allast
           processionnellement à leur Eglise le jour que je viens de vous marquer, envoya dés le
           Jeudy 3. du mesme mois son Mandement aux Doyens des Facultez, aux Procureurs des Nations,
@@ -837,8 +770,7 @@
           Dame, où elle fut reçeuë dans l'Eglise au bruit des plus grosses Cloches, qui avoient
           commencé à sonner dés le matin, &amp; dans le Choeur, au son de plusieurs Instrumens de
           Musique, qui formoient une Symphonie tres-agreable. On se plaça en la maniere ordinaire.
-          La Faculté de Théologie, &amp; celle de Medecine, du costé droit, ayant M<hi rend="sup"
-            >r</hi> le Recteur à leur teste. Celles de Droit &amp; des Arts, remplirent le costé
+          La Faculté de Théologie, &amp; celle de Medecine, du costé droit, ayant M<hi rend="sup">r</hi> le Recteur à leur teste. Celles de Droit &amp; des Arts, remplirent le costé
           gauche ; &amp; la foule des Docteurs, des Licenciez, des Bacheliez, &amp; des Maistres és
           Arts, se trouva si grande, qu'encor que M<hi rend="sup">r</hi>s du Chapitre N. Dame, par
           un effet du zele qu'ils ont pour tout ce qui regarde la gloire du Roy, eussent abandonné
@@ -848,8 +780,7 @@
           tres-particulier du mêlange des diférentes couleurs, &amp; des diférens Habits qui les
           distinguent. [...] La Messe fut chantée, aussi-bien que le <hi rend="i">Te Deum</hi> à la
           fin, par la Musique de cette Eglise, &amp; par un grand nombre d'Instrumens, qui
-          répondirent admirablement à la beauté &amp; à la force de la composition de M<hi
-            rend="sup">r</hi> Mignon. [...]</p>
+          répondirent admirablement à la beauté &amp; à la force de la composition de M<hi rend="sup">r</hi> Mignon. [...]</p>
       </div>
       <div type="article" xml:id="MG-1682-09a_109" resp="louise">
         <head resp="editor">Illuminations dans la Galerie du Louvre le jour de la Saint-Louis</head>
@@ -863,8 +794,7 @@
           servy à Paris, donna le premier l’idée de s’en servir dans l’Illumination dont je vous ay
           entretenuë amplement le dernier mois. Il en fit un Dessein, &amp; en suite tous les
           Intéressez dans cette dépense contribuerent de leurs avis, de leurs soins, &amp; de leur
-          bource, pour cette Illumination, dont on a si avantageusement parlé. M<hi rend="sup"
-            >r</hi> Girardon, fameux Sculpteur, assez connu par les beaux Ouvrages qu’il a faits,
+          bource, pour cette Illumination, dont on a si avantageusement parlé. M<hi rend="sup">r</hi> Girardon, fameux Sculpteur, assez connu par les beaux Ouvrages qu’il a faits,
           &amp; dont on voit un fort grand nombre à Versailles, estant logé au Portique du milieu,
           &amp; son Logis occupant plus d’étenduë que les autres, fit décorer &amp; illuminer ce
           Portique a ses dépens, &amp; ne laissa pas d’entrer encor pour sa part dans les autres
@@ -892,8 +822,7 @@
         <p>Monseigneur le Dauphin trouvant l'Image de la Guerre dans l'exercice de la Chasse, a
           continué pendant tout ce mois à prendre ce divertissement. Il a chassé tres-souvent aux
           environs de Versailles, d'où il est venu trois fois dans la Plaine de S. Denys, &amp;
-          chaque fois ce Prince a fait collation à S. Oüen dans la belle Maison de M<hi rend="sup"
-            >r</hi> de Boisfranc. Monsieur, Madame, &amp; Mademoiselle, vinrent se promener au mesme
+          chaque fois ce Prince a fait collation à S. Oüen dans la belle Maison de M<hi rend="sup">r</hi> de Boisfranc. Monsieur, Madame, &amp; Mademoiselle, vinrent se promener au mesme
           Lieu au commencement de ce mois. Leurs Altesses Royales estoient accompagnées de Madame la
           Princesse de Rohan, de Madame la Duchesse de Vantadour, de Madame de Grancé, de Madame la
           Marquise d'Effiat, de Madame de Gourdon, &amp; de Mademoiselle de Loupes. Toute cette
@@ -921,8 +850,7 @@
           Roy mesme a fait connoistre qu'il estoit vivement touché de la maladie de ce grand
           Ministre. Ce Prince connoist mieux que personne les lumieres de son esprit, &amp; ses
           Sujets connoissent son équité. Il semble que le Ciel, qui favorise tous les voeux du Roy,
-          parce qu'il soûtient ses intérests, ait non seulement redonné la santé à M<hi rend="sup"
-            >r</hi> le Chancelier, pour servir ce Monarque, mais qu'il en ait mesme hâté le retour,
+          parce qu'il soûtient ses intérests, ait non seulement redonné la santé à M<hi rend="sup">r</hi> le Chancelier, pour servir ce Monarque, mais qu'il en ait mesme hâté le retour,
           une si prompte guérison dans le temps qu'on l'attendoit le moins, tenant du miracle.</p>
       </div>
       <div type="article" xml:id="MG-1682-09a_118" copyOf="JLB_MG-1682-09a_116">
@@ -935,8 +863,7 @@
           Celestins, pour demander cette guérison. Le nom de ces Peres me fait souvenir de ce qui
           s'est passé à leur Convent. Quoy qu'ils n'ayent rang icy que les derniers, ce sont eux qui
           ont chanté à Paris le premier <hi rend="i">Te Deum</hi> pour la Naissance de Monseigneur
-          le Duc de Bourgogne. Voicy comment la chose arriva. Madame Fieubet, Femme de M<hi
-            rend="sup">r</hi> Fieubet, Conseiller d'Etat, &amp; Chancelier de la Reyne, ayant reçeu
+          le Duc de Bourgogne. Voicy comment la chose arriva. Madame Fieubet, Femme de M<hi rend="sup">r</hi> Fieubet, Conseiller d'Etat, &amp; Chancelier de la Reyne, ayant reçeu
           la nouvelle de cette Naissance dès cinq heures du matin, monta en Carrosse pour aller à
           Versailles ; &amp; comme elle demeure pres de ce Convent, elle l'apprit à ces Peres, qui
           ayant chanté aussitost le <hi rend="i">Te Deum</hi>, eurent l'avantage d'estre les
@@ -1142,8 +1069,7 @@
         <bibl><title>Mercure galant</title>, septembre 1682 (première partie) [tome 9],
           p. 145-163.</bibl>
         <p>Quoy que le secours de la Raison soit d’un grand usage contre beaucoup de malheurs, elle
-          est pourtant bien souvent l’ennemie de nos plaisirs. Voicy ce que luy fait dire M<hi
-            rend="sup">r</hi> de Vin, Substitut de M<hi rend="sup">r</hi> le Procureur du Roy au
+          est pourtant bien souvent l’ennemie de nos plaisirs. Voicy ce que luy fait dire M<hi rend="sup">r</hi> de Vin, Substitut de M<hi rend="sup">r</hi> le Procureur du Roy au
           Chastelet, par un Amant qui la trouve trop severe. C’est celuy dont je vous envoyay il y a
           six mois la galante Piece qui a pour titre, <hi rend="i">L’Amour devenu aveugle</hi>. Si
           l’exemple de Caton vous fait peine en celle-cy, parce qu’on l’y voit Amant de sa Femme,
@@ -1236,8 +1162,7 @@
             <l rend="i">Qui fixa la Fortune à sa rare prudence,</l>
             <l rend="i">Qui par sa vive, ferme, &amp; fléxible éloquence,</l>
             <l rend="i">Sçeut des Athéniens dompter l’esprit mutin,</l>
-            <l><hi rend="i">Qui seul par ton secours évita le</hi><note resp="author"
-                >L’Ostracisme.</note>
+            <l><hi rend="i">Qui seul par ton secours évita le</hi><note resp="author">L’Ostracisme.</note>
               <hi rend="i">destin</hi></l>
             <l rend="i">Des Chefs infortunez de ce Peuple volage,</l>
             <l rend="i"> Et qui moins Orateur que Sage,</l>
@@ -1561,8 +1486,7 @@
         <bibl><title>Mercure galant</title>, septembre 1682 (première partie) [tome 9],
           p. 202-205.</bibl>
         <p/>
-        <p>La nouvelle Fable que je vous envoye, est de la façon de M<hi rend="sup"
-          >r</hi> Daubaine.</p>
+        <p>La nouvelle Fable que je vous envoye, est de la façon de M<hi rend="sup">r</hi> Daubaine.</p>
         <quote>
           <label>LE CHAT,<lb/>ET LE COQ.<lb/>FABLE.</label>
           <lg>
@@ -1658,8 +1582,7 @@
         <p/>
         <p>Madame de Souvray, Abbesse de Villers Canivet, dont je vous parlay amplement il y a trois
             mois<note resp="editor">Voir <ref target="MG-1682-04_203">cet article</ref>.</note>, reçoit tous les jours de nouvelles marques de l'estime que l'on
-          fait de sa vertu, &amp; de son mérite. M<hi rend="sup">r</hi> l'Evesque de Rennes, M<hi
-            rend="sup">r</hi> le Comte de Nancrey, Gouverneur d'Arras, M<hi rend="sup">r</hi> le
+          fait de sa vertu, &amp; de son mérite. M<hi rend="sup">r</hi> l'Evesque de Rennes, M<hi rend="sup">r</hi> le Comte de Nancrey, Gouverneur d'Arras, M<hi rend="sup">r</hi> le
           Comte &amp; Madame la Comtesse d'Aubigny, M<hi rend="sup">r</hi> le Baron de Neufvillette
           ; &amp; enfin tout ce qu'il y a de Personnes considérables dans le Païs, luy envoyerent
           faire compliment le jour de Sainte Anne, qui est sa Patronne. Cette Feste fut celebrée par
@@ -1752,8 +1675,7 @@
           dommages de Chio, pour lesquels ils demandoient que l’on payast sept cens Bources de cinq
           cens Ecus chacune, ils avoient esté contraints de se contenter de son Billet, par lequel
           il promettoit de faire dans quelques mois un Présent au Grand Seigneur de certaines
-          Raretez qui luy seroient agreables. Le temps est venu de satisfaire au Billet ; &amp; M<hi
-            rend="sup">r</hi> de Guilleragues n’ayant rien promis qu’en son nom seul, voicy comment
+          Raretez qui luy seroient agreables. Le temps est venu de satisfaire au Billet ; &amp; M<hi rend="sup">r</hi> de Guilleragues n’ayant rien promis qu’en son nom seul, voicy comment
           il a terminé cette grande Affaire.</p>
         <p>Le Grand Visir ayant sçeu en quoy ce Présent devoit consister, le trouva tres éloigné des
           prétentions qu’on avois euës, &amp; ne pouvant croire que M<hi rend="sup">r</hi>
@@ -1784,8 +1706,7 @@
           plaisir d’exposer pour luy leurs libertez &amp; leurs vies ; &amp; qu’en France, lors
           qu’un Homme de qualité avoit l’avantage de mourir en servant son Prince, on regardoit
           cette mort comme un honneur dont on alloit féliciter ses Parens.</p>
-        <p>Depuis le jour de cette visite, il ne s’en passa aucun sans que les Drogmans de M<hi
-            rend="sup">r</hi> de Guilleragues se montrassent à la Porte, non pour y rien proposer de
+        <p>Depuis le jour de cette visite, il ne s’en passa aucun sans que les Drogmans de M<hi rend="sup">r</hi> de Guilleragues se montrassent à la Porte, non pour y rien proposer de
           plus que ce qu’il avoit proposé luy-mesme, mais seulement pour se présenter, &amp; faire
           voir qu’il ne craignoit point les Déliberations qu’on y pouvoit prendre, puis qu’il
           marquoit, en envoyant ses Drogmans, l’impatience qu’il avoit de les sçavoir. Ils luy
@@ -1810,8 +1731,7 @@
           qu’ils luy porterent. Il eut pendant un quart d’heure les yeux attachez dessus, &amp; son
           silence fit assez paroître son étonnement. Celuy du Visir ne fut pas moindre. Cependant,
           comme il s’agissoit de se conserver, ou de rompre avec la France, selon qu’il seroit
-          violent ou moderé, il laissa passer encor quelques jours sans rien dire à M<hi rend="sup"
-            >r</hi> l’Ambassadeur. Les manieres de la Porte luy estoient connuës, &amp; comme il
+          violent ou moderé, il laissa passer encor quelques jours sans rien dire à M<hi rend="sup">r</hi> l’Ambassadeur. Les manieres de la Porte luy estoient connuës, &amp; comme il
           sçavoit qu’elle suit sous ce Visir une Politique extraordinaire, cette conduite ne luy
           répondoit de rien.</p>
         <p>Les choses demeurerent en cet état jusqu’au 9. de May. Ce jour-là, sur les six heures du
@@ -1838,9 +1758,7 @@
           luy faire ce message. M<hi rend="sup">r</hi> de Guilleragues l’ayant assuré qu’il se
           mettroit en chemin peu de temps apres, cet Officier alla l’attendre à la Marine, du costé
           de Constantinople ; &amp; M<hi rend="sup">r</hi> l’Ambassadeur ayant achevé de se préparer
-          pour cette entreveuë, sortit à dix heures de son Palais, accompagné seulement de M<hi
-            rend="sup">rs</hi> Fornetti, Fontaine, &amp; Perruca, ses Drogmans ; de M<hi rend="sup"
-            >r</hi> Hermage son Medecin ; de M<hi rend="sup">rs</hi> Fabre &amp; Sougla, Marchands ;
+          pour cette entreveuë, sortit à dix heures de son Palais, accompagné seulement de M<hi rend="sup">rs</hi> Fornetti, Fontaine, &amp; Perruca, ses Drogmans ; de M<hi rend="sup">r</hi> Hermage son Medecin ; de M<hi rend="sup">rs</hi> Fabre &amp; Sougla, Marchands ;
           de son Valet de Chambre, &amp; de quatre Valets-de-pied. Il ne voulut pas une Suite plus
           nombreuse, parce qu’on l’avoit prié de ne mener avec luy que dix Personnes. Sa contenance
           estoit assurée, &amp; il marquoit un air libre, qui l’a fait d’autant plus admirer, qu’on
@@ -1858,14 +1776,12 @@
           des deux Marchands, &amp; de son Valet de Chambre, qui se tinrent tous debout derriere son
           Siege.</p>
         <p>Le Kiaïa commença son discours par une nouvelle exagération du dommage de Chio, de
-          l’indignation de Sa Hautesse, &amp; du mécontentement de tous les Grands de la Porte. M<hi
-            rend="sup">r</hi> de Guilleragues, à qui ce commencement fit croire qu’on avoit dessein
+          l’indignation de Sa Hautesse, &amp; du mécontentement de tous les Grands de la Porte. M<hi rend="sup">r</hi> de Guilleragues, à qui ce commencement fit croire qu’on avoit dessein
           de pousser l’Affaire à bout, répondit de la maniere du monde la plus intrépide. Il fit
           voir avec combien de justice l’Empereur son Maître avoit résolu la punition des Corsaires
           de Barbarie, &amp; qu’on ne pouvoit examiner le procedé de M<hi rend="sup">r</hi> du
           Quesne, sans demeurer convaincu qu’on n’avoit eu aucune pensée de donner au Grand Seigneur
-          les sujets de plainte que l’on prétendoit. Le Kiaïa, qui à la chaleur que M<hi rend="sup"
-            >r</hi> de Guilleragues faisoit paroître, s’aperçeut qu’il n’estoit pas disposé à rien
+          les sujets de plainte que l’on prétendoit. Le Kiaïa, qui à la chaleur que M<hi rend="sup">r</hi> de Guilleragues faisoit paroître, s’aperçeut qu’il n’estoit pas disposé à rien
           accorder de plus que ce qu’il avoit offert, commença de prendre un ton plus doux, parlant
           neantmoins d’une maniere qui faisoit connoître, qu’on s’obstineroit à demander qu’il
           augmentast son Présent. Il l’assura de l’estime particuliere du Visir, qui ne pouvoit
@@ -1874,8 +1790,7 @@
           ne négligeoit aucune chose qui pust y contribuer, il ajoûta que tous ses soins ne
           produiroient rien, s’il n’en hâtoit le succés, en faisant un offre plus considérable,
           &amp; qu’il n’avoit aucune raison de s’en dispenser, puis que par les termes mesmes de son
-          Billet, il s’estoit engagé à faire un Présent qui fust agreable au Grand Seigneur. M<hi
-            rend="sup">r</hi> l’Ambassadeur répondit sur ce dernier point, qu’il entendoit le mot
+          Billet, il s’estoit engagé à faire un Présent qui fust agreable au Grand Seigneur. M<hi rend="sup">r</hi> l’Ambassadeur répondit sur ce dernier point, qu’il entendoit le mot
           d’agreable autrement qu’on ne l’expliquoit à la Porte ; que ce qu’il avoit promis devoit
           estre composé de choses que Sa Hautesse agréeroit comme belles, rares, &amp; curieuses,
           &amp; non comme riches &amp; d’un prix extraordinaire ; &amp; qu’un Gentilhomme ne pouvoit
@@ -1893,8 +1808,7 @@
           dela du pouvoir d’un Gentilhomme, on ne devoit point prétendre qu’il songeast à
           l’augmenter. Le Kiaïa luy fit entendre que l’on s’étonnoit de ce qu’il n’avoit point eu
           réponse de France ; mais que cela ne devoit point empescher l’accommodement, puis qu’il
-          pouvoit prendre les Effets des Marchands François dans toutes les Echelles. M<hi
-            rend="sup">r</hi> de Guilleragues répondit, que le Présent qu’il avoit promis, ne
+          pouvoit prendre les Effets des Marchands François dans toutes les Echelles. M<hi rend="sup">r</hi> de Guilleragues répondit, que le Présent qu’il avoit promis, ne
           regardant que luy seul, rien ne l’avoit obligé d’en avertir l’Empereur son Maître, &amp;
           qu’on devoit craindre l’indignation d’un si grand Prince, s’il apprenoit que l’on
           s’obstinast à luy proposer de pareilles choses. Alors le Kiaïa désesperant de venir à bout
@@ -1953,8 +1867,7 @@
           paroles, &amp; le Kiaïa tourna le discours sur les Armateurs Chrestiens, disant qu’il ne
           falloit pas que Sa Majesté les protégeast, ny qu’elle souffrist qu’il y eust des François
           sur leurs Vaisseaux. M<hi rend="sup">r</hi> de Guilleragues répondit, qu’on pouvoit
-          connoistre que le Roy estoit fort éloigné de les vouloir protéger, puis que M<hi
-            rend="sup">r</hi> du Quesne avoit maltraité quelques-uns de ceux qu’il avoit rencontrez
+          connoistre que le Roy estoit fort éloigné de les vouloir protéger, puis que M<hi rend="sup">r</hi> du Quesne avoit maltraité quelques-uns de ceux qu’il avoit rencontrez
           pendant qu’il estoit dans l’Archipel, &amp; qu’il avoit pris tous les François qu’il avoit
           trouvez parmy eux, pour les envoyer servir dans les Galeres ; mais que malgré de grands
           soins, &amp; beaucoup de prévoyance, Sa Majesté ne pouvoit pas absolument empescher que
@@ -2010,14 +1923,12 @@
           répondre de les bien choisir, il le prioit de deux choses ; l’une, de vouloir bien se
           charger du soin de les acheter ; &amp; l’autre, d’avancer pour quelques mois l’argent
           qu’il y falloit employer, jusques à la concurrence de ce qu’il avoit promis. Hussein Aga
-          répondit qu’il ne pouvoit luy rien refuser ; &amp; avant qu’il le quittast, M<hi
-            rend="sup">r</hi> de Guilleragues luy fit servir la Collation. Parmy les choses qui la
+          répondit qu’il ne pouvoit luy rien refuser ; &amp; avant qu’il le quittast, M<hi rend="sup">r</hi> de Guilleragues luy fit servir la Collation. Parmy les choses qui la
           composoient, il y eut un Plat de Fraises. C’estoit un Fruit inconnu pour luy. Il les
           trouva excellentes, &amp; le pria de luy en donner un autre Plat pour l’offrir au Grand
           Seigneur. M<hi rend="sup">r</hi> de Guilleragues qui en fait cultiver plusieurs Couches
           dans son Jardin, satisfit avec plaisir à cette demande. Trois jours apres, Hussein Aga le
-          vint retrouver, &amp; luy apporta les Pierreries. A cette seconde visite, M<hi rend="sup"
-            >r</hi> l’Ambassadeur luy dit, que ne voulant pas que ses Présens passassent pour un
+          vint retrouver, &amp; luy apporta les Pierreries. A cette seconde visite, M<hi rend="sup">r</hi> l’Ambassadeur luy dit, que ne voulant pas que ses Présens passassent pour un
           payement, puis qu’il les faisoit en son particulier, &amp; non de la part de l’Empereur
           son Maistre, ny qu’on pust luy dire dans quelque temps que le Grand Seigneur n’en auroit
           pas esté satisfait, il prétendoit qu’ils fussent donnez à Sa Hautesse mesme par ses
@@ -2041,8 +1952,7 @@
           qui estoit aussi huilé, &amp; qui leur couvroit jusqu’aux genoux. Apres qu’on luy eut
           donné le plaisir de ce Combat, on fit avancer les Gens de M<hi rend="sup">r</hi>
           l’Ambassadeur. M<hi rend="sup">r</hi> Noquerre son Chancelier (car tous les Ambassadeurs
-          &amp; les Consuls des Echelles du Levant ont un Chancelier,) M<hi rend="sup"
-          >r</hi> Merille son Secretaire, M<hi rend="sup">r</hi> Fabre Marchand, les trois Drogmans
+          &amp; les Consuls des Echelles du Levant ont un Chancelier,) M<hi rend="sup">r</hi> Merille son Secretaire, M<hi rend="sup">r</hi> Fabre Marchand, les trois Drogmans
           de France, &amp; dix Valets-de-pied, prirent chacun une partie des Présens qui avoient
           esté portez dans une Chambre voisine du Kiosque par ordre du Telkegi. Le Telkegi est un
           Officier du Grand Visir qui va de sa part porter la parole au Grand Seigneur. C’est en
@@ -2322,8 +2232,7 @@
         <bibl><title>Mercure galant</title>, septembre 1682 (première partie) [tome 9],
           p. 313-318.</bibl>
         <p/>
-        <p>Je conviens, Madame, de tout ce que vous me dites à l’avantage du Poëme intitulé, <hi
-            rend="i">l’Art de Prescher</hi>, dont vous me mandez, qu’un de vos Amis vous a envoyé le
+        <p>Je conviens, Madame, de tout ce que vous me dites à l’avantage du Poëme intitulé, <hi rend="i">l’Art de Prescher</hi>, dont vous me mandez, qu’un de vos Amis vous a envoyé le
           Manuscrit ; mais je doute fort que ce Manuscrit soit assez correct, pour vous en avoir
           fait voir toutes les beautez. L’Autheur de ce Poëme qui est divisé en quatre Chants, ayant
           confié son Original à quelques Personnes qui l’ont fait transcrire ; tous les Curieux ont
@@ -2377,5 +2286,4 @@
           reste d'autres Nouvelles.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

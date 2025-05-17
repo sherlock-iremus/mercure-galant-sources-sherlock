@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1688-02">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, février 1688 [tome 2]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1688-02</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>février 1688</date> [tome 2].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1688-02"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, février 1688 [tome 2].</head>
       <div type="article" xml:id="MG-1688-02_000" resp="wordpro">
@@ -111,14 +47,12 @@
         <p>Je commence à mon ordinaire, Madame, c’est à dire, sans donner aucunes loüanges au Roy,
           mais en vous parlant seulement de quelques-unes de ses actions. Elles sont toujours si
           loüables d’elles-mêmes, qu’elles portent leurs Eloges avec elles. Vous avez sceu que Sa
-          Majesté a donné la Charge de President au Mortier qui vaquoit par la mort de feu M<hi
-            rend="sup">r</hi> le President de Mesme, à M<hi rend="sup">r</hi> de Neuchatel son Fils,
+          Majesté a donné la Charge de President au Mortier qui vaquoit par la mort de feu M<hi rend="sup">r</hi> le President de Mesme, à M<hi rend="sup">r</hi> de Neuchatel son Fils,
           Conseiller au Parlement, à present M<hi rend="sup">r</hi> de Mesme. Ce Monarque n’a pas
           seulement consideré qu’il donnoit au Fils la Charge du Pere. C’estoit à la verité un droit
           qui luy donnoit sujet d’y pretendre, mais ce n’en estoit pas un suffisant pour l’obtenir,
           il faut un droit demerite, &amp; d’un merite qui convienne aux emplois qu’on doit remplir.
-          C’est ce que le Roy, aprés s’en estre particulierement informé, a trouvé dans M<hi
-            rend="sup">r</hi> de Neuchatel, qui estant Substitut de M<hi rend="sup">r</hi> le
+          C’est ce que le Roy, aprés s’en estre particulierement informé, a trouvé dans M<hi rend="sup">r</hi> de Neuchatel, qui estant Substitut de M<hi rend="sup">r</hi> le
           Procureur General, a travaillé avec toute l’assiduité &amp; toute la capacité imaginable.
           On ne doit pas s’étonner aprés cela, s’il a esté gratifié de la Charge de President au
           Mortier, puis qu’un sujet qui la meritoit, s’est trouvé Fils d’un Pere qui s’estoit
@@ -339,8 +273,7 @@
           beaucoup de celles qui tiennent le premier rang dans la Robe. Comme il avoit de l’esprit,
           du sçavoir, &amp; une probité à l’épreuve, il a esté honoré de plusieurs commissions
           extraordinaires. Il laisse deux Fils, dont l’Aisné a exercé long-temps la Charge de
-          Procureur General au Parlement de Mets. C’est luy qui a fait le Poëme, intitulé, <hi
-            rend="i">Charenton, ou l’Heresie détruite</hi>. Il eut l’honneur de le presenter au Roy
+          Procureur General au Parlement de Mets. C’est luy qui a fait le Poëme, intitulé, <hi rend="i">Charenton, ou l’Heresie détruite</hi>. Il eut l’honneur de le presenter au Roy
           dans le temps de la cassation de l’Edit de Nantes, &amp; les marques de bonté qu’il receut
           de ce Monarque, luy firent connoistre solidement que cet Ouvrage luy estoit fort agreable.
           L’autre Fils de feu M<hi rend="sup">r</hi> le Noble est President à Troyes.</p>
@@ -527,9 +460,7 @@
         <quote>
           <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
               placer les Figures</hi> : l’Air qui commence par, <hi rend="i">Nos Bois ont perdu
-              leurs feüillages</hi>, doit regarder la page 99.</note><ref
-            target="images/1688-02_098.JPG">&#x2028; <figure
-              >&#x2028;
+              leurs feüillages</hi>, doit regarder la page 99.</note><ref target="images/1688-02_098.JPG">&#x2028; <figure>&#x2028;
               <graphic url="images/1688-02_098.JPG"/>
               &#x2028;
             </figure>&#x2028; </ref>
@@ -544,8 +475,7 @@
             <l rend="i">Helas, que t'ay-je fait pour en chasser les ombres.</l>
           </lg>
         </quote>
-        <ref target="images/1688-02_098.JPG">&#x2028; <figure
-            >&#x2028;
+        <ref target="images/1688-02_098.JPG">&#x2028; <figure>&#x2028;
             <graphic url="images/1688-02_098.JPG"/>
             &#x2028;
           </figure>&#x2028; </ref>
@@ -884,8 +814,7 @@
               bien-aise, &amp; que tu me sçauras gré d’avoir pris pour toy ce penible soin. Par là
               je t’ay épargné l’embarras de choisir, &amp; de trouver des défaites pour refuser
               honnestement les Belles dont tu n’aurois pas fait choix. Voicy quel est le mien, voicy
-              quelle est la Femme que je t’ay donnée. Elle se nomme</hi> Tacita Poupeia ; <hi
-              rend="i">elle est de Flandres, &amp; originaire d’Italie. Elle descend en droite ligne
+              quelle est la Femme que je t’ay donnée. Elle se nomme</hi> Tacita Poupeia ; <hi rend="i">elle est de Flandres, &amp; originaire d’Italie. Elle descend en droite ligne
               du Grand Pompée, comme le marque son nom, où le temps a pourtant fait quelque petit
               changement. Elle est jeune, jolie, grande, &amp; bien faite. Elle n’est ny coquette,
               ny medisante, ny grande parleuse. Elle a une douceur charmante, son humeur est
@@ -1193,8 +1122,7 @@
               les plus delicieux, &amp; les liqueurs s'y répandoient de tous costez. Une ou deux
               Festes de cette force épuiseroient les Costes d'où vient le vin de S. Laurent, qui
               l'emporta pour cette fois sur les vins du Rhin, dont on fait d'ailleurs tant de cas à
-              la Diete. M<hi rend="sup">r</hi> le Comte de Crecy eut soin d'égayer M<hi rend="sup"
-                >rs</hi> les Ambassadeurs ; &amp; Madame la Comtesse entretint les Ambassadrices
+              la Diete. M<hi rend="sup">r</hi> le Comte de Crecy eut soin d'égayer M<hi rend="sup">rs</hi> les Ambassadeurs ; &amp; Madame la Comtesse entretint les Ambassadrices
               &amp; les Dames ; car dans ces sortes de repas les Dames, quoy qu'assises à la mesme
               Table, ne s'y mêlent pas ordinairement parmy les hommes. Par ce moyen les uns sont
               moins contraints à goûter le vin ; &amp; les Dames de leur costé profitent mieux de la
@@ -1260,13 +1188,11 @@
           maniere qu’elle les raconte, &amp; qu’elle ne rapporte aucun incident qui ne soit vray.
           Ainsi l’on peut asseurer qu’elle a travaillé d’aprés Nature. Je vous en diray davantage la
           premiere fois.</p>
-        <p>L’autre Ouvrage qui doit paroistre dans le mesme temps, est une suite des <hi rend="i"
-            >Dialogues Satyriques &amp; Moraux</hi>, de M. Petit de Roüen. Vous m’avez marqué estre
+        <p>L’autre Ouvrage qui doit paroistre dans le mesme temps, est une suite des <hi rend="i">Dialogues Satyriques &amp; Moraux</hi>, de M. Petit de Roüen. Vous m’avez marqué estre
           si contente de la premiere partie, qu’il y a grande apparence que vous lirez la seconde
           avec le mesme plaisir. On m’asseure que parmy ces Dialogues nouveaux, il y en a un d’une
           nature à exciter de la curiosité à tout le monde. Je sçay que la matiere vous sera fort
           agreable. Elle est du temps, &amp; regarde beaucoup de Personnes que vous estimez.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

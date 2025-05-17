@@ -1,70 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, juillet 1680 [tome 9]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IREMUS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Édition numérique</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2015"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1680-07/</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, juillet <date>1680</date> [tome 9].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1680-07"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <div type="article" xml:id="MG-1680-07_155" resp="mercure">
         <head>Air nouveau</head>
         <bibl><title>Mercure galant</title>, juillet 1680 [tome 9], p. 155-156.</bibl>
         <p>Le fameux Autheur dont je vous ay déja envoyé tant d’Airs nouveaux, a fait encor
-          celuy-cy <note resp="editor">Le « fameux Autheur » est probablement Bacilly, auteur de dix des dix-neuf airs publiés entre octobre 1679 (première publication d'un air de Bacilly dans le <hi  rend="italic">Mercure galant</hi>) et la publication de l'air précédant celui-ci. Quatre de ces airs sont attribués à un autre compositeur et cinq sont anonyme.</note>.</p>
+          celuy-cy <note resp="editor">Le « fameux Autheur » est probablement Bacilly, auteur de dix des dix-neuf airs publiés entre octobre 1679 (première publication d'un air de Bacilly dans le <hi rend="italic">Mercure galant</hi>) et la publication de l'air précédant celui-ci. Quatre de ces airs sont attribués à un autre compositeur et cinq sont anonyme.</note>.</p>
         <quote>
           <label>AIR NOUVEAU.</label><note resp="author" place="margin"><hi rend="i">Avis pour
               placer les Figures</hi> : l’Air qui commence par <hi rend="i">Sur ces Rives
@@ -74,7 +14,7 @@
             <l rend="i">Le charmant murmure des eaux,</l>
             <l rend="i">Le doux chant des Oyseaux,</l>
             <l rend="i">Ne font qu’entretenir mes tristes resveries.</l>
-            <l rend="i">>Mon cœur au milieu des plaisirs,</l>
+            <l rend="i">&gt;Mon cœur au milieu des plaisirs,</l>
             <l rend="i">Toûjours amoureux, toûjours tendre,</l>
             <l rend="i">Pousse de languissans soûpirs</l>
             <l rend="i">Qu’il n’ose faire entendre.</l>
@@ -107,8 +47,7 @@
         <bibl><title>Mercure galant</title>, juillet 1680 [tome 9], p. 157-163.</bibl>
         <p> Quoy que les deux Quatrains que vous allez voir ne soient pas faits pour estre chantez,
           comme la Musique en a fourny le sujet, il est assez juste qu’ils trouvent icy leur place.
-          Je me souviens de vous avoir déjà parlé d’un Concert qui se fait à Dijon, chez M<hi
-            rend="sup">r</hi> de Malateste, Conseiller au Parlement, &amp; que Son Altesse
+          Je me souviens de vous avoir déjà parlé d’un Concert qui se fait à Dijon, chez M<hi rend="sup">r</hi> de Malateste, Conseiller au Parlement, &amp; que Son Altesse
           Serénissime voulut bien honorer de sa présence, la derniere fois qu’il y alla tenir les
           Etats. On continuë toûjours ce Concert, &amp; il se fait reglement un jour de chaque
           Semaine. Il est composé de tout ce qu’il y a dans la Ville d’Officiers, de Dames de
@@ -261,8 +200,7 @@
           fleurs, &amp; ombragée dans tous ses jours. Il y avoit deux Tables, la premiere de dix
           Couverts, &amp; la seconde, de douze. La place de M<hi rend="sup">r</hi> le Résident
           estoit distinguée. M<hi rend="sup">r</hi> Sarrazin, Seigneur de la Pierre, Conseiller au
-          Parlement de Grenoble, fut de la Partie, ainsi que deux Officiers François que M<hi
-            rend="sup">r</hi> le Résident avoit amenez, sur la priere que luy avoient faite les
+          Parlement de Grenoble, fut de la Partie, ainsi que deux Officiers François que M<hi rend="sup">r</hi> le Résident avoit amenez, sur la priere que luy avoient faite les
           Magistrats, de prendre avec luy telles Personnes qu’il souhaiteroit. Les deux Tables
           furent servies à cinq Services chacune, dans un tres-grand ordre, &amp; avec autant de
           délicatesse que de somptuosité. Les Vins &amp; les Liqueurs de toute sorte y estoient en
@@ -276,8 +214,7 @@
           six Mortiers qu'on avoit posez dans le Jardin. Le grand bruit qu'ils firent l'obligea de
           quiter la Table, pour aller à la Fenestre, d'où il voyoit le feu. Les Frégates qui avoient
           moüillé l'Ancre sous le Château Rozet, répondirent aux Mortiers ; apres quoy les Canons de
-          la Ville se firent entendre Bastion par Bastion. On dût ce grand ordre aux soins de M<hi
-            rend="sup">r</hi> le Fort, Conseiller &amp; Major, qui estoit à cheval, &amp; alloit de
+          la Ville se firent entendre Bastion par Bastion. On dût ce grand ordre aux soins de M<hi rend="sup">r</hi> le Fort, Conseiller &amp; Major, qui estoit à cheval, &amp; alloit de
           Baterie en Baterie. Si-tost que tout ce bruit fut finy, une Bande de Violons &amp;
           d’autres Instrumens, qui estoient cachez dans une Chambre voisine, commencerent à joüer.
           L’Harmonie dura jusqu’à la Santé de la Reyne, où le mesme bruit fut entendu, &amp; les
@@ -334,8 +271,7 @@
           Judaïsme. Il y en a que l'on mene par les Ruës avec une <hi rend="i">Coroça</hi>, qui est
           une maniere de Bonnet pointu &amp; fort haut, de papier jaune &amp; rouge. Le Conseil,
           &amp; les Officiers de l'Inquisition, marchent devant sur leurs Mules, les Familiers
-          ensuite, &amp; les <hi rend="i">Encoroçados</hi> sont au milieu. On donne le <hi rend="i"
-            >Sanbenito</hi> à d'autres. C'est une espece d'Etole qu'on les oblige de porter au col.
+          ensuite, &amp; les <hi rend="i">Encoroçados</hi> sont au milieu. On donne le <hi rend="i">Sanbenito</hi> à d'autres. C'est une espece d'Etole qu'on les oblige de porter au col.
           Le Président de l'Inquisition s'appelle <hi rend="i">Inquisidor general,</hi> &amp; les
           Conseillers, <hi rend="i">Inquisidores</hi>. Comme leur employ est de s'informer de la
           mauvaise vie, &amp; de la doctrine des Gens, ils envoyent par tout des Espions, &amp; sur
@@ -510,12 +446,10 @@
           mémoire de feu M<hi rend="sup">r</hi> l’Evesque &amp; Comte de Chalons, aussibien que sa
           reconnoissance des biens faits, qu’elle &amp; la Communauté en ont reçeus, a fait faire
           depuis quelques jours dans son Eglise un Service tres-solemnel, pour cet illustre Prélat,
-          à trois Messes hautes, chantées par la Musique de la grande Eglise de la Ville. M<hi
-            rend="sup">r</hi> l’Abbé Jacob prononça en suite l’Oraison Funebre, &amp; fit un fort
+          à trois Messes hautes, chantées par la Musique de la grande Eglise de la Ville. M<hi rend="sup">r</hi> l’Abbé Jacob prononça en suite l’Oraison Funebre, &amp; fit un fort
           beau Discours sur les vertus &amp; les rares qualitez de ce grand Homme. L’Assemblée fut
           tres nombreuse ; tout ce qu’il y a d’Ecclesiastiques, &amp; de Personnes considérables de
           l’un &amp; de l’autre sexe aux environs s’y estant trouvé.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

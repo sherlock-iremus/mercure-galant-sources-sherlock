@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="MG-1683-05">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Mercure galant, mai 1683 [tome 5]</title>
-      </titleStmt>
-      <editionStmt>
-        <edition>OBVIL/IReMuS</edition>
-        <respStmt>
-          <name>Nathalie Berton-Blivet</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Anne Piéjus</name>
-          <resp>Responsable éditorial</resp>
-        </respStmt>
-        <respStmt>
-          <name>Frédéric Glorieux</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-        <respStmt>
-          <name>Vincent Jolivet</name>
-          <resp>Informatique éditoriale</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mercure-galant/MG-1683-05</idno>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"><p>Copyright © 2019
-              Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la
-              vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas
-            souhaitable.</p></licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><title>Mercure galant</title>, <date>mai 1683</date> [tome 5].</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <creation>
-        <date when="1683-05"/>
-      </creation>
-      <langUsage>
-        <language ident="fre"/>
-      </langUsage>
-    </profileDesc>
-  </teiHeader>
-  <text>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
     <body>
       <head><hi rend="i">Mercure galant</hi>, mai 1683 [tome 5].</head>
       <div type="article" xml:id="MG-1683-05_001" resp="nbb">
@@ -73,8 +9,7 @@
           L’estime que vous avez toûjours euë pour elle, me répondoit de la part que vous prendriez
           à ses avantages ; &amp; comme ils augmentent par l’empressement que tout le monde témoigne
           à se réjoüir, de voir récompenser un mérite aussi genéralement connu que le sien, je vous
-          donnerois sujet de vous plaindre, si je négligeois de vous envoyer, ce que M<hi rend="sup"
-            >r</hi> Bétoulaud adresse aux Muses sur cette matiere. Elle ne sçauroit estre plus
+          donnerois sujet de vous plaindre, si je négligeois de vous envoyer, ce que M<hi rend="sup">r</hi> Bétoulaud adresse aux Muses sur cette matiere. Elle ne sçauroit estre plus
           noble, puis qu’elle regarde le plus grand de tous les Roys.</p>
       </div>
       <div type="article" xml:id="MG-1683-05_003" resp="nbb">
@@ -225,26 +160,20 @@
           Province, &amp; on a veu des Actes de luy de l’an 1225. Ses Successeurs se sont alliez aux
           plus considérables Maisons de Dauphiné, comme Chasteauneuf, Berenger, Terrail, Alleman,
           Arcere, Avalon, &amp; autres. Les Armes de cette Maison sont de l’Empire, à la Bordure de
-          France. Son Cry est, <hi rend="i">A Salvaing le plus Gorgias</hi> ; &amp; sa Devise, <hi
-            rend="i">Que ne ferois-je pour elle ?</hi> M<hi rend="sup">r</hi> le Président de
+          France. Son Cry est, <hi rend="i">A Salvaing le plus Gorgias</hi> ; &amp; sa Devise, <hi rend="i">Que ne ferois-je pour elle ?</hi> M<hi rend="sup">r</hi> le Président de
           Boissieu estoit non seulement illustre par sa Famille, mais par son esprit, par son
           sçavoir, &amp; par toutes les vertus qui font estimer les honnestes Gens. Il fut nommé par
-          le feu Roy en 1633. pour estre l’Orateur aupres du Pape Urbain VIII. lors que M<hi
-            rend="sup">r</hi> le Maréchal de Créquy fut envoyé à Sa Sainteté pour luy prester au nom
+          le feu Roy en 1633. pour estre l’Orateur aupres du Pape Urbain VIII. lors que M<hi rend="sup">r</hi> le Maréchal de Créquy fut envoyé à Sa Sainteté pour luy prester au nom
           de Sa Majesté une Obédience filiale. Ce fut là où il fit cette belle Harangue Latine, qui
-          a esté imprimée tant de fois. Le Pape en fut si content, qu’il ordonna que M<hi rend="sup"
-            >r</hi> de Boissieu fust reçeu à son retour par les Gouverneurs des principales Villes
+          a esté imprimée tant de fois. Le Pape en fut si content, qu’il ordonna que M<hi rend="sup">r</hi> de Boissieu fust reçeu à son retour par les Gouverneurs des principales Villes
           de l’Etat Ecclésiastique. En 1635. le Roy luy accorda de sa bouche à Saint Germain la
           qualité de Conseiller d’Etat. Il fut député vers Sa Majesté en 1638. par la Noblesse de
           Dauphiné, avec cinq autres Gentils-hommes ; &amp; en 1639. il fut pourveu de la Charge de
-          Premier Président en la Chambre des Comptes, par la résignation que luy en fit M<hi
-            rend="sup">r</hi> Deagent son Beaupere, qui eut tant de part au Gouvernement pendant la
-          faveur du Connétable de Luynes, &amp; qui avoit esté Sur-Intendant des Finances. M<hi
-            rend="sup">r</hi> de Boissieu s’estoit défait de cette Charge peu d’années avant sa
+          Premier Président en la Chambre des Comptes, par la résignation que luy en fit M<hi rend="sup">r</hi> Deagent son Beaupere, qui eut tant de part au Gouvernement pendant la
+          faveur du Connétable de Luynes, &amp; qui avoit esté Sur-Intendant des Finances. M<hi rend="sup">r</hi> de Boissieu s’estoit défait de cette Charge peu d’années avant sa
           mort, en faveur de M<hi rend="sup">r</hi> de Sautereau, dont le mérite &amp; l’esprit sont
           fort connus à la Cour, à la suite de laquelle il est présentement pour des Affaires
-          considérables qui ont esté confiées à sa conduite &amp; à sa prudence. Apres que M<hi
-            rend="sup">r</hi> de Boissieu eut quité sa Charge de Premier Président, ses principales
+          considérables qui ont esté confiées à sa conduite &amp; à sa prudence. Apres que M<hi rend="sup">r</hi> de Boissieu eut quité sa Charge de Premier Président, ses principales
           occupations furent à travailler à des Arbitrages ; &amp; plusieurs Familles des plus
           relevées de Dauphiné ont finy leurs diférens &amp; leurs desordres par ses soins &amp; ses
           conseils. Il estoit dans l’estime de Sa Majesté &amp; des Ministres ; &amp; quand il
@@ -253,8 +182,7 @@
           Charges, bien qu’on eust compris la sienne dans cette fixation, elle fut augmentée de dix
           mille écus ; &amp; M<hi rend="sup">r</hi> Colbert luy témoigna par une Lettre obligeante,
           que le Roy avoit donné cette augmentation à son mérite. On a veu de luy divers Traitez,
-          &amp; entre autres un Volume de plusieurs Ouvrages de grande érudition, intitulé <hi
-            rend="i">Miscellanea.</hi> Le Dauphiné a beaucoup perdu en le perdant. Tout le monde le
+          &amp; entre autres un Volume de plusieurs Ouvrages de grande érudition, intitulé <hi rend="i">Miscellanea.</hi> Le Dauphiné a beaucoup perdu en le perdant. Tout le monde le
           regardoit comme l’ornement &amp; la gloire de sa Patrie, &amp; il n’y avoit personne qui
           ne le respectast, &amp; ne l’aimast. M<hi rend="sup">r</hi> Chorier a écrit l’Histoire de
           sa Vie en Latin ; &amp; M<hi rend="sup">r</hi> le Président Allard travaille à mettre son
@@ -371,8 +299,7 @@
           aussi le dessein de la Sculpture à un François qui s’est trouvé à Venise. Ce François est
           Fils de M<hi rend="sup">r</hi> Dorigny, Peintre du Roy, qui a fait la plûpart des Ouvrages
           de peinture qu’on voit au Château de Vincennes. Aux quatre coins de cette Gondole, qui
-          comme je vous l’ay déja marqué, a cousté seule plus de mille Pistoles à M<hi rend="sup"
-            >r</hi> l’Ambassadeur, estoient quatre Figures assises, représentant ses diférentes
+          comme je vous l’ay déja marqué, a cousté seule plus de mille Pistoles à M<hi rend="sup">r</hi> l’Ambassadeur, estoient quatre Figures assises, représentant ses diférentes
           Vertus, désignées chacune par leurs simboles ; la Vigilance, par une Lampe &amp; un Coq ;
           la Fidelité, par un Chien ; le Secret, par une Clef, que la Figure qui le désignoit
           mettoit sur ses lévres ; &amp; l’Eloquence, par un Caducée, &amp; une Ruche de Mouches à
@@ -403,8 +330,7 @@
           encore de celle-cy.</p>
         <quote>
           <label>LETTRE<lb/>DE M<hi rend="sup">r</hi> CHASSEBRAS<lb/>DE CRAMAILLES,<lb/>A Madame
-            Chassebras du Breau<lb/>sa Belle-Sœur.<note resp="editor">Voir depuis <ref
-                target="MG-1683-03_228">cet article</ref> à <ref target="MG-1683-03_301">cet
+            Chassebras du Breau<lb/>sa Belle-Sœur.<note resp="editor">Voir depuis <ref target="MG-1683-03_228">cet article</ref> à <ref target="MG-1683-03_301">cet
                 article</ref> jusqu'à <ref target="MG-1683-04_020">cet article</ref> pour le début de la relation de Chassebras de Cramailles.</note></label>
           <p><hi rend="i">Vous avez vû, Madame, la maniere dont les Venitiens passent la saison de
               la joye &amp; des plaisirs ; il est juste de vous dire comme ils vivent en Caresme,
@@ -698,8 +624,7 @@
               avec du clinquant, &amp; du papier de diverses couleurs attaché à leurs plumes, &amp;
               à leurs queuës. On en lâchoit sept ou huit à la fois de moment en moment, jusqu’à ce
               que la Procession fut entrée dans l’Eglise ; on lâcha aussi plusieurs petits Oiseaux,
-              &amp; on jetta encore quantité de Pastes sucrées qu’on nomme icy</hi> Bozzolai, <hi
-              rend="i">&amp; qui sont les petits Gâteau de Venise ; ces Pigeons &amp; ces Oiseaux,
+              &amp; on jetta encore quantité de Pastes sucrées qu’on nomme icy</hi> Bozzolai, <hi rend="i">&amp; qui sont les petits Gâteau de Venise ; ces Pigeons &amp; ces Oiseaux,
               ayant les plumes embarassées, ne peuvent voler bien loin, &amp; je vous laisse à
               penser la foule du menu Peuple qui tâche à les attraper. Un Pigeon se vint sauver sur
               l’épaule d’un Conseiller aupres duquel j’estois, &amp; je pris occasion de luy dire
@@ -760,8 +685,7 @@
               vigoureux, qui représentoit</hi> le Tremblement de Terre. <hi rend="i">Il estoit à
               demy enterré dans une Caverne, avoit les jouës enflées &amp; le visage boursouflé,
               &amp; par le vent qu’il faisoit de sa bouche &amp; de son nez, il causoit tout ce
-              désordre. Derriere &amp; dans le fond, on avoit placé</hi> la Peste. <hi rend="i"
-              >C’estoit une Femme languissante, ulcerée, &amp; abandonnée de tout le monde. Elle
+              désordre. Derriere &amp; dans le fond, on avoit placé</hi> la Peste. <hi rend="i">C’estoit une Femme languissante, ulcerée, &amp; abandonnée de tout le monde. Elle
               avoit une Beste ravissante à ses pieds, &amp; estoit environnée de quantité de
               Malades, dont les uns expiroient sans secours, les autres se bouchoient le nez, &amp;
               les corps servoient de pâture aux Bestes de la Campagne. Au milieu de tous ces fleaux
@@ -886,8 +810,7 @@
               Mort ; il envoyoit une odeur merveilleuse, attiroit la veuë de tout le monde par sa
               beauté, &amp; jamais on n’a envisagé la Mort avec un si grand plaisir. Au devant de
               cette Croix, vont les</hi> Battuti <hi rend="i">qui se flagellent par reprises, &amp;
-              marchent à reculons, ayant toûjours la veuë attachée sur le Christ</hi> (<hi rend="i"
-              >car vous remarquerez, qu’au lieu qu’à Paris quand on porte la Croix le Christ regarde
+              marchent à reculons, ayant toûjours la veuë attachée sur le Christ</hi> (<hi rend="i">car vous remarquerez, qu’au lieu qu’à Paris quand on porte la Croix le Christ regarde
               le Clergé, en Italie on la tourne tout au contraire</hi>) <hi rend="i">il y en a
               toûjours un, deux, ou trois à chaque Procession. Ils sont vétus d’un Habit de
               Pénitent, noir &amp; lugubre, &amp; ont la plûpart les jambes nuës ainsi que les
@@ -1053,8 +976,7 @@
         <bibl><title>Mercure galant</title>, mai 1683 [tome 5], p. 148-159.</bibl>
         <p>Ma derniere Lettre vous fit part d’une Avanture, moitié en Vers &amp; moitié en Prose,
           dont vous m’avez témoigné avoir esté fort contente. En voicy une autre qui est toute en
-          Vers, &amp; que vous lirez avec plaisir, quand vous apprendrez que M<hi rend="sup"
-          >r</hi> Diéreville en est l’Autheur. J’entens Autheur des Vers, &amp; non pas de
+          Vers, &amp; que vous lirez avec plaisir, quand vous apprendrez que M<hi rend="sup">r</hi> Diéreville en est l’Autheur. J’entens Autheur des Vers, &amp; non pas de
           l’Avanture, car il proteste, comme témoin oculaire, qu’elle est veritable dans toutes ses
           circonstances. Elle a fait bruit parmy les Personnes du plus haut rang, &amp; vos Amis de
           Province seront d’un goust difficile à contenter, s’ils ne la trouvent agreablement
@@ -1238,8 +1160,7 @@
           de cette ridicule Comédie, sans considérer que le Pere Gardien des Capucins de cette
           Ville-là, est encore aujourd’huy plein de vie &amp; de santé, &amp; que depuis prés de
           quatre années consécutives qu’il est Gardien, il n’a pas eu la moindre indisposition. Il
-          s’appelle le Pere Ignace de Bordeaux, &amp; est Fils &amp; Frere de M<hi rend="sup"
-            >rs</hi> de Tortati, Conseillers au Parlement de Guyenne. La sainteté de sa vie, son
+          s’appelle le Pere Ignace de Bordeaux, &amp; est Fils &amp; Frere de M<hi rend="sup">rs</hi> de Tortati, Conseillers au Parlement de Guyenne. La sainteté de sa vie, son
           zele pour nostre Religion, &amp; l’attachement singulier qu’il a pour son Ordre, le font
           paroistre en toutes ses actions dans un état parfait &amp; consommé. Ce qui a porté
           quelques Calvinistes à inventer cette Fable, vient sans-doute du ressentiment qu’ils ont
@@ -1247,22 +1168,19 @@
           convertir en la fabrique de son Convent les matériaux de leur Temple, démoly depuis peu
           par ordre du Roy. Ce mesme Pere ayant trouvé parmy ces démolitions une assez belle Statuë
           de la Vierge, qui y avoit esté enterrée il y a un siecle par les Fondateurs du Calvinisme,
-          il a tant fait par ses soins, qu’avec le secours de Madame sa Mere, &amp; de M<hi
-            rend="sup">rs</hi> ses Parens, qui ont secondé ses pieuses intentions, il luy a fait
+          il a tant fait par ses soins, qu’avec le secours de Madame sa Mere, &amp; de M<hi rend="sup">rs</hi> ses Parens, qui ont secondé ses pieuses intentions, il luy a fait
           construire une Eglise, qui est aujourd’huy la devotion de tout le Pais. L’Ordre des Peres
           Capucins est si genéralement estimé en France, que personne n’a ajoûté foy à une si
           grossiere calomnie. Quoy qu’elle se détruise par elle-mesme, M<hi rend="sup">rs</hi> les
           Magistrats de Nérac n’ont pas laissé d’envoyer leur Attestation à M<hi rend="sup">r</hi>
-          le Chancelier, sur la fausseté de cette Histoire. Elle est signée par M<hi rend="sup"
-            >rs</hi> du Quesne, Lieutenant General Criminel d’Albret ; le Fite, ancien Conseiller ;
+          le Chancelier, sur la fausseté de cette Histoire. Elle est signée par M<hi rend="sup">rs</hi> du Quesne, Lieutenant General Criminel d’Albret ; le Fite, ancien Conseiller ;
           de Goudour, Conseiller Garde-Sceaux, Dauguin, Conseiller, &amp; autres. J’en ay une Copie
           entre mes mains, collationnée sur l’Original.</p>
       </div>
       <div type="article" xml:id="MG-1683-05_175" resp="mercure">
         <head>[Fragment de l'Opéra intitulé <hi rend="i">l'Amour Berger</hi>]</head>
         <bibl><title>Mercure galant</title>, mai 1683 [tome 5], p. 175-209.</bibl>
-        <p>En vous envoyant il y a un mois le Prologue de <hi rend="i">l'Amour Berger</hi><note
-            resp="editor">Voir <ref target="MG-1683-04_138">cet article</ref>.</note>, Opéra en Pastorale, qu'une
+        <p>En vous envoyant il y a un mois le Prologue de <hi rend="i">l'Amour Berger</hi><note resp="editor">Voir <ref target="MG-1683-04_138">cet article</ref>.</note>, Opéra en Pastorale, qu'une
           Troupe d'illustre &amp; jeunes Acteurs a représenté ce Carnaval à l'Hôtel de Duras, je
           vous en promis quelques Airs notez. Ainsi il est juste que je vous tienne parole. En voicy
           un dans lequel vous reconnoistrez sans peine le génie de M<hi rend="sup">r</hi> de la
@@ -1709,21 +1627,18 @@
         </quote>
         <p>Je vous ay marqué dans une autre Lettre, que les Vers de cet Opéra, sont de la mesme
           Personne qui nous a donné depuis des mois <hi rend="i">La Politique des Amans</hi>,
-          Ouvrage fort estimé. M<hi rend="sup">r</hi> le Comte de Duras, Fils de M<hi rend="sup"
-            >r</hi> le Maréchal Duc de Duras, Capitaine des Gardes du Corps, y représentoit
+          Ouvrage fort estimé. M<hi rend="sup">r</hi> le Comte de Duras, Fils de M<hi rend="sup">r</hi> le Maréchal Duc de Duras, Capitaine des Gardes du Corps, y représentoit
           Lisandre. Il est parfaitement beau, dance tres-bien, &amp; a un teint que les plus belles
           Femmes regardent avec envie. M<hi rend="sup">r</hi> le Comte de Teride, second Fils de
             M<hi rend="sup">r</hi> le Marquis de Mirepoix, Gouverneur de la Province de Foix,
           Senéchal de Beziers, de Carcassonne, de Limours, &amp; de Pamiers, faisoit Daphnis, &amp;
           s'aquita de ce rôle avec beaucoup d'agrément. Ceux de Philiste &amp; de Céladon, furent
           joüez par M<hi rend="sup">r</hi> le Marquis de Grignan, &amp; par M<hi rend="sup">r</hi>
-          de la Martelliere, qui s'attirerent beaucoup d'aplaudissemens. Le premier est Fils de M<hi
-            rend="sup">r</hi> le Comte de Grignan, seul Lieutenant General pour le Roy en Provence.
+          de la Martelliere, qui s'attirerent beaucoup d'aplaudissemens. Le premier est Fils de M<hi rend="sup">r</hi> le Comte de Grignan, seul Lieutenant General pour le Roy en Provence.
           Il représentoit Philiste, &amp; ce fut avec le plus aimable enjoüement du monde, qu'il
           soûtint le caractere d'un Berger qui quite l'Amour pour suivre Bacchus. L'autre est Fils
           de feu M<hi rend="sup">r</hi> de la Martelliere, Maistre des Requestes, &amp; a pres de
-          soixante mille livres de rente, &amp; beaucoup de Gens de qualité pour Parens. M<hi
-            rend="sup">r</hi> le Marquis de Vins, Fils de M<hi rend="sup">r</hi> le Marquis de Vins,
+          soixante mille livres de rente, &amp; beaucoup de Gens de qualité pour Parens. M<hi rend="sup">r</hi> le Marquis de Vins, Fils de M<hi rend="sup">r</hi> le Marquis de Vins,
           Sous-Lieutenant de la Compagnie des Mousquetaires Noirs, se fit admirer dans le rôle de
           l'Amour. Il en avoit la beauté, la taille, &amp; la hardiesse. Il y avoit six jolies
           Actrices, à peu prés de l'âge de ces aimables Acteurs. L'une estoit la petite Mademoiselle
@@ -1825,13 +1740,11 @@
           encore celuy d'avoir remporté le prix sur tout ce qu'il y a de plus grands Maîtres dans le
           Royaume. Ces quatre sont M<hi rend="sup">r</hi> Minoret, Maître de Musique de Saint
           Germain l'Auxerrois de Paris, M<hi rend="sup">r</hi> Goupillet, Maistre de Musique de
-          l'Eglise de Meaux ; M<hi rend="sup">r</hi> la Lande, Organiste de S. Jean ; &amp; M<hi
-            rend="sup">r</hi> Colasse, Eleve de M<hi rend="sup">r</hi> de Lully. Quoy qu'ils doivent
+          l'Eglise de Meaux ; M<hi rend="sup">r</hi> la Lande, Organiste de S. Jean ; &amp; M<hi rend="sup">r</hi> Colasse, Eleve de M<hi rend="sup">r</hi> de Lully. Quoy qu'ils doivent
           servir chacun par quartier, Sa Majesté a neantmoins ordonné que les deux premiers feroient
           chanter à toutes les Festes solemnelles, parce qu'ils sont Prestres, &amp; qu'il est plus
           décent de voir des Ecclesiastiques ces jours-là. M<hi rend="sup">r</hi> Goupillet servira
-          le quartier de Janvier ; M<hi rend="sup">r</hi> Colasse le quartier d’Avril ; M<hi
-            rend="sup">r</hi> Minoret celuy de Juillet ; &amp; M<hi rend="sup">r</hi> la Lande celuy
+          le quartier de Janvier ; M<hi rend="sup">r</hi> Colasse le quartier d’Avril ; M<hi rend="sup">r</hi> Minoret celuy de Juillet ; &amp; M<hi rend="sup">r</hi> la Lande celuy
           d'Octobre. Le Maistre de Musique de l'Eglise d'Angers, s'estant beaucoup distingué parmy
           ceux qui ont fait chanter devant le Roy, M<hi rend="sup">rs</hi> de S. Germain l'Auxerrois
           l'ont arresté pour remplir la place de M<hi rend="sup">r</hi> Minoret.</p>
@@ -1842,8 +1755,7 @@
         <bibl><title>Mercure galant</title>, mai 1683 [tome 5], p. 233-234.</bibl>
         <p>M<hi rend="sup">r</hi> de Lully a porté si loin les charmes de sa Musique, qu'il semble
           presque impossible de rien ajoûter aux applaudissemens que l'on a donnez à tous ses
-          Ouvrages. Cependant il s'en est attiré de nouveaux depuis peu de jours, par un <hi
-            rend="i">De profundis</hi> qu'il fit chanter devant le Roy, apres que tous les
+          Ouvrages. Cependant il s'en est attiré de nouveaux depuis peu de jours, par un <hi rend="i">De profundis</hi> qu'il fit chanter devant le Roy, apres que tous les
           Pretendans à la Maîtrise de la Chapelle de Sa Majesté eurent fait entendre leurs divers
           Motets. Outre la beauté de la Musique, toute le Cour admira la justesse des expressions
           qui répondoient au sujet ; &amp; c'est ce qui fait la diférence d'un habile Maître de
@@ -1943,8 +1855,7 @@
           portent le Nom &amp; les Armes de cette Maison, comme descendus en droite ligne masculine
           du grand Mathieu de Montmorency. Toutes les autres Branches qui restent de la Maison de
           Laval, reconnoissent celle de Laval-Lezay, dont est Madame la Duchesse de Roquelaure, pour
-          estre leur aînée. Cela a esté confirmé par le Contract de Mariage fait en 1681. de M<hi
-            rend="sup">r</hi> le Marquis de Laval. Le Roy luy fit l’honneur d’y signer, avec toute
+          estre leur aînée. Cela a esté confirmé par le Contract de Mariage fait en 1681. de M<hi rend="sup">r</hi> le Marquis de Laval. Le Roy luy fit l’honneur d’y signer, avec toute
           la Maison Royale ; &amp; ce Contract porte que ce Marquis est présentement le Chef du Nom,
           &amp; des Armes de cette Maison. Les Provisions de Lieutenant de Roy de la Haute &amp;
           Basse Marche, que Sa Majesté eut alors la bonté de luy donner, confirment la mesme chose.
@@ -2199,12 +2110,10 @@
           répondit-il, <hi rend="i">mais il y viendra, &amp; il m’a dit de l’y venir attendre. Il
             faut que tu te sois mépris</hi>, repartit la Dame, <hi rend="i">Je t’assure qu’il n’y
             viendra pas, car il n’y est jamais venu. Et moy, je sçay bien qu’il y viendra</hi>, luy
-          repliqua le Laquais. La Dame luy ayant dit de nouveau qu’il s’estoit mépris ; <hi rend="i"
-            >je ne me suis point mépris</hi>, repartit-il riant à demy, &amp; témoignant y entendre
+          repliqua le Laquais. La Dame luy ayant dit de nouveau qu’il s’estoit mépris ; <hi rend="i">je ne me suis point mépris</hi>, repartit-il riant à demy, &amp; témoignant y entendre
           finesse ; <hi rend="i">&amp; pour marque de cela, c’est que je sçay quelque chose.</hi> La
           Dame que ce mistere commençoit à réjoüir, le pressa si bien de dire ce qu’il sçavoit,
-          qu’il adjoûta que son Maistre vouloit devenir l’Amant de la Fille du Logis. <hi rend="i"
-            >C’est bien fait</hi>, luy dit la Dame. <hi rend="i">Et oüy, c’est bien fait</hi>,
+          qu’il adjoûta que son Maistre vouloit devenir l’Amant de la Fille du Logis. <hi rend="i">C’est bien fait</hi>, luy dit la Dame. <hi rend="i">Et oüy, c’est bien fait</hi>,
           reprit le Laquais d’un air innocent ; <hi rend="i">car … oh dame, mon Maistre
             l’entend.</hi> La Dame ayant quité le Laquais apres cette derniere réponse, rentra en
           riant dans sa Chambre, où sa Fille estoit avec Compagnie. On luy demanda quel si prompt
@@ -2227,8 +2136,7 @@
           Proverbes qui regnent dans les autres, quoy que tres-heureuses &amp; tres-spirituelles, ne
           seroient plus à la mode, sur tout si elles estoient perpétuellement affectées, comme elles
           l’ont esté par Voiture. Ce qu’il a encore, &amp; ce qu’il aura toûjours d’admirable, c’est
-          la naïveté de son enjouëment, &amp; les graces de son badinage. Si j’ose dire que les <hi
-            rend="i">Lettres Diverses</hi> ressemblent à celles de Voiture, c’est par ce dernier
+          la naïveté de son enjouëment, &amp; les graces de son badinage. Si j’ose dire que les <hi rend="i">Lettres Diverses</hi> ressemblent à celles de Voiture, c’est par ce dernier
           endroit. Elles sont naturelles, sans avoir rien de commun, &amp; enjoüées avec beaucoup
           d’agrément &amp; de noblesse tout ensemble. L’air du monde y est répandu par tout, &amp;
           on y reconnoist toûjours un Cavalier, à qui une heureuse naissance, &amp; un long usage
@@ -2281,13 +2189,11 @@
           Médailles, Bas-reliefs, Statuës, Mosaïques, &amp; Inscriptions antiques</head>
         <bibl><title>Mercure galant</title>, mai 1683 [tome 5], p. 335-338.</bibl>
         <p>Le S<hi rend="sup">r</hi> Blageart vend aussi un Livre imprimé à Lyon, par les soins
-          &amp; aux dépens du Sieur Amaulry, Libraire de la mesme Ville. Il est intitulé, <hi
-            rend="i">Recherches curieuses d’Antiquité, contenuës en plusieurs Dissertations sur des
+          &amp; aux dépens du Sieur Amaulry, Libraire de la mesme Ville. Il est intitulé, <hi rend="i">Recherches curieuses d’Antiquité, contenuës en plusieurs Dissertations sur des
             Médailles, Bas-reliefs, Statuës, Mosaïques, &amp; Inscriptions antiques.</hi> C’est un
             <hi rend="i">Inquarto</hi>, tres-bien imprimé, dans lequel on trouve plus de cent
           Figures fort bien gravées. On doit beaucoup au S<hi rend="sup">r</hi> Amaulry, qui pour la
-          satisfaction du Public, en a bien voulu entreprendre la dépense. Ce Livre est de M<hi
-            rend="sup">r</hi> Spon, Docteur aggregé au College des Medecins de Lyon, &amp; de
+          satisfaction du Public, en a bien voulu entreprendre la dépense. Ce Livre est de M<hi rend="sup">r</hi> Spon, Docteur aggregé au College des Medecins de Lyon, &amp; de
           l’Académie du <hi rend="i">Ricovrati</hi> de Padouë. Il suffit de le nommer, pour faire
           juger de la bonté &amp; de l’érudition de cet Ouvrage. Ce celebre Autheur est connu par
           son esprit, par ses voyages, &amp; par quantité de Livres qu’il a nous a donnez, &amp; qui
@@ -2296,8 +2202,7 @@
           divisée en plusieurs autres. On peut dire de ce Livre, que non seulement il découvre le
           grand nombre d’antiquitez dont il traite, mais qu’il donne encore des lumieres pour
           démêler la verité de quantité d’autres, dont il ne traite pas. Je n’ose entrer plus avant
-          dans le détail de ce grand Ouvrage. Comme c’est un veritable Livre pour les Sçavans, M<hi
-            rend="sup">r</hi> l’Abbé de la Roque en fera un plus ample Article dans son Journal.</p>
+          dans le détail de ce grand Ouvrage. Comme c’est un veritable Livre pour les Sçavans, M<hi rend="sup">r</hi> l’Abbé de la Roque en fera un plus ample Article dans son Journal.</p>
       </div>
       <div type="article" xml:id="MG-1683-05_338" resp="nbb">
         <head>[Histoire de Charles IX]</head>
@@ -2315,5 +2220,4 @@
           est composé sur tant de bons Manuscrits.</p>
       </div>
     </body>
-  </text>
-</TEI>
+  </text></TEI>

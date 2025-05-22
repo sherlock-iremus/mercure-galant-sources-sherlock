@@ -8,7 +8,8 @@
         <p>Je commence par un Sonnet qui n’est pas dans l’exacte régularité, mais qui ne laisse pas d’avoir son agrément par ses expressions naturelles. Une aimable Fille dont la conversation est un charme pour tous ceux qui la connoissent particulierement, avoit prié un de ses Amis, façon d’Amant, de luy apprendre l’Espagnol, parce qu’elle avoit entendu dire que cette Langue avoit je ne sçay quoy de majestueux &amp; de fier qui répondoit assez à son caractere. On ne refuse rien à ce qu’on aime. Il s’engagea volontiers à ce qu’elle souhaitoit de luy, &amp; pour l’en mieux assurer, il luy envoya ce Sonnet dés le jour mesme.</p>
         <quote>
           <label>SONNET.</label>
-          <lg><l rend="i">Parce que l’Espagnol est une Langue fiere,</l>
+          <lg>
+            <l rend="i">Parce que l’Espagnol est une Langue fiere,</l>
             <l rend="i">Je vous le dois apprendre ? Et bien soit, commençons ;</l>
             <l rend="i">Mais ce que je demande à ma belle Ecoliere,</l>
             <l rend="i">C’est de ne se servir jamais de mes Leçons.</l>
@@ -30,7 +31,8 @@
           <lg>
             <l rend="i">Mais que de son costé l’Espagnol se console ;</l>
             <l rend="i">Car ne pouvons-nous pas mesler dans nos amours,</l>
-            <l rend="i">Et liberté Françoise, &amp; constance Espagnole ?</l></lg>
+            <l rend="i">Et liberté Françoise, &amp; constance Espagnole ?</l>
+          </lg>
         </quote>
       </div>
       <div type="article" xml:id="MG-1677-07_005" resp="mercure">
@@ -353,9 +355,16 @@
           <label>A MONSIEUR, <lb/>Sur ses Conquestes.</label>
         </quote>
         <lg>
-          <l><hi rend="sc">Cassel</hi> <hi rend="i">estoit connu par ces grandes journées,</hi></l>
+          <l>
+            <hi rend="sc">Cassel</hi>
+            <hi rend="i">estoit connu par ces grandes journées,</hi>
+          </l>
           <l rend="i">Qui couvrirent d’honneur deux Testes couronnees.</l>
-          <l><hi rend="i">Sous le Nom de </hi><hi rend="sc">Philippe</hi><hi rend="i"> également heureux</hi></l>
+          <l>
+            <hi rend="i">Sous le Nom de </hi>
+            <hi rend="sc">Philippe</hi>
+            <hi rend="i"> également heureux</hi>
+          </l>
           <l rend="i">Si l’on vit triompher ces Princes genereux,</l>
           <l rend="i">Superbe de leur Nom, &amp; jaloux de leur Gloire,</l>
           <l rend="i">Comme eux d’un pas hardy tu cours à la Victoire ;</l>
@@ -415,7 +424,10 @@
             <l rend="i">Qui serviroit à peine à parler de nos Bois,</l>
             <l rend="i">Ou du travail que fait l’Abeille au Mont Himette,</l>
             <l rend="i">Oserois-je chanter comme en moins de deux mois</l>
-            <l><hi rend="sc">Loüis</hi> <hi rend="i">a sçeu ranger trois Villes sous ses Loix ?</hi></l>
+            <l>
+              <hi rend="sc">Loüis</hi>
+              <hi rend="i">a sçeu ranger trois Villes sous ses Loix ?</hi>
+            </l>
             <l rend="i">Oserois-je conter la sanglante Défaite</l>
             <l rend="i"> Qui met le Flamand aux abois,</l>
             <l rend="i"> Et tant de surpenans Exploits,</l>
@@ -468,118 +480,131 @@
         <quote>
           <label>A MONSIEUR <lb/>LE PRINCE DE <lb/>MARSILLAC. <lb/><hi rend="sc">Epistre.</hi></label>
           <lg>
-          <l rend="i">Au lieu de jeûner le Caresme,</l>
-          <l rend="i">D’estre avec un visage blême,</l>
-          <l rend="i">A faire vos Devotions,</l>
-          <l rend="i">Et vacquer à vos Stations,</l>
-          <l rend="i">Tout ce temps vous avez fait rage</l>
-          <l rend="i">Parmy le sang &amp; le carnage,</l>
-          <l rend="i">Vous n’avez, malgré les hazards,</l>
-          <l rend="i">Songé qu’à forcer des Ramparts ;</l>
-          <l rend="i">Vous avez pris trois grandes Villes,</l>
-          <l rend="i">Des Flamans les plus seurs aziles ;</l>
-          <l rend="i">Mesme vous avez fait périr</l>
-          <l rend="i">Ceux qui venoient les secourir,</l>
-          <l rend="i">Puny leur audace insolente,</l>
-          <l rend="i">Dans une Bataille sanglante,</l>
-          <l rend="i">Ce que les plus grands Conquerans</l>
-          <l rend="i">A peine eussent fait en quatre ans.</l>
-          <l> <hi rend="sc">Loüis</hi><hi rend="i">, l’ame de ces merveilles</hi></l>
-          <l rend="i">Qui n’eurent jamais de pareilles,</l>
-          <l rend="i">Trouve maintenant à propos</l>
-          <l rend="i">Que les corps prennent du repos,</l>
-          <l rend="i">Il a bien voulu leur permettre</l>
-          <l rend="i">Quelque sejour pour se remettre.</l>
-          <l rend="i">Luy cependant fait mille tours,</l>
-          <l rend="i">L’ame veille, elle agit toûjours,</l>
-          <l rend="i">Et repasse sur toute chose,</l>
-          <l rend="i">Pendant que le corps se repose.</l>
-          <l rend="i"> Mais on dit que dans peu de temps</l>
-          <l rend="i">Vous allez vous remmettre aux champs ;</l>
-          <l rend="i">Où Diable allez-vous donc encore ?</l>
-          <l rend="i">Est-ce au Nort, est-ce vers l’Aurore ?</l>
-          <l rend="i">Voulez-vous vous mettre sur l’eau,</l>
-          <l rend="i">Et passer la Mer sans Vaisseau ?</l>
-          <l rend="i">Les Dauphins de la Mer Baltique,</l>
-          <l rend="i">Les Baleines du Pole Arctique,</l>
-          <l rend="i">(Ma foy vous n’aurez qu’à vouloir)</l>
-          <l rend="i">Viendront vos ordres recevoir,</l>
-          <l rend="i">Et sur le Zelandois rivage,</l>
-          <l rend="i">Vous mettront, Canon &amp; Bagage.</l>
-          <l rend="i"> Ce n’est pas si grand’chose enfin,</l>
-          <l rend="i">Vous avez bien passé le Rhin,</l>
-          <l rend="i">Cette Barriere si terrible,</l>
-          <l rend="i">Dont le passage est si pénible,</l>
-          <l rend="i">Que Rome maistresse de tout,</l>
-          <l rend="i">A peine en vint jadis à bout.</l>
-          <l><hi rend="i">Ayant</hi> <hi rend="sc">Loüis</hi> <hi rend="i">à vostre teste,</hi></l>
-          <l rend="i">Vous n’aurez rien qui vous arreste,</l>
-          <l rend="i">A ce Héros tout réüssit,</l>
-          <l rend="i">Tout luy succede, tout luy rit.</l>
-          <l rend="i">C’est par là que ceux dont les veuës</l>
-          <l rend="i">Ne sont pas assez étenduës,</l>
-          <l rend="i">Exaltent autant son bonheur</l>
-          <l rend="i">Que sa prudence &amp; sa valeur,</l>
-          <l rend="i">Mais ce qu’ils disent, bagatelles.</l>
-          <l rend="i">Lors que les Ministres fidelles,</l>
-          <l rend="i">Dont avec soin on a fait choix,</l>
-          <l rend="i">Sont au dessus de leurs Emplois ;</l>
-          <l rend="i">Qu’avecque justice on dispense,</l>
-          <l rend="i">Et la peine &amp; la récompense,</l>
-          <l rend="i">Qu’on sçait toutes choses prévoir,</l>
-          <l rend="i">A tous les accidens pourvoir,</l>
-          <l rend="i">Et que jamais on ne viole</l>
-          <l rend="i">Le Don sacré de sa parole,</l>
-          <l rend="i">Avec ces talens merveilleux,</l>
-          <l rend="i">Il est bien aisé d’estre heureux.</l>
-          <l rend="i"> Cependant pour trop entreprendre,</l>
-          <l rend="i">Vous pourriez plus perdre que prendre :</l>
-          <l rend="i">Il est vray qu’il faut que chacun</l>
-          <l rend="i">Contribuë au bonheur commun.</l>
-          <l rend="i">On doit sacrifier sa vie</l>
-          <l rend="i">A la gloire de sa Patrie.</l>
-          <l rend="i">Ainsi, Seigneur, malgré les coups</l>
-          <l rend="i">Que le Rhin vit tomber sur Vous,</l>
-          <l rend="i">Tous les jours une ardeur nouvelle</l>
-          <l rend="i">Vous fait exposer de plus belle.</l>
-          <l rend="i"> Mais il est bon de regarder,</l>
-          <l rend="i">Qu’il ne faut pas tout hazarder,</l>
-          <l rend="i">Et que les Testes couronnées</l>
-          <l rend="i">Doivent au moins estre épargnées.</l>
-          <l rend="i">Comment souffrez-vous que le Roy</l>
-          <l rend="i">(Je n’y pense point sans effroy)</l>
-          <l rend="i">Soit à toute heure aux mousquetades,</l>
-          <l rend="i">Toûjours en bute aux canonades ?</l>
-          <l rend="i">Vous, Seigneur, qui matin &amp; soir</l>
-          <l rend="i">Avez le bonheur de le voir,</l>
-          <l rend="i">Vous sçavez, &amp; devez luy dire,</l>
-          <l rend="i">(Quoy que des Dieux son sang il tire,</l>
-          <l rend="i">Qu’il soit le plus grand des Héros,)</l>
-          <l rend="i">Qu’il est pourtant de chair &amp; d’os,</l>
-          <l rend="i">Et qu’il a besoin d’une armure</l>
-          <l rend="i">La mieux trempée &amp; la plus dure.</l>
-          <l><hi rend="i">Si</hi> <hi rend="sc">Philippe</hi> <hi rend="i">n’en eust point mis,</hi></l>
-          <l rend="i">Il n’eust pas sur ses ennemis</l>
-          <l rend="i">Dans cette Bataille fameuse</l>
-          <l rend="i">Remporté la Victoire heureuse,</l>
-          <l rend="i">Et nous verrions dans la douleur,</l>
-          <l rend="i">Madame qui rit de bon cœur.</l>
-          <l rend="i"> L’armure pourtant la meilleure,</l>
-          <l rend="i">N’empesche pas qu’on n’y demeure.</l>
-          <l rend="i">Le Canon est encor plus fort,</l>
-          <l rend="i">Turenne en a senty l’effort,</l>
-          <l><hi rend="i">Et</hi> <hi rend="sc">Loüis</hi> <hi rend="i">sçait mieux que personne,</hi></l>
-          <l rend="i">Que tout cede où le Boulet donne.</l>
-          <l rend="i">Ainsi vous devez tout oser</l>
-          <l rend="i">Pour l’empescher de s’exposer.</l>
-          <l rend="i">Qui doit toûjours estre le Maistre,</l>
-          <l rend="i">En ce point ne doit jamais l’estre.</l>
-          <l rend="i"> Le plus seur est de revenir,</l>
-          <l rend="i">Rien n’a droit de vous retenir</l>
-          <l rend="i">Lors que des Beautez desolées,</l>
-          <l rend="i">D’ennuis loin de vous accablées,</l>
-          <l rend="i">Ne les finiront que le jour</l>
-          <l rend="i">Qu’elles vous verront de retour.</l></lg>
+            <l rend="i">Au lieu de jeûner le Caresme,</l>
+            <l rend="i">D’estre avec un visage blême,</l>
+            <l rend="i">A faire vos Devotions,</l>
+            <l rend="i">Et vacquer à vos Stations,</l>
+            <l rend="i">Tout ce temps vous avez fait rage</l>
+            <l rend="i">Parmy le sang &amp; le carnage,</l>
+            <l rend="i">Vous n’avez, malgré les hazards,</l>
+            <l rend="i">Songé qu’à forcer des Ramparts ;</l>
+            <l rend="i">Vous avez pris trois grandes Villes,</l>
+            <l rend="i">Des Flamans les plus seurs aziles ;</l>
+            <l rend="i">Mesme vous avez fait périr</l>
+            <l rend="i">Ceux qui venoient les secourir,</l>
+            <l rend="i">Puny leur audace insolente,</l>
+            <l rend="i">Dans une Bataille sanglante,</l>
+            <l rend="i">Ce que les plus grands Conquerans</l>
+            <l rend="i">A peine eussent fait en quatre ans.</l>
+            <l> <hi rend="sc">Loüis</hi><hi rend="i">, l’ame de ces merveilles</hi></l>
+            <l rend="i">Qui n’eurent jamais de pareilles,</l>
+            <l rend="i">Trouve maintenant à propos</l>
+            <l rend="i">Que les corps prennent du repos,</l>
+            <l rend="i">Il a bien voulu leur permettre</l>
+            <l rend="i">Quelque sejour pour se remettre.</l>
+            <l rend="i">Luy cependant fait mille tours,</l>
+            <l rend="i">L’ame veille, elle agit toûjours,</l>
+            <l rend="i">Et repasse sur toute chose,</l>
+            <l rend="i">Pendant que le corps se repose.</l>
+            <l rend="i"> Mais on dit que dans peu de temps</l>
+            <l rend="i">Vous allez vous remmettre aux champs ;</l>
+            <l rend="i">Où Diable allez-vous donc encore ?</l>
+            <l rend="i">Est-ce au Nort, est-ce vers l’Aurore ?</l>
+            <l rend="i">Voulez-vous vous mettre sur l’eau,</l>
+            <l rend="i">Et passer la Mer sans Vaisseau ?</l>
+            <l rend="i">Les Dauphins de la Mer Baltique,</l>
+            <l rend="i">Les Baleines du Pole Arctique,</l>
+            <l rend="i">(Ma foy vous n’aurez qu’à vouloir)</l>
+            <l rend="i">Viendront vos ordres recevoir,</l>
+            <l rend="i">Et sur le Zelandois rivage,</l>
+            <l rend="i">Vous mettront, Canon &amp; Bagage.</l>
+            <l rend="i"> Ce n’est pas si grand’chose enfin,</l>
+            <l rend="i">Vous avez bien passé le Rhin,</l>
+            <l rend="i">Cette Barriere si terrible,</l>
+            <l rend="i">Dont le passage est si pénible,</l>
+            <l rend="i">Que Rome maistresse de tout,</l>
+            <l rend="i">A peine en vint jadis à bout.</l>
+            <l>
+              <hi rend="i">Ayant</hi>
+              <hi rend="sc">Loüis</hi>
+              <hi rend="i">à vostre teste,</hi>
+            </l>
+            <l rend="i">Vous n’aurez rien qui vous arreste,</l>
+            <l rend="i">A ce Héros tout réüssit,</l>
+            <l rend="i">Tout luy succede, tout luy rit.</l>
+            <l rend="i">C’est par là que ceux dont les veuës</l>
+            <l rend="i">Ne sont pas assez étenduës,</l>
+            <l rend="i">Exaltent autant son bonheur</l>
+            <l rend="i">Que sa prudence &amp; sa valeur,</l>
+            <l rend="i">Mais ce qu’ils disent, bagatelles.</l>
+            <l rend="i">Lors que les Ministres fidelles,</l>
+            <l rend="i">Dont avec soin on a fait choix,</l>
+            <l rend="i">Sont au dessus de leurs Emplois ;</l>
+            <l rend="i">Qu’avecque justice on dispense,</l>
+            <l rend="i">Et la peine &amp; la récompense,</l>
+            <l rend="i">Qu’on sçait toutes choses prévoir,</l>
+            <l rend="i">A tous les accidens pourvoir,</l>
+            <l rend="i">Et que jamais on ne viole</l>
+            <l rend="i">Le Don sacré de sa parole,</l>
+            <l rend="i">Avec ces talens merveilleux,</l>
+            <l rend="i">Il est bien aisé d’estre heureux.</l>
+            <l rend="i"> Cependant pour trop entreprendre,</l>
+            <l rend="i">Vous pourriez plus perdre que prendre :</l>
+            <l rend="i">Il est vray qu’il faut que chacun</l>
+            <l rend="i">Contribuë au bonheur commun.</l>
+            <l rend="i">On doit sacrifier sa vie</l>
+            <l rend="i">A la gloire de sa Patrie.</l>
+            <l rend="i">Ainsi, Seigneur, malgré les coups</l>
+            <l rend="i">Que le Rhin vit tomber sur Vous,</l>
+            <l rend="i">Tous les jours une ardeur nouvelle</l>
+            <l rend="i">Vous fait exposer de plus belle.</l>
+            <l rend="i"> Mais il est bon de regarder,</l>
+            <l rend="i">Qu’il ne faut pas tout hazarder,</l>
+            <l rend="i">Et que les Testes couronnées</l>
+            <l rend="i">Doivent au moins estre épargnées.</l>
+            <l rend="i">Comment souffrez-vous que le Roy</l>
+            <l rend="i">(Je n’y pense point sans effroy)</l>
+            <l rend="i">Soit à toute heure aux mousquetades,</l>
+            <l rend="i">Toûjours en bute aux canonades ?</l>
+            <l rend="i">Vous, Seigneur, qui matin &amp; soir</l>
+            <l rend="i">Avez le bonheur de le voir,</l>
+            <l rend="i">Vous sçavez, &amp; devez luy dire,</l>
+            <l rend="i">(Quoy que des Dieux son sang il tire,</l>
+            <l rend="i">Qu’il soit le plus grand des Héros,)</l>
+            <l rend="i">Qu’il est pourtant de chair &amp; d’os,</l>
+            <l rend="i">Et qu’il a besoin d’une armure</l>
+            <l rend="i">La mieux trempée &amp; la plus dure.</l>
+            <l>
+              <hi rend="i">Si</hi>
+              <hi rend="sc">Philippe</hi>
+              <hi rend="i">n’en eust point mis,</hi>
+            </l>
+            <l rend="i">Il n’eust pas sur ses ennemis</l>
+            <l rend="i">Dans cette Bataille fameuse</l>
+            <l rend="i">Remporté la Victoire heureuse,</l>
+            <l rend="i">Et nous verrions dans la douleur,</l>
+            <l rend="i">Madame qui rit de bon cœur.</l>
+            <l rend="i"> L’armure pourtant la meilleure,</l>
+            <l rend="i">N’empesche pas qu’on n’y demeure.</l>
+            <l rend="i">Le Canon est encor plus fort,</l>
+            <l rend="i">Turenne en a senty l’effort,</l>
+            <l>
+              <hi rend="i">Et</hi>
+              <hi rend="sc">Loüis</hi>
+              <hi rend="i">sçait mieux que personne,</hi>
+            </l>
+            <l rend="i">Que tout cede où le Boulet donne.</l>
+            <l rend="i">Ainsi vous devez tout oser</l>
+            <l rend="i">Pour l’empescher de s’exposer.</l>
+            <l rend="i">Qui doit toûjours estre le Maistre,</l>
+            <l rend="i">En ce point ne doit jamais l’estre.</l>
+            <l rend="i"> Le plus seur est de revenir,</l>
+            <l rend="i">Rien n’a droit de vous retenir</l>
+            <l rend="i">Lors que des Beautez desolées,</l>
+            <l rend="i">D’ennuis loin de vous accablées,</l>
+            <l rend="i">Ne les finiront que le jour</l>
+            <l rend="i">Qu’elles vous verront de retour.</l>
+          </lg>
         </quote>
         <p>Cet Article seroit mal finy, si je n’y joignois ces Vers qui ont esté chantez devant le Roy avec une entiere satisfaction de tous ceux qui ont eu le plaisir de les entendre.</p>
         <quote>
@@ -647,58 +672,61 @@
         <quote>
           <label>LES MOUTONS, <lb/>IDYLLE.</label>
           <lg>
-          <l rend="i">Helas, petits Moutons, que vous estes heureux !</l>
-          <l rend="i">Vous paissez dans nos champs sans soucy, sans allarmes,</l>
-          <l rend="i"><space/>Aussitost aimez, qu’amoureux.</l>
-          <l rend="i">On ne vous force point à répandre des larmes ;</l>
-          <l rend="i">Vous ne formez jamais d’inutiles desirs,</l>
-          <l rend="i">Dans vos tranquilles cœurs l’Amour suit la Nature,</l>
-          <l rend="i">Sans ressentir ses maux vous avez ses plaisirs,</l>
-          <l rend="i">L’Ambition, l’Honneur, l’Interest, l’Imposture,</l>
-          <l rend="i"><space/>Qui font tant de maux parmy nous,</l>
-          <l rend="i"><space/>Ne se rencontrent point chez vous.</l>
-          <l rend="i">Cependant nous avons la raison pour partage,</l>
-          <l rend="i"><space/>Et vous en ignorez l’usage ;</l>
-          <l rend="i">Innocens animaux, n’en soyez point jaloux,</l>
-          <l rend="i"><space/>Ce n’est pas un grand avantage.</l>
-          <l rend="i">Cette fiere raison dont on fait tant de bruit,</l>
-          <l rend="i">Contre les Passions n’est pas un seur remede,</l>
-          <l rend="i">Un peu de Vin la trouble, un Enfant la séduit,</l>
-          <l rend="i">Et déchirer un cœur qui l’appelle à son aide,</l>
-          <l rend="i"><space/>Est tout l’effet qu’elle produit.</l>
-          <l rend="i"><space/>Toûjours impuissante &amp; severe,</l>
-          <l rend="i">Elle s’oppose à tout, &amp; ne surmonte rien ;</l>
-          <l rend="i"><space/>Sous la garde de vostre Chien,</l>
-          <l rend="i">Vous devez beaucoup moins redouter la colere</l>
-          <l rend="i"><space/>Des Loups cruels &amp; ravissans,</l>
-          <l rend="i">Que sous l’autorité d’une telle Chimere,</l>
-          <l rend="i"><space/>Nous ne devons craindre nos sens.</l>
-          <l rend="i">Ne vaudroit-il pas mieux vivre comme vous faites,</l>
-          <l rend="i"><space/>Dans une douce oysiveté ?</l>
-          <l rend="i">Ne vaudroit-il pas mieux estre comme vous estes ;</l>
-          <l rend="i"><space/>Dans une heureuse obscurité,</l>
-          <l rend="i"><space/>Que d’avoir sans tranquillité,</l>
-          <l rend="i"><space/>Des Richesses, de la Naissance,</l>
-          <l rend="i"><space/>De l’Esprit &amp; de la Beauté ?</l>
-          <l rend="i">Ces pretendus trésors dont on fait vanité</l>
-          <l rend="i"><space/>Valent moins que vostre indolence.</l>
-          <l rend="i">Ils nous livrent sans cesse à des soins criminels,</l>
-          <l rend="i"><space/>Par eux plus d’un remords nous ronge,</l>
-          <l rend="i"><space/>Nous voulons les rendre éternels,</l>
-          <l rend="i">Sans songer qu’eux &amp; nous passerons comme un songe.</l>
-          <l rend="i"><space/>Il n’est dans ce vaste Univers</l>
-          <l rend="i"><space/>Rien d’assuré, rien de solide ;</l>
-          <l rend="i">Des choses d’icy bas la Fortune décide,</l>
-          <l rend="i"><space/>Selon ses caprices divers</l>
-          <l rend="i"><space/>Tout l’effort de nostre Prudence</l>
-          <l rend="i">Ne peut nous dérober au moins de ses coups.</l>
-          <l rend="i">Paissez, Moutons, paissez sans regle, sans science,</l>
-          <l rend="i"><space/>Malgré la trompeuse apparence,</l>
-          <l rend="i">Vous estes plus heureux &amp; plus sages que nous.</l></lg>
+            <l rend="i">Helas, petits Moutons, que vous estes heureux !</l>
+            <l rend="i">Vous paissez dans nos champs sans soucy, sans allarmes,</l>
+            <l rend="i"><space/>Aussitost aimez, qu’amoureux.</l>
+            <l rend="i">On ne vous force point à répandre des larmes ;</l>
+            <l rend="i">Vous ne formez jamais d’inutiles desirs,</l>
+            <l rend="i">Dans vos tranquilles cœurs l’Amour suit la Nature,</l>
+            <l rend="i">Sans ressentir ses maux vous avez ses plaisirs,</l>
+            <l rend="i">L’Ambition, l’Honneur, l’Interest, l’Imposture,</l>
+            <l rend="i"><space/>Qui font tant de maux parmy nous,</l>
+            <l rend="i"><space/>Ne se rencontrent point chez vous.</l>
+            <l rend="i">Cependant nous avons la raison pour partage,</l>
+            <l rend="i"><space/>Et vous en ignorez l’usage ;</l>
+            <l rend="i">Innocens animaux, n’en soyez point jaloux,</l>
+            <l rend="i"><space/>Ce n’est pas un grand avantage.</l>
+            <l rend="i">Cette fiere raison dont on fait tant de bruit,</l>
+            <l rend="i">Contre les Passions n’est pas un seur remede,</l>
+            <l rend="i">Un peu de Vin la trouble, un Enfant la séduit,</l>
+            <l rend="i">Et déchirer un cœur qui l’appelle à son aide,</l>
+            <l rend="i"><space/>Est tout l’effet qu’elle produit.</l>
+            <l rend="i"><space/>Toûjours impuissante &amp; severe,</l>
+            <l rend="i">Elle s’oppose à tout, &amp; ne surmonte rien ;</l>
+            <l rend="i"><space/>Sous la garde de vostre Chien,</l>
+            <l rend="i">Vous devez beaucoup moins redouter la colere</l>
+            <l rend="i"><space/>Des Loups cruels &amp; ravissans,</l>
+            <l rend="i">Que sous l’autorité d’une telle Chimere,</l>
+            <l rend="i"><space/>Nous ne devons craindre nos sens.</l>
+            <l rend="i">Ne vaudroit-il pas mieux vivre comme vous faites,</l>
+            <l rend="i"><space/>Dans une douce oysiveté ?</l>
+            <l rend="i">Ne vaudroit-il pas mieux estre comme vous estes ;</l>
+            <l rend="i"><space/>Dans une heureuse obscurité,</l>
+            <l rend="i"><space/>Que d’avoir sans tranquillité,</l>
+            <l rend="i"><space/>Des Richesses, de la Naissance,</l>
+            <l rend="i"><space/>De l’Esprit &amp; de la Beauté ?</l>
+            <l rend="i">Ces pretendus trésors dont on fait vanité</l>
+            <l rend="i"><space/>Valent moins que vostre indolence.</l>
+            <l rend="i">Ils nous livrent sans cesse à des soins criminels,</l>
+            <l rend="i"><space/>Par eux plus d’un remords nous ronge,</l>
+            <l rend="i"><space/>Nous voulons les rendre éternels,</l>
+            <l rend="i">Sans songer qu’eux &amp; nous passerons comme un songe.</l>
+            <l rend="i"><space/>Il n’est dans ce vaste Univers</l>
+            <l rend="i"><space/>Rien d’assuré, rien de solide ;</l>
+            <l rend="i">Des choses d’icy bas la Fortune décide,</l>
+            <l rend="i"><space/>Selon ses caprices divers</l>
+            <l rend="i"><space/>Tout l’effort de nostre Prudence</l>
+            <l rend="i">Ne peut nous dérober au moins de ses coups.</l>
+            <l rend="i">Paissez, Moutons, paissez sans regle, sans science,</l>
+            <l rend="i"><space/>Malgré la trompeuse apparence,</l>
+            <l rend="i">Vous estes plus heureux &amp; plus sages que nous.</l>
+          </lg>
         </quote>
         <p>Je ne vous diray rien à l’avantage de cet Idylle, sinon qu’un des plus grands Hommes que nous ayons, aussi considerable par son Esprit que par sa Dignité, apres l’avoir leu plus d’une fois, écrivit ces propres mots au dessous de la Copie qu’on luy en montra.</p>
         <quote>
-          <p><hi rend="i">Ces Vers sont de la derniere beauté &amp; dans la derniere justesse ; &amp; quoy que la Morale en soit fine &amp; délicate, &amp; les raisonnemens forts, il y a neantmoins un certain air de tendresse répandu dans toute la Piece qui la rend tout-à-fait charmante.</hi></p>
+          <p>
+            <hi rend="i">Ces Vers sont de la derniere beauté &amp; dans la derniere justesse ; &amp; quoy que la Morale en soit fine &amp; délicate, &amp; les raisonnemens forts, il y a neantmoins un certain air de tendresse répandu dans toute la Piece qui la rend tout-à-fait charmante.</hi>
+          </p>
         </quote>
       </div>
       <div type="article" xml:id="MG-1677-07_142" resp="mercure">
@@ -743,7 +771,11 @@
             <l rend="i">Nous voulions en ces lieux faire venir la Gloire,</l>
             <l rend="i">Mais (&amp; vous n’aurez pas de peine à nous en croire)</l>
             <l rend="i">Elle n’a point de temps à perdre avecque nous.</l>
-            <l><hi rend="i">Pour l’Auguste</hi> <hi rend="sc">Loüis</hi> <hi rend="i">elle est toute occupée,</hi></l>
+            <l>
+              <hi rend="i">Pour l’Auguste</hi>
+              <hi rend="sc">Loüis</hi>
+              <hi rend="i">elle est toute occupée,</hi>
+            </l>
             <l rend="i"> Elle ne peut le quiter un moment,</l>
             <l rend="i">Et pour aucun Héros jamais attachement</l>
             <l rend="i"> Ne rendit moins son attente trompée.</l>
@@ -770,17 +802,28 @@
           <l rend="i">Trois Villes dont la moindre eust pû faire un Etat,</l>
           <l rend="i">Lors que chaque Province avoit son Potentat ;</l>
           <l rend="i">Trois Villes qui pouvoient tenir autant d’années,</l>
-          <l><hi rend="i">Si le Ciel à</hi> <hi rend="sc">Loüis</hi> <hi rend="i">ne les eust destinées,</hi></l>
+          <l>
+            <hi rend="i">Si le Ciel à</hi>
+            <hi rend="sc">Loüis</hi>
+            <hi rend="i">ne les eust destinées,</hi>
+          </l>
           <l rend="i">Et comme si leur prise étoit trop peu pour nous,</l>
           <l rend="i">Mont-Cassel vous apprend ce que pesent nos coups.</l>
-          <l><hi rend="sc">Loüis</hi> <hi rend="i">n’a qu’à paroistre, &amp; vos Murailles tombent,</hi></l>
+          <l>
+            <hi rend="sc">Loüis</hi>
+            <hi rend="i">n’a qu’à paroistre, &amp; vos Murailles tombent,</hi>
+          </l>
           <l rend="i">Il n’a qu’à donner l’ordre, &amp; vos Héros succombent ;</l>
           <l rend="i">Et tandis que sa gloire arreste en d’autres lieux</l>
           <l rend="i">L’honneur de sa presence, &amp; l’effort de ses yeux,</l>
           <l rend="i">L’Ange de qui le bras soûtient son Diadéme</l>
           <l rend="i">Vous terrasse pour luy par un autre luy-mesme,</l>
           <l rend="i">Et Dieu pour luy donner un ferme &amp; digne appuy,</l>
-          <l><hi rend="i">Ne fait qu’un Conquérant de </hi><hi rend="sc">Philippe</hi> <hi rend="i">&amp; de luy.</hi></l>
+          <l>
+            <hi rend="i">Ne fait qu’un Conquérant de </hi>
+            <hi rend="sc">Philippe</hi>
+            <hi rend="i">&amp; de luy.</hi>
+          </l>
           <l rend="i"><space/>Ainsi quand le Soleil sur un épais nüage,</l>
           <l rend="i">Pour se faire un second, imprime son image,</l>
           <l rend="i">Leur hauteur est égale, &amp; leur éclat pareil,</l>
@@ -888,7 +931,7 @@
       <div type="article" xml:id="MG-1677-07_209" resp="mercure">
         <head>[Mariage de M. le Marquis de Foix, &amp; de Mademoiselle d’Hendreson, premiere Fille d’Honneur de Madame] </head>
         <bibl><title>Mercure galant</title>, juillet [tome V], 1677, p. 209-211.</bibl>
-        <p>Si l’Amitié fait faire des Complimens d’un costé, l’Amour fait faire des Mariages de l’autre, &amp; nous venons de le voir en la personne de Monsieur le Marquis de Foix, Gouverneur &amp; Lieutenant General pour le Roy en la Province de Foix, qui a épousé Mademoiselle d’Hendreson, premiere Fille d’Honneur de Madame. Elle est bien faite, de belle taille, &amp; d’une tres grande Maison d’Allemagne. Pour Monsieur le Marquis de Foix, je n’ay que faire de vous dire qu’il est d’une des meilleures Maisons du Royaume ; le grand Nom qu’il porte, le marque assez. Leurs Altesses Royales, outre leurs libéralitez accoustumées en de pareilles occasions, ont donné à la Mariée une Croix de Diamans de grand prix, &amp; tous les Habits de la Nôce qui s’est faite au Palais Royal avec beaucoup de magnificence. Il y eut Comédie le soir. Les Mariez sont presentement chez Madame la Duchesse de Meklebourg, qui les considere fort, &amp; qui auroit fait avec plaisir les frais de la Nôce, si Madame l’eust voulu soufrir.</p>        
+        <p>Si l’Amitié fait faire des Complimens d’un costé, l’Amour fait faire des Mariages de l’autre, &amp; nous venons de le voir en la personne de Monsieur le Marquis de Foix, Gouverneur &amp; Lieutenant General pour le Roy en la Province de Foix, qui a épousé Mademoiselle d’Hendreson, premiere Fille d’Honneur de Madame. Elle est bien faite, de belle taille, &amp; d’une tres grande Maison d’Allemagne. Pour Monsieur le Marquis de Foix, je n’ay que faire de vous dire qu’il est d’une des meilleures Maisons du Royaume ; le grand Nom qu’il porte, le marque assez. Leurs Altesses Royales, outre leurs libéralitez accoustumées en de pareilles occasions, ont donné à la Mariée une Croix de Diamans de grand prix, &amp; tous les Habits de la Nôce qui s’est faite au Palais Royal avec beaucoup de magnificence. Il y eut Comédie le soir. Les Mariez sont presentement chez Madame la Duchesse de Meklebourg, qui les considere fort, &amp; qui auroit fait avec plaisir les frais de la Nôce, si Madame l’eust voulu soufrir.</p>
       </div>
       <div type="article" xml:id="MG-1677-07_213" resp="mercure">
         <head>[Eloge de Versailles &amp; de Trianon par Monsieur le Duc de S. Aignan.]</head>
@@ -940,7 +983,8 @@
             <l rend="i"><space/>Avec tant de rigueurs ?</l>
             <l rend="i">C’est avoir peu d’amour pour le bien de la France,</l>
             <l rend="i"> Que de venir troubler les cœurs</l>
-            <l rend="i"> Dans une Place d’importance.</l></lg>
+            <l rend="i"> Dans une Place d’importance.</l>
+          </lg>
           <ab type="ornament">***</ab>
           <lg>
             <l rend="i">On devroit vous traiter comme une criminelle,</l>
@@ -948,7 +992,8 @@
             <l rend="i"><space/>Et vous poussez à bout.</l>
             <l rend="i">Vous dites qu’avec vous nous n’avons rien à craindre,</l>
             <l rend="i"> Mais vous mettez le feu par tout,</l>
-            <l rend="i"> Et puis, vous partez sans l’éteindre.</l></lg>
+            <l rend="i"> Et puis, vous partez sans l’éteindre.</l>
+          </lg>
         </quote>
         <p>Voila, Madame, comme Monsieur le Duc de S. Aignan fait les honneurs du Havre d’une maniere toute galante &amp; spirituelle, sans que cette innocente Galanterie diminuë rien du zele qu’il fait voir pour toutes les choses qui regardent la Religion. Il en a donné des marques depuis peu dans un tres-beau Discours qu’il a fait dans la Maison de Ville contre la licence des Blasphemes. Je vous l’envoyerois dans cette Lettre, si la sainteté de la matiere estoit compatible avec le titre de <hi rend="i">Mercure Galant</hi>, que vous avez bien voulu luy laisser porter.</p>
       </div>
@@ -964,15 +1009,14 @@
       </div>
       <div type="article" xml:id="MG-1677-07_281" resp="mercure">
         <head>[Description de la Feste de Sceaux]</head>
-        <bibl><title>Le Nouveau Mercure galant</title>, juillet 1677 ([tome V]), p.  291-292 ["&gt;<hi rend="italic">rect</hi>. 283-284].</bibl>
+        <bibl><title>Le Nouveau Mercure galant</title>, juillet 1677 ([tome V]), p. 291-292 ["&gt;<hi rend="italic">rect</hi>. 283-284].</bibl>
         <p>Je croy, Madame, que vous estes dans l’impatience de sçavoir ce qui s’est passé à la Feste de Sceaux ; il est temps de satisfaire vostre curiosité. Le Roy voulant faire l’honneur à Monsieur Colbert d’y aller voir sa belle Maison, choisit le jour de cette Promenade ; &amp; ce sage Ministre en ayant esté averty, se prépara à l’y recevoir en zelé Sujet qui attend son Maistre, &amp; un Maistre comme le Roy. Il ne chercha point à faire une de ces Festes somptueuses dont l’excessive dépense n’attire souvent que le desordre, &amp; qui satisfont plus l’ambition de ceux qui les donnent, qu’elles ne causent de plaisir à ceux pour qui on les fait. La profusion qui s’y trouve semble n’apartenir qu’aux Souverains ; &amp; quand on cherche plus à divertir qu’à faire bruit par le faste, on s’attache moins à ce qui coûte extraordinairement, qu’à ce qui doit paroistre agreable. C’est ce que fit Monsieur Colbert avec cette prudence qui accompagne toutes ses actions. Il songea seulement à une Reception bien entenduë, &amp; il voulut que la propreté, le bon ordre, &amp; la diversité des plaisirs, tinssent lieu de cette somptuosité extraodinaire, qu’il n’eut pû jamais porter assez loin, s’il l’eut voulu proportionner à la grace que luy faisoit le plus grand Prince du Monde. Cet heureux jour venu, il fit assembler tous les Habitans dés le matin, leur apprit le dessein que le Roy avoit de venir à Sceaux ; &amp; pour augmenter la joye qu’ils luy en firent paroistre, &amp; leur donner lieu de garder longtemps le souvenir de l’honneur que Sa Majesté luy faisoit, il leur dit qu’ils devoient payer une année de Taille au Roy, mais qu’ils songeassent seulement à trouver dequoy satisfaire aux six premiers mois, &amp; qu’il payeroit le reste pour eux. Il se retirerent fort satisfaits, &amp; se furent préparez à donner des marques publiques de la joye qu’ils avoient de voir le Roy. Ce Prince n’en découvrit pourtant rien aux environs de Sceaux, tout y estoit tranquile, &amp; l’on n’eut pas mesme dit en entrant dans la Maison de Monsieur Colbert, qu’on y eust fait aucuns préparatifs pour la Reception de Leurs Majestez. Elles en voulurent voir d’abord les Apartemens, dont les Ornemens &amp; les Meubles estoient dans cette merveilleuse propreté, qui n’arreste pas moins les yeux que l’extraordinaire magnificence. On se promena en suite, &amp; ce ne fut pas sans admirer plusieurs endroits particuliers du Jardin. La Promenade fut interrompuë par le Divertissement du Prologue de l’Opéra d’Hermione, apres lequel on acheva de voir les raretez du Jardin. Les Plaisirs se rencontrerent par tout. D’un costé il y avoit des Voix, des Instrumens de l’autre ; &amp; le tout estant court, agreable, donné à propos, &amp; sans estre attendu, divertissoit de plus d’une maniere ; point de confusion, &amp; toûjours nouvelle surprise. Je ne vous parle point du Souper, tout y estoit digne de celuy qui le donnoit ; on ne peut rien dire de plus fort pour marquer une extréme propreté, jointe à tout ce que les Mets les mieux assaisonnez peuvent avoir de délicatesse. Monsieur Colbert servit le Roy &amp; la Reyne ; &amp; Monseigneur le Dauphin fut servy par Monsieur le Marquis de Segnelay. Leurs Majestez s’estant assises, &amp; aupres d’elles Monseigneur le Dauphin, Mademoiselle d’Orleans, Madame la Grand’Duchesse, &amp; Mademoiselle de Blois ; le Roy fit mettre à table plusieurs Dames, dont je ne m’engage pas à vous dire les noms selon leur rang. Ces Dames furent Mademoiselle d’Elbeuf, Madame la Duchesse de Richelieu, Madame de Bethune, Madame de Montespan, Madame la Mareschale de Humieres, Madame la Comtesse de Guiche, Madame de Thiange, Madame la Marquise de la Ferté, Madame d’Eudicour, Madame Colbert, Madame la Duchesse de Chevreuse, Madame la Comtesse de S. Aignan, Madame la Marquise de Segnelay, &amp; Mademoiselle Colbert. Toutes ces Dames furent servies par les gens de Monsieur Colbert, le Roy n’ayant voulu donner cet ordre à aucun de ses Officiers. Il y avoit deux autres Tables en d’autres Salles, à l’une desquelles estoit Monsieur le Duc, &amp; à l’autre Monsieur le Prince de Conty, Monsieur de la Roche-sur-Yon son Frere, &amp; Monsieur le Duc de Vermandois, avec plusieurs autres personnes des plus qualifiées de la Cour. Monsieur le Duc de Chevreuse, &amp; Monsieur le Comte de S. Aignan, firent les honneurs de ces deux Tables. Le Soupé fut suivy d’un Feu d’Artifice admirable, qui divertit d’autant plus, que ce beau Lieu estant tout remply d’Echos, le bruit que les Boëtes faisoient estoit redoublé de toutes parts. Ce ne fut pas la seule surprise que causa ce Feu ; il n’y avoit point d’apparence qu’il y en dust avoir dans le lieu où il parut, &amp; l’étonnement fut grand lors qu’on le vit brûler tout à coup, &amp; qu’il se fit entendre. Les Villages circonvoisins commencerent alors à donner des marques de leur allégresse, &amp; l’on en vit sortir en mesme temps un nombre infiny de Fusées Volantes dans toute l’étenduë de l’Horison qui peut estre veuë du Chasteau ; de maniere qu’on eust dit que le Village de Sceaux ne vouloit pas seulement témoigner la joye qu’il ressentoit de voir un si grand Roy, mais encor que toute la Nature vouloit contribuer à ses plaisirs.</p>
         <p>Le Feu fut à peine finy, que toute la Cour entra dans l’Orangerie, où elle fut de nouveau agreablement surprise. Elle trouva dans le mesme endroit où l’on avoit chanté quelques Airs de l’Opéra, un Theatre magnifique, avec des enfoncemens admirables. Il paroissoit avoir esté mis là par enchantement, à cause du peu de temps qu’on avoit eu pour le dresser. Monsieur le Brun y avoit donné ses soins, &amp; rien n’y manquoit. La Phédre de Monsieur Racine y fut representée, &amp; applaudie à son ordinaire. Cette Feste parust finie avec la Comédie, &amp; Monsieur Colbert eut l’avantage d’entendre dire à Sa Majesté qu’elle ne s’estoit jamais plus agreablement divertie. A peine fut-elle hors du Chasteau, qu’elle trouva de nouvelles Festes, &amp; vit briller de nouveaux Feux. Tout estoit en joye, on dançoit d’un costé, on chantoit de l’autre. Les Hautbois se faisoient entendre parmy les cris de <hi rend="i">Vive le Roy</hi>, &amp; les violons sembloient servir d’Echo à tous ces cris d’allégresse. Jamais on ne vit de Nuit si bien éclairée ; tous les Arbres estoient chargez de lumieres, &amp; les Chemins estoient couverts de feüillées. Toutes les Païsannes dançoient dessous ; elles n’avoient rien oublié de tout ce qui les pouvoit rendre propres ; &amp; quantité de Bourgeoises qui vouloient prendre part à la Feste, s’estoient meslées avec elles. Ce fut ainsi que Monsieur Colbert divertit le Roy par des surprises agreables, &amp; des plaisirs toûjours renaissans les uns des autres. Ses ordres furent executez avec tannt de justesse &amp; tant d’exactitude, que tout divertit également dans cette Feste, &amp; qu’il n’y eut point de confusion. On peut dire qu’elle fut somptueuse sans faste, &amp; abondante en toutes choses, sans qu’il y eut rien de superflu.</p>
       </div>
       <div type="article" xml:id="MG-1677-07_283" resp="mercure">
         <head resp="editor">Annonce éditoriale</head>
         <bibl><title>Le Nouveau Mercure galant</title>, juillet 1677 ([tome V]), p. 283-284<note resp="editor"><hi rend="italic">Sic </hi>au lieu de [291-292].</note>.</bibl>
-        <p>Puis que vous me demandez encor des Lettres en Chansons, &amp; que vous les trouvez divertissantes, je croy que je pourray vous en envoyer le Mois prochain. Je suis ravy que celle de M<hi rend="sup">r</hi> Galant
-          ne vous ait pas moins plû qu’elle a fait à tout Paris. La Copie dont je vous ay fait part, avoit passé parmy tant de mains, qu’elle n’estoit pas conforme à l’Original, &amp; il y avoit mesmes quelques Couplets d’oubliez. Je suis obligé de vous en avertir pour la gloire de l’Autheur<note resp="editor"> Voir <ref target="MG-1677-06_132">cet article</ref></note>.</p>
+        <p>Puis que vous me demandez encor des Lettres en Chansons, &amp; que vous les trouvez divertissantes, je croy que je pourray vous en envoyer le Mois prochain. Je suis ravy que celle de M<hi rend="sup">r</hi> Galant ne vous ait pas moins plû qu’elle a fait à tout Paris. La Copie dont je vous ay fait part, avoit passé parmy tant de mains, qu’elle n’estoit pas conforme à l’Original, &amp; il y avoit mesmes quelques Couplets d’oubliez. Je suis obligé de vous en avertir pour la gloire de l’Autheur<note resp="editor"> Voir <ref target="MG-1677-06_132">cet article</ref></note>.</p>
       </div>
     </body>
   </text></TEI>

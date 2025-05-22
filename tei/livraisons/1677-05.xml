@@ -13,16 +13,19 @@
             <l rend="i">La France retentit du bruit de vostre gloire ;</l>
             <l rend="i">Et le récit pompeux de cette grande Histoire</l>
             <l rend="i">Va faire l’entretien de mille Nations.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">De Chef &amp; de Soldat faisant les fonctions,</l>
             <l rend="i">Vostre rare Valeur nous donne la Victoire,</l>
             <l rend="i">Et la Posterité ne pourra jamais croire,</l>
             <l rend="i">Que l’on ait triomphé de tant de Legions.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Surmonter à la fois l’Espagne &amp; la Hollande,</l>
             <l rend="i">Ce n’est pas tout l’honneur que vostre cœur demande :</l>
             <l rend="i">S’il a paru terrible, il veut paroistre humain.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Tel qui vous vit plus fier que le Dieu des Batailles</l>
             <l rend="i">Le jour que vostre Bras fit tant de Funerailles,</l>
             <l rend="i">N’a point veu de Vainqueur plus doux le lendemain.</l>
@@ -42,17 +45,23 @@
             <l rend="i">Aller remplir d’effroy le Camp des Ennemis,</l>
             <l rend="i">Les combatre, les vaincre, &amp; les ayant soûmis</l>
             <l rend="i">Deux fois victorieux entrer dans cette Place.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Forcer les Assiegez à luy demander grace,</l>
             <l rend="i">Leur faire aimer le joug où son Bras les a mis,</l>
             <l rend="i">Remplir tous les Emplois à sa Valeur commis,</l>
             <l rend="i">C’est suivre le chemin que la Gloire luy trace.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Les plus fameux Héros qu’ait veu l’Antiquité,</l>
             <l rend="i">N’alloient que pas à pas à l’Immortalité,</l>
             <l rend="i">Ils estoient couronnez apres de longues peines.</l>
-          </lg><lg>
-            <l><hi rend="sc">Philippe</hi> <hi rend="i">va plus viste, &amp; son courage est tel,</hi></l>
+          </lg>
+          <lg>
+            <l>
+              <hi rend="sc">Philippe</hi>
+              <hi rend="i">va plus viste, &amp; son courage est tel,</hi>
+            </l>
             <l rend="i">Que passant les Exploits des plus grands Capitaines,</l>
             <l rend="i">Dés son premier Triomphe il se rend Immortel.</l>
           </lg>
@@ -96,45 +105,60 @@
         <p>Voicy deux autres Sonnets pour leurs Altesses Royales. Ils sont de Monsieur Robinet, qui travaille à la Gazette depuis trentecinq ans, &amp; qui a fait seul tous les Extraordinaires que nous avons veus jusques à l’année derniere. Ils luy ont acquis beaucoup d’estime, &amp; le Public luy a rendu là-dessus la justice qu’il luy devoit.</p>
         <quote>
           <label>A MONSIEUR, <lb/>SUR SES VICTOIRES.</label>
-          <label><hi rend="sc">Sonnet.</hi></label>
+          <label>
+            <hi rend="sc">Sonnet.</hi>
+          </label>
           <lg>
             <l rend="i">Que tu nous parois Grand dans la Lice de Mars,</l>
             <l rend="i">Où ton Cœur &amp; ton Bras moissonnent tant de Gloire !</l>
             <l rend="i">Où faisant le Mestier du premier des Cesars,</l>
             <l rend="i">On te voit remporter Victoire sur Victoire !</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Ta Valeur sçait trouver dans les affreux Hazars,</l>
             <l rend="i">Le Renom qu’aux Héros on consacre en l’Histoire.</l>
             <l rend="i">Tu sçais sur des débris d’Hommes &amp; de Remparts,</l>
             <l rend="i">Toy-mesme te bastir un Temple de Mémoire.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Apres tes grands Exploits, brillant, victorieux,</l>
             <l rend="i">Vien recevoir l’honneur qu’on doit aux demy-Dieux,</l>
             <l rend="i">Vien joüir du Triomphe &amp; si doux &amp; si juste.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Les Muses, à l’envy, te chantent dans leurs Vers,</l>
             <l rend="i">Et font voler ton Nom aux bouts de l’Univers,</l>
             <l rend="i">Avec le Nom fameux d’un Roy plus grand qu’Auguste.</l>
           </lg>
         </quote>
         <quote>
-        <label>A MADAME, <lb/>Sur les Victoires, et sur le Retour de <hi rend="sc">Monsieur.</hi></label>
+          <label>A MADAME, <lb/>Sur les Victoires, et sur le Retour de <hi rend="sc">Monsieur.</hi></label>
           <label>SONNET.</label>
           <lg>
             <l rend="i">Gagnant une Bataille, &amp; forçant une Ville,</l>
-            <l><hi rend="sc">Philippe</hi> <hi rend="i">se découvre à nos yeux tout entier :</hi></l>
+            <l>
+              <hi rend="sc">Philippe</hi>
+              <hi rend="i">se découvre à nos yeux tout entier :</hi>
+            </l>
             <l rend="i">C’est un Prince, à la Cour, d’humeur douce et civile,</l>
             <l rend="i">Qui dans son air galant ne mesle rien de fier.</l>
-          </lg><lg>
-            <l><hi rend="i">Mais dans le champ de Mars,</hi> <hi rend="sc">Philippe</hi> <hi rend="i">est un Achille,</hi></l>
+          </lg>
+          <lg>
+            <l>
+              <hi rend="i">Mais dans le champ de Mars,</hi>
+              <hi rend="sc">Philippe</hi>
+              <hi rend="i">est un Achille,</hi>
+            </l>
             <l rend="i">Il prend l’air &amp; le front d’un terrible Guerrier.</l>
             <l rend="i">D’un intrépide Cœur, &amp; d’une Ame tranquille</l>
             <l rend="i">Il s’avance au Combat, &amp; charge le premier.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Grande Princesse, il vient tout éclatant de gloire,</l>
             <l rend="i">Son front est couronné des mains de la Victoire,</l>
             <l rend="i">Mais c’est peu qu’un triomphe &amp; si noble &amp; si beau,</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Ordonnez que l’Amour rendant son heur extréme,</l>
             <l rend="i">Pour digne Feu de joye allume son Flambeau,</l>
             <l rend="i">Et d’un Myrthe charmant couronnez-le vous-mesme.</l>
@@ -202,9 +226,13 @@
         <quote>
           <label>LETTRE<lb/> D’UN INCONNU, <lb/><hi rend="sc">a l’Autheur :</hi> <lb/>DU MERCURE GALANT.</label>
         </quote>
-        <p><hi rend="i">Je sers de Secretaire à une belle Dame, qui souhaite, Monsieur, que je vous mande l’extréme satisfaction que luy a donnée la lecture des deux premiers Tomes de vostre Mercure Galant. Je conviens avec elle que c’est un Ouvrage tres-utile, &amp; mesme glorieux pour la France ; qu’il sera encor plus recherché quelque jour qu’il ne l’est aujourd’hui, quoy qu’il soit assez difficile d’en avoir des premiers, &amp; que dans un Siecle éloigné du nostre, il servira de Titre à quantité de Familles dont vous faites connoistre &amp; la noblesse &amp; l’antiquité : mais à vous dire les choses comme elles sont, je croy qu’il y a un peu d’interest meslé aux loüanges que vous donne la Dame dont je vous parle. Elle a une demangeaison terrible de voir son Nom parmy ceux à qui vous donnez place dans le Mercure ; &amp; comme elle sçait qu’il a un fort grand succés, qu’il court déja dans toutes les Villes de France, &amp; mesme plus loin, elle n’en fait point la fine, elle seroit ravie de courir le Monde avec luy. C’est estre Coureuse, il est vray, &amp; ce mestier n’accommode pas la réputation d’une Femme ; cependant elle croiroit n’y pas hazarder la sienne, au contraire, estant aussi persuadée qu’elle est qu’on ne pourra plus à l’avenir faire preuve de valeur, de beauté, &amp; de bel esprit, si l’on n’est dans le Mercure, elle seroit au desespoir que vous oubliassiez à parler d’elle. Quelque envie pourtant qu’elle en ait, elle dit fort plaisamment qu’elle ne seroit pas peu embarassée à vous marquer son bel endroit, qu’elle ne sçait par où se prendre pour le trouver ; &amp; que ce qui la console, c’est qu’elle l’apprendra de vous par la connoissance infuse que vous devez avoir de tout le monde, veu la maniere dont vous parlez de mille Gens. Jugez si elle a raison en cela ; elle s’appelle Madame la Marquise de *** &amp; à present que vous sçavez son nom, je croy que vous ne chercherez pas longtemps ce bel endroit qu’elle a tant de peine à découvrir. Sa naissance, sa beauté, son esprit, sa fidelité pour ses Amis, voila bien de beaux endroits au lieu d’un. Choisissez ; de quelque costé que vous vous tourniez sur son chapitre, vous ne parlerez point à faux. Elle espere que comme les Hommes ont leurs Historiens, vous ne dédaignerez point d’estre quelque jour celuy des Femmes, &amp; qu’apres avoir rendu à nos Braves la justice que vous leur devez dans cette Campagne, vous estimerez assez les Belles pour en vouloir faire une reveuë. Sa modestie l’empesche de se mettre de ce nombre, je m’en rapporte à vous, &amp; tiens cependant que les Hommes ne vous sont pas peu obligez. Je les trouve bien plus à leur aise reliez en Veau dans vostre Livre, que d’avoir à courir en feüilles volantes dans les autres Nouvelles que les Dames lisent rarement. J’en connoy qui ont eu bien de la joye d’apprendre dans le Mercure les belles Actions de leurs Amans, qu’elles ne lisoient point ailleurs, ou qu’elles y voyoient marquées, sans qu’il y eust rien de leurs autres belles qualitez. Ceux qui se sont distinguez à Valenciennes &amp; à la Bataille de Cassel, vous doivent un remercîment, &amp; il est à croire que vous n’oublierez pas les autres qui se sont signalez à Cambray &amp; à S. Omer. Prenez-y garde, je connois une Demoiselle avec qui vous auriez un fort grand démeslé, si vous ne parliez pas de son Amant. Ce que je remarque de particulier, c’est que vous accoûtumez le monde à n’estre pas fàché d’entendre dire du bien de son prochain ; cela est assez nouveau, car nostre panchant est à la Satyre. Vous ne desobligez personne, &amp; ce que vous dites d’avantageux pour ceux que vous loüez, est fondé sur des choses si veritables, que comme vous les citez, elles ne peuvent passer pour des flateries. Continuez, Monsieur, je vous en sollicite pour les Belles, &amp; je ne doute point que n’en soyez sollicité d’ailleurs par tout ce qu’il y a de plus honnestes Gens en France.</hi></p>
-          <p>Et par apostille il y a d’une écriture de Femme.</p>
-        <p><hi rend="i">Ne croyez pas, Monsieur, un Extravagant qui ne vous écrit que des folies sur l’article qui me regarde. J’ay amené la mode de joüer les années du Mercure, comme on jouë les Loges pour la Comédie, &amp; il veut se vanger de ce qu’il l’a perdu pour un an contre deux Dames &amp; contre moy, qui nous en divertirons à ses dépens. Ainsi ne changez pas le dessein de le poursuivre, car ce seroit autant de perdu pour nous.</hi></p>
+        <p>
+          <hi rend="i">Je sers de Secretaire à une belle Dame, qui souhaite, Monsieur, que je vous mande l’extréme satisfaction que luy a donnée la lecture des deux premiers Tomes de vostre Mercure Galant. Je conviens avec elle que c’est un Ouvrage tres-utile, &amp; mesme glorieux pour la France ; qu’il sera encor plus recherché quelque jour qu’il ne l’est aujourd’hui, quoy qu’il soit assez difficile d’en avoir des premiers, &amp; que dans un Siecle éloigné du nostre, il servira de Titre à quantité de Familles dont vous faites connoistre &amp; la noblesse &amp; l’antiquité : mais à vous dire les choses comme elles sont, je croy qu’il y a un peu d’interest meslé aux loüanges que vous donne la Dame dont je vous parle. Elle a une demangeaison terrible de voir son Nom parmy ceux à qui vous donnez place dans le Mercure ; &amp; comme elle sçait qu’il a un fort grand succés, qu’il court déja dans toutes les Villes de France, &amp; mesme plus loin, elle n’en fait point la fine, elle seroit ravie de courir le Monde avec luy. C’est estre Coureuse, il est vray, &amp; ce mestier n’accommode pas la réputation d’une Femme ; cependant elle croiroit n’y pas hazarder la sienne, au contraire, estant aussi persuadée qu’elle est qu’on ne pourra plus à l’avenir faire preuve de valeur, de beauté, &amp; de bel esprit, si l’on n’est dans le Mercure, elle seroit au desespoir que vous oubliassiez à parler d’elle. Quelque envie pourtant qu’elle en ait, elle dit fort plaisamment qu’elle ne seroit pas peu embarassée à vous marquer son bel endroit, qu’elle ne sçait par où se prendre pour le trouver ; &amp; que ce qui la console, c’est qu’elle l’apprendra de vous par la connoissance infuse que vous devez avoir de tout le monde, veu la maniere dont vous parlez de mille Gens. Jugez si elle a raison en cela ; elle s’appelle Madame la Marquise de *** &amp; à present que vous sçavez son nom, je croy que vous ne chercherez pas longtemps ce bel endroit qu’elle a tant de peine à découvrir. Sa naissance, sa beauté, son esprit, sa fidelité pour ses Amis, voila bien de beaux endroits au lieu d’un. Choisissez ; de quelque costé que vous vous tourniez sur son chapitre, vous ne parlerez point à faux. Elle espere que comme les Hommes ont leurs Historiens, vous ne dédaignerez point d’estre quelque jour celuy des Femmes, &amp; qu’apres avoir rendu à nos Braves la justice que vous leur devez dans cette Campagne, vous estimerez assez les Belles pour en vouloir faire une reveuë. Sa modestie l’empesche de se mettre de ce nombre, je m’en rapporte à vous, &amp; tiens cependant que les Hommes ne vous sont pas peu obligez. Je les trouve bien plus à leur aise reliez en Veau dans vostre Livre, que d’avoir à courir en feüilles volantes dans les autres Nouvelles que les Dames lisent rarement. J’en connoy qui ont eu bien de la joye d’apprendre dans le Mercure les belles Actions de leurs Amans, qu’elles ne lisoient point ailleurs, ou qu’elles y voyoient marquées, sans qu’il y eust rien de leurs autres belles qualitez. Ceux qui se sont distinguez à Valenciennes &amp; à la Bataille de Cassel, vous doivent un remercîment, &amp; il est à croire que vous n’oublierez pas les autres qui se sont signalez à Cambray &amp; à S. Omer. Prenez-y garde, je connois une Demoiselle avec qui vous auriez un fort grand démeslé, si vous ne parliez pas de son Amant. Ce que je remarque de particulier, c’est que vous accoûtumez le monde à n’estre pas fàché d’entendre dire du bien de son prochain ; cela est assez nouveau, car nostre panchant est à la Satyre. Vous ne desobligez personne, &amp; ce que vous dites d’avantageux pour ceux que vous loüez, est fondé sur des choses si veritables, que comme vous les citez, elles ne peuvent passer pour des flateries. Continuez, Monsieur, je vous en sollicite pour les Belles, &amp; je ne doute point que n’en soyez sollicité d’ailleurs par tout ce qu’il y a de plus honnestes Gens en France.</hi>
+        </p>
+        <p>Et par apostille il y a d’une écriture de Femme.</p>
+        <p>
+          <hi rend="i">Ne croyez pas, Monsieur, un Extravagant qui ne vous écrit que des folies sur l’article qui me regarde. J’ay amené la mode de joüer les années du Mercure, comme on jouë les Loges pour la Comédie, &amp; il veut se vanger de ce qu’il l’a perdu pour un an contre deux Dames &amp; contre moy, qui nous en divertirons à ses dépens. Ainsi ne changez pas le dessein de le poursuivre, car ce seroit autant de perdu pour nous.</hi>
+        </p>
       </div>
       <div type="article" xml:id="MG-1677-05_113" resp="mercure">
         <head>L’Amour Noyé</head>
@@ -221,27 +249,32 @@
             <l rend="i"> Helas ! pourquoy me noyez-vous ?</l>
             <l rend="i">Est-ce que vous voulez m’empescher de paroistre ?</l>
             <l rend="i"> Prenez-en un moyen plus doux.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Je ne paroistray point, c’est une affaire faite,</l>
             <l rend="i">Je ne vous ferois pas pourtant de des honneur ;</l>
             <l rend="i">Au lieu de me noyer, donnez-moy pour retraite</l>
             <l rend="i"> Un petit coin de vostre cœur.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i"> Je vous répons qu’il seroit impossible</l>
             <l rend="i">De trouver un endroit plus propre à me cacher ;</l>
             <l rend="i">Comme on sçait qu’il me fut toûjours inaccesible,</l>
             <l rend="i"> On ne m’y viendra pas chercher.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i"> Philis ne l’en voulut pas croire,</l>
             <l rend="i">Ce n’est pas qu’apres tout l’avis ne fust fort bon ;</l>
             <l rend="i"> Pour réponse elle le fit boire,</l>
             <l rend="i"> Mais boire plus que de raison.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Tel qu’un petit Barbet qu’à l’eau son Maistre envoye,</l>
             <l rend="i">Et qui de ce péril dés qu’il est échappé,</l>
             <l rend="i"> Revient à son Maistre avec joye</l>
             <l rend="i"> Tout degoûtant &amp; tout trempé ;</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Tel l’Amour s’exposant à des rigueurs nouvelles,</l>
             <l rend="i"> A peine sorty du danger,</l>
             <l rend="i">Revenoit vers Philis, en secoûant ses aisles,</l>
@@ -250,12 +283,14 @@
             <l rend="i">Il estoit las de faire des plongeons,</l>
             <l rend="i">Il se rendit, &amp; les bras luy manquerent,</l>
             <l rend="i"> Il falut qu’il coulast à fonds.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i"> Le croira-t-on ? Philis en fut ravie,</l>
             <l rend="i">Car elle le noyoit pour la douziéme fois :</l>
             <l rend="i">Elle herita de l’Arc, des Traits &amp; du Carquois,</l>
             <l rend="i"> Dont elle s’est fort bien servie.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Pour le petit Amour, je ne puis concevoir</l>
             <l rend="i">Qu’à la nage onze fois il soit sorty d’affaire ;</l>
             <l rend="i">Sans beaucoup de vigueur cela ne se peut faire,</l>
@@ -263,13 +298,14 @@
             <l rend="i">Il fut toûjours mal nourry par sa Mere.</l>
             <l rend="i">Quoy que l’espoir ne soit qu’une viandre legere,</l>
             <l rend="i">A peine fut-il né, qu’on le sévra d’espoir.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i"> Si Philis un peu moins injuste,</l>
             <l rend="i">L’eust traité comme il faut en luy donnant le jour</l>
             <l rend="i">C’eust bien esté l’Amour le plus robuste</l>
             <l rend="i"> Que l’on eust veu, de memoire, d’Amour.</l>
           </lg>
-            <label>Epitaphe de l’Amour.</label>
+          <label>Epitaphe de l’Amour.</label>
           <lg>
             <l rend="i">Cy gist l’Amour, Philis a voulu son trépas,</l>
             <l rend="i">L’a noyé de ses mains, on n’en sçait point la cause.</l>
@@ -299,16 +335,19 @@
             <l><hi rend="i">Qu’on a veu de </hi>Loüis<hi rend="i"> la Valeur triomphante,</hi></l>
             <l rend="i">La Flandre desolée, &amp; ses meilleurs Soldats</l>
             <l rend="i">Arrouser de leur Sang l’Herbe à peine naissante.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Luy seul a changé l’art des Sieges, des Combats,</l>
             <l rend="i">Dont jadis la métode estoit douteuse &amp; lente.</l>
             <l rend="i">Ce Jupiter qui regne &amp; qui tonne icy bas,</l>
             <l rend="i">Lance en toute saison sa foudre impatiente.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Ses Exploits sont toûjours aussi prompts qu’éclatans,</l>
             <l rend="i">Ils ne relevent point des regles ny du temps,</l>
             <l rend="i">En vain pour luy nos vœux appellent la Victoire.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Ce héros dont l’ardeur ne s’arreste jamais,</l>
             <l rend="i">Sçait si bien abreger le chemin de la Gloire,</l>
             <l rend="i">Que sa rapidité devance nos souhaits.</l>
@@ -317,22 +356,27 @@
         <p>Les deux Sonnets qui suivent sont de Monsieur Robinet qui a fait autrefois la Muse Historique, dédiée à Madame.</p>
         <quote>
           <label>AU ROY, <lb/>SUR SES CONQUESTES.</label>
-          <label><hi rend="sc">Sonnet.</hi></label>
+          <label>
+            <hi rend="sc">Sonnet.</hi>
+          </label>
           <lg>
             <l rend="i">Miraculeux Héros, Vainqueur inimitable,</l>
             <l rend="i">Par tes fameux Exploits, tu te fais admirer.</l>
             <l rend="i">A quel grand Conquerant te peut-on comparer,</l>
             <l rend="i">Dont la gloire ne cede à ton Nom redoutable ?</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Tu n’es plus qu’à toy-mesme aujourd’huy comparable.</l>
             <l rend="i">L’Alexandre orgueilleux qui se fit adorer,</l>
             <l rend="i">Se verroit, s’il vivoit, réduit à soûpirer,</l>
             <l rend="i">D’estre moins grand que toy, d’estre moins adorable.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Luy qui crut posseder la Gloire sans Rivaux,</l>
             <l rend="i">Ne put entrer dans Tyr qu’en six mois de Travaux,</l>
             <l rend="i">Quoy que Tyr valut moins qu’une de tes Conquestes.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Mieux que Cesar, tu n’as qu’à venir &amp; qu’à voir,</l>
             <l rend="i">Les Victoires, pour toy, se trouvent toûjours prestes,</l>
             <l rend="i">Trois Villes en un mois tombent sous ton pouvoir.</l>
@@ -345,16 +389,19 @@
             <l rend="i">Admirons ce Héros, si digne qu’on l’admire,</l>
             <l rend="i">Regardons son grand air, tel est celuy des Dieux,</l>
             <l rend="i">Dont comme leur pareil, il partage l’Empire.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Il est sage, vaillant, juste, laborieux,</l>
             <l rend="i">Son grand cœur pour la Gloire incessament soûpire.</l>
             <l rend="i">Toutes ses actions le rendent glorieux,</l>
             <l rend="i">Et l’Histoire aura peine à vous les bien décrire.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">Se privant du repos, s’éloignant des plaisirs,</l>
             <l rend="i">Vers cette Gloire austere il tourne ses desirs,</l>
             <l rend="i">Et durant l’hyver mesme il ouvre la Campagne.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l rend="i">La Victoire aussi tost se trouve à ses costez ;</l>
             <l rend="i">Elle luy fait present de trois grandes Citez,</l>
             <l rend="i">Et laisse à deviner les suites à l’Espagne.</l>
@@ -367,16 +414,19 @@
             <l><hi rend="i">Tracez, Filles des Bois, dessus ses Lauriers vers ;</hi><space/>Vers,</l>
             <l><hi rend="i">Comme il est pour se voir dans le Ciel couronné</hi><space/>Né,</l>
             <l><hi rend="i">Dressez à ce Héros que l’Univers contemple,</hi><space/>Temple.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l><hi rend="i">L’on peut bien de Cesar ce qu’on en fait accroire,</hi><space/>Croire,</l>
             <l><hi rend="i">Mais la Gloire en Hyver suivoit-elle ses pas ?</hi><space/>Pas.</l>
             <l><hi rend="i">Aupres du Grand</hi> Loüis <hi rend="i">auroit-il du renom ?</hi><space/>Non ;</l>
             <l><hi rend="i">Le vit-on comme luy juste, vaillant, affable ?</hi><space/>Fable.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l><hi rend="i">Ce que l’Antiquité, qui chez nous a credit</hi><space/>Dit</l>
             <l><hi rend="i">Des plus fameux Guerriers, est une bagatelle</hi><space/>Telle</l>
             <l><hi rend="i">Qu’ils auroient tous perdu devant ce grand Vainqueur</hi><space/>Cœur.</l>
-          </lg><lg>
+          </lg>
+          <lg>
             <l><hi rend="i">Voyons-le qui jamais dans son soin vigilant,</hi><space/>Lent,</l>
             <l><hi rend="i">Toûjours pour entasser merveille sur merveille,</hi><space/>Veille.</l>
             <l><hi rend="i">Qui donc est au dessus de nostre Demy-Dieu ?</hi><space/>Dieu !</l>
@@ -399,7 +449,11 @@
           <l><hi rend="i">Si ce n’est pas </hi>Loüis,<hi rend="i"> dit-elle, c’est son Frere ;</hi></l>
           <l rend="i"> Je le connois à ce qu’il vient de faire.</l>
           <l rend="i">Elle part, &amp; d’un vol qui n’est plus incertain,</l>
-          <l><hi rend="i">Dans le Camp de </hi><hi rend="sc">Philippe</hi><hi rend="i"> elle se précipite,</hi></l>
+          <l>
+            <hi rend="i">Dans le Camp de </hi>
+            <hi rend="sc">Philippe</hi>
+            <hi rend="i"> elle se précipite,</hi>
+          </l>
           <l rend="i">Luy presente aussi-tost les Lauriers qu’il merite,</l>
           <l rend="i"> Et le couronne de sa main.</l>
         </quote>

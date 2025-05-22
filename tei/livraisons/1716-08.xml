@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Untitled Document</title></titleStmt><publicationStmt><p>Unpublished</p></publicationStmt><sourceDesc><p>No source</p></sourceDesc></fileDesc></teiHeader><text>
+    <body>
+      <head><hi rend="i">Nouveau Mercure galant</hi>, août 1716 [tome 8].</head>
+      <div type="article" xml:id="MG-1716-08_225">
+        <head>[Air vieux. Chanson nouvelle,]</head>
+        <bibl><title>Nouveau Mercure galant</title>, août 1716 [tome 8], p. 225-226.</bibl>
+        <quote>
+          <label><hi rend="i">Air vieux</hi>. CHANSON NOUVELLE.</label>
+          <label>Sur l’air, <hi rend="i">Reveillez-vous belle Endormie</hi>.</label>
+          <p>Recette infaillible pour conserver la beauté &amp; la santé, &amp; pour empêcher les cheveux de changer de couleur. </p>
+          <lg>
+            <l>
+              <hi rend="i"> Faisons du tems un doux usage,</hi>
+            </l>
+            <l>
+              <hi rend="i">Vivons pour contenter nos vœux,</hi>
+            </l>
+            <l>
+              <hi rend="i">Belle Philis c’est estre sage</hi>
+            </l>
+            <l>
+              <hi rend="i">Que de sçavoir se rendre heureux.</hi>
+            </l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l>
+              <hi rend="i">Que la fin de la joüissance</hi>
+            </l>
+            <l>
+              <hi rend="i">Rappelle de nouveaux desirs,</hi>
+            </l>
+            <l>
+              <hi rend="i">Donnons tous deux nostre constance</hi>
+            </l>
+            <l>
+              <hi rend="i">À l’usage de nos plaisirs.</hi>
+            </l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <lg>
+            <l>
+              <hi rend="i">Et lorsque la fatalle Barque</hi>
+            </l>
+            <l>
+              <hi rend="i">Aura tranché de si beaux jours,</hi>
+            </l>
+            <l>
+              <hi rend="i">Que Caron dans la même Barque</hi>
+            </l>
+            <l>
+              <hi rend="i">Avec nous passe nos amours.</hi>
+            </l>
+          </lg>
+          <ab type="ornament">***</ab>
+          <p>Par M. Antidote, souverain Medecin.</p>
+        </quote>
+      </div>
+      <div type="article" xml:id="MG-1716-08_283">
+        <head>Chanson</head>
+        <bibl><title>Nouveau Mercure galant</title>, août 1716 [tome 8], p. 283-284.</bibl>
+        <p>Il me reste encore une Chanson à vous donner.</p>
+        <quote>
+          <label>CHANSON.</label>
+          <note resp="author" place="margin">L'Air doit regarder la p. 283.</note>
+          <lg>
+            <l>
+              <hi rend="i">Vostre bouche</hi>
+            </l>
+            <l>
+              <hi rend="i">Trop farouche,</hi>
+            </l>
+            <l>
+              <hi rend="i">Veut que j'aime sans espoir,</hi>
+            </l>
+            <l>
+              <hi rend="i">Et la flame de vostre ame,</hi>
+            </l>
+            <l>
+              <hi rend="i">Dans vos yeux se fait bien voir.</hi>
+            </l>
+            <l>
+              <hi rend="i">Mettez les d'accord Bergere ;</hi>
+            </l>
+            <l>
+              <hi rend="i">Et pour faire encore mieux,</hi>
+            </l>
+            <l>
+              <hi rend="i">Vôtre bouche doit se taire,</hi>
+            </l>
+            <l>
+              <hi rend="i">Et laisser parler vos yeux.</hi>
+            </l>
+          </lg>
+          <p>L'Air est de M. Dubreuil de Vignancourt, connu par le nombre &amp; la propreté de ses Chansonnettes <note resp="editor">En août 1716, le <hi rend="italic">Nouveau Mercure galant</hi> publie une chanson en réponse à cet air (cf. <ref target="MG-1716-09_290">cet article</ref>) . Le poème figure également, mais avec une musique différente et anonyme, dans le <hi rend="italic">Recueil d’airs sérieux et à boire</hi> de juin 1710 (Paris, Ballard, 1710, p. 113).</note>.</p>
+        </quote>
+      </div>
+    </body>
+  </text></TEI>
